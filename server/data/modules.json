@@ -1,0 +1,3147 @@
+[
+  {
+    "id": "module-1",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 1 - 5",
+    "titleEn": "Job Application Letter: Social Media Officer",
+    "titleId": "Surat Lamaran Kerja: Social Media Officer",
+    "genre": "Business Correspondence",
+    "genreBadge": "Formal Letter",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A formal job application letter by Putra Ramshiditya applying for the position of Social Media Officer at PT Citra Diraja, showcasing his experience boosting engagement by 35% and his creative portfolio.",
+    "summaryId": "Surat lamaran kerja resmi oleh Putra Ramshiditya yang melamar posisi Social Media Officer di PT Citra Diraja, memaparkan pengalamannya meningkatkan engagement sebesar 35% dan portofolio kreatifnya.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "meta",
+        "en": "Putra Ramshiditya\nJl. Ontoseno No. 17\nBantul, Yogyakarta 55711\n+62 817342 | ramshi.putra17@mail.com\n\nJuly 1",
+        "idTranslation": "Putra Ramshiditya\nJl. Ontoseno No. 17\nBantul, Yogyakarta 55711\n+62 817342 | ramshi.putra17@mail.com\n\n1 Juli",
+        "keyWords": [
+          "Applicant",
+          "Contact Information",
+          "Date"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "meta",
+        "en": "Hiring Manager\nPT Citra Diraja\nJl. Pangeran Antasari No. 45\nJakarta Selatan 12410\n\nDear Hiring Manager,",
+        "idTranslation": "Manajer Perekrutan\nPT Citra Diraja\nJl. Pangeran Antasari No. 45\nJakarta Selatan 12410\n\nKepada Manajer Perekrutan yang terhormat,",
+        "keyWords": [
+          "Hiring Manager",
+          "Salutation"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "I am writing to express my interest in the Social Media Officer position at PT Citra Diraja, as advertised on your official careers page. With a strong background in digital content creation, audience engagement strategies, and a proven passion for storytelling, I am eager to contribute to your company's growing digital footprint.",
+        "idTranslation": "Saya menulis surat ini untuk menyatakan ketertarikan saya terhadap posisi Social Media Officer di PT Citra Diraja, sebagaimana diiklankan pada laman karier resmi perusahaan Anda. Berbekal latar belakang yang solid dalam pembuatan konten digital, strategi interaksi audiens, serta antusiasme yang terbukti dalam storytelling (penceritaan), saya bersemangat untuk berkontribusi pada jejak digital perusahaan Anda yang kian berkembang.",
+        "keyWords": [
+          "express my interest",
+          "Social Media Officer",
+          "audience engagement",
+          "digital footprint"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "I gained valuable experience managing social media campaigns during my university years and my previous internship. I spearheaded creative content on Instagram and TikTok, which boosted follower engagement by 35% over a six-month period. I am proficient in utilizing analytic tools, designing eye-catching graphics, and crafting compelling copy tailored to diverse demographics.",
+        "idTranslation": "Saya memperoleh pengalaman berharga dalam mengelola kampanye media sosial selama masa perkuliahan dan magang terdahulu. Saya memimpin pembuatan konten kreatif di Instagram dan TikTok, yang berhasil mendongkrak keterlibatan pengikut (engagement) sebesar 35% selama rentang enam bulan. Saya mahir mengoperasikan perangkat analitik, merancang grafis yang memikat, dan menyusun teks copywriting persuasif yang disesuaikan dengan berbagai target demografi.",
+        "keyWords": [
+          "valuable experience",
+          "spearheaded",
+          "boosted",
+          "proficient",
+          "compelling copy"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "paragraph",
+        "en": "PT Citra Diraja's innovative campaigns have consistently impressed me, and I would be thrilled to bring my creative energy, adaptability, and deep understanding of digital pop culture to your talented marketing team.",
+        "idTranslation": "Kampanye-kampanye inovatif PT Citra Diraja senantiasa memukau saya, dan saya akan sangat bangga dapat menyumbangkan energi kreatif, kemampuan beradaptasi, serta pemahaman mendalam tentang tren budaya pop digital ke dalam tim pemasaran Anda yang berbakat.",
+        "keyWords": [
+          "innovative",
+          "consistently",
+          "thrilled",
+          "adaptability",
+          "pop culture"
+        ]
+      },
+      {
+        "id": 6,
+        "type": "paragraph",
+        "en": "I have attached my CV and samples of my social media content for your review. Thank you for your time and consideration. I look forward to the possibility of discussing how my skills and experience align with your company's vision.\n\nSincerely,\nPutra Ramshiditya",
+        "idTranslation": "Bersama ini saya lampirkan daftar riwayat hidup (CV) dan contoh karya konten media sosial saya untuk bahan pertimbangan Anda. Terima kasih atas waktu dan perhatian yang Anda luangkan. Saya sangat menantikan kesempatan untuk mendiskusikan bagaimana keahlian dan pengalaman saya selaras dengan visi perusahaan Anda.\n\nHormat saya,\nPutra Ramshiditya",
+        "keyWords": [
+          "attached",
+          "consideration",
+          "look forward to",
+          "align with"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "express my interest",
+        "phonetic": "/ɪkˈspres maɪ ˈɪntrəst/",
+        "pos": "phrase",
+        "defEn": "To formally state one's desire or intention to apply for a role.",
+        "defId": "Menyatakan minat/ketertarikan secara resmi pada suatu lowongan kerja.",
+        "example": "I am writing to express my interest in the content strategist position."
+      },
+      {
+        "word": "spearheaded",
+        "phonetic": "/ˈspɪəhedɪd/",
+        "pos": "verb",
+        "defEn": "To lead an organized activity, project, or movement.",
+        "defId": "Memelopori atau memimpin jalannya suatu proyek atau kampanye.",
+        "example": "He spearheaded the company's transition to paperless workflow."
+      },
+      {
+        "word": "engagement",
+        "phonetic": "/ɪnˈɡeɪdʒmənt/",
+        "pos": "noun",
+        "defEn": "The degree of attention, curiosity, or active participation from followers.",
+        "defId": "Keterlibatan atau tingkat interaksi (likes, comments, shares) audiens media sosial.",
+        "example": "Interactive polls significantly improved overall user engagement."
+      },
+      {
+        "word": "proficient",
+        "phonetic": "/prəˈfɪʃnt/",
+        "pos": "adjective",
+        "defEn": "Competent or skilled in doing or using something.",
+        "defId": "Mahir, cakap, atau menguasai suatu bidang atau keahlian.",
+        "example": "She is proficient in Adobe Photoshop and video editing tools."
+      },
+      {
+        "word": "compelling",
+        "phonetic": "/kəmˈpelɪŋ/",
+        "pos": "adjective",
+        "defEn": "Evoking interest, attention, or conviction powerfully.",
+        "defId": "Memikat, menarik perhatian, atau sangat meyakinkan.",
+        "example": "A compelling headline convinces readers to continue exploring the article."
+      },
+      {
+        "word": "attached",
+        "phonetic": "/əˈtætʃt/",
+        "pos": "verb / adjective",
+        "defEn": "Joined, enclosed, or sent together with a document.",
+        "defId": "Dilampirkan bersama surat atau pesan elektronik.",
+        "example": "I have attached the signed agreement for your records."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Present Continuous for Letter Stance",
+        "formula": "Subject (I) + am writing + to-infinitive",
+        "explanationEn": "A standard opening formula in formal correspondence to declare the communicative intent right from the first sentence.",
+        "explanationId": "Pola baku pembuka surat resmi untuk mengutarakan maksud komunikasi secara santun dan jelas sejak kalimat pertama.",
+        "examples": [
+          "I am writing to express my interest in the position...",
+          "I am writing to inquire about the scholarship requirements..."
+        ]
+      },
+      {
+        "topic": "Present Perfect for Recent Achievements & Enclosures",
+        "formula": "Subject + have/has + Past Participle (V3)",
+        "explanationEn": "Used to describe completed actions that directly impact the current interaction, such as enclosing documents or noting brand impressions.",
+        "explanationId": "Digunakan untuk menyatakan tindakan tuntas yang berkaitan langsung dengan kondisi saat ini, misalnya melampirkan berkas.",
+        "examples": [
+          "I have attached my CV and samples of my work.",
+          "Your campaigns have consistently impressed me."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Sender & Date",
+        "partId": "Identitas Pengirim & Tanggal",
+        "descriptionEn": "Applicant's contact details and dispatch date.",
+        "descriptionId": "Data kontak pelamar dan tanggal surat dikirim.",
+        "excerpt": "Putra Ramshiditya... July 1"
+      },
+      {
+        "part": "Salutation & Recipient",
+        "partId": "Salam Pembuka & Penerima",
+        "descriptionEn": "Formal greeting directed to the hiring authority.",
+        "descriptionId": "Salam resmi kepada pihak HR / perekrut.",
+        "excerpt": "Hiring Manager... Dear Hiring Manager,"
+      },
+      {
+        "part": "Statement of Purpose",
+        "partId": "Tujuan Penulisan Surat",
+        "descriptionEn": "Explicit mention of the target position and source of information.",
+        "descriptionId": "Penyebutan posisi yang diincar dan media lowongan.",
+        "excerpt": "I am writing to express my interest in the Social Media Officer position..."
+      },
+      {
+        "part": "Evidence & Qualifications",
+        "partId": "Kualifikasi & Bukti Prestasi",
+        "descriptionEn": "Measurable track record, past roles, and practical software competence.",
+        "descriptionId": "Bukti terukur (angka 35%), pengalaman magang, dan penguasaan alat kerja.",
+        "excerpt": "I spearheaded creative content... boosted follower engagement by 35%..."
+      },
+      {
+        "part": "Enclosures & Sign-off",
+        "partId": "Lampiran & Salam Penutup",
+        "descriptionEn": "Mention of CV attachments and professional sign-off.",
+        "descriptionId": "Keterangan lampiran berkas dan penutup formal.",
+        "excerpt": "I have attached my CV... Sincerely, Putra Ramshiditya"
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menemukan Posisi yang Dilamar (Identifying Job Role)",
+        "strategyEn": "Quickly scan the opening sentence right after 'express my interest in...'. In CBT questions, distractors often include unrelated departments or applicant's previous roles.",
+        "strategyId": "Cermati kalimat pertama setelah frasa 'express my interest in...'. Pada CBT, pengecoh sering menyertakan nama divisi perusahaan atau pekerjaan magang lama pelamar.",
+        "cbtKeyInsight": "Soal CBT No. 1 menanyakan posisi yang dilamar. Kunci jawaban D (Social Media Officer) dapat langsung ditemukan di kalimat pembuka tanpa perlu membaca seluruh surat."
+      },
+      {
+        "topic": "Menganalisis Dokumen Lampiran (Enclosures Analysis)",
+        "strategyEn": "Check the closing paragraph for verbs like 'attached', 'enclosed', or 'included'. Note exactly which documents are mentioned.",
+        "strategyId": "Periksa paragraf terakhir untuk menemukan kata kunci 'attached' atau 'enclosed'. Perhatikan secara cermat jenis dokumen yang dilampirkan.",
+        "cbtKeyInsight": "Pada Soal CBT No. 3 (Multiple answers), Putra melampirkan Curriculum Vitae (CV) dan 'samples of my social media content' (portofolio konten)."
+      }
+    ],
+    "wordCount": 217,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-2",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 6 - 10",
+    "titleEn": "Office Memorandum: Responsible Supply Consumption",
+    "titleId": "Memorandum Kantor: Penggunaan Perlengkapan Kantor Secara Bijak",
+    "genre": "Administrative Memorandum",
+    "genreBadge": "Office Memo",
+    "level": "B1 - Intermediate",
+    "summaryEn": "An internal workplace memo issued by the Office Management Division urging staff to consume stationery and printing supplies conscientiously to reduce company waste and support green sustainability.",
+    "summaryId": "Memo internal kantor dari Divisi Manajemen Kantor yang menginstruksikan seluruh staf agar menghemat kertas dan perlengkapan cetak demi mengurangi limbah operasional dan mendukung keberlanjutan ramah lingkungan.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "meta",
+        "en": "Memorandum\n\nTo : All Employees\nFrom : Office Management Division\nDate : July 2\nSubject : Let's Use Our Office Supplies Wisely",
+        "idTranslation": "Memorandum (Memo Kantor)\n\nKepada : Seluruh Karyawan\nDari : Divisi Manajemen Kantor\nTanggal : 2 Juli\nPerihal : Mari Gunakan Perlengkapan Kantor Kita Secara Bijak",
+        "keyWords": [
+          "Memorandum",
+          "Subject",
+          "Office Supplies"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Hi everyone, just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using office supplies.",
+        "idTranslation": "Halo rekan-rekan, ini catatan singkat menindaklanjuti pengiriman perlengkapan kantor baru-baru ini (PO-2025-1189). Kami ingin dengan ramah mengingatkan semua orang agar lebih cermat dan hemat saat menggunakan perlengkapan kantor.",
+        "keyWords": [
+          "supply delivery",
+          "gently remind",
+          "mindful"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "Over the past month, we have observed a significant increase in the consumption of printing paper, ink cartridges, and sticky notes. In several instances, full reams of paper were opened and left unused near printers, and colored printing was utilized for non-essential internal draft documents.",
+        "idTranslation": "Selama bulan lalu, kami mencatat peningkatan signifikan dalam konsumsi kertas cetak, kartrid tinta, dan kertas memo tempel (sticky notes). Dalam beberapa kesempatan, satu rim kertas utuh dibuka dan ditinggalkan berserakan di samping mesin cetak, serta pencetakan berwarna digunakan untuk draf dokumen internal yang bersifat tidak mendesak.",
+        "keyWords": [
+          "significant increase",
+          "consumption",
+          "reams of paper",
+          "non-essential"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "To ensure resources remain available for all teams and to support our company's green sustainability initiative, please observe the following guidelines:\n1. Preview all documents digitally before printing to avoid misprints.\n2. Utilize black-and-white double-sided printing for internal notes and drafts.\n3. Reserve color printing exclusively for client presentations and formal external reports.\n4. Return unused pens, notebooks, and folders to the central supply cabinet in Room 204 so colleagues may access them.",
+        "idTranslation": "Untuk menjamin pasokan tetap tersedia bagi seluruh tim dan mendukung inisiatif kelestarian hijau perusahaan kita, mohon patuhi pedoman berikut:\n1. Tinjau semua dokumen di layar komputer sebelum mencetak guna menghindari salah cetak.\n2. Terapkan cetak hitam-putih bolak-balik untuk draf dan catatan internal.\n3. Khususkan cetak berwarna hanya untuk materi presentasi klien dan laporan resmi eksternal.\n4. Kembalikan pulpen, buku catatan, dan map yang berlebih ke lemari pasokan pusat di Ruang 204 agar dapat dimanfaatkan oleh rekan lain.",
+        "keyWords": [
+          "sustainability initiative",
+          "guidelines",
+          "double-sided",
+          "exclusively"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "paragraph",
+        "en": "We believe that small, conscious actions create a substantial collective impact. Your cooperation in minimizing office waste is greatly appreciated.\n\nBest regards,\nOffice Management Division",
+        "idTranslation": "Kami meyakini bahwa tindakan kecil yang dilakukan secara sadar akan membawa pengaruh kolektif yang luar biasa. Kerja sama Anda dalam meminimalkan pemborosan kantor sangat dihargai.\n\nSalam hangat,\nDivisi Manajemen Kantor",
+        "keyWords": [
+          "conscious actions",
+          "substantial",
+          "collective impact",
+          "minimizing waste"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "mindful",
+        "phonetic": "/ˈmaɪndfl/",
+        "pos": "adjective",
+        "defEn": "Conscious or aware of something; attentive to avoid waste.",
+        "defId": "Cermat, penuh perhatian, dan tidak ceroboh.",
+        "example": "Be mindful of power consumption when leaving the office."
+      },
+      {
+        "word": "consumption",
+        "phonetic": "/kənˈsʌmpʃn/",
+        "pos": "noun",
+        "defEn": "The using up of a resource, good, or service.",
+        "defId": "Konsumsi atau volume pemakaian suatu barang.",
+        "example": "Fuel consumption decreased after adopting hybrid vehicles."
+      },
+      {
+        "word": "reams",
+        "phonetic": "/riːmz/",
+        "pos": "noun (plural)",
+        "defEn": "Standard bundles of paper, typically 500 sheets each.",
+        "defId": "Rim kertas (paket berisi 500 lembar).",
+        "example": "He unpacked three reams of paper into the photocopier tray."
+      },
+      {
+        "word": "exclusively",
+        "phonetic": "/ɪkˈskluːsɪvli/",
+        "pos": "adverb",
+        "defEn": "Solely; not admitting of something else.",
+        "defId": "Secara khusus atau semata-mata hanya untuk tujuan tertentu.",
+        "example": "This entrance is used exclusively by authorized personnel."
+      },
+      {
+        "word": "substantial",
+        "phonetic": "/səbˈstænʃl/",
+        "pos": "adjective",
+        "defEn": "Of considerable importance, value, or size.",
+        "defId": "Besar, substansial, atau berdampak nyata.",
+        "example": "The company reported a substantial increase in quarterly productivity."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Imperative Verbs in Procedural Guidelines",
+        "formula": "Base Verb + Object / Prepositional Phrase",
+        "explanationEn": "Used in official workplace directives to provide direct and actionable instructions without sounding aggressive.",
+        "explanationId": "Kalimat perintah santun dengan kata kerja dasar di awal kalimat untuk memberikan instruksi operasional yang tegas.",
+        "examples": [
+          "Preview all documents digitally before printing.",
+          "Utilize black-and-white printing.",
+          "Return unused pens..."
+        ]
+      },
+      {
+        "topic": "Fact vs Opinion Distinction in Reading",
+        "formula": "Facts = Verifiable data, records; Opinions = Subjective beliefs ('we believe...')",
+        "explanationEn": "TKA questions evaluate whether students can differentiate between observable facts and managerial philosophies.",
+        "explanationId": "Soal TKA menguji ketelitian siswa dalam membedakan data faktual terverifikasi dengan pandangan/opini subjektif.",
+        "examples": [
+          "Fact: Full reams of paper were left near printers.",
+          "Opinion: We believe that small actions create a substantial collective impact."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Memo Heading",
+        "partId": "Kepala Memo",
+        "descriptionEn": "Contains To, From, Date, and Subject lines.",
+        "descriptionId": "Memuat Kepada, Dari, Tanggal, dan Perihal memo.",
+        "excerpt": "Memorandum... To: All Employees..."
+      },
+      {
+        "part": "Problem & Observations",
+        "partId": "Latar Masalah & Pengamatan",
+        "descriptionEn": "Details recent observations of wasteful practices.",
+        "descriptionId": "Penjabaran pemborosan kertas dan tinta di kantor.",
+        "excerpt": "We have observed a significant increase in the consumption..."
+      },
+      {
+        "part": "Directive Policies",
+        "partId": "Instruksi Kebijakan",
+        "descriptionEn": "Four clear, numbered guidelines for eco-friendly printing.",
+        "descriptionId": "Empat butir panduan mencetak hemat dan berbagi fasilitas.",
+        "excerpt": "1. Preview... 2. Utilize black-and-white... 3. Reserve color..."
+      },
+      {
+        "part": "Closing Call to Cooperation",
+        "partId": "Harapan Kerja Sama",
+        "descriptionEn": "Appreciative remark reinforcing mutual responsibility.",
+        "descriptionId": "Apresiasi manajemen dan dorongan tanggung jawab bersama.",
+        "excerpt": "Your cooperation in minimizing office waste is greatly appreciated."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menganalisis Perilaku yang Tidak Sesuai (Non-aligned Behaviors)",
+        "strategyEn": "Locate restrictive adverbs like 'exclusively' and negative guidelines. Color-printing internal drafts explicitly contradicts rule #3.",
+        "strategyId": "Cari kata larangan atau pembatas seperti 'exclusively'. Mencetak draf internal dengan tinta berwarna langsung bertentangan dengan aturan nomor 3.",
+        "cbtKeyInsight": "Soal CBT No. 6 membidik perilaku pegawai yang melanggar. Pilihan B (mencetak draf internal warna) adalah tindakan yang dilarang."
+      },
+      {
+        "topic": "Membedakan Fakta dan Opini (Categorization Test)",
+        "strategyEn": "Statements with 'I think', 'we believe', or 'in my opinion' must be categorized as Opinion. Concrete events like supply arrivals are Facts.",
+        "strategyId": "Pernyataan yang memuat kata 'We believe' wajib digolongkan sebagai Opini. Pernyataan dengan nomor PO atau pengiriman fisik adalah Fakta.",
+        "cbtKeyInsight": "Pada Soal CBT No. 9, butir A adalah Opinion karena mengandung keyakinan moral, sedangkan butir B dan C merupakan Fact tentang kejadian nyata."
+      }
+    ],
+    "wordCount": 195,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-3",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 11 - 15",
+    "titleEn": "Health & Nutrition: Fat in a Balanced Diet",
+    "titleId": "Kesehatan & Nutrisi: Lemak dalam Pola Makan Seimbang",
+    "genre": "Nutritional Science & Data",
+    "genreBadge": "Health Science",
+    "level": "B2 - Upper Intermediate",
+    "summaryEn": "A scientific reading passage paired with a nutritional data table explaining the roles of saturated and unsaturated fats, safe daily intake limits for different ages, and heart health risks.",
+    "summaryId": "Bacaan sains dan tabel gizi yang menjelaskan perbedaan lemak jenuh dan tak jenuh, ambang batas konsumsi harian berdasarkan kelompok usia, serta risiko penyakit jantung.",
+    "hasImage": true,
+    "image": "/images/image(7398).png",
+    "imageCaptionEn": "Table: Recommended Daily Fat and Saturated Fat Limits by Age and Gender",
+    "imageCaptionId": "Tabel: Batas Anjuran Konsumsi Lemak Harian Berdasarkan Usia dan Jenis Kelamin",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "Fat in Balanced Diet",
+        "idTranslation": "Lemak dalam Pola Makan Seimbang",
+        "keyWords": [
+          "Balanced Diet",
+          "Nutrition"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.",
+        "idTranslation": "Pola makan harian Anda harus mengandung sejumlah lemak, tetapi Anda harus cermat memperhatikan jenis dan jumlah lemak yang dikonsumsi. Lemak jenuh (saturated fat) dan lemak tak jenuh (unsaturated fat) adalah dua jenis lemak utama. Risiko penyakit jantung akan meningkat saat kadar kolesterol dalam darah melonjak akibat konsumsi lemak jenuh yang berlebihan.",
+        "keyWords": [
+          "quantity",
+          "saturated fat",
+          "unsaturated fat",
+          "cholesterol",
+          "heart disease"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "Men need to consume a maximum of 30 grams of saturated fat per day on average, and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For healthy growth, young children need dietary fats as a concentrated source of energy and fat-soluble vitamins.",
+        "idTranslation": "Pria dewasa disarankan mengonsumsi rata-rata maksimal 30 gram lemak jenuh per hari, dan wanita membutuhkan rata-rata kurang dari 20 gram lemak jenuh per hari. Anak-anak di bawah usia 11 tahun harus mengonsumsi lebih sedikit lemak jenuh dibandingkan orang dewasa, sedangkan balita di bawah usia 5 tahun justru harus menghindari diet rendah lemak. Demi pertumbuhan yang sehat, anak-anak membutuhkan lemak makanan sebagai sumber energi padat dan pelarut vitamin yang larut dalam lemak.",
+        "keyWords": [
+          "saturated fat",
+          "maximum",
+          "average",
+          "low-fat diet",
+          "fat-soluble vitamins"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Nutritionists strongly recommend replacing saturated fats—commonly found in fatty meats, butter, palm oil, and processed pastries—with unsaturated fats. Foods rich in unsaturated fats include oily fish (such as salmon and mackerel), nuts, seeds, avocados, and vegetable oils like olive oil. These healthy fats assist in maintaining balanced cholesterol levels and safeguarding cardiovascular wellness.",
+        "idTranslation": "Para pakar nutrisi sangat menyarankan untuk mengganti lemak jenuh—yang jamak dijumpai pada daging berlemak, mentega, minyak sawit, dan kue olahan—dengan lemak tak jenuh. Makanan yang kaya akan lemak tak jenuh meliputi ikan berminyak (seperti salmon dan makerel), kacang-kacangan, biji-bijian, alpukat, serta minyak nabati seperti minyak zaitun. Lemak sehat ini membantu menjaga kestabilan kolesterol dan memelihara kebugaran pembuluh darah serta jantung.",
+        "keyWords": [
+          "replacing",
+          "unsaturated fats",
+          "cardiovascular wellness",
+          "oily fish"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "saturated fat",
+        "phonetic": "/ˈsætʃəreɪtɪd fæt/",
+        "pos": "noun",
+        "defEn": "A type of fat containing a high proportion of fatty acid molecules without double bonds, associated with high cholesterol.",
+        "defId": "Lemak jenuh; jenis lemak padat yang jika berlebih dapat memicu naiknya kolesterol jahat.",
+        "example": "Butter and fatty cuts of beef are high in saturated fat."
+      },
+      {
+        "word": "unsaturated fat",
+        "phonetic": "/ʌnˈsætʃəreɪtɪd fæt/",
+        "pos": "noun",
+        "defEn": "A fat containing unsaturated fatty acids, typically liquid at room temperature and beneficial for cardiovascular health.",
+        "defId": "Lemak tak jenuh; lemak nabati/ikan sehat yang membantu melindungi jantung.",
+        "example": "Olive oil and avocados provide heart-healthy unsaturated fats."
+      },
+      {
+        "word": "cholesterol",
+        "phonetic": "/kəˈlestərɒl/",
+        "pos": "noun",
+        "defEn": "A compound of the sterol type found in most body tissues, high levels of which can narrow arteries.",
+        "defId": "Kolesterol; senyawa lemak dalam darah yang kadarnya harus terkontrol.",
+        "example": "Excessive intake of trans fats leads to elevated bad cholesterol levels."
+      },
+      {
+        "word": "cardiovascular",
+        "phonetic": "/ˌkɑːdiəʊˈvæskjələ(r)/",
+        "pos": "adjective",
+        "defEn": "Relating to the heart and blood vessels.",
+        "defId": "Kardiovaskular; berkaitan dengan jantung dan pembuluh darah.",
+        "example": "Regular aerobic exercise improves cardiovascular endurance."
+      },
+      {
+        "word": "fat-soluble",
+        "phonetic": "/fæt ˈsɒljəbl/",
+        "pos": "adjective",
+        "defEn": "Capable of dissolving in fats and oils (e.g., vitamins A, D, E, K).",
+        "defId": "Larut dalam lemak (seperti vitamin A, D, E, dan K).",
+        "example": "Vitamins A and D are fat-soluble, requiring dietary fat for absorption."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Modals of Obligation & Prohibition (Must, Have to, Need to)",
+        "formula": "Subject + must / have to / need to + Base Verb",
+        "explanationEn": "Used in scientific and medical texts to state health requirements and strict nutritional limits.",
+        "explanationId": "Penggunaan modal auxiliaries untuk menyatakan keharusan medis dan pembatasan asupan gizi.",
+        "examples": [
+          "Your diet must contain some fat.",
+          "Men need to consume a maximum of 30g.",
+          "Kids under 5 have to avoid a low-fat diet."
+        ]
+      },
+      {
+        "topic": "Cause and Effect Conjunctions (Due to, As a result)",
+        "formula": "Effect + due to + Noun Phrase",
+        "explanationEn": "Expresses biological relationships where dietary habits trigger specific health outcomes.",
+        "explanationId": "Menghubungkan pola sebab-akibat medis antara asupan makanan dan respons fisiologis tubuh.",
+        "examples": [
+          "Cholesterol levels increase due to an extreme consumption of saturated fat."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Identification & General Classification",
+        "partId": "Klasifikasi Umum",
+        "descriptionEn": "Introduces dietary fat and classifies it into saturated and unsaturated types.",
+        "descriptionId": "Mengenalkan lemak pangan dan mengklasifikasikannya ke dalam dua golongan.",
+        "excerpt": "Your diet must contain some fat... Saturated and unsaturated fats are the two main kinds..."
+      },
+      {
+        "part": "Daily Limits & Age Demographics",
+        "partId": "Ambang Batas Menurut Demografi",
+        "descriptionEn": "Specific quantitative metrics for adult men, women, and young children.",
+        "descriptionId": "Angka batas harian pria (30g), wanita (20g), dan larangan diet rendah lemak balita.",
+        "excerpt": "Men need to consume a maximum of 30 grams... kids under 5 have to avoid..."
+      },
+      {
+        "part": "Nutritional Recommendations",
+        "partId": "Rekomendasi Menu Sehat",
+        "descriptionEn": "Practical food substitutions to replace bad fats with heart-protective foods.",
+        "descriptionId": "Panduan mengganti minyak jenuh dengan ikan berminyak, alpukat, dan minyak zaitun.",
+        "excerpt": "Nutritionists strongly recommend replacing saturated fats... with oily fish, nuts..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Membaca Angka & Pengecoh Kelompok Usia (Demographic Detail Questions)",
+        "strategyEn": "Pay close attention to exceptions. While older children and adults must restrict saturated fats, children under 5 must NOT be put on a low-fat diet because they need energy for brain growth.",
+        "strategyId": "Cermati pengecualian pada teks. Orang dewasa dibatasi konsumsi lemaknya, tetapi balita di bawah 5 tahun TIDAK boleh diet rendah lemak karena butuh energi tumbuh kembang.",
+        "cbtKeyInsight": "Soal CBT No. 11 dan 14 menanyakan kebenaran data usia: anak balita (under 5) harus menghindari diet rendah lemak (avoid a low-fat diet)."
+      },
+      {
+        "topic": "Membaca Tabel Gizi Terpadu (Integrating Text & Table Data)",
+        "strategyEn": "Correlate table figures with text statements. The text states men need <30g and women <20g; verify products against these daily benchmark values.",
+        "strategyId": "Cocokkan angka pada tabel dengan pernyataan pada teks. Angka batas 30g untuk pria dan 20g untuk wanita menjadi acuan evaluasi produk makanan.",
+        "cbtKeyInsight": "Soal CBT No. 12 menguji kesimpulan kandungan produk berdasarkan tabel nilai gizi pendamping (image 7398)."
+      }
+    ],
+    "wordCount": 186,
+    "estimatedReadTime": "1 min read"
+  },
+  {
+    "id": "module-4",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 16 - 20",
+    "titleEn": "Vocational Recount: Nurse Assistant Internship Experience",
+    "titleId": "Teks Recount Kejuruan: Pengalaman Magang Asisten Perawat",
+    "genre": "Vocational Healthcare Recount",
+    "genreBadge": "Vocational Recount",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A personal recount by Sinta, a vocational nursing assistant student from Semarang, narrating her three-month clinical rotation at Sehati Hospital through nurseries, outpatient clinics, and inpatient wards.",
+    "summaryId": "Teks pengalaman pribadi (recount) oleh Sinta, siswi SMK Asisten Keperawatan di Semarang, yang mengisahkan rotasi klinis magang selama tiga bulan di RS Sehati di berbagai bangsal perawatan.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "My Internship Experience as a Nurse Assistant",
+        "idTranslation": "Pengalaman Magang Saya sebagai Asisten Perawat",
+        "keyWords": [
+          "Internship",
+          "Nurse Assistant"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20th to May 20th. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.",
+        "idTranslation": "Halo. Nama saya Sinta. Saya mengambil jurusan Asisten Keperawatan di SMK Kesehatan Semarang. Saya ingin berbagi pengalaman saat menjalani magang di Rumah Sakit Sehati Semarang dari tanggal 20 Februari hingga 20 Mei. Lima orang teman saya dan saya menyelesaikan magang di sana. Sebelum magang dimulai, saya sudah menduga bahwa pengalaman ini akan sangat seru namun menantang dan melelahkan pada saat yang sama. Di RS Sehati, kami magang dan belajar di berbagai unit, meliputi ruang bayi (nursery), bangsal rawat jalan, bangsal rawat inap, ruang operasi, dan instalasi gawat darurat (IGD). Setelah sekitar dua setengah minggu, kami berpindah ke ruangan atau divisi yang berbeda.",
+        "keyWords": [
+          "majoring in",
+          "internship",
+          "predict",
+          "wearying",
+          "rotations",
+          "outpatient",
+          "inpatient"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor's office.",
+        "idTranslation": "Awalnya, saya ditugaskan di ruang perawatan bayi (nursery), tempat saya menimba ilmu dari perawat senior tentang cara memandikan bayi dengan benar dan hati-hati, meracik susu formula, mencuci botol susu, mengganti popok, serta mengedukasi ibu-ibu baru mengenai pemberian ASI. Selanjutnya, pada minggu ketiga saat bertugas di bangsal rawat jalan, saya berinteraksi langsung dengan banyak pasien. Tugas saya mencakup memeriksa tanda-tanda vital (tensi, nadi, suhu), membantu pencatatan rekam medis, mengambil hasil laboratorium, dan merapikan ruang periksa dokter.",
+        "keyWords": [
+          "assigned to",
+          "nursery",
+          "breastfeeding",
+          "vital signs",
+          "medical record-keeping"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "After around two and a half weeks in the outpatient ward, I interned in the inpatient ward where I learned deeper bedside manners. I monitored patient IV drips, assisted bedridden patients with meals, and observed how professional nurses managed post-operative care. I loved it when patients smiled and expressed genuine gratitude when feeling better. This hands-on clinical exposure solidified my ambition to become a registered nurse in the future.",
+        "idTranslation": "Setelah sekitar dua setengah minggu di bangsal rawat jalan, saya melanjutkan magang di bangsal rawat inap di mana saya belajar lebih mendalam mengenai etika pelayanan di samping tempat tidur pasien (bedside manners). Saya memantau tetesan infus pasien, menyuapi pasien yang tirah baring, dan mengamati bagaimana perawat profesional menangani perawatan pasca-operasi. Saya sangat bahagia ketika pasien tersenyum dan mengungkapkan rasa terima kasih yang tulus saat kondisi mereka membaik. Pengalaman klinis langsung ini semakin memantapkan tekad saya untuk menjadi perawat profesional berlisensi di masa depan.",
+        "keyWords": [
+          "bedside manners",
+          "IV drips",
+          "bedridden",
+          "post-operative",
+          "genuine gratitude"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "wearying",
+        "phonetic": "/ˈwɪəriɪŋ/",
+        "pos": "adjective",
+        "defEn": "Causing one to feel tired, exhausted, or drained.",
+        "defId": "Melelahkan atau menguras tenaga secara fisik dan mental.",
+        "example": "A twelve-hour hospital shift can be demanding and wearying."
+      },
+      {
+        "word": "vital signs",
+        "phonetic": "/ˌvaɪtl ˈsaɪnz/",
+        "pos": "noun (plural)",
+        "defEn": "Clinical measurements (pulse rate, temperature, respiration rate, and blood pressure) indicating state of essential bodily functions.",
+        "defId": "Tanda-tanda vital tubuh (tekanan darah, denyut nadi, suhu badan).",
+        "example": "The nursing assistant recorded the patient's vital signs before the physician arrived."
+      },
+      {
+        "word": "outpatient ward",
+        "phonetic": "/ˈaʊtpeɪʃnt wɔːd/",
+        "pos": "noun",
+        "defEn": "The hospital department providing medical care without an overnight stay.",
+        "defId": "Bangsal rawat jalan (pasien periksa tanpa menginap).",
+        "example": "The outpatient ward operates from morning until evening on weekdays."
+      },
+      {
+        "word": "inpatient ward",
+        "phonetic": "/ˈɪnpeɪʃnt wɔːd/",
+        "pos": "noun",
+        "defEn": "Hospital section where patients are admitted and monitored overnight or longer.",
+        "defId": "Bangsal rawat inap (pasien tinggal dan bermalam di rumah sakit).",
+        "example": "Family visits are allowed during scheduled hours in the inpatient ward."
+      },
+      {
+        "word": "bedridden",
+        "phonetic": "/ˈbedrɪdn/",
+        "pos": "adjective",
+        "defEn": "Confined to bed by sickness or old age.",
+        "defId": "Tirah baring; tidak mampu bangun dari ranjang karena sakit.",
+        "example": "Special care is essential for bedridden patients to avoid pressure sores."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Simple Past for Completed Recount Events",
+        "formula": "Subject + Verb 2 (assigned, communicated, loved, solidified)",
+        "explanationEn": "Used as the primary tense in Recount texts to sequence chronological events that took place in past clinical rotations.",
+        "explanationId": "Tense utama dalam teks recount untuk menceritakan runtutan kegiatan magang yang telah selesai di masa lampau.",
+        "examples": [
+          "I was assigned to the nursery.",
+          "I communicated directly with many patients.",
+          "We completed our internship there."
+        ]
+      },
+      {
+        "topic": "Time Duration & Date Connectors",
+        "formula": "From [Date 1] to [Date 2] / For [Duration]",
+        "explanationEn": "Pinpoints the exact time frame of experiences, frequently evaluated in TKA detail questions.",
+        "explanationId": "Penanda rentang waktu yang menentukan lamanya kegiatan magang berlangsung.",
+        "examples": [
+          "From February 20th to May 20th (3 full months).",
+          "After around two and a half weeks..."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Awal",
+        "descriptionEn": "Introduces Sinta, her vocational major, hospital venue, total duration, and companions.",
+        "descriptionId": "Mengenalkan Sinta, sekolah kejuruan, lokasi RS Sehati, durasi, dan teman magangnya.",
+        "excerpt": "Hello. My name is Sinta. I am majoring in Nursing Assistant... February 20th to May 20th..."
+      },
+      {
+        "part": "Series of Clinical Events",
+        "partId": "Rangkaian Pengalaman Klinis",
+        "descriptionEn": "Chronological description of duties across nursery, outpatient, and inpatient units.",
+        "descriptionId": "Uraian tugas mulai dari merawat bayi, mengukur tensi, hingga memantau infus pasien.",
+        "excerpt": "At first, I was assigned to the nursery... Next, in the third week... in the inpatient ward..."
+      },
+      {
+        "part": "Reorientation & Personal Reflection",
+        "partId": "Reorientasi & Refleksi",
+        "descriptionEn": "Emotional takeaway, patient gratitude, and career goal confirmation.",
+        "descriptionId": "Kesan emosional rasa syukur pasien dan peneguhan cita-cita menjadi perawat.",
+        "excerpt": "This hands-on clinical exposure solidified my ambition to become a registered nurse."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menghitung Durasi Waktu (Calculating Date Spans)",
+        "strategyEn": "Count months between dates carefully: February 20th to May 20th = precisely 3 full months (approx. 90 days). Avoid choosing options that say 'six months' or 'one year'.",
+        "strategyId": "Hitung rentang tanggal secara presisi: 20 Februari sampai 20 Mei adalah tepat 3 bulan. Hindari memilih opsi 6 bulan atau 1 bulan.",
+        "cbtKeyInsight": "Soal CBT No. 20 menanyakan durasi magang Sinta. Jawaban yang tepat adalah 3 bulan (February 20 to May 20)."
+      },
+      {
+        "topic": "Membedakan Tugas Antar-Ruangan (Specific Task Matching)",
+        "strategyEn": "Differentiate duties by ward: Nursery = bathing babies & breastfeeding education; Outpatient = vital signs & medical records; Inpatient = IV drips & bedside meals.",
+        "strategyId": "Petakan tugas berdasarkan unit: Nursery = memandikan bayi; Rawat Jalan = tanda vital & rekam medis; Rawat Inap = cek infus & mendampingi makan.",
+        "cbtKeyInsight": "Soal CBT No. 17 menguji tanggung jawab Sinta saat berada di rawat jalan (outpatient ward)."
+      }
+    ],
+    "wordCount": 260,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-5",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 21 - 25",
+    "titleEn": "Botanical Report: The Beauty of Bougainvillea",
+    "titleId": "Laporan Botani: Keindahan Bunga Bougenvil",
+    "genre": "Biological Report Text",
+    "genreBadge": "Botanical Report",
+    "level": "B1 - Intermediate",
+    "summaryEn": "An informative scientific report describing the biological anatomy of the Bougainvillea (Paper Flower), clarifying that the vibrant colorful structures are modified leaf bracts rather than actual flower petals.",
+    "summaryId": "Teks laporan ilmiah botani yang mendeskripsikan morfologi tanaman Bougenvil (Bunga Kertas), meluruskan kesalahpahaman umum bahwa kelopak berwarna-warni sebenarnya adalah daun pemikat (braktea).",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "The Beauty of Bougainvillea",
+        "idTranslation": "Keindahan Bunga Bougenvil",
+        "keyWords": [
+          "Bougainvillea",
+          "Ornamental Plant"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.",
+        "idTranslation": "Bougenvil adalah tanaman hias yang sangat populer dan dikenal luas di berbagai wilayah Indonesia. Bunga sejati dari tanaman ini sebenarnya berukuran sangat mungil dan terletak tepat di tengah-tengah kelopak. Akan tetapi, masyarakat kerap menganggap kelopak berwarna cerah tersebut sebagai bunganya sendiri karena tampak jauh lebih memikat pandangan. Menanam bunga ini tergolong cukup mudah, salah satu teknik yang lazim digunakan adalah stek batang.",
+        "keyWords": [
+          "ornamental plant",
+          "actual flower",
+          "eye-catching",
+          "stem cuttings"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "This plant is also called Paper Flower because its flowers are as smooth and thin as paper. Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The beauty of this plant lies in its brightly colored petals which have several color variations depending on the type.",
+        "idTranslation": "Tanaman ini juga kerap dijuluki Bunga Kertas lantaran seludang bunganya bertekstur halus dan setipis lembaran kertas. Bougenvil pada umumnya tumbuh tegak dengan perawakan rimbun. Daunnya berwarna hijau tua, berbentuk oval (bulat telur), dan tidak runcing tajam di ujungnya. Daya pikat utama tanaman ini terletak pada selubung bunganya yang berwarna semarak dengan aneka ragam corak bergantung pada varietasnya.",
+        "keyWords": [
+          "Paper Flower",
+          "upright",
+          "dark green",
+          "oval-shaped",
+          "variations"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches. Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.",
+        "idTranslation": "Batang dan dahan tanaman ini dipersenjatai oleh duri-duri tajam. Bougenvil mampu merambat dan tumbuh menjulang hingga lebih dari 10 meter. Daunnya tumbuh lebat menyelimuti cabang-cabang ranting. Bougenvil sejatinya berasal dari kawasan Amerika Selatan, namun seiring waktu, tanaman ini telah tersebar luas ke wilayah tropis seperti Indonesia berkat daya adaptasinya yang tinggi, tahan terhadap cuaca kering/kekeringan, serta memerlukan paparan sinar matahari penuh. Ia sanggup berbunga di hampir setiap musim, memungkinkan siapa pun menikmati keindahannya sepanjang tahun.",
+        "keyWords": [
+          "thorns",
+          "South America",
+          "tropical regions",
+          "drought-tolerant",
+          "throughout the year"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "ornamental plant",
+        "phonetic": "/ˌɔːnəˈmentl plɑːnt/",
+        "pos": "noun",
+        "defEn": "A plant grown for decorative and aesthetic purposes rather than for food or timber.",
+        "defId": "Tanaman hias yang dibudidayakan untuk mempercantik taman atau pekarangan.",
+        "example": "Bougainvillea and orchids are cherished ornamental plants across Southeast Asia."
+      },
+      {
+        "word": "stem cuttings",
+        "phonetic": "/stem ˈkʌtɪŋz/",
+        "pos": "noun (plural)",
+        "defEn": "A piece of plant stem used for vegetative propagation.",
+        "defId": "Stek batang; cara memperbanyak tanaman secara vegetatif dengan memotong ranting.",
+        "example": "Propagating bougainvillea via stem cuttings ensures rapid root development."
+      },
+      {
+        "word": "drought-tolerant",
+        "phonetic": "/draʊt ˈtɒlərənt/",
+        "pos": "adjective",
+        "defEn": "Able to survive periods of dry weather with minimal water.",
+        "defId": "Tahan kekeringan; sanggup hidup dengan pasokan air yang sedikit.",
+        "example": "Cacti and bougainvillea are famously drought-tolerant species."
+      },
+      {
+        "word": "thorns",
+        "phonetic": "/θɔːnz/",
+        "pos": "noun (plural)",
+        "defEn": "Stiff, sharp-pointed woody projections on a plant stem.",
+        "defId": "Duri tajam yang tumbuh pada batang atau dahan tanaman.",
+        "example": "Gardeners must wear thick gloves to prune bougainvillea branches covered in thorns."
+      },
+      {
+        "word": "adaptability",
+        "phonetic": "/əˌdæptəˈbɪləti/",
+        "pos": "noun",
+        "defEn": "The quality of being able to adjust to new conditions.",
+        "defId": "Kemampuan adaptasi atau daya penyesuaian diri terhadap lingkungan baru.",
+        "example": "The plant's high adaptability allowed it to thrive across equatorial zones."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Simple Present Tense for General Biological Truths",
+        "formula": "Subject + Verb 1 (-s/-es) / to be (is, are)",
+        "explanationEn": "Used in botanical scientific reports to describe permanent characteristics, physical appearance, and growth behaviors.",
+        "explanationId": "Digunakan dalam teks report ilmiah untuk memaparkan karakteristik fisik dan perilaku alami flora secara faktual.",
+        "examples": [
+          "Bougainvillea is an ornamental plant.",
+          "The trunk and branches are surrounded by thorns.",
+          "It requires optimal sunlight."
+        ]
+      },
+      {
+        "topic": "Simile and Descriptive Comparisons",
+        "formula": "as + Adjective + as + Noun",
+        "explanationEn": "Used to vividly convey tactile properties to readers.",
+        "explanationId": "Kiasan perbandingan 'as... as' untuk melukiskan kelembutan kelopak seperti kertas.",
+        "examples": [
+          "Its flowers are as smooth and thin as paper."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "General Classification",
+        "partId": "Klasifikasi Umum",
+        "descriptionEn": "Introduces Bougainvillea as an ornamental species and clarifies the true flower vs petal confusion.",
+        "descriptionId": "Mengenalkan Bougenvil sebagai tanaman hias dan posisi bunga mungil yang sebenarnya.",
+        "excerpt": "Bougainvillea is an ornamental plant... The actual flower is very small and right in the middle..."
+      },
+      {
+        "part": "Physical Description & Anatomy",
+        "partId": "Deskripsi Morfologi Fisik",
+        "descriptionEn": "Leaf shape, trunk height, thorns, and color variations.",
+        "descriptionId": "Bentuk daun oval, duri pada dahan, tinggi hingga 10 meter, dan variasi warna.",
+        "excerpt": "Its leaves are dark green, oval-shaped... The trunk and branches are surrounded by thorns..."
+      },
+      {
+        "part": "Origin, Habitat & Climate Adaptations",
+        "partId": "Asal-Usul & Daya Tahan Tropis",
+        "descriptionEn": "South American origin and drought-resistant resilience in tropical sunlight.",
+        "descriptionId": "Berasal dari Amerika Selatan dan ketahanan luar biasa terhadap terik matahari tropis.",
+        "excerpt": "Bougainvillea originates from South America... drought-tolerant, and requires optimal sunlight."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Mengidentifikasi Bagian Bunga Sejati (Actual Flower vs Bracts)",
+        "strategyEn": "Look out for comprehension questions regarding what is mistaken for the flower. The colorful parts are modified leaves/bracts, while the real flower is tiny and located at the center.",
+        "strategyId": "Waspadai pertanyaan jebakan mengenai bunga sejati. Bagian berwarna cerah adalah kelopak/daun pelindung semu, sedangkan bunga aslinya berukuran sangat kecil di tengah.",
+        "cbtKeyInsight": "Soal CBT No. 24 dan 25 menegaskan bahwa masyarakat sering salah mengira kelopak warna-warni sebagai bunga, padahal bunga aslinya kecil di tengah."
+      },
+      {
+        "topic": "Karakteristik Daun (Morphological Traits)",
+        "strategyEn": "Scan for adjective sequences: 'dark green', 'oval-shaped', and 'not sharply pointed'.",
+        "strategyId": "Cari kombinasi kata sifat bentuk daun: hijau gelap (dark green), bulat telur (oval), dan tidak berujung runcing tajam.",
+        "cbtKeyInsight": "Soal CBT No. 23 menanyakan bentuk daun Bougenvil: oval-shaped (berbentuk oval/bulat telur)."
+      }
+    ],
+    "wordCount": 203,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-6",
+    "package": "Paket 1",
+    "packageNum": 1,
+    "qRange": "Soal 26 - 30",
+    "titleEn": "Technological Innovation: Bandung Techno Park (BTP)",
+    "titleId": "Inovasi Teknologi: Bandung Techno Park (BTP)",
+    "genre": "Technical & Innovation Report",
+    "genreBadge": "Technology Hub",
+    "level": "B2 - Upper Intermediate",
+    "summaryEn": "An informative overview of Bandung Techno Park (BTP), Indonesia's premier 50-hectare research hub housing additive manufacturing 3D-printers, advanced materials labs, and high-security life sciences wings.",
+    "summaryId": "Ulasan informatif mengenai Bandung Techno Park (BTP), kawasan riset teknologi seluas 50 hektar di Indonesia yang memiliki fasilitas pencetakan 3D manufaktur aditif, lab material maju, dan lab vaksin.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "Bandung Techno Park",
+        "idTranslation": "Bandung Techno Park (BTP)",
+        "keyWords": [
+          "Bandung Techno Park",
+          "Innovation Hub"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.",
+        "idTranslation": "Bandung Techno Park (BTP) merupakan salah satu pusat terpenting di Indonesia untuk pengembangan teknologi mutakhir dan inovasi. Kawasan ini memiliki sekitar 20 bangunan yang dirancang khusus guna mendukung penelitian dan pengembangan (R&D), serta menempati lahan seluas kurang lebih 50 hektar. Banyak perusahaan teknologi dan perintis usaha (start-up) baru memilih BTP sebagai markas operasi berkat fasilitasnya yang modern.",
+        "keyWords": [
+          "research and development",
+          "occupies",
+          "start-ups",
+          "modern facilities"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.",
+        "idTranslation": "Salah satu area krusial adalah laboratorium material maju (advanced materials laboratory), yang menyimpan dan menyediakan peralatan khusus untuk menganalisis material secara mendalam. Lab ini dilengkapi instrumen seperti mikroskop berkekuatan tinggi yang sanggup mengamati objek hingga tingkat atom. Alhasil, para peneliti telah mencatatkan kemajuan berarti dalam mengembangkan semikonduktor baru dan material berskala nano (nanomaterials).",
+        "keyWords": [
+          "advanced materials",
+          "atomic level",
+          "semiconductors",
+          "nanomaterials"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.",
+        "idTranslation": "Di sebelahnya terdapat pusat manufaktur aditif (additive manufacturing center), yang diperkuat mesin cetak 3D berskala besar yang mampu membuat komponen dari bahan plastik maupun logam. Hal ini memungkinkan perusahaan merancang dan menguji purwarupa baru dengan jauh lebih gesit. Sebagai contoh, pusat ini telah memproduksi implan medis khusus yang sangat presisi dengan anatomi tubuh pasien. Sayap riset ilmu hayati (life sciences) memiliki laboratorium berkeamanan tinggi tempat para ilmuwan meneliti obat-obatan baru dan virus penyakit menular. Lab-lab ini berkontribusi nyata pada pengembangan vaksin selama pandemi COVID-19. Selain itu, pusat uji integrasi memfasilitasi pengujian gabungan berbagai teknologi seperti sistem kota cerdas (smart city), energi terbarukan, dan peranti lunak kecerdasan buatan (AI).",
+        "keyWords": [
+          "additive manufacturing",
+          "3D printers",
+          "medical implants",
+          "life sciences",
+          "vaccines",
+          "smart city"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "paragraph",
+        "en": "BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide.",
+        "idTranslation": "BTP juga mengusung teknologi hijau melalui fasilitas pengujian energi terbarukan. Di sini, perusahaan dapat menguji panel surya, sistem tenaga angin, dan performa baterai di berbagai kondisi cuaca. Untuk pengolahan data, pusat analitik data dilengkapi superkomputer berkecepatan tinggi yang mendukung periset di bidang iklim dan kecerdasan buatan. Salah satu keunggulan utama BTP adalah keterbukaannya dalam menjalin kolaborasi, mulai dari perguruan tinggi hingga korporasi swasta melalui prosedur administrasi dan kemitraan yang transparan. Seluruh fasilitas BTP menerapkan sertifikasi standar ISO 9001:2015, yang menjamin hasil kerja bermutu tinggi serta diakui secara internasional.",
+        "keyWords": [
+          "renewable energy",
+          "data analytics",
+          "collaboration",
+          "ISO 9001:2015",
+          "trusted worldwide"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "additive manufacturing",
+        "phonetic": "/ˈædətɪv ˌmænjuˈfæktʃərɪŋ/",
+        "pos": "noun",
+        "defEn": "The industrial production name for 3D printing, building 3D objects by adding layer upon layer.",
+        "defId": "Manufaktur aditif; teknik produksi pencetakan 3D dengan menumpuk lapisan material lapis demi lapis.",
+        "example": "Additive manufacturing reduces material wastage compared to traditional CNC cutting."
+      },
+      {
+        "word": "semiconductors",
+        "phonetic": "/ˌsemikənˈdʌktəz/",
+        "pos": "noun (plural)",
+        "defEn": "Solid substances with electrical conductivity between that of a conductor and an insulator, vital for microchips.",
+        "defId": "Semikonduktor; bahan inti pembuatan mikrocip komputer dan elektronik modern.",
+        "example": "BTP researchers work on advanced silicon semiconductors for sensor devices."
+      },
+      {
+        "word": "implants",
+        "phonetic": "/ˈɪmplɑːnts/",
+        "pos": "noun (plural)",
+        "defEn": "Artificial medical devices manufactured to replace, support, or enhance a biological structure.",
+        "defId": "Implan medis; peranti buatan yang dipasang di dalam tubuh pasien.",
+        "example": "Custom titanium medical implants can be printed within hours at BTP."
+      },
+      {
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃn/",
+        "pos": "noun",
+        "defEn": "The action of working with someone to produce or create something.",
+        "defId": "Kolaborasi atau kerja sama strategis antara berbagai lembaga.",
+        "example": "BTP fosters strong collaboration between academia and high-tech startups."
+      },
+      {
+        "word": "infectious diseases",
+        "phonetic": "/ɪnˈfekʃəs dɪˈziːzɪz/",
+        "pos": "noun (plural)",
+        "defEn": "Illnesses caused by pathogenic microorganisms like bacteria, viruses, parasites, or fungi.",
+        "defId": "Penyakit menular yang disebabkan oleh patogen/virus.",
+        "example": "The biocontainment wing studies infectious diseases to design responsive vaccines."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Passive Voice in Technical Descriptions",
+        "formula": "Object + to be (is/are/were) + Past Participle (V3)",
+        "explanationEn": "Used in technical writing when the focus is on the facility, machinery, or process rather than on the human operator.",
+        "explanationId": "Kalimat pasif dalam wacana teknis untuk menitikberatkan pada teknologi, laboratorium, dan hasil uji daripada operator manusianya.",
+        "examples": [
+          "It contains around 20 structures designed to support research.",
+          "Special medical implants are made.",
+          "Technologies can be tested together."
+        ]
+      },
+      {
+        "topic": "Defining Relative Clauses with 'Which' & 'Where'",
+        "formula": "Noun + which (things/facilities) / where (locations) + Clause",
+        "explanationEn": "Provides essential descriptive details about the specific functions of various laboratories and tech divisions.",
+        "explanationId": "Klausa relatif pembatas untuk memerinci fungsi spesifik dari masing-masing gedung laboratorium.",
+        "examples": [
+          "...the additive manufacturing center, which has large 3D printers...",
+          "...high-security laboratories where scientists work on new medicines..."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "General Identification",
+        "partId": "Identifikasi Umum",
+        "descriptionEn": "Size (50 hectares), building count (20 structures), and core mission as Indonesia's tech park.",
+        "descriptionId": "Luas wilayah 50 ha, jumlah gedung (20), dan peran sentralnya bagi inovasi teknologi.",
+        "excerpt": "Bandung Techno Park (BTP) is one of Indonesia’s most important places... occupies about 50 hectares..."
+      },
+      {
+        "part": "Specialized Laboratories Breakdown",
+        "partId": "Rincian Laboratorium & Fasilitas",
+        "descriptionEn": "Details advanced materials lab, 3D printing center, and life sciences vaccine research.",
+        "descriptionId": "Pusat cetak 3D untuk implan medis, riset material nano, dan lab vaksin penyakit menular.",
+        "excerpt": "One important area is the advanced materials laboratory... Next to it is additive manufacturing..."
+      },
+      {
+        "part": "Sustainability & Institutional Strengths",
+        "partId": "Keberlanjutan & Keunggulan Institusi",
+        "descriptionEn": "Green energy testing, ISO 9001:2015 compliance, and open academic-corporate partnership.",
+        "descriptionId": "Uji panel surya, standar mutu ISO 9001:2015, dan kemitraan riset kampus-swasta.",
+        "excerpt": "BTP also supports green technology... All BTP facilities follow ISO 9001:2015 standards..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menjodohkan Fasilitas dengan Fungsinya (Facility-Function Matching)",
+        "strategyEn": "Keep a mental map: Advanced Materials = powerful microscopes & semiconductors; Additive Manufacturing = 3D printers & medical implants; Life Sciences = vaccines & infectious diseases; Integration Center = smart city & AI.",
+        "strategyId": "Pahami pemetaan fasilitas: Material Maju = mikroskop & semikonduktor; Manufaktur Aditif = printer 3D & implan medis; Ilmu Hayati = vaksin; Pusat Integrasi = smart city & AI.",
+        "cbtKeyInsight": "Soal CBT No. 26 dan 27 meminta mencocokkan fasilitas BTP dengan fungsi kerjanya secara presisi."
+      },
+      {
+        "topic": "Tujuan Utama Pendirian BTP (Main Purpose Analysis)",
+        "strategyEn": "Focus on paragraph 1: BTP is founded to serve as a comprehensive national base for R&D, commercial innovation, and startup incubation.",
+        "strategyId": "Fokus pada paragraf 1: BTP dirikan sebagai wadah terpadu penelitian, inovasi teknologi baru, dan inkubasi perusahaan rintisan.",
+        "cbtKeyInsight": "Soal CBT No. 29 menanyakan tujuan utama BTP: menjadi pusat inovasi teknologi dan riset terpadu di Indonesia."
+      }
+    ],
+    "wordCount": 298,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-7",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 1 - 5",
+    "titleEn": "Descriptive Text: Sanur Beach, Bali",
+    "titleId": "Teks Deskriptif: Pantai Sanur, Bali",
+    "genre": "Coastal Tourism & Travel",
+    "genreBadge": "Travel Guide",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A descriptive travel passage highlighting Sanur Beach on Bali's southeast coast, celebrated for its tranquil atmosphere, gentle waves sheltered by coral reefs, 7-km paved seaside promenade, and family-friendly water sports.",
+    "summaryId": "Teks deskriptif perjalanan yang mengulas Pantai Sanur di pesisir tenggara Bali, terkenal dengan suasana tenangnya yang damai, ombak tenang berkat terumbu karang pelindung, jalur pesisir 7 km, dan wisata ramah keluarga.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "Sanur Beach",
+        "idTranslation": "Pantai Sanur",
+        "keyWords": [
+          "Sanur Beach",
+          "Bali"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Sanur is considered one of Bali's most family-friendly places. The tranquil seashore town on Bali's southeast coast was one of the island's initial tourist destinations, but it has maintained a quiet, relaxed atmosphere. Sanur's beach is sheltered by an offshore coral reef, which makes the shallow, clear waters calm and safe for swimming with small children.",
+        "idTranslation": "Sanur dipandang sebagai salah satu destinasi paling ramah keluarga di Pulau Bali. Kota pesisir yang tenang (tranquil) di pesisir tenggara Bali ini merupakan salah satu tujuan wisata awal di pulau dewata, namun tetap berhasil menjaga atmosfernya yang tenang dan santai. Pantai Sanur terlindung oleh gugusan terumbu karang lepas pantai, yang menjadikan perairannya yang dangkal dan jernih senantiasa tenang dan aman bagi anak-anak kecil untuk berenang.",
+        "keyWords": [
+          "family-friendly",
+          "tranquil",
+          "seashore",
+          "initial",
+          "coral reef",
+          "shallow"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "There are also other enjoyable activities to do around there. The 7-kilometer-long shoreline with a paved promenade path is ideal for walking, cycling, or jogging while savoring refreshing sea breezes. In the early morning, visitors gather to witness the iconic golden sunrise over the horizon, with majestic silhouettes of Mount Agung visible in the distance on clear days.",
+        "idTranslation": "Tersedia pula beragam aktivitas menyenangkan lainnya di sekitar kawasan tersebut. Garis pantai sepanjang 7 kilometer yang dilengkapi jalur pedestrian beraspal/bersemen (paved promenade) sangat ideal untuk berjalan santai, bersepeda, maupun lari pagi sembari menikmati sepoi angin laut yang menyegarkan. Pada pagi hari, para pelancong berkumpul untuk menyaksikan matahari terbit (sunrise) bernuansa keemasan di ufuk timur, berlatar siluet megah Gunung Agung yang memesona di kejauhan saat cuaca cerah.",
+        "keyWords": [
+          "enjoyable",
+          "paved promenade",
+          "savoring",
+          "golden sunrise",
+          "silhouettes"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Sanur Beach is one of Bali's most popular sites for swimming, snorkeling, and other varieties of water sports like kite-surfing and sea-kayaking. Traditional colorful wooden fishing boats, known locally as jukung, line the golden sands, creating a charming blend of Balinese maritime culture and leisurely modern tourism.",
+        "idTranslation": "Pantai Sanur merupakan salah satu lokasi terpopuler di Bali untuk berenang, snorkeling, dan aneka olahraga air lainnya seperti selancar layang (kite-surfing) dan bermain kayak laut. Perahu nelayan kayu tradisional yang dicat warna-warni, yang oleh warga setempat dikenal dengan sebutan 'jukung', berjejer rapi di atas pasir emas, menghadirkan perpaduan memikat antara tradisi maritim Bali dan kenyamanan wisata modern.",
+        "keyWords": [
+          "snorkeling",
+          "varieties",
+          "jukung",
+          "golden sands",
+          "maritime culture"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "tranquil",
+        "phonetic": "/ˈtræŋkwɪl/",
+        "pos": "adjective",
+        "defEn": "Free from disturbance; calm, peaceful, and quiet.",
+        "defId": "Tenang, damai, tenteram; lawan kata dari rowdy (ramai/gaduh).",
+        "example": "The tranquil atmosphere of Sanur makes it perfect for relaxing vacations."
+      },
+      {
+        "word": "promenade",
+        "phonetic": "/ˌprɒməˈnɑːd/",
+        "pos": "noun",
+        "defEn": "A paved public walkway, typically along a waterfront.",
+        "defId": "Jalur jalan setapak tepi pantai untuk berjalan santai atau bersepeda.",
+        "example": "Tourists enjoyed cycling along Sanur's 7-km beachside promenade."
+      },
+      {
+        "word": "sheltered",
+        "phonetic": "/ˈʃeltəd/",
+        "pos": "adjective / verb",
+        "defEn": "Protected from bad weather, strong waves, or danger.",
+        "defId": "Terlindung atau terproteksi dari empasan ombak besar.",
+        "example": "The bay is sheltered by a massive outer reef."
+      },
+      {
+        "word": "initial",
+        "phonetic": "/ɪˈnɪʃl/",
+        "pos": "adjective",
+        "defEn": "Existing or occurring at the beginning; first.",
+        "defId": "Awal, mula-mula, atau yang pertama.",
+        "example": "Sanur was one of Bali's initial resort areas before Kuta expanded."
+      },
+      {
+        "word": "savoring",
+        "phonetic": "/ˈseɪvərɪŋ/",
+        "pos": "verb (present participle)",
+        "defEn": "Enjoying or appreciating something completely and slowly.",
+        "defId": "Menikmati secara perlahan dan mendalam.",
+        "example": "Visitors sat by the cafe, savoring the cool ocean breeze."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Descriptive Adjectives for Atmosphere & Scenery",
+        "formula": "Adjective + Noun (e.g., tranquil seashore, shallow waters, paved promenade)",
+        "explanationEn": "Used in Descriptive texts to evoke sensory experiences (sight, touch, sound) for readers.",
+        "explanationId": "Penggunaan frasa kata sifat untuk melukiskan atmosfer ketenangan dan panorama keindahan pantai secara visual.",
+        "examples": [
+          "The tranquil seashore town...",
+          "Shallow, clear waters...",
+          "Iconic golden sunrise..."
+        ]
+      },
+      {
+        "topic": "Non-defining Relative Clauses with 'Which'",
+        "formula": ", which + Verb + Complement",
+        "explanationEn": "Adds non-essential explanatory information about the preceding clause.",
+        "explanationId": "Memberikan penjelasan tambahan yang memperkaya informasi mengenai terumbu karang lepas pantai.",
+        "examples": [
+          "...offshore coral reef, which makes the shallow waters calm and safe for swimming."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Identification",
+        "partId": "Identifikasi Objek Wisata",
+        "descriptionEn": "Introduces Sanur Beach, geographical location (southeast Bali), and tranquil reputation.",
+        "descriptionId": "Mengenalkan Pantai Sanur, letak geografis, dan reputasinya sebagai tempat wisata tenang.",
+        "excerpt": "Sanur is considered one of Bali's most family-friendly places. The tranquil seashore town..."
+      },
+      {
+        "part": "Physical Landscape & Waters",
+        "partId": "Kondisi Alam & Laut",
+        "descriptionEn": "Sheltered offshore coral reefs, clear shallow depths, and gentle waves for children.",
+        "descriptionId": "Perairan tenang terlindung karang yang aman untuk rekreasi anak-anak.",
+        "excerpt": "Sanur's beach is sheltered by an offshore coral reef, which makes the shallow waters calm..."
+      },
+      {
+        "part": "Leisure Activities & Cultural Elements",
+        "partId": "Aktivitas Wisata & Budaya Maritim",
+        "descriptionEn": "Paved promenade cycling, sunrise watching, water sports, and traditional jukung boats.",
+        "descriptionId": "Aktivitas bersepeda di promenade, menikmati sunrise Gunung Agung, dan perahu jukung.",
+        "excerpt": "The 7-kilometer-long shoreline with a paved promenade path... Traditional colorful wooden fishing boats..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menentukan Sinonim dan Antonim Kata Kontekstual (Contextual Vocabulary)",
+        "strategyEn": "When asked which word does NOT have the same meaning as 'tranquil' (peaceful, calm, serene, placid), identify the antonym: 'rowdy' (noisy/chaotic).",
+        "strategyId": "Jika ditanya kata yang TIDAK bersinonim dengan 'tranquil' (tenang/damai), carilah kata yang bermakna bising atau gaduh: 'rowdy'.",
+        "cbtKeyInsight": "Soal CBT No. 1 Paket 2 menanyakan kata yang BUKAN sinonim dari 'tranquil'. Kunci jawaban E adalah 'rowdy' (ramai/gaduh)."
+      },
+      {
+        "topic": "Menganalisis Alasan Ramah Anak (Reasoning Analysis)",
+        "strategyEn": "Find the reason why Sanur is suitable for toddlers: the offshore coral reef blocks heavy swells, creating safe shallow lagoon waters.",
+        "strategyId": "Identifikasi mengapa Sanur ramah anak: keberadaan terumbu karang lepas pantai menghalangi ombak besar sehingga air tetap tenang dan dangkal.",
+        "cbtKeyInsight": "Soal CBT No. 2 dan 3 Paket 2 menguji faktor keselamatan berenang di Sanur yang disebabkan oleh pelindung karang alami (coral reef)."
+      }
+    ],
+    "wordCount": 173,
+    "estimatedReadTime": "1 min read"
+  },
+  {
+    "id": "module-8",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 6 - 10",
+    "titleEn": "Papuan Folktale: The Origins of Cenderawasih",
+    "titleId": "Cerita Rakyat Papua: Asal-Usul Burung Cenderawasih",
+    "genre": "Folk Narrative & Legend",
+    "genreBadge": "Folklore Legend",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A classic Papuan narrative legend about an adopted boy named Kweiya who loved his adoptive mother Baria deeply and transformed into the magnificent Cenderawasih (Bird of Paradise) using red threads.",
+    "summaryId": "Cerita rakyat naratif klasik Papua mengenai anak angkat bernama Kweiya yang sangat berbakti kepada ibu angkatnya Baria, lalu menjelma menjadi burung Cenderawasih nan indah menggunakan pintalan benang merah.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "The Origins of Cenderawasih",
+        "idTranslation": "Asal-Usul Burung Cenderawasih",
+        "keyWords": [
+          "Cenderawasih",
+          "Papua Folktale"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Once upon a time, in the Land of Papua, a couple named Bone and Baria were fishing on a river when they found a baby inside a floating basket. They lovingly took him home, named him Kweiya, and raised him as their own son. Years passed, and Kweiya grew into a kind, diligent, and loving young boy who loved his adoptive parents dearly. Later, Mother Baria gave birth to biological sons. Unfortunately, as the younger brothers grew up, they became jealous of Kweiya, falsely believing their parents loved him more.",
+        "idTranslation": "Alkisah, pada zaman dahulu di tanah Papua, sepasang suami istri bernama Bone dan Baria sedang memancing di sungai ketika mereka menemukan seorang bayi mungil di dalam keranjang yang terapung. Mereka membawanya pulang dengan penuh kasih sayang, menamainya Kweiya, dan membesarkannya layaknya anak kandung mereka sendiri. Tahun-tahun berlalu, dan Kweiya tumbuh menjadi pemuda yang santun, rajin, dan sangat menyayangi orang tua angkatnya. Di kemudian hari, Ibu Baria melahirkan adik-adik kandung. Sayangnya, ketika adik-adiknya beranjak dewasa, mereka diliputi rasa iri hati dan dengki terhadap Kweiya, karena salah mengira orang tua mereka lebih menyayangi Kweiya.",
+        "keyWords": [
+          "Once upon a time",
+          "floating basket",
+          "adoptive parents",
+          "jealous",
+          "falsely believing"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "One day, Mother Baria fell ill. Father Bone had to stay home to take care of her and to harvest their crops. Kweiya was asked to venture deep into the dense forest to collect sweet red pandanus fruits (buah merah) to make nourishing medicine for his sick mother. While Kweiya was away gathering fruit, his cruel younger brothers constantly mistreated his mother's yarn and spinning tools.",
+        "idTranslation": "Suatu hari, Ibu Baria jatuh sakit. Ayah Bone harus tinggal di rumah untuk merawat istrinya dan memanen hasil kebun mereka. Kweiya pun diminta pergi jauh ke dalam hutan lebat untuk memetik buah merah (pandanus) manis guna dijadikan ramuan obat bergizi bagi ibunya yang terbaring lemah. Saat Kweiya sedang pergi memetik buah, adik-adiknya yang berhati kejam justru memperlakukan peralatan tenun dan benang milik ibunya dengan kasar.",
+        "keyWords": [
+          "fell ill",
+          "venture",
+          "dense forest",
+          "buah merah",
+          "nourishing medicine"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Later, Kweiya felt that he had gotten enough red fruits and was about to go home, but the night had fallen. Deeply hurt by his brothers' ongoing animosity, Kweiya decided to weave the magical red threads into wings. When Mother Baria called for him, a bird with breathtakingly golden and crimson feathers flew atop the highest tree, chirping in a melodious voice: 'Kweee-yaaa!' Mother Baria wept bitterly as she recognized her beloved son. Regretful and heartbroken, she pleaded with the heavens, while the wicked brothers were overwhelmed with deep remorse.",
+        "idTranslation": "Beberapa waktu kemudian, Kweiya merasa telah mengumpulkan cukup buah merah dan hendak bergegas pulang, namun malam telah larut. Merasa sangat terluka oleh kebencian adik-adik tirinya yang tak kunjung padam, Kweiya merajut benang merah ajaib menjadi sepasang sayap. Ketika Ibu Baria memanggil namanya, seekor burung dengan bulu keemasan dan merah menyala yang luar biasa indah terbang hinggap di dahan pohon tertinggi, bernyanyi merdu dengan suara: 'Kweee-yaaa!' Ibu Baria menangis pilu saat menyadari burung rupawan itu adalah putra tercintanya. Penuh duka dan penyesalan, sang ibu memohon pengampunan, sementara adik-adiknya yang kejam didera penyesalan mendalam yang terlambat.",
+        "keyWords": [
+          "animosity",
+          "weave",
+          "breathtakingly",
+          "crimson feathers",
+          "remorse"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "animosity",
+        "phonetic": "/ˌænɪˈmɒsəti/",
+        "pos": "noun",
+        "defEn": "Strong hostility or active dislike.",
+        "defId": "Rasa permusuhan, kedengkian, atau kebencian yang mendalam.",
+        "example": "The brothers harbored animosity toward Kweiya out of unjustified jealousy."
+      },
+      {
+        "word": "breathtakingly",
+        "phonetic": "/ˈbreθteɪkɪŋli/",
+        "pos": "adverb",
+        "defEn": "In a way that causes astonishment, awe, or admiration.",
+        "defId": "Secara menakjubkan dan membuat siapa pun terpesona.",
+        "example": "The bird possessed breathtakingly vibrant plumage."
+      },
+      {
+        "word": "remorse",
+        "phonetic": "/rɪˈmɔːs/",
+        "pos": "noun",
+        "defEn": "Deep regret or guilt for a wrong committed.",
+        "defId": "Penyesalan mendalam atas kesalahan atau perbuatan jahat yang telah dilakukan.",
+        "example": "Filled with remorse, the younger siblings searched weeping through the forest."
+      },
+      {
+        "word": "diligent",
+        "phonetic": "/ˈdɪlɪdʒənt/",
+        "pos": "adjective",
+        "defEn": "Having or showing care and conscientiousness in one's work.",
+        "defId": "Rajin, tekun, dan berdedikasi tinggi.",
+        "example": "Kweiya was a diligent child who helped his parents every day."
+      },
+      {
+        "word": "nourishing",
+        "phonetic": "/ˈnʌrɪʃɪŋ/",
+        "pos": "adjective",
+        "defEn": "Providing the substances necessary for growth, health, and good condition.",
+        "defId": "Bergizi, menyehatkan, dan memulihkan stamina tubuh.",
+        "example": "The herbal broth was warm and nourishing for the sick patient."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Narrative Past Tense & Time Transitions",
+        "formula": "Once upon a time... One day... Later...",
+        "explanationEn": "Classic narrative story-telling structure establishing chronological order and plot progression.",
+        "explanationId": "Penanda waktu khas teks naratif yang mengalirkan alur cerita dari pengenalan tokoh hingga klimaks.",
+        "examples": [
+          "Once upon a time in Papua...",
+          "One day, Mother Baria fell ill...",
+          "Later, Kweiya felt that..."
+        ]
+      },
+      {
+        "topic": "Past Continuous vs Simple Past for Interruptions",
+        "formula": "was/were + V-ing WHEN + Subject + V2",
+        "explanationEn": "Used to describe an action in progress in the past when another sudden event occurred.",
+        "explanationId": "Menyatakan peristiwa yang sedang berlangsung di masa lampau ketika kejadian lain tiba-tiba terjadi.",
+        "examples": [
+          "They were fishing on a river when they found a baby inside a floating basket."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Pengenalan",
+        "descriptionEn": "Setting in Papua, discovery of baby Kweiya by Bone and Baria, and arrival of envious brothers.",
+        "descriptionId": "Latar Papua, penemuan bayi Kweiya di keranjang terapung, dan tumbuhnya rasa iri adik-adiknya.",
+        "excerpt": "Once upon a time, in the Land of Papua, a couple named Bone and Baria... found a baby..."
+      },
+      {
+        "part": "Complication",
+        "partId": "Komplikasi & Konflik",
+        "descriptionEn": "Mother's sickness, Kweiya's mission to harvest red pandanus fruit, and brothers' worsening cruelty.",
+        "descriptionId": "Ibu jatuh sakit, Kweiya pergi memetik buah merah, dan kekejaman adik-adiknya.",
+        "excerpt": "One day, Mother Baria fell ill... Kweiya was asked to venture deep into the forest..."
+      },
+      {
+        "part": "Resolution & Moral Lesson",
+        "partId": "Resolusi & Pesan Moral",
+        "descriptionEn": "Transformation into the magnificent Cenderawasih bird and the brothers' agonizing remorse.",
+        "descriptionId": "Jelmaan Kweiya menjadi burung Cenderawasih emas bersayap benang merah dan penyesalan saudara.",
+        "excerpt": "Kweiya decided to weave the magical red threads into wings... chirping 'Kweee-yaaa!'... wicked brothers overwhelmed with remorse."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Memahami Hubungan Antar-Karakter (Character Relationship Identification)",
+        "strategyEn": "Note that Kweiya is an ADOPTED son found in a basket, not the biological child of Bone and Baria. The biological sons were born later.",
+        "strategyId": "Catat bahwa Kweiya adalah anak ANGKAT yang ditemukan di keranjang mengapung di sungai, bukan anak kandung sejak awal.",
+        "cbtKeyInsight": "Soal CBT No. 6 dan 7 Paket 2 menegaskan status Kweiya sebagai anak angkat yang sangat berbakti meski diperlakukan buruk oleh saudara tirinya."
+      },
+      {
+        "topic": "Menemukan Nilai Moral (Moral Value of Narrative)",
+        "strategyEn": "Identify the universal moral: jealousy destroys family bonds, whereas filial devotion to parents brings eternal honor.",
+        "strategyId": "Nilai moral cerita: rasa dengki dan fitnah merusak persaudaraan, sedangkan bakti tulus kepada orang tua membawa keabadian kemuliaan.",
+        "cbtKeyInsight": "Soal CBT No. 10 Paket 2 menanyakan pelajaran yang dapat dipetik pembaca dari kisah Kweiya dan Cenderawasih."
+      }
+    ],
+    "wordCount": 252,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-9",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 11 - 15",
+    "titleEn": "Procedural Text: How to Make Vegetable Scramble",
+    "titleId": "Teks Prosedur: Cara Membuat Orak-Arik Telur Sayuran",
+    "genre": "Culinary Recipe & Instructions",
+    "genreBadge": "Recipe Procedure",
+    "level": "A2 - Pre-Intermediate",
+    "summaryEn": "A clear, healthy culinary recipe detailing ingredients and sequential step-by-step cooking methods to prepare a nutritious vegetable scrambled egg dish in under 10 minutes.",
+    "summaryId": "Resep kuliner sehat dan praktis yang memerinci bahan-bahan serta tahapan berurutan untuk memasak orak-arik telur sayuran bergizi dalam waktu kurang dari 10 menit.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "How to Make Vegetable Scramble",
+        "idTranslation": "Cara Membuat Orak-Arik Telur Sayuran",
+        "keyWords": [
+          "Vegetable Scramble",
+          "Recipe"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "meta",
+        "en": "Serving: 1-2 people\nPreparation Time: 5 minutes\nCooking Time: 5 minutes",
+        "idTranslation": "Porsi: 1-2 orang\nWaktu Persiapan: 5 menit\nWaktu Memasak: 5 menit",
+        "keyWords": [
+          "Serving",
+          "Preparation Time"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "list",
+        "en": "Ingredients:\n• 2 fresh eggs\n• 2 teaspoons butter or olive oil\n• 1/4 cup diced bell peppers (red and green)\n• 1/4 cup chopped fresh spinach\n• 2 tablespoons chopped white onion\n• Pinch of salt and freshly ground black pepper\n• 1 tablespoon shredded cheddar cheese (optional)",
+        "idTranslation": "Bahan-Bahan:\n• 2 butir telur ayam segar\n• 2 sendok teh mentega atau minyak zaitun\n• 1/4 cangkir paprika potong dadu (merah dan hijau)\n• 1/4 cangkir bayam segar cincang\n• 2 sendok makan bawang bombay cincang\n• Sejumput garam dan lada hitam bubuk segar\n• 1 sendok makan keju cheddar parut (opsional)",
+        "keyWords": [
+          "Ingredients",
+          "diced",
+          "spinach",
+          "pinch of salt",
+          "shredded cheese"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "list",
+        "en": "Preparations and Cooking:\n1. Whisk the eggs in a small bowl with a fork or whisk until the whites and yolks are thoroughly combined. Season with a pinch of salt and pepper.\n2. Heat the butter or olive oil in a non-stick skillet over medium-low heat.\n3. Add the chopped onion and diced bell peppers to the skillet. Sauté for about two minutes until the vegetables soften and release a fragrant aroma.\n4. Add the chopped spinach and cook for 30 seconds until slightly wilted.\n5. Pour the beaten eggs gently into the pan over the vegetables.\n6. Use a heat-resistant spatula to push the eggs slowly from the edges toward the center, forming soft curds.\n7. Remove the skillet from heat while the eggs are still slightly moist, as residual heat will finish cooking them.\n8. Sprinkle with shredded cheese if desired, and serve immediately with warm whole-wheat toast.",
+        "idTranslation": "Langkah Pembuatan dan Memasak:\n1. Kocok telur di dalam mangkuk kecil dengan garpu atau pengocok hingga bagian putih dan kuning menyatu sempurna. Bumbui dengan sejumput garam dan lada.\n2. Panaskan mentega atau minyak zaitun dalam wajan anti-lengket di atas api sedang-kecil.\n3. Masukkan cincangan bawang bombay dan potongan dadu paprika ke wajan. Tumis selama kurang lebih dua menit hingga sayuran melunak dan mengeluarkan aroma harum.\n4. Masukkan cincangan bayam dan masak selama 30 detik hingga sedikit layu.\n5. Tuangkan kocokan telur secara perlahan ke dalam wajan merata di atas sayuran.\n6. Gunakan spatula tahan panas untuk mendorong telur secara lembut dari tepi wajan menuju ke tengah, membentuk gumpalan telur orak-arik (curds) yang lembut.\n7. Angkat wajan dari kompor selagi telur masih sedikit basah/lembut, karena panas wajan yang tersisa akan mematangkan telur secara sempurna.\n8. Taburkan keju parut jika suka, dan sajikan selagi hangat bersama roti gandum panggang.",
+        "keyWords": [
+          "Whisk",
+          "non-stick skillet",
+          "Sauté",
+          "wilted",
+          "spatula",
+          "soft curds",
+          "residual heat"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "whisk",
+        "phonetic": "/wɪsk/",
+        "pos": "verb",
+        "defEn": "Beat or stir a substance (especially cream or eggs) with a light, rapid movement.",
+        "defId": "Mengocok (telur/krim) dengan cepat hingga berbusa atau tercampur rata.",
+        "example": "Whisk the egg mixture until light and fluffy."
+      },
+      {
+        "word": "sauté",
+        "phonetic": "/ˈsəʊteɪ/",
+        "pos": "verb",
+        "defEn": "Fry quickly in a little hot fat or oil.",
+        "defId": "Menumis sayuran atau bumbu dengan sedikit minyak panas.",
+        "example": "Sauté the diced onions until translucent and tender."
+      },
+      {
+        "word": "wilted",
+        "phonetic": "/ˈwɪltɪd/",
+        "pos": "adjective / verb",
+        "defEn": "Became limp and soft through heat or loss of moisture.",
+        "defId": "Layu akibat terkena panas wajan.",
+        "example": "Fresh spinach cooks fast and becomes wilted within thirty seconds."
+      },
+      {
+        "word": "curds",
+        "phonetic": "/kɜːdz/",
+        "pos": "noun (plural)",
+        "defEn": "Soft, cohesive lumps formed when scrambled eggs coagulate.",
+        "defId": "Gumpalan lembut telur saat dimasak orak-arik.",
+        "example": "Stirring gently creates large, creamy scrambled egg curds."
+      },
+      {
+        "word": "residual heat",
+        "phonetic": "/rɪˈzɪdjuəl hiːt/",
+        "pos": "noun",
+        "defEn": "Heat that remains in an object or pan after the power source is switched off.",
+        "defId": "Sisa panas yang tertinggal pada wajan setelah kompor dimatikan.",
+        "example": "Turn off the burner early so the residual heat prevents overcooking."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Imperative Action Verbs in Cooking Instructions",
+        "formula": "Verb Base + Noun Phrase (Whisk the eggs, Heat the butter, Add the spinach)",
+        "explanationEn": "Procedural recipes use direct command verbs to guide the cook sequentially.",
+        "explanationId": "Kalimat perintah instruksional yang diawali kata kerja dasar untuk mengarahkan tahapan memasak secara runtut.",
+        "examples": [
+          "Whisk the eggs thoroughly.",
+          "Pour the mixture gently into the pan.",
+          "Sprinkle with cheese."
+        ]
+      },
+      {
+        "topic": "Adverbs of Sequence and Time Prepositions",
+        "formula": "First... Next... For [Time]... Until [State]",
+        "explanationEn": "Regulates the precise timing necessary for delicate culinary textures.",
+        "explanationId": "Penanda urutan waktu dan kondisi kematangan agar tekstur telur tidak mengeras atau gosong.",
+        "examples": [
+          "Sauté for about two minutes...",
+          "...until slightly wilted.",
+          "...while the eggs are still moist."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Goal / Aim",
+        "partId": "Tujuan Prosedur",
+        "descriptionEn": "Title declaring the intended dish: How to Make Vegetable Scramble.",
+        "descriptionId": "Judul resep yang menyatakan hidangan yang hendak dimasak.",
+        "excerpt": "How to Make Vegetable Scramble (Serving: 1-2 people)"
+      },
+      {
+        "part": "Materials / Ingredients",
+        "partId": "Daftar Bahan & Bumbu",
+        "descriptionEn": "Quantified ingredients including eggs, vegetables, seasonings, and optional cheese.",
+        "descriptionId": "Daftar takaran bahan: 2 butir telur, paprika, bayam, mentega, dan garam.",
+        "excerpt": "2 fresh eggs, 2 teaspoons butter, 1/4 cup diced bell peppers..."
+      },
+      {
+        "part": "Sequential Cooking Steps",
+        "partId": "Langkah-Langkah Pembuatan",
+        "descriptionEn": "Numbered chronological commands from whisking to plating.",
+        "descriptionId": "Tahapan dari mengocok telur, menumis sayur, hingga mengangkat wajan.",
+        "excerpt": "1. Whisk eggs... 2. Heat butter... 3. Sauté onions... 7. Remove skillet..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Menentukan Urutan Tindakan (Chronological Step Sequence)",
+        "strategyEn": "Check what is sautéed first before eggs are added: onions and bell peppers are cooked first for 2 minutes, then spinach for 30s, and only then the eggs.",
+        "strategyId": "Perhatikan urutan bahan yang masuk wajan: bawang dan paprika ditumis terlebih dahulu selama 2 menit, lalu bayam 30 detik, barulah telur dituangkan.",
+        "cbtKeyInsight": "Soal CBT No. 11 dan 13 Paket 2 menguji urutan memasak sayur sebelum telur dituang ke wajan."
+      },
+      {
+        "topic": "Menganalisis Alasan Mengangkat Wajan Lebih Awal (Culinary Reasoning)",
+        "strategyEn": "Find why the pan is removed while eggs are still moist: residual heat in the skillet continues cooking them without drying them out.",
+        "strategyId": "Temukan alasan wajan diangkat saat telur masih sedikit lembap: panas wajan yang tersisa (residual heat) akan menyelesaikan proses pematangan.",
+        "cbtKeyInsight": "Soal CBT No. 14 Paket 2 menanyakan tujuan langkah nomor 7 (memanfaatkan sisa panas wajan agar telur tetap lembut)."
+      }
+    ],
+    "wordCount": 215,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-10",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 16 - 20",
+    "titleEn": "Expository Text: The Top Ten Increasing Jobs by 2030",
+    "titleId": "Teks Eksposisi: 10 Pekerjaan dengan Pertumbuhan Tertinggi Menjelang 2030",
+    "genre": "Economic & Workplace Analysis",
+    "genreBadge": "Career Trends",
+    "level": "B2 - Upper Intermediate",
+    "summaryEn": "An analytical expository passage projecting future labor market shifts by 2030, driven by green agriculture, e-commerce delivery logistics, software engineering, and construction booms.",
+    "summaryId": "Teks analisis ketenagakerjaan yang memproyeksikan pergeseran pasar kerja dunia menjelang tahun 2030, didorong oleh inisiatif pertanian hijau, logistik e-commerce, rekayasa peranti lunak, dan konstruksi.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "The Top Ten Increasing Jobs by 2030",
+        "idTranslation": "10 Pekerjaan dengan Pertumbuhan Tertinggi Menjelang 2030",
+        "keyWords": [
+          "Jobs 2030",
+          "Labor Market"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "The job sectors are likely to change significantly by 2030, with numerous areas experiencing rapid growth. According to predictions, agricultural laborers and farmers will remain important to many economies, ranked first on the list. This trend is being driven by sustainability measures aiming at lowering carbon emissions and dealing with climate change, which are expected to create nearly 30 million new jobs worldwide.",
+        "idTranslation": "Sektor ketenagakerjaan diperkirakan akan mengalami perubahan signifikan menjelang tahun 2030, dengan berbagai bidang mengalami pertumbuhan pesat. Menurut prediksi para analis, buruh tani dan petani akan tetap memegang peranan krusial bagi perekonomian banyak negara, bahkan menempati peringkat pertama dalam daftar pertumbuhan tenaga kerja. Tren ini didorong oleh kebijakan keberlanjutan global yang bertujuan memangkas emisi karbon dan mengatasi perubahan iklim, yang diproyeksikan membuka hampir 30 juta lapangan kerja baru di seluruh dunia.",
+        "keyWords": [
+          "likely to change",
+          "agricultural laborers",
+          "sustainability measures",
+          "carbon emissions",
+          "climate change"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "Due to the ongoing growth of e-commerce and customer demand for fast shipping, delivery service drivers and light-duty truck drivers are going to see substantial growth in the near future. As technological advancement speeds up every sector, there is also a significant demand for software and application developers. As building projects grow, more people will be interested in construction-related occupations, such as constructors, framers, and finishers. To complete the top five increasing jobs by 2030 is retail sales clerks, which indicates the continued demand for consumer retail services.",
+        "idTranslation": "Seiring maraknya ekspansi perdagangan daring (e-commerce) dan tingginya tuntutan konsumen akan pengiriman barang kilat, para pengemudi kurir pengantaran dan pengemudi truk muatan ringan akan menikmati lonjakan peluang kerja yang sangat besar dalam waktu dekat. Seiring percepatan adopsi teknologi di setiap lini industri, terdapat pula permintaan masif akan pengembang peranti lunak (software developers) dan pengembang aplikasi. Bersamaan dengan menjamurnya proyek infrastruktur fisik, lapangan kerja di bidang konstruksi—seperti tukang bangunan, pembuat kerangka, dan pekerja finishing—akan kian diminati. Melengkapi daftar lima besar profesi dengan pertumbuhan tertinggi menjelang 2030 adalah pramuniaga ritel, yang menegaskan tingginya kebutuhan akan pelayanan belanja langsung kepada konsumen.",
+        "keyWords": [
+          "e-commerce",
+          "delivery drivers",
+          "software developers",
+          "construction",
+          "retail sales clerks"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Furthermore, employment in the food and beverage service industry, as well as eldercare and nursing health workers, is projected to surge exponentially. Societies must proactively invest in re-skilling programs, ensuring that tomorrow's workforce is adequately equipped with both technical digital expertise and essential human adaptability.",
+        "idTranslation": "Lebih lanjut, penyerapan tenaga kerja di industri layanan makanan dan minuman, serta tenaga perawat lansia (eldercare) dan praktisi kesehatan, diproyeksikan melonjak secara eksponensial. Masyarakat dan institusi pendidikan dituntut untuk secara proaktif berinvestasi dalam program peningkatan keterampilan (re-skilling), guna memastikan para pencari kerja masa depan dibekali kecakapan digital teknis sekaligus kemampuan adaptasi manusiawi yang lentur.",
+        "keyWords": [
+          "projected",
+          "eldercare",
+          "surge exponentially",
+          "re-skilling",
+          "workforce"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "sustainability measures",
+        "phonetic": "/səˌsteɪnəˈbɪləti ˈmeʒəz/",
+        "pos": "noun (plural)",
+        "defEn": "Policies and practical actions taken to protect the environment and preserve natural resources.",
+        "defId": "Langkah-langkah atau kebijakan keberlanjutan lingkungan hidup.",
+        "example": "Adopting solar power is part of the city's broader sustainability measures."
+      },
+      {
+        "word": "substantial",
+        "phonetic": "/səbˈstænʃl/",
+        "pos": "adjective",
+        "defEn": "Of considerable importance, quantity, or degree.",
+        "defId": "Besar, substansial, atau dalam jumlah yang banyak.",
+        "example": "Logistics companies anticipate a substantial increase in delivery volume."
+      },
+      {
+        "word": "re-skilling",
+        "phonetic": "/riː ˈskɪlɪŋ/",
+        "pos": "noun",
+        "defEn": "The process of learning new skills so you can do a different job or adapt to changing demands.",
+        "defId": "Pelatihan ulang untuk menguasai keterampilan baru sesuai kebutuhan zaman.",
+        "example": "Governments fund re-skilling courses to help factory workers transition into tech jobs."
+      },
+      {
+        "word": "exponentially",
+        "phonetic": "/ˌekspəˈnenʃəli/",
+        "pos": "adverb",
+        "defEn": "At a very rapid and increasing rate.",
+        "defId": "Secara luar biasa cepat dan berlipat ganda.",
+        "example": "Demand for cloud storage grew exponentially over the past five years."
+      },
+      {
+        "word": "retail sales clerks",
+        "phonetic": "/ˈriːteɪl seɪlz klɑːks/",
+        "pos": "noun (plural)",
+        "defEn": "Store workers who assist customers, handle transactions, and organize stock.",
+        "defId": "Pramuniaga toko ritel; pelayan kasir dan penata barang di toko.",
+        "example": "Retail sales clerks remain vital for personalized customer assistance."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Future Predictions with 'Are Projected to' & 'Are Going to'",
+        "formula": "Subject + is/are likely to / is/are projected to + Verb Base",
+        "explanationEn": "Used in analytical and economic forecasts to state high-probability future workforce trajectories.",
+        "explanationId": "Pola ekspresi masa depan untuk memaparkan proyeksi dan ramalan tren ketenagakerjaan berdasarkan data statistik.",
+        "examples": [
+          "Job sectors are likely to change significantly.",
+          "Delivery drivers are going to see substantial growth."
+        ]
+      },
+      {
+        "topic": "Cause-and-Effect with 'Due to' & 'Driven by'",
+        "formula": "Effect + is driven by / due to + Noun Phrase",
+        "explanationEn": "Identifies the macro-economic forces responsible for job creation.",
+        "explanationId": "Menghubungkan lonjakan lapangan kerja dengan faktor pemicunya seperti e-commerce dan krisis iklim.",
+        "examples": [
+          "This trend is being driven by sustainability measures.",
+          "Due to the ongoing growth of e-commerce..."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "General Forecast",
+        "partId": "Prakiraan Umum",
+        "descriptionEn": "Global job transformation by 2030 and surprising #1 rank of agricultural workers.",
+        "descriptionId": "Transformasi pasar kerja global dan petani/buruh tani di peringkat 1.",
+        "excerpt": "The job sectors are likely to change significantly by 2030... agricultural laborers ranked first..."
+      },
+      {
+        "part": "Top Five Job Categories",
+        "partId": "5 Sektor Pekerjaan Teratas",
+        "descriptionEn": "Drivers (e-commerce), developers (software), construction, and retail clerks.",
+        "descriptionId": "Kurir pengiriman, programmer aplikasi, tukang konstruksi, dan pramuniaga toko.",
+        "excerpt": "delivery service drivers... software developers... construction-related occupations... retail clerks..."
+      },
+      {
+        "part": "Broader Outlook & Strategic Call",
+        "partId": "Sektor Lain & Rekomendasi Re-skilling",
+        "descriptionEn": "Surge in eldercare and food services, and requirement for human re-skilling.",
+        "descriptionId": "Lonjakan perawat lansia dan kuliner, serta urgensi program pelatihan keterampilan baru.",
+        "excerpt": "employment in food service, eldercare... surge exponentially... invest in re-skilling programs."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Peringkat Pertama Pertumbuhan Pekerjaan (#1 Ranked Job)",
+        "strategyEn": "Do not assume high-tech is #1 automatically. Read closely: 'agricultural laborers and farmers will remain important... ranked first on the list' due to 30M green jobs.",
+        "strategyId": "Jangan berasumsi pekerjaan teknologi selalu ranking 1. Teks secara jelas menyebutkan: buruh tani dan petani menempati peringkat pertama karena proyek hijau global.",
+        "cbtKeyInsight": "Soal CBT No. 16 dan 17 Paket 2 menanyakan pekerjaan peringkat pertama versi laporan: Agricultural laborers and farmers."
+      },
+      {
+        "topic": "Faktor Pendorong Pengemudi Kurir (Drivers' Demand Factors)",
+        "strategyEn": "Link delivery driver growth directly to 'e-commerce expansion' and 'demand for fast shipping', not to public transportation changes.",
+        "strategyId": "Hubungkan lonjakan kebutuhan sopir kurir dengan maraknya belanja online (e-commerce) dan tuntutan kiriman cepat.",
+        "cbtKeyInsight": "Soal CBT No. 18 Paket 2 menanyakan penyebab tingginya permintaan supir pengiriman barang."
+      }
+    ],
+    "wordCount": 208,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-11",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 21 - 25",
+    "titleEn": "Vocational Recount: Interning at MageHub Indonesia",
+    "titleId": "Teks Recount Kejuruan: Pengalaman Magang di MageHub Indonesia",
+    "genre": "Design Vocational Recount",
+    "genreBadge": "Design Internship",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A personal recount by Aidil, a vocational Visual Communication Design (DKV) student, recounting his two-month remote internship at MageHub Indonesia solving real-world UI/UX client case studies under professional mentorship.",
+    "summaryId": "Teks pengalaman pribadi oleh Aidil, siswa SMK jurusan Desain Komunikasi Visual (DKV), yang mengisahkan pengalaman magang daring selama dua bulan di MageHub Indonesia menyelesaikan proyek studi kasus desain nyata.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "My Interning Experience in MageHub",
+        "idTranslation": "Pengalaman Magang Saya di MageHub",
+        "keyWords": [
+          "Internship",
+          "MageHub Indonesia",
+          "DKV"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Hello, my name is Aidil. I am a student of the Visual Communication Design program at the state vocational high school’s Faculty of Fine Arts and Design. Last year, I interned at MageHub Indonesia. The internship lasted two months, taking place every weekday from 8:00 AM to 4:00 PM on the MageHub Indonesia online platform.",
+        "idTranslation": "Halo, nama saya Aidil. Saya adalah siswa program keahlian Desain Komunikasi Visual (DKV) di SMK Negeri Seni Rupa dan Desain. Tahun lalu, saya menjalani program Praktik Kerja Lapangan (magang) di MageHub Indonesia. Magang tersebut berlangsung selama dua bulan, diselenggarakan setiap hari kerja mulai pukul 08.00 hingga 16.00 melalui platform daring MageHub Indonesia.",
+        "keyWords": [
+          "Visual Communication Design",
+          "vocational",
+          "interned",
+          "lasted two months",
+          "online platform"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "I joined the internship with three other students from various programs and schools. My fellow interns and I had a training coordinator who served as a mentor during the internship. She assisted us with assignments and case study projects. She also connected us with trainers who would observe and assist the internship participants when we encountered obstacles or did not understand the material on the MageHub platform.",
+        "idTranslation": "Saya mengikuti program magang ini bersama tiga rekan siswa lainnya dari sekolah dan jurusan yang berbeda-beda. Rekan-rekan magang saya dan saya dibimbing oleh seorang koordinator pelatihan yang bertindak sebagai mentor selama masa magang. Beliau senantiasa membantu kami dalam menyelesaikan tugas dan proyek studi kasus. Beliau juga menghubungkan kami dengan para instruktur ahli yang memantau dan membimbing peserta magang saat kami menemui kendala atau kesulitan memahami materi di platform MageHub.",
+        "keyWords": [
+          "fellow interns",
+          "training coordinator",
+          "mentor",
+          "case study projects",
+          "obstacles"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Interning students had to attend professional divisions according to their chosen programs, such as UI/UX design, digital marketing, and web development. In my UI/UX division, I learned how to create user personas, wireframes, and interactive prototypes for e-commerce mobile applications. At the end of the internship, we presented our final case study to senior company directors. This enriching experience bolstered my confidence and sharpened my design skills immensely.",
+        "idTranslation": "Para siswa magang ditempatkan pada divisi profesional sesuai dengan jurusan pilihan masing-masing, seperti desain UI/UX, pemasaran digital, dan pengembangan web. Di divisi UI/UX saya, saya belajar menyusun persona pengguna, membuat wireframe (kerangka desain), serta merancang purwarupa interaktif untuk aplikasi belanja seluler (e-commerce). Di penghujung masa magang, kami mempresentasikan proyek studi kasus akhir di hadapan para direktur senior perusahaan. Pengalaman berharga ini melipatgandakan rasa percaya diri saya dan mengasah keterampilan desain saya secara luar biasa.",
+        "keyWords": [
+          "professional divisions",
+          "UI/UX design",
+          "wireframes",
+          "interactive prototypes",
+          "bolstered confidence"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "mentor",
+        "phonetic": "/ˈmentɔː(r)/",
+        "pos": "noun",
+        "defEn": "An experienced and trusted adviser who guides a learner or junior colleague.",
+        "defId": "Pembimbing atau penasihat ahli yang mendampingi peserta magang.",
+        "example": "Our mentor reviewed our UI/UX layouts every morning."
+      },
+      {
+        "word": "obstacles",
+        "phonetic": "/ˈɒbstəklz/",
+        "pos": "noun (plural)",
+        "defEn": "Things that block one's way or hinder progress.",
+        "defId": "Kendala, rintangan, atau kesulitan yang dihadapi dalam pekerjaan.",
+        "example": "Whenever we met technical obstacles, our trainer offered helpful suggestions."
+      },
+      {
+        "word": "wireframes",
+        "phonetic": "/ˈwaɪəfreɪmz/",
+        "pos": "noun (plural)",
+        "defEn": "Basic visual guides that represent the skeletal framework of a website or app.",
+        "defId": "Kerangka dasar tata letak antarmuka situs atau aplikasi seluler.",
+        "example": "Creating wireframes helps designers map user navigation prior to final styling."
+      },
+      {
+        "word": "prototypes",
+        "phonetic": "/ˈprəʊtətaɪps/",
+        "pos": "noun (plural)",
+        "defEn": "First, preliminary, or interactive versions of a device or vehicle from which other forms are developed.",
+        "defId": "Purwarupa interaktif yang dapat diuji coba langsung oleh pengguna.",
+        "example": "We built clickable prototypes in Figma to test checkout speed."
+      },
+      {
+        "word": "bolstered",
+        "phonetic": "/ˈbəʊlstəd/",
+        "pos": "verb",
+        "defEn": "Supported, strengthened, or boosted.",
+        "defId": "Memperkuat, memperkokoh, atau mendongkrak rasa percaya diri.",
+        "example": "Praise from the creative director bolstered the intern's self-esteem."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Direct & Indirect Objects in Work Recounts",
+        "formula": "Subject + Verb + Indirect Object + Direct Object",
+        "explanationEn": "Used to describe how mentors provided guidance, assignments, and tools to the student team.",
+        "explanationId": "Pola kalimat untuk menceritakan bagaimana mentor memberikan bimbingan dan materi kepada siswa magang.",
+        "examples": [
+          "She assisted us with assignments.",
+          "She connected us with professional trainers."
+        ]
+      },
+      {
+        "topic": "Prepositional Phrases of Modality & Platform",
+        "formula": "on the [Platform] / from [Time 1] to [Time 2]",
+        "explanationEn": "Accurately specifies remote working environments and schedules.",
+        "explanationId": "Frasa keterangan waktu dan media daring untuk menjelaskan jadwal kerja magang secara presisi.",
+        "examples": [
+          "...taking place every weekday from 8:00 AM to 4:00 PM on the online platform."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Pengenalan",
+        "descriptionEn": "Aidil introduces himself, his DKV vocational department, company (MageHub), and 2-month duration.",
+        "descriptionId": "Perkenalan Aidil, jurusan DKV, durasi magang 2 bulan (08.00-16.00), dan platform MageHub.",
+        "excerpt": "Hello, my name is Aidil. I am a student of the Visual Communication Design program..."
+      },
+      {
+        "part": "Mentorship & Division Activities",
+        "partId": "Bimbingan & Aktivitas Divisi",
+        "descriptionEn": "Four students working under a training coordinator on UI/UX, wireframes, and prototypes.",
+        "descriptionId": "Empat siswa dipandu koordinator training merancang wireframe dan purwarupa aplikasi.",
+        "excerpt": "I joined with three other students... In my UI/UX division, I learned how to create wireframes..."
+      },
+      {
+        "part": "Culmination & Evaluation",
+        "partId": "Evaluasi Akhir & Dampak Positif",
+        "descriptionEn": "Final presentation to company directors and enhanced vocational confidence.",
+        "descriptionId": "Presentasi akhir di hadapan dewan direksi dan peningkatan kompetensi desain.",
+        "excerpt": "we presented our final case study to senior company directors. This enriching experience bolstered my confidence..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Jumlah Rekan Magang (Participant Count Details)",
+        "strategyEn": "Watch out for exact student counts: Aidil joined 'with three other students', meaning there were 4 students in total in their interning cohort.",
+        "strategyId": "Perhatikan jumlah peserta: Aidil bergabung 'bersama tiga siswa lainnya', yang berarti terdapat total 4 siswa dalam kelompok magang tersebut.",
+        "cbtKeyInsight": "Soal CBT No. 21 dan 22 Paket 2 menguji detail peserta dan pembagian tugas di MageHub."
+      },
+      {
+        "topic": "Peran Koordinator Pelatihan (Role of Training Coordinator)",
+        "strategyEn": "Identify the coordinator's key function: she acted as their main mentor, guided assignments, and connected students with trainers when encountering problems.",
+        "strategyId": "Ketahui fungsi utama koordinator: bertindak sebagai mentor, membantu studi kasus, dan menghubungkan siswa dengan instruktur pendamping.",
+        "cbtKeyInsight": "Soal CBT No. 23 Paket 2 menanyakan peran koordinator pelatihan terhadap peserta magang."
+      }
+    ],
+    "wordCount": 201,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-12",
+    "package": "Paket 2",
+    "packageNum": 2,
+    "qRange": "Soal 26 - 30",
+    "titleEn": "Narrative Text: Elsa’s Online Bakery",
+    "titleId": "Teks Naratif: Toko Roti Daring Elsa",
+    "genre": "Student Entrepreneurship & Business Narrative",
+    "genreBadge": "Entrepreneurship",
+    "level": "B1 - Intermediate",
+    "summaryEn": "An inspiring narrative about Elsa, an 11th-grade vocational culinary student in Yogyakarta, who turned a school entrepreneurship assignment into a thriving home-baked cookie business via Instagram.",
+    "summaryId": "Kisah narasi inspiratif mengenai Elsa, siswi kelas 11 jurusan Tata Boga di Yogyakarta, yang mengubah tugas kewirausahaan sekolah menjadi bisnis kue kering rumahan yang sukses lewat Instagram.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "Elsa’s Online Bakery",
+        "idTranslation": "Toko Kue Daring Elsa",
+        "keyWords": [
+          "Elsa's Bakery",
+          "Culinary Student"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Elsa, a grade 11 culinary student from Yogyakarta, had always loved baking. Her cookies were popular among friends and family, but she never thought of selling them—until her teacher assigned a project on small business development.",
+        "idTranslation": "Elsa, seorang siswi kelas 11 jurusan Tata Boga asal Yogyakarta, sejak lama gemar membuat kue. Kue kering buatannya sangat digemari di kalangan teman dan keluarga, namun ia tidak pernah terpikir untuk menjualnya—sampai suatu ketika gurunya memberikan tugas proyek pengembangan usaha kecil.",
+        "keyWords": [
+          "culinary student",
+          "baking",
+          "small business development"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "Elsa decided to give it a try. She baked a batch of chocolate chip cookies and posted a few photos on her Instagram account with the caption, “Homemade and fresh! DM to order.” She didn’t expect much, but within a few hours, she had five orders.",
+        "idTranslation": "Elsa memutuskan untuk mencobanya. Ia memanggang satu loyang kue kering butir cokelat (chocolate chip cookies) dan mengunggah beberapa fotonya ke akun Instagram miliknya dengan takarir: 'Buatan rumahan dan selalu segar! Kirim DM untuk memesan.' Ia tidak memasang ekspektasi tinggi, tetapi hanya dalam beberapa jam, lima pesanan langsung masuk.",
+        "keyWords": [
+          "give it a try",
+          "chocolate chip cookies",
+          "caption",
+          "DM to order"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "That weekend, she baked more cookies and started packaging them in simple boxes with hand-written thank-you notes. Word spread quickly, and soon she was receiving orders from neighbors, schoolmates, and even strangers. Managing schoolwork and her bakery became challenging, so Elsa learned to manage her time strictly by baking only in the late afternoons and on weekends. Today, Elsa's online bakery generates a steady supplementary income, teaching her financial literacy and practical business resilience.",
+        "idTranslation": "Pada akhir pekan itu, Elsa memanggang lebih banyak kue dan mulai mengemasnya ke dalam kotak-kotak sederhana yang disertai kartu ucapan terima kasih bertuliskan tangan. Kabar kelezatan kuenya menyebar luas dari mulut ke mulut, dan tak lama kemudian ia menerima pesanan dari para tetangga, teman sekolah, bahkan orang-orang yang belum dikenalnya. Mengatur waktu antara tugas sekolah dan pesanan kue sempat menjadi tantangan tersendiri, sehingga Elsa belajar menerapkan manajemen waktu yang ketat dengan hanya memanggang pada sore hari dan akhir pekan. Kini, toko kue daring Elsa menghasilkan pemasukan tambahan yang stabil, memberinya pelajaran berharga mengenai literasi keuangan dan kegigihan berbisnis secara nyata.",
+        "keyWords": [
+          "packaging",
+          "hand-written thank-you notes",
+          "word spread quickly",
+          "manage her time",
+          "steady supplementary income"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "culinary",
+        "phonetic": "/ˈkʌlɪnəri/",
+        "pos": "adjective",
+        "defEn": "Connected with cooking or food preparation.",
+        "defId": "Tata boga; berkaitan dengan seni memasak dan dapur.",
+        "example": "Vocational culinary students learn bakery, pastry, and food safety."
+      },
+      {
+        "word": "batch",
+        "phonetic": "/bætʃ/",
+        "pos": "noun",
+        "defEn": "A quantity of goods produced at one time (e.g., one oven load of cookies).",
+        "defId": "Satu loyang atau satu kelompok adonan kue yang dipanggang bersamaan.",
+        "example": "She pulled a fresh batch of almond cookies from the oven."
+      },
+      {
+        "word": "word spread",
+        "phonetic": "/wɜːd spred/",
+        "pos": "phrase",
+        "defEn": "News or information became known to a lot of people rapidly.",
+        "defId": "Kabar berhembus cepat atau menyebar dari mulut ke mulut.",
+        "example": "Word spread rapidly about the bakery's delicious cinnamon rolls."
+      },
+      {
+        "word": "supplementary",
+        "phonetic": "/ˌsʌplɪˈmentri/",
+        "pos": "adjective",
+        "defEn": "Additional to what already exists; extra.",
+        "defId": "Tambahan atau pelengkap penghasilan.",
+        "example": "Her side business provides a helpful supplementary income for tuition."
+      },
+      {
+        "word": "resilience",
+        "phonetic": "/rɪˈzɪliəns/",
+        "pos": "noun",
+        "defEn": "The capacity to recover quickly from difficulties; toughness.",
+        "defId": "Daya lentur, ketangguhan, dan ketabahan menghadapi rintangan.",
+        "example": "Entrepreneurs need resilience to navigate shifting customer preferences."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Past Perfect vs Simple Past for Background Events",
+        "formula": "Subject + had + V3 ... before / until + Subject + V2",
+        "explanationEn": "Used to describe Elsa's lifelong love of baking that existed prior to her teacher assigning the business project.",
+        "explanationId": "Menyatakan hobi membuat kue yang sudah berlangsung lama sebelum gurunya memberikan tugas sekolah.",
+        "examples": [
+          "Elsa had always loved baking... until her teacher assigned a project."
+        ]
+      },
+      {
+        "topic": "Gerunds as Direct Objects of Prepositions",
+        "formula": "Preposition + Verb-ing (by baking, with packaging, in managing)",
+        "explanationEn": "Expresses means or manner of overcoming student-business dilemmas.",
+        "explanationId": "Penggunaan bentuk gerund setelah preposisi untuk menjelaskan cara Elsa membagi waktu antara sekolah dan bisnis.",
+        "examples": [
+          "She learned to manage her time strictly by baking only in the afternoons.",
+          "...packaging them with hand-written notes."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Awal",
+        "descriptionEn": "Introduction of Elsa, her grade (11th culinary, Yogyakarta), and school project trigger.",
+        "descriptionId": "Pengenalan Elsa, kelas 11 tata boga di Yogyakarta, dan tugas proyek kewirausahaan dari guru.",
+        "excerpt": "Elsa, a grade 11 culinary student from Yogyakarta, had always loved baking... teacher assigned a project..."
+      },
+      {
+        "part": "Initiation & Growth",
+        "partId": "Awal Usaha & Perkembangan",
+        "descriptionEn": "First batch on Instagram, initial 5 orders, personal touch with handwritten notes, and word of mouth.",
+        "descriptionId": "Unggahan Instagram perdana, 5 pesanan pertama, dan kartu ucapan tulisan tangan.",
+        "excerpt": "She baked a batch of chocolate chip cookies and posted... within a few hours, she had five orders..."
+      },
+      {
+        "part": "Challenge & Resolution",
+        "partId": "Tantangan Waktu & Keberhasilan",
+        "descriptionEn": "Time management discipline, baking strictly after school, and steady entrepreneurial success.",
+        "descriptionId": "Tantangan membagi waktu sekolah, jadwal memanggang sore hari, dan keuntungan finansial.",
+        "excerpt": "Managing schoolwork became challenging, so Elsa learned to manage time... generates steady income."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Pemicu Awal Berdirinya Usaha (Business Catalyst Identification)",
+        "strategyEn": "Identify why Elsa started selling cookies: it was NOT due to financial poverty, but triggered by a high school business development assignment from her culinary teacher.",
+        "strategyId": "Identifikasi pemicu usaha: Elsa mulai berjualan BUKAN karena kesulitan ekonomi, melainkan karena tugas proyek pengembangan usaha kecil dari guru sekolahnya.",
+        "cbtKeyInsight": "Soal CBT No. 26 dan 27 Paket 2 menanyakan awal mula Elsa berjualan kue kering (tugas proyek dari gurunya)."
+      },
+      {
+        "topic": "Strategi Mengatasi Beban Waktu (Time Management Solutions)",
+        "strategyEn": "Look for how Elsa solved the conflict between school homework and orders: she restricted baking strictly to late afternoons and weekends.",
+        "strategyId": "Temukan cara Elsa menyeimbangkan sekolah dan pesanan kue: ia membatasi waktu memanggang hanya pada sore hari dan akhir pekan.",
+        "cbtKeyInsight": "Soal CBT No. 29 dan 30 Paket 2 menguji solusi Elsa dalam manajemen waktu antara tugas sekolah dan toko kuenya."
+      }
+    ],
+    "wordCount": 165,
+    "estimatedReadTime": "1 min read"
+  },
+  {
+    "id": "module-13",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 1 - 5",
+    "titleEn": "Cultural Food Report: Ayam Cincane from Samarinda",
+    "titleId": "Laporan Kuliner Budaya: Ayam Cincane Khas Samarinda",
+    "genre": "Cultural & Culinary Heritage",
+    "genreBadge": "Cultural Food",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A cultural report celebrating Ayam Cincane, an iconic dish from Samarinda, East Kalimantan, made with free-range chicken stewed in local spices, grilled over charcoal, and revered for its rich nutritional profile.",
+    "summaryId": "Laporan kuliner budaya yang mengulas Ayam Cincane, hidangan legendaris khas Samarinda, Kalimantan Timur, berbahan dasar ayam kampung kaya bumbu rempah yang dipanggang arang dan sarat gizi.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "Ayam Cincane: A Traditional Dish from Samarinda",
+        "idTranslation": "Ayam Cincane: Hidangan Tradisional dari Samarinda",
+        "keyWords": [
+          "Ayam Cincane",
+          "Samarinda",
+          "East Kalimantan"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish's tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.",
+        "idTranslation": "Ayam Cincane merupakan sajian tradisional khas Samarinda di Kalimantan Timur. Bahan baku utamanya adalah ayam kampung yang memiliki tekstur daging lebih padat, kenyal, dan kaya serat. Untuk memasak Ayam Cincane, ayam diungkep bersama aneka rempah lokal pilihan, menghasilkan cita rasa gurih dan pedas berpadu tekstur daging yang empuk. Aroma harumnya yang menggugah selera kian memikat saat ayam kemudian dipanggang di atas bara arang atau kayu bakar. Ayam Cincane kerap disajikan pada perhelatan istimewa seperti pesta pernikahan, upacara adat keagamaan, serta jamuan menyambut tamu kehormatan.",
+        "keyWords": [
+          "traditional dish",
+          "free-range chicken",
+          "fibrous",
+          "array of local spices",
+          "charcoal fire",
+          "honored guests"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children's growth. All of those nutrients have benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.",
+        "idTranslation": "Di samping kelezatannya yang tersohor, Ayam Cincane juga sarat akan zat gizi. Ayam kampung—yang menjadi syarat wajib dalam resep aslinya—kaya akan protein hewani bermutu tinggi, kalsium, kalium, vitamin A dan B, serta mineral penting seperti zat besi; yang semuanya sangat bermanfaat bagi kebugaran tubuh. Kandungan nutrisi ini membantu menjaga kesehatan dan kepadatan mineral tulang, membentuk massa otot, menekan risiko cedera, serta menstimulasi tumbuh kembang anak-anak. Semua nutrisi tersebut juga memberikan faedah besar bagi kesehatan ibu hamil dan menyusui. Tidaklah berlebihan bila dikatakan bahwa Ayam Cincane bermanfaat bagi kesehatan sekaligus memiliki cita rasa yang luar biasa sedap.",
+        "keyWords": [
+          "nutrients",
+          "calcium",
+          "potassium",
+          "bone mineral density",
+          "pregnant and nursing women",
+          "beneficent"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Ayam Cincane also has an interesting history. People say this dish was first created in the Kutai Kartanegara Sultanate royal kitchens. Centuries ago, only royals and high nobility were privileged to enjoy this culinary masterpiece during grand court celebrations. Today, Ayam Cincane is readily accessible in local restaurants across East Kalimantan, serving as a proud emblem of regional identity.",
+        "idTranslation": "Ayam Cincane juga menyimpan rekam sejarah yang memikat. Konon, hidangan ini mulanya diciptakan di dapur istana Kesultanan Kutai Kartanegara. Berabad-abad lampau, hanya kalangan bangsawan dan keluarga kerajaan yang berhak menikmati mahakarya kuliner ini dalam jamuan agung istana. Kini, Ayam Cincane dapat dengan mudah dinikmati di berbagai rumah makan di Kalimantan Timur, menjelma menjadi lambang kebanggaan identitas budaya daerah.",
+        "keyWords": [
+          "history",
+          "Kutai Kartanegara Sultanate",
+          "royal kitchens",
+          "nobility",
+          "regional identity"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "free-range chicken",
+        "phonetic": "/ˌfriː reɪndʒ ˈtʃɪkɪn/",
+        "pos": "noun",
+        "defEn": "Chicken allowed to roam freely outdoors rather than confined to cages, resulting in leaner and firmer meat (ayam kampung).",
+        "defId": "Ayam kampung yang dipelihara di alam bebas tanpa sangkar sempit sehingga dagingnya lebih padat dan berserat.",
+        "example": "Traditional recipes insist on free-range chicken for authentic texture."
+      },
+      {
+        "word": "fibrous",
+        "phonetic": "/ˈfaɪbrəs/",
+        "pos": "adjective",
+        "defEn": "Consisting of or characterized by fibers; tough and chewy in meat.",
+        "defId": "Berserat; memiliki serat-serat daging yang padat dan kenyal saat dikunyah.",
+        "example": "Free-range chicken has more fibrous muscle tissue than commercial broilers."
+      },
+      {
+        "word": "tempting aroma",
+        "phonetic": "/ˈtemptɪŋ əˈrəʊmə/",
+        "pos": "phrase",
+        "defEn": "An attractive, mouth-watering smell.",
+        "defId": "Aroma harum yang sangat menggugah selera makan.",
+        "example": "The tempting aroma of spices filled the entire dining hall."
+      },
+      {
+        "word": "beneficent",
+        "phonetic": "/bɪˈnefɪsnt/",
+        "pos": "adjective",
+        "defEn": "Resulting in good; beneficial or wholesome.",
+        "defId": "Membawa manfaat baik atau berfaedah positif bagi kesehatan.",
+        "example": "Herbs used in traditional broths have beneficent medicinal properties."
+      },
+      {
+        "word": "nobility",
+        "phonetic": "/nəʊˈbɪləti/",
+        "pos": "noun",
+        "defEn": "The group of people belonging to the highest social class in a country; aristocrats.",
+        "defId": "Kaum bangsawan atau kerabat ningrat kerajaan.",
+        "example": "Centuries ago, the delicacy was reserved strictly for the royal nobility."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Appositive Phrases and Relative Clauses in Food Writing",
+        "formula": "Noun + —which is required in the recipe— + Verb",
+        "explanationEn": "Used to embed nutritional details and ingredient requirements directly into compound sentences.",
+        "explanationId": "Klausa penjelas berapit tanda pisah/koma untuk menegaskan bahan baku wajib dalam tradisi kuliner lokal.",
+        "examples": [
+          "Free-range chicken—which is required in the recipe—is rich in protein..."
+        ]
+      },
+      {
+        "topic": "Passive Voice with Royal Attribution",
+        "formula": "was/were + V3 (was first created, was often served)",
+        "explanationEn": "Describes historical customs and court traditions where the royal kitchen cooks remain general.",
+        "explanationId": "Bentuk pasif untuk melukiskan asal mula hidangan di masa kerajaan Kutai Kartanegara.",
+        "examples": [
+          "This dish was first created in the Kutai royal kitchens.",
+          "Ayam Cincane is often served at special events."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "General Identification",
+        "partId": "Identifikasi Hidangan",
+        "descriptionEn": "Origin (Samarinda, East Kalimantan), free-range chicken meat, and charcoal grilling technique.",
+        "descriptionId": "Asal Samarinda, penggunaan ayam kampung berdaging serat, dan pemanggangan arang.",
+        "excerpt": "Ayam Cincane is a traditional dish from Samarinda in East Kalimantan... free-range chicken..."
+      },
+      {
+        "part": "Nutritional Value & Health Benefits",
+        "partId": "Manfaat Nutrisi & Medis",
+        "descriptionEn": "High protein, calcium, potassium, bone density support, and benefits for pregnant women.",
+        "descriptionId": "Kandungan kalsium, zat besi, pertumbuhan anak, dan pemulihan ibu hamil/menyusui.",
+        "excerpt": "Free-range chicken is rich in protein, calcium, potassium... bone mineral density... pregnant women..."
+      },
+      {
+        "part": "Historical Origins & Evolution",
+        "partId": "Sejarah Kerajaan Kutai Kartanegara",
+        "descriptionEn": "Origins in Sultanate royal feasts transitioning into everyday regional culinary pride.",
+        "descriptionId": "Dari santapan eksklusif sultan dan bangsawan hingga menjadi kuliner kebanggaan rakyat.",
+        "excerpt": "People say this dish was first made in the Kutai Kartanegara Sultanate royal kitchens... emblem of regional identity."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Identifikasi Bahan Baku Wajib (Mandatory Ingredient Identification)",
+        "strategyEn": "Note the strict requirement: 'free-range chicken' (ayam kampung), whose firmer, chewier, and fibrous texture is necessary for the dish's identity.",
+        "strategyId": "Perhatikan syarat bahan wajib: 'free-range chicken' (ayam kampung) yang berserat padat dan kenyal, bukan ayam potong broiler biasa.",
+        "cbtKeyInsight": "Soal CBT No. 1 Paket 3 menanyakan bahan utama Ayam Cincane (free-range chicken)."
+      },
+      {
+        "topic": "Manfaat Medis & Kelompok Konsumen (Nutritional Beneficiaries)",
+        "strategyEn": "Scan for age and health beneficiaries mentioned: children (growth & bones), athletes (muscles), and especially pregnant and nursing women.",
+        "strategyId": "Identifikasi pihak yang memperoleh manfaat gizi: anak-anak (tulang), pembentukan otot, dan secara spesifik ibu hamil serta menyusui.",
+        "cbtKeyInsight": "Soal CBT No. 2 dan 3 Paket 3 menguji faedah kesehatan konsumsi ayam kampung pada Ayam Cincane."
+      }
+    ],
+    "wordCount": 253,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-14",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 6 - 10",
+    "titleEn": "Procedural Guide: How to Grow Mung Beans in Pots",
+    "titleId": "Panduan Prosedur: Cara Menanam Kacang Hijau dalam Pot",
+    "genre": "Agricultural & Botanical Procedure",
+    "genreBadge": "Botany Guide",
+    "level": "A2 - Pre-Intermediate",
+    "summaryEn": "A practical step-by-step agricultural procedure detailing container selection, soil preparation, seed soaking, planting depth, and moisture management for cultivating healthy mung bean plants at home.",
+    "summaryId": "Panduan langkah bertani praktis di rumah mengenai pemilihan pot, persiapan tanah gembur, perendaman benih, kedalaman tanam, dan penyiraman untuk menumbuhkan kacang hijau subur.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "How to Grow Mung Beans in Pots",
+        "idTranslation": "Cara Menanam Kacang Hijau dalam Pot",
+        "keyWords": [
+          "Mung Beans",
+          "Potted Gardening"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "list",
+        "en": "Materials Needed:\n• Small pots or containers with drainage holes at the bottom\n• Fertile planting soil (a balanced mix of topsoil and compost)\n• High-quality green bean (mung bean) seeds\n• Clean water in a spray bottle or small watering can\n• A warm, sunny location (such as a windowsill or balcony)",
+        "idTranslation": "Bahan dan Alat yang Diperlukan:\n• Pot atau wadah kecil yang memiliki lubang drainase di bagian bawah\n• Tanah tanam subur (campuran seimbang tanah gembur dan kompos)\n• Benih kacang hijau berkualitas unggul\n• Air bersih dalam botol semprot atau ceret siram kecil\n• Tempat yang hangat dan terpapar sinar matahari (seperti ambang jendela atau balkon)",
+        "keyWords": [
+          "Materials Needed",
+          "drainage holes",
+          "Fertile planting soil",
+          "spray bottle",
+          "sunny location"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "list",
+        "en": "Steps:\n1. To grow mung beans in pots, first start by filling small containers with planting soil, leaving approximately 2 cm of space below the rim to prevent overflow when watering.\n2. Soak the mung bean seeds in a bowl of lukewarm water for 6 to 8 hours (or overnight) before planting to soften the outer seed coat and accelerate germination.\n3. Make small holes in the soil about 1.5 to 2 centimeters deep, spacing them at least 3 centimeters apart.\n4. Place one or two soaked seeds into each hole and gently cover them with loose soil.\n5. Moisten the soil gently using the spray bottle; avoid pouring heavy streams of water that might displace the shallow seeds.\n6. Place the containers in a bright spot receiving indirect sunlight during the first few days.\n7. Keep the soil consistently moist but never soggy. You should observe tender green sprouts emerging within 3 to 5 days.\n8. Once seedlings reach 5 cm tall, move them to a sunny area where they receive at least 6 hours of direct sunlight daily.",
+        "idTranslation": "Tahapan Penanaman:\n1. Untuk menanam kacang hijau di pot, mulailah dengan mengisi wadah kecil memakai tanah tanam, sisakan ruang sekitar 2 cm di bawah bibir pot agar air tidak meluap saat disiram.\n2. Rendam benih kacang hijau di mangkuk berisi air hangat suam-suam kuku selama 6 hingga 8 jam (atau semalaman) sebelum ditanam guna melunakkan kulit biji dan mempercepat proses perkecambahan.\n3. Buat lubang-lubang kecil pada tanah sedalam 1,5 hingga 2 sentimeter, dengan jarak antarlubang minimal 3 sentimeter.\n4. Masukkan satu atau dua benih yang telah direndam ke dalam setiap lubang, lalu tutup kembali secara perlahan dengan tanah gembur.\n5. Lembapkan tanah secara perlahan menggunakan botol semprot; hindari menuangkan air dengan aliran deras yang dapat menggeser posisi biji yang dangkal.\n6. Letakkan pot di tempat terang yang mendapatkan sinar matahari tidak langsung selama beberapa hari pertama.\n7. Jaga agar tanah senantiasa lembap tetapi tidak becek/tergenang. Anda akan melihat tunas hijau segar mulai muncul dalam kurun 3 hingga 5 hari.\n8. Setelah bibit mencapai tinggi 5 cm, pindahkan pot ke area terbuka yang terpapar sinar matahari langsung minimal 6 jam setiap hari.",
+        "keyWords": [
+          "rim",
+          "Soak",
+          "germination",
+          "spacing",
+          "Moisten",
+          "sprouts",
+          "seedlings"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "drainage holes",
+        "phonetic": "/ˈdreɪnɪdʒ həʊlz/",
+        "pos": "noun (plural)",
+        "defEn": "Openings at the bottom of a pot that allow excess water to escape, preventing root rot.",
+        "defId": "Lubang pembuangan air di dasar pot agar akar tidak membusuk terendam air.",
+        "example": "Ensure the planter has adequate drainage holes before adding soil."
+      },
+      {
+        "word": "germination",
+        "phonetic": "/ˌdʒɜːmɪˈneɪʃn/",
+        "pos": "noun",
+        "defEn": "The development of a plant from a seed or spore after a period of dormancy.",
+        "defId": "Perkecambahan; proses biji mulai bertunas dan tumbuh akar.",
+        "example": "Soaking seeds overnight significantly speeds up the germination rate."
+      },
+      {
+        "word": "rim",
+        "phonetic": "/rɪm/",
+        "pos": "noun",
+        "defEn": "The upper or outer edge of an object, typically something circular like a bowl or pot.",
+        "defId": "Bibir pot atau tepi bagian atas wadah.",
+        "example": "Leave 2 cm of space below the rim so water does not spill over."
+      },
+      {
+        "word": "lukewarm",
+        "phonetic": "/ˌluːkˈwɔːm/",
+        "pos": "adjective",
+        "defEn": "Only slightly warm; tepid.",
+        "defId": "Hangat-hangat kuku; bersuhu agak hangat.",
+        "example": "Use lukewarm water to hydrate dry seeds gently."
+      },
+      {
+        "word": "sprouts",
+        "phonetic": "/spraʊts/",
+        "pos": "noun (plural)",
+        "defEn": "Young shoots putting out from a germinating seed.",
+        "defId": "Tunas muda kecambah yang baru keluar dari biji.",
+        "example": "Green sprouts poked through the soil three days after planting."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Prepositional Phrases of Measurement & Depth",
+        "formula": "Preposition + [Distance / Depth] (about 1.5 to 2 cm deep, 2 cm below the rim)",
+        "explanationEn": "Used in botanical and technical gardening guides to provide accurate dimensional criteria.",
+        "explanationId": "Frasa preposisi penunjuk ukuran untuk memandu kedalaman lubang tanam dan jarak ideal antarlubang.",
+        "examples": [
+          "Leave 2 cm of space below the rim.",
+          "...about 1.5 to 2 centimeters deep."
+        ]
+      },
+      {
+        "topic": "Negative Imperatives for Safety & Quality Control",
+        "formula": "Avoid + Gerund (V-ing) / Never + Adjective",
+        "explanationEn": "Prevents common gardening errors like dislodging seeds or waterlogging roots.",
+        "explanationId": "Bentuk larangan halus dengan 'avoid + V-ing' agar benih tidak hanyut atau busuk tergenang.",
+        "examples": [
+          "Avoid pouring heavy streams of water.",
+          "Keep the soil consistently moist but never soggy."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Goal",
+        "partId": "Tujuan Instruksi",
+        "descriptionEn": "Title explaining the agricultural outcome: Growing mung beans in pots.",
+        "descriptionId": "Judul panduan: Cara menanam kacang hijau di dalam pot rumah.",
+        "excerpt": "How to Grow Mung Beans in Pots"
+      },
+      {
+        "part": "Apparatus & Materials",
+        "partId": "Bahan & Alat",
+        "descriptionEn": "Pots with drainage, fertile compost soil, spray bottle, mung bean seeds.",
+        "descriptionId": "Pot berlubang, tanah kompos subur, benih unggul, dan botol semprot.",
+        "excerpt": "Small pots with drainage holes, Fertile soil, green bean seeds, spray bottle..."
+      },
+      {
+        "part": "Method / Procedural Steps",
+        "partId": "Tahapan Bertanam",
+        "descriptionEn": "Filling soil, soaking seeds (6-8 hours), planting depth (2 cm), watering, sunlight exposure.",
+        "descriptionId": "Mengisi tanah, merendam biji 6-8 jam, melubangi 2 cm, menyemprot, dan menjemur.",
+        "excerpt": "1. Fill containers... 2. Soak mung bean seeds... 3. Make small holes 1.5-2 cm... 7. Keep moist..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Tujuan Merendam Biji (Reason for Soaking Seeds)",
+        "strategyEn": "Identify the biological reason for soaking in step #2: to soften the hard outer seed shell and accelerate germination.",
+        "strategyId": "Identifikasi alasan perendaman biji pada langkah 2: untuk melunakkan kulit luar biji yang keras dan mempercepat proses perkecambahan.",
+        "cbtKeyInsight": "Soal CBT No. 6 dan 7 Paket 3 menanyakan fungsi merendam biji kacang hijau selama 6-8 jam sebelum ditanam."
+      },
+      {
+        "topic": "Kedalaman Lubang Tanam (Depth & Spacing Specifications)",
+        "strategyEn": "Note numerical details: holes must be 1.5 to 2 cm deep, spaced 3 cm apart, leaving 2 cm below the pot rim.",
+        "strategyId": "Perhatikan angka spesifik: lubang sedalam 1,5-2 cm, jarak tanam minimal 3 cm, dan tanah disisakan 2 cm di bawah bibir pot.",
+        "cbtKeyInsight": "Soal CBT No. 8 Paket 3 menguji ketelitian siswa membaca angka kedalaman penanaman benih."
+      }
+    ],
+    "wordCount": 237,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-15",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 11 - 15",
+    "titleEn": "Personal Recount: My Memorable Trip to Mount Bromo",
+    "titleId": "Teks Recount Pribadi: Perjalanan Tak Terlupakan ke Gunung Bromo",
+    "genre": "Adventure & Nature Travel Recount",
+    "genreBadge": "Adventure Recount",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A vivid travel recount narrating a student's family adventure to Mount Bromo in East Java, traveling by midnight jeep, braving freezing winds at Pananjakan viewpoint to witness the majestic sunrise, and climbing to the volcanic crater.",
+    "summaryId": "Teks recount perjalanan mengesankan saat seorang siswa berlibur bersama keluarga ke Gunung Bromo, Jawa Timur, menaiki jip tengah malam, menembus hawa dingin Pananjakan demi menyongsong sunrise, dan mendaki kawah aktif Bromo.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "My Memorable Trip to Mount Bromo",
+        "idTranslation": "Perjalanan Tak Terlupakan ke Gunung Bromo",
+        "keyWords": [
+          "Mount Bromo",
+          "East Java",
+          "Travel Recount"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.",
+        "idTranslation": "Pada liburan yang lalu, saya menikmati perjalanan yang tak terlupakan ke Gunung Bromo bersama keluarga tercinta. Itu adalah pengalaman pertama saya menginjakkan kaki di Jawa Timur, dan saya sudah tidak sabar untuk menyaksikan matahari terbit (sunrise) nan termasyhur di Gunung Bromo. Kami telah mempersiapkan segala perlengkapan seminggu sebelumnya, seperti jaket tebal, sarung tangan, dan syal penghangat, karena kami tahu hawa di sana akan sangat dingin menusuk tulang.",
+        "keyWords": [
+          "Last holiday",
+          "unforgettable trip",
+          "Mount Bromo",
+          "jackets",
+          "gloves",
+          "scarves"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "We left our hotel at midnight because the journey to the viewpoint took about two hours. My family and I boarded a sturdy four-wheel-drive jeep driven by a skilled local driver named Pak Joko. The rough, winding dirt roads through the pitch-black sea of sand were bumpy, but our excitement kept us wide awake.",
+        "idTranslation": "Kami berangkat dari hotel tepat tengah malam karena perjalanan menuju gardu pandang memakan waktu sekitar dua jam. Saya dan keluarga menaiki jip 4WD kokoh yang dikemudikan oleh sopir lokal berpengalaman bernama Pak Joko. Medan jalan tanah yang berliku, terjal, dan bergelombang melewati lautan pasir yang gelap gulita sempat mengguncang-guncang kami, namun rasa antusiasme yang membuncah membuat kami tetap terjaga segar sepanjang jalan.",
+        "keyWords": [
+          "midnight",
+          "viewpoint",
+          "four-wheel-drive jeep",
+          "sea of sand",
+          "bumpy"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "When we arrived at the Pananjakan viewpoint, there were already hundreds of people waiting for the sunrise. The temperature was freezing at about 6 degrees Celsius. At around 5:15 AM, the sun began to peek over the misty horizon. The sky shifted brilliantly from deep purple to blazing orange and golden yellow. Seeing the active volcanic cone of Bromo surrounded by the vast sea of sand and Mount Batok under the morning sky was breathtaking. Later, we rode horses across the volcanic caldera and climbed 250 concrete steps to gaze directly into Bromo's smoking crater. It was truly an unforgettable spectacle.",
+        "idTranslation": "Saat kami tiba di puncak gardu pandang Pananjakan, ratusan wisatawan telah memadati lokasi demi menanti detik-detik terbitnya fajar. Suhunya begitu menusuk, menyentuh angka 6 derajat Celsius. Tepat sekitar pukul 05.15 pagi, sang surya mulai menyembul perlahan di balik cakrawala yang berkabut. Warna langit bertransformasi secara memesona, bergradasi dari ungu pekat menjadi jingga menyala dan kuning keemasan. Memandangi kerucut vulkanik aktif Bromo yang dikelilingi kaldera lautan pasir luas berdampingan dengan Gunung Batok di bawah siraman cahaya fajar sungguh memukau jiwa. Siangnya, kami menunggang kuda melintasi pasir vulkanik dan menaiki 250 anak tangga beton untuk mengintip langsung kawah aktif Bromo yang mengepulkan asap belerang. Sungguh sebuah mahakarya alam yang abadi dalam ingatan.",
+        "keyWords": [
+          "Pananjakan viewpoint",
+          "freezing",
+          "peek over",
+          "volcanic cone",
+          "breathtaking",
+          "smoking crater"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "breathtaking",
+        "phonetic": "/ˈbreθteɪkɪŋ/",
+        "pos": "adjective",
+        "defEn": "Astonishing or awe-inspiring in beauty.",
+        "defId": "Sangat memesona, menakjubkan, dan luar biasa indah.",
+        "example": "The panoramic sunrise view from Mount Bromo was truly breathtaking."
+      },
+      {
+        "word": "freezing",
+        "phonetic": "/ˈfriːzɪŋ/",
+        "pos": "adjective",
+        "defEn": "Extremely cold; at or near the freezing point of water.",
+        "defId": "Sangat dingin mendekati titik beku.",
+        "example": "We wore thick thermal gloves against the freezing dawn mountain breeze."
+      },
+      {
+        "word": "sturdy",
+        "phonetic": "/ˈstɜːdi/",
+        "pos": "adjective",
+        "defEn": "Strongly and solidly built.",
+        "defId": "Kuat, tangguh, dan kokoh untuk medan berat.",
+        "example": "A sturdy 4x4 jeep is necessary to traverse the volcanic sandy terrain."
+      },
+      {
+        "word": "bumpy",
+        "phonetic": "/ˈbʌmpi/",
+        "pos": "adjective",
+        "defEn": "Of a journey or road; marked by bumps and uneven surfaces.",
+        "defId": "Bergelombang, tidak rata, dan penuh guncangan.",
+        "example": "The bumpy ride across the caldera made everyone hold onto their seats."
+      },
+      {
+        "word": "spectacle",
+        "phonetic": "/ˈspektəkl/",
+        "pos": "noun",
+        "defEn": "A visually striking performance or grand display.",
+        "defId": "Pemandangan atau atraksi alam yang megah dan menakjubkan.",
+        "example": "The golden glow over the volcanic clouds was a magnificent spectacle."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Past Continuous with Simultaneous Past Events",
+        "formula": "were + V-ing while / as + Subject + V2",
+        "explanationEn": "Used to describe environmental sensations occurring simultaneously during the mountain expedition.",
+        "explanationId": "Menyatakan kondisi cuaca dan kerumunan yang sedang berlangsung di gardu pandang fajar.",
+        "examples": [
+          "There were already hundreds of people waiting for the sunrise.",
+          "The temperature was freezing..."
+        ]
+      },
+      {
+        "topic": "Prepositional Phrases of Departure & Time Intervals",
+        "formula": "left at [Midnight] / took about [Duration] / At around [Time]",
+        "explanationEn": "Critical temporal markers that establish the midnight journey timeline in Bromo recounts.",
+        "explanationId": "Penanda waktu keberangkatan tengah malam dan durasi perjalanan 2 jam menuju puncak.",
+        "examples": [
+          "We left our hotel at midnight because the journey took about two hours.",
+          "At around 5:15 AM, the sun began to peek..."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Pengenalan",
+        "descriptionEn": "Vacation period, destination (Mount Bromo, East Java), family companions, and winter clothing prep.",
+        "descriptionId": "Liburan keluarga ke Bromo, persiapan seminggu sebelumnya (jaket, sarung tangan, syal).",
+        "excerpt": "Last holiday, I had an unforgettable trip to Mount Bromo with my family... jackets, gloves, scarves..."
+      },
+      {
+        "part": "Chronological Travel Events",
+        "partId": "Runtutan Petualangan",
+        "descriptionEn": "Midnight jeep departure, Pananjakan viewpoint, 5:15 AM sunrise color changes, and crater climb.",
+        "descriptionId": "Berangkat tengah malam naik jip Pak Joko, sunrise jam 05.15 di Pananjakan, naik tangga kawah.",
+        "excerpt": "We left at midnight... sturdy jeep... Pananjakan viewpoint... sun peeked at 5:15 AM... climbed 250 steps..."
+      },
+      {
+        "part": "Reorientation & Lasting Impression",
+        "partId": "Kesan Mendalam (Penutup)",
+        "descriptionEn": "Emotional reflection summarizing the volcanic caldera visit as a truly unforgettable spectacle.",
+        "descriptionId": "Kesimpulan emosional yang mengabadikan pemandangan kaldera Bromo sebagai liburan terindah.",
+        "excerpt": "It was truly an unforgettable spectacle."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Waktu Keberangkatan & Alasan Berangkat Tengah Malam (Departure Timeline)",
+        "strategyEn": "Note why the family departed at midnight: the drive took 2 hours and they wanted to secure a spot before the 5:15 AM sunrise.",
+        "strategyId": "Perhatikan alasan berangkat tengah malam: perjalanan jip memakan waktu 2 jam dan mereka ingin tiba sebelum sunrise pukul 05.15.",
+        "cbtKeyInsight": "Soal CBT No. 11 dan 12 Paket 3 menguji jam keberangkatan dari hotel (midnight) dan perlengkapan pakaian hangat."
+      },
+      {
+        "topic": "Aktivitas di Kawah Bromo (Caldera Activities)",
+        "strategyEn": "Differentiate Pananjakan (viewpoint for sunrise) from the Caldera (riding horses and climbing 250 stairs to the active crater rim).",
+        "strategyId": "Bedakan lokasi: Pananjakan untuk melihat matahari terbit; Lautan pasir/Kawah untuk naik kuda dan menaiki 250 anak tangga.",
+        "cbtKeyInsight": "Soal CBT No. 14 dan 15 Paket 3 menguji aktivitas fisik mendaki tangga beton menuju bibir kawah aktif."
+      }
+    ],
+    "wordCount": 221,
+    "estimatedReadTime": "2 min read"
+  },
+  {
+    "id": "module-16",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 16 - 19",
+    "titleEn": "Academic Report: Enhancing Reading Comprehension in Indonesia",
+    "titleId": "Laporan Akademik: Kebutuhan Esensial Penguatan Pemahaman Membaca di Indonesia",
+    "genre": "Educational Literacy Survey & Chart",
+    "genreBadge": "Academic Report",
+    "level": "B2 - Upper Intermediate",
+    "summaryEn": "An educational research passage paired with a statistical chart based on PISA 2022 data, analyzing the root causes of reading comprehension gaps among Indonesian students and identifying key intervention needs.",
+    "summaryId": "Laporan riset pendidikan disertai diagram batang statistik berdasarkan survei PISA 2022, menganalisis faktor mendasar rendahnya pemahaman bacaan siswa Indonesia dan solusi penguatan literasi.",
+    "hasImage": true,
+    "image": "/images/image(7401).png",
+    "imageCaptionEn": "Chart: Percentage of Surveyed Needs to Enhance Reading Comprehension in Indonesia",
+    "imageCaptionId": "Grafik: Persentase Kebutuhan untuk Meningkatkan Literasi Membaca di Indonesia",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "The Essential Needs to Enhance Reading Comprehension in Indonesia",
+        "idTranslation": "Kebutuhan Esensial untuk Meningkatkan Pemahaman Membaca di Indonesia",
+        "keyWords": [
+          "Reading Comprehension",
+          "PISA Survey",
+          "Indonesia Literacy"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though Indonesian students' access to schooling has improved, their reading comprehension capability remains a significant national challenge. Students often recognize individual words fluently, but struggle to extract deep inferences, evaluate authorial bias, and synthesize multi-paragraph arguments.",
+        "idTranslation": "Survei yang dirilis oleh Program for International Student Assessment (PISA) pada tahun 2022 menyatakan bahwa meskipun akses siswa Indonesia terhadap bangku sekolah telah meningkat, kemampuan pemahaman membaca (reading comprehension) mereka masih menjadi tantangan nasional yang nyata. Para siswa kerap mampu melafalkan kata demi kata dengan lancar, namun kesulitan menarik inferensi mendalam, mengevaluasi sudut pandang penulis, serta menyintesis argumen lintas paragraf.",
+        "keyWords": [
+          "PISA 2022",
+          "access to schooling",
+          "reading comprehension",
+          "extract deep inferences",
+          "synthesize"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "As illustrated in the accompanying survey chart, multiple interlocking factors contribute to this condition. The largest proportion of educators and education analysts (over 38%) emphasize the urgent need for diverse, age-appropriate, and engaging reading materials in public school libraries. Without access to interesting books beyond standardized textbooks, students cannot cultivate voluntary reading habits.",
+        "idTranslation": "Sebagaimana diilustrasikan pada grafik survei terlampir, berbagai faktor yang saling berkaitan menjadi pemicu kondisi ini. Proporsi terbesar dari kalangan pendidik dan analis pendidikan (lebih dari 38%) menekankan kebutuhan mendesak akan bahan bacaan yang beragam, sesuai usia, dan menarik di perpustakaan sekolah negeri. Tanpa akses ke buku-buku bacaan bermutu di luar buku teks pelajaran wajib, siswa sulit menumbuhkan kebiasaan membaca sukarela.",
+        "keyWords": [
+          "survey chart",
+          "interlocking factors",
+          "largest proportion",
+          "engaging reading materials",
+          "voluntary reading habits"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "The second and third critical needs highlighted are structured teacher training in active comprehension pedagogies (such as reciprocal teaching, concept mapping, and critical thinking questioning) and designated daily silent reading time during school hours. Addressing these foundational elements will be paramount to elevating national literacy and empowering the next generation for the global knowledge economy.",
+        "idTranslation": "Kebutuhan krusial kedua dan ketiga yang disorot meliputi pelatihan guru yang terstruktur dalam pedagogi membaca aktif (seperti reciprocal teaching, pemetaan konsep pikiran, dan teknik bertanya kritis) serta alokasi waktu khusus membaca hening harian (silent reading) selama jam sekolah. Menuntaskan pilar-pilar mendasar ini akan menjadi kunci utama dalam mendongkrak literasi nasional dan memberdayakan generasi penerus agar siap bersaing di panggung ekonomi pengetahuan global.",
+        "keyWords": [
+          "teacher training",
+          "active comprehension pedagogies",
+          "silent reading time",
+          "knowledge economy"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "comprehension",
+        "phonetic": "/ˌkɒmprɪˈhenʃn/",
+        "pos": "noun",
+        "defEn": "The ability to understand the meaning of written or spoken language.",
+        "defId": "Pemahaman; daya tangkap atas makna bacaan secara mendalam.",
+        "example": "Reading speed means little without accurate reading comprehension."
+      },
+      {
+        "word": "inferences",
+        "phonetic": "/ˈɪnfərənsɪz/",
+        "pos": "noun (plural)",
+        "defEn": "Conclusions reached on the basis of evidence and reasoning rather than explicit statements.",
+        "defId": "Inferensi atau kesimpulan tersirat yang ditarik dari bukti-bukti teks.",
+        "example": "Good readers make smart inferences based on contextual hints."
+      },
+      {
+        "word": "synthesize",
+        "phonetic": "/ˈsɪnθəsaɪz/",
+        "pos": "verb",
+        "defEn": "Combine a number of things into a coherent whole.",
+        "defId": "Menyintesis; memadukan beberapa informasi menjadi satu kesimpulan utuh.",
+        "example": "Students were asked to synthesize arguments from three historical documents."
+      },
+      {
+        "word": "interlocking",
+        "phonetic": "/ˌɪntəˈlɒkɪŋ/",
+        "pos": "adjective",
+        "defEn": "Connected or linked closely together so that they affect each other.",
+        "defId": "Saling terkait dan saling memengaruhi satu sama lain.",
+        "example": "Poverty and lack of books are interlocking obstacles to literacy."
+      },
+      {
+        "word": "paramount",
+        "phonetic": "/ˈpærəmaʊnt/",
+        "pos": "adjective",
+        "defEn": "More important than anything else; supreme.",
+        "defId": "Sangat penting, fundamental, atau yang paling utama.",
+        "example": "Equipping rural libraries is of paramount importance for literacy equality."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Concessive Clauses with 'Even Though'",
+        "formula": "Even though + Clause 1 (Access improved), Clause 2 (Comprehension remains low)",
+        "explanationEn": "Used in academic problem statements to contrast positive achievements with persistent systemic shortcomings.",
+        "explanationId": "Klausa pertentangan konsesif 'walaupun... namun' untuk membandingkan peningkatan angka partisipasi sekolah dengan rendahnya skor literasi.",
+        "examples": [
+          "Even though access to schooling has improved, reading comprehension remains a challenge."
+        ]
+      },
+      {
+        "topic": "Comparative & Superlative Proportions in Data Reports",
+        "formula": "The largest proportion... The second and third critical needs...",
+        "explanationEn": "Used to describe hierarchical statistical data presented in accompanying infographics.",
+        "explanationId": "Unggulan komparatif dan superlatif untuk mengurutkan persentase kebutuhan pada grafik batang.",
+        "examples": [
+          "The largest proportion of educators emphasized reading materials.",
+          "The second critical need highlighted is teacher training."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Problem Context & PISA Benchmarks",
+        "partId": "Latar Masalah & Data PISA",
+        "descriptionEn": "PISA 2022 survey findings contrasting high school enrollment with low inferential comprehension.",
+        "descriptionId": "Temuan PISA 2022: siswa lancar membaca kata tetapi lemah dalam menarik kesimpulan tersirat.",
+        "excerpt": "A survey by PISA in 2022 stated that reading comprehension capability remains a significant challenge..."
+      },
+      {
+        "part": "Chart Analysis & Primary Intervention",
+        "partId": "Analisis Grafik & Kebutuhan Utama",
+        "descriptionEn": "Statistical breakdown revealing >38% demand for varied, age-appropriate library books.",
+        "descriptionId": "Grafik batang menunjukkan persentase terbesar (>38%) membutuhkan pasokan buku menarik di sekolah.",
+        "excerpt": "As illustrated in the accompanying survey chart... The largest proportion (over 38%) emphasize reading materials..."
+      },
+      {
+        "part": "Secondary Strategies & National Vision",
+        "partId": "Strategi Lanjutan & Visi Literasi",
+        "descriptionEn": "Teacher pedagogical training, dedicated silent reading periods, and global knowledge readiness.",
+        "descriptionId": "Pelatihan pedagogi guru, jam membaca hening harian, dan daya saing ekonomi pengetahuan dunia.",
+        "excerpt": "The second and third critical needs are teacher training and designated daily silent reading time..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Membaca Grafik Batang Persentase (Interpreting Survey Bar Charts)",
+        "strategyEn": "Correlate chart heights with text ranks. Look at image 7401: the tallest bar corresponds to 'Quality & diverse reading materials in libraries' (>38%).",
+        "strategyId": "Cocokkan diagram batang pada gambar 7401: batang tertinggi mewakili 'Bahan bacaan berkualitas dan menarik di perpustakaan' (>38%).",
+        "cbtKeyInsight": "Soal CBT No. 16 dan 17 Paket 3 menguji pembacaan grafik batang terkait faktor paling dominan yang dibutuhkan untuk mendongkrak literasi."
+      },
+      {
+        "topic": "Kelemahan Spesifik Siswa (Identifying Specific Skill Deficits)",
+        "strategyEn": "Distinguish between word decoding (which is adequate) and deep comprehension/inference/critical evaluation (which is where students struggle).",
+        "strategyId": "Pahami letak kelemahan siswa: bukan pada melafalkan huruf/kata (word decoding), melainkan pada menarik inferensi tersirat dan mengevaluasi isi teks.",
+        "cbtKeyInsight": "Soal CBT No. 18 Paket 3 menanyakan aspek membaca apa yang paling menyulitkan siswa menurut temuan PISA."
+      }
+    ],
+    "wordCount": 171,
+    "estimatedReadTime": "1 min read"
+  },
+  {
+    "id": "module-17",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 20 - 25",
+    "titleEn": "Acehnese Folktale: The Fairy Tale of Amat Mude",
+    "titleId": "Cerita Rakyat Alas Aceh: Kisah Amat Mude",
+    "genre": "Classic Acehnese Folktale",
+    "genreBadge": "Folktale Legend",
+    "level": "B1 - Intermediate",
+    "summaryEn": "A timeless Acehnese narrative legend about Amat Mude, an exiled rightful prince from the Land of Alas who triumphs over his wicked uncle Raja Mude through filial virtue, miraculous golden fish eggs, and royal resilience.",
+    "summaryId": "Cerita rakyat legendaris dari Tanoh Alas, Aceh, mengenai Amat Mude, putra mahkota yang diasingkan pamannya yang tamak, lalu bangkit meraih kembali takhta berkat baktinya kepada ibu dan telur ikan emas ajaib.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "The Fairy Tale of Amat Mude",
+        "idTranslation": "Kisah Cerita Rakyat Amat Mude",
+        "keyWords": [
+          "Amat Mude",
+          "Land of Alas",
+          "Aceh Folktale"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king's younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a humble hut.",
+        "idTranslation": "Alkisah pada zaman dahulu di Tanah Alas (Aceh), hiduplah seorang raja dan permaisuri yang arif, bijaksana, dan sangat dicintai oleh rakyatnya. Suatu hari, pasangan kerajaan tersebut diliputi sukacita karena sang permaisuri melahirkan seorang putra bernama Amat Mude. Namun duka mendalam datang, sang raja mangkat ketika Amat Mude masih bayi. Raja Mude, adik kandung sang raja, diangkat sebagai penguasa sementara. Sayangnya, ia berwatak kejam, dengki, dan tamak akan kekuasaan. Demi merebut takhta mutlak atas Tanah Alas, ia tega mengasingkan sang permaisuri dan Amat Mude ke dalam hutan rimba yang terpencil. Di sana, mereka terpaksa bertahan hidup di sebuah gubuk reyot.",
+        "keyWords": [
+          "Land of Alas",
+          "wise and fair",
+          "temporary ruler",
+          "envious and greedy",
+          "exiled",
+          "humble hut"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token of their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.",
+        "idTranslation": "Mantan permaisuri mendidik Amat Mude dengan penuh cinta dan budi pekerti luhur meski didera kemiskinan dan penderitaan. Amat Mude tumbuh menjadi pemuda yang santun, cerdas, berparas rupawan, serta sangat mahir memancing ikan. Ibunda Amat Mude tidak pernah kekurangan ikan segar untuk dijual di pasar dekat tepi hutan tempat mereka bernaung. Suatu hari di pasar, sang ibu dikenali oleh seorang saudagar kaya yang merupakan sahabat karib mendiang raja terdahulu. Ibunda Amat Mude memberikan seekor ikan terbesar hasil tangkapan putranya kepada saudagar tersebut sebagai tanda persahabatan antarkeluarga. Ketika istri sang saudagar membelah perut ikan untuk dimasak, ia takjub mendapati telur-telur emas berkilauan di dalamnya. Menyadari bahwa rezeki ajaib ini adalah berkah hakiki milik Amat Mude dan ibunya, pasangan saudagar itu membantu membangun rumah yang layak dan mengembalikan sebagian martabat serta kesejahteraan mereka. Kehormatan Amat Mude kian meluas, menjadikannya kian dicintai dan dihormati oleh segenap rakyat seantero kerajaan.",
+        "keyWords": [
+          "moral principles",
+          "proficient fisherman",
+          "wealthy merchant",
+          "golden eggs",
+          "fortune",
+          "elevated their status"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "Meanwhile, the news of Amat Mude’s virtues and growing esteem reached the palace. This made Raja Mude deeply disturbed, fearing he would lose his stolen throne. The wicked king plotted perilous trials against Amat Mude, ordering him to retrieve magic coconuts guarded by a giant seven-headed dragon in an enchanted lake. Armed with purity of heart, ancestral blessings, and courage, Amat Mude befriended the guardian creature, fulfilled the quest, and ultimately returned in triumph to reclaim his rightful throne amid joyful celebrations of the Alas people.",
+        "idTranslation": "Sementara itu, kabar tentang budi luhur dan kian terangkatnya nama Amat Mude akhirnya sampai ke telinga istana. Hal ini membuat Raja Mude gelisah bukan kepalang, dicekam ketakutan takhta curiannya akan direbut kembali. Sang raja zalim lantas merancang tipu muslihat mematikan, memerintahkan Amat Mude memetik buah kelapa ajaib yang dijaga oleh seekor naga raksasa berkepala tujuh di danau keramat. Berbekal ketulusan hati, restu leluhur, dan keberanian tanpa gentar, Amat Mude justru berhasil meluluhkan sang naga penjaga, menuntaskan misi mustahil tersebut, dan pulang dengan penuh kemenangan untuk menduduki kembali takhta sahnya disambut sorak-sorai sukacita seluruh rakyat Alas.",
+        "keyWords": [
+          "virtues",
+          "disturbed",
+          "seven-headed dragon",
+          "purity of heart",
+          "reclaim his rightful throne"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "exiled",
+        "phonetic": "/ˈeksaɪld/",
+        "pos": "verb / adjective",
+        "defEn": "Expelled and barred from one's native country or home.",
+        "defId": "Diasingkan atau dibuang jauh dari istana/tanah air.",
+        "example": "The greedy usurper exiled the young prince to the wilderness."
+      },
+      {
+        "word": "proficient",
+        "phonetic": "/prəˈfɪʃnt/",
+        "pos": "adjective",
+        "defEn": "Competent, skilled, or adept in doing or using something.",
+        "defId": "Mahir, ahli, atau sangat cakap dalam suatu keterampilan.",
+        "example": "Amat Mude was a proficient fisherman who always caught abundant fish."
+      },
+      {
+        "word": "virtues",
+        "phonetic": "/ˈvɜːtʃuːz/",
+        "pos": "noun (plural)",
+        "defEn": "Behavior showing high moral standards; goodness.",
+        "defId": "Kebajikan, keluhuran budi pekerti, dan integritas moral.",
+        "example": "News of the prince's many virtues won the hearts of the townspeople."
+      },
+      {
+        "word": "esteemed",
+        "phonetic": "/ɪˈstiːmd/",
+        "pos": "adjective",
+        "defEn": "Respected and admired by many.",
+        "defId": "Dihormati, disegani, dan dijunjung tinggi martabatnya.",
+        "example": "The deceased king was deeply esteemed throughout the province."
+      },
+      {
+        "word": "reclaim",
+        "phonetic": "/rɪˈkleɪm/",
+        "pos": "verb",
+        "defEn": "Retrieve or recover something previously lost or taken.",
+        "defId": "Merebut atau mengambil kembali hak yang sempat dirampas.",
+        "example": "After surviving the trials, Amat Mude returned to reclaim his rightful crown."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Adverbial Clauses of Concession (Despite the difficulties)",
+        "formula": "despite + Noun Phrase (difficulties, hardships, poverty)",
+        "explanationEn": "Used in narratives to emphasize a protagonist's moral resilience in the face of harsh adversity.",
+        "explanationId": "Klausa pertentangan dengan 'despite' untuk menonjolkan ketabahan moral sang pangeran di tengah penderitaan.",
+        "examples": [
+          "The queen raised Amat Mude with love despite the difficulties.",
+          "...despite their humble living in a forest hut."
+        ]
+      },
+      {
+        "topic": "Participle Clauses in High-Action Folktales",
+        "formula": "Present Participle Phrase (Realizing that...), Subject + Verb",
+        "explanationEn": "Connects character realizations and subsequent dramatic actions efficiently.",
+        "explanationId": "Klausa partisipial 'Realizing that...' untuk meringkas pemikiran saudagar sebelum memutuskan membantu keluarga permaisuri.",
+        "examples": [
+          "Realizing that this fortune was not their family's alone, the merchant couple helped build a better house."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Latar & Tokoh",
+        "descriptionEn": "Kingdom of Alas, wise old king, baby Amat Mude, and treacherous uncle Raja Mude's exile decree.",
+        "descriptionId": "Tanah Alas, wafatnya raja lama, dan pengasingan bayi Amat Mude oleh pamannya yang tamak.",
+        "excerpt": "A long time ago in the Land of Alas... Raja Mude exiled the queen and Amat Mude to a faraway forest..."
+      },
+      {
+        "part": "Complication & Miraculous Turning Point",
+        "partId": "Komplikasi & Peristiwa Keajaiban",
+        "descriptionEn": "Exile poverty, fishing mastery, gift to merchant, golden fish eggs, and restored standing.",
+        "descriptionId": "Kemahiran memancing, hadiah ikan kepada sahabat raja, penemuan telur emas, dan pemulihan martabat.",
+        "excerpt": "proficient fisherman... merchant couple discovered golden eggs inside... restored some wealth..."
+      },
+      {
+        "part": "Climax, Trial & Rightful Resolution",
+        "partId": "Klimaks, Ujian Naga & Kemenangan",
+        "descriptionEn": "Raja Mude's fear, dragon trials in sacred lake, triumph of goodness, and royal coronation.",
+        "descriptionId": "Raja Mude panik, perintah mengambil kelapa naga berkepala tujuh, dan kemenangan takhta sah.",
+        "excerpt": "Raja Mude plotted perilous trials... seven-headed dragon... Amat Mude returned in triumph to reclaim his rightful throne."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Peran Telur Emas Ajaib (Plot Catalyst Identification)",
+        "strategyEn": "Track the plot turning point: the golden eggs found inside the large fish did NOT cause greed; the noble merchant recognized it as Amat Mude's fortune and used it to help the former queen.",
+        "strategyId": "Cermati titik balik cerita: telur emas di dalam perut ikan tidak memicu keserakahan saudagar, melainkan justru menggerakkannya untuk memulihkan kehormatan keluarga permaisuri.",
+        "cbtKeyInsight": "Soal CBT No. 20 dan 21 Paket 3 menanyakan penemuan telur emas dan sikap mulia saudagar tua sahabat mendiang raja."
+      },
+      {
+        "topic": "Sifat Tokoh Antagonis (Character Trait Analysis)",
+        "strategyEn": "Contrast Raja Mude (harsh, envious, greedy, fearful of losing power) with Amat Mude (kind, proficient, courageous, filial).",
+        "strategyId": "Bandingkan sifat: Raja Mude (kejam, tamak, iri hati, takut kehilangan kekuasaan) berbanding terbalik dengan Amat Mude (santun, berbakti, berani).",
+        "cbtKeyInsight": "Soal CBT No. 22 Paket 3 menguji analisis watak tokoh paman Raja Mude."
+      }
+    ],
+    "wordCount": 385,
+    "estimatedReadTime": "3 min read"
+  },
+  {
+    "id": "module-18",
+    "package": "Paket 3",
+    "packageNum": 3,
+    "qRange": "Soal 26 - 30",
+    "titleEn": "Youth Recount: A Day at a Music Festival",
+    "titleId": "Teks Recount Remaja: Seharian Menikmati Festival Musik",
+    "genre": "Youth Culture & Event Recount",
+    "genreBadge": "Music & Culture",
+    "level": "B1 - Intermediate",
+    "summaryEn": "An energetic personal recount describing a memorable day spent with friends at a vibrant outdoor indie music festival, traversing diverse stages, enjoying local bands, and reveling in the electric communal concert atmosphere.",
+    "summaryId": "Teks recount remaja yang penuh semangat melukiskan seharian berlibur bersama sahabat di festival musik luar ruangan, menjelajahi aneka panggung, bernyanyi bersama grup band indie, dan larut dalam atmosfer konser yang meriah.",
+    "hasImage": false,
+    "image": null,
+    "imageCaptionEn": "",
+    "imageCaptionId": "",
+    "paragraphs": [
+      {
+        "id": 1,
+        "type": "heading",
+        "en": "A Day at Music Festival",
+        "idTranslation": "Seharian Menikmati Festival Musik",
+        "keyWords": [
+          "Music Festival",
+          "Live Performance",
+          "Recount"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "en": "Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live.",
+        "idTranslation": "Dua minggu yang lalu, saya menikmati keseruan festival musik bersama beberapa sahabat saya. Kami telah menanti-nantikan perhelatan akbar ini selama berbulan-bulan, dan kami sangat antusias untuk menyaksikan para musisi idola kami tampil secara langsung (live).",
+        "keyWords": [
+          "Two weeks ago",
+          "anticipating",
+          "favorite singers",
+          "perform live"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "en": "When we arrived at the festival grounds, we were met by an immense crowd of music lovers. A lot of stages had been put up across the open field, each featuring a different performer and musical genre. We strolled around the vibrant grounds, checking out the various artisanal food trucks and merchandise booths before settling on a prime viewing location near the main stage.",
+        "idTranslation": "Ketika kami tiba di area festival, kami langsung disambut oleh lautan manusia pencinta musik yang sangat padat. Banyak panggung megah didirikan di penjuru lapangan terbuka, masing-masing menampilkan artis dan genre musik yang berbeda. Kami berjalan-jalan mengitari area festival yang semarak, mencicipi aneka jajanan di truk makanan (food trucks) dan gerai cinderamata, sebelum akhirnya memilih tempat berdiri yang strategis di dekat panggung utama.",
+        "keyWords": [
+          "immense crowd",
+          "stages",
+          "strolled around",
+          "merchandise booths",
+          "main stage"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "en": "The first performance was by a local indie band, and they were fantastic. We danced and sang along with their catchy tunes. As dusk approached, the headlining band took the stage under dazzling neon laser lights and thunderous cheers. The electric atmosphere, communal singing, and shared joy among thousands of strangers made it an unforgettable night. Exhausted but beaming with happiness, we returned home with memories that will linger for a lifetime.",
+        "idTranslation": "Penampilan pembuka dibawakan oleh grup band indie lokal, dan aksi panggung mereka sungguh luar biasa. Kami ikut menari dan bernyanyi bersama mengikuti irama lagu-lagu mereka yang renyah dan mudah diingat. Menjelang senja, grup band utama (headliner) naik ke panggung di bawah kilauan lampu laser neon yang memukau dan gemuruh sorak penonton yang membahana. Atmosfer konser yang begitu bertenaga, nyanyian bersama, dan rasa sukacita yang dirasakan ribuan orang membuat malam itu sungguh tak terlupakan. Kendati lelah menguras tenaga, kami pulang ke rumah dengan senyum bahagia dan kenangan indah yang akan abadi sepanjang hayat.",
+        "keyWords": [
+          "indie band",
+          "catchy tunes",
+          "headlining band",
+          "dazzling laser lights",
+          "thunderous cheers",
+          "electric atmosphere"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "anticipating",
+        "phonetic": "/ænˈtɪsɪpeɪtɪŋ/",
+        "pos": "verb (present participle)",
+        "defEn": "Looking forward to; expecting with excitement.",
+        "defId": "Menanti-nantikan dengan penuh antusiasme dan harapan.",
+        "example": "Fans had been anticipating the album release for over a year."
+      },
+      {
+        "word": "immense",
+        "phonetic": "/ɪˈmens/",
+        "pos": "adjective",
+        "defEn": "Extremely large or great, especially in scale or degree.",
+        "defId": "Sangat luas, besar sekali, atau berjumlah masif.",
+        "example": "An immense crowd assembled before the festival gates opened."
+      },
+      {
+        "word": "catchy",
+        "phonetic": "/ˈkætʃi/",
+        "pos": "adjective",
+        "defEn": "Pleasing and easily remembered (of a tune or phrase).",
+        "defId": "Mudah diingat, renyah, dan terngiang-ngiang di telinga.",
+        "example": "The indie track had a catchy chorus that got everyone singing along."
+      },
+      {
+        "word": "thunderous",
+        "phonetic": "/ˈθʌndərəs/",
+        "pos": "adjective",
+        "defEn": "Very loud, powerful, and booming like thunder.",
+        "defId": "Bergemuruh dahsyat seperti guntur.",
+        "example": "The stadium erupted into thunderous applause when the singers took the stage."
+      },
+      {
+        "word": "linger",
+        "phonetic": "/ˈlɪŋɡə(r)/",
+        "pos": "verb",
+        "defEn": "Stay in a place longer than necessary; remain persistent in memory.",
+        "defId": "Tetap membekas atau bertahan lama dalam ingatan.",
+        "example": "Happy memories of the concert will linger with us for years."
+      }
+    ],
+    "grammarPoints": [
+      {
+        "topic": "Past Perfect Continuous for Prolonged Anticipation",
+        "formula": "had been + V-ing (had been anticipating for months)",
+        "explanationEn": "Emphasizes the sustained duration of student eagerness prior to the festival date.",
+        "explanationId": "Menyatakan rasa antusias yang telah berlangsung berbulan-bulan sebelum acara festival akhirnya terselenggara.",
+        "examples": [
+          "We had been anticipating the event for months."
+        ]
+      },
+      {
+        "topic": "Coordinated Adjectival Phrases in Recount Endings",
+        "formula": "Adjective + but + Adjective Phrase (Exhausted but beaming with happiness)",
+        "explanationEn": "Effectively juxtaposes physical fatigue with profound emotional satisfaction.",
+        "explanationId": "Kombinasi frasa kata sifat untuk melukiskan rasa lelah fisik yang sirna oleh kebahagiaan batin.",
+        "examples": [
+          "Exhausted but beaming with happiness, we returned home."
+        ]
+      }
+    ],
+    "genericStructure": [
+      {
+        "part": "Orientation",
+        "partId": "Orientasi Waktu & Ekspektasi",
+        "descriptionEn": "Two weeks ago, friendship cohort, months of anticipation, and target live musical acts.",
+        "descriptionId": "Dua minggu lalu, pergi bersama sahabat, menanti berbulan-bulan untuk menonton konser langsung.",
+        "excerpt": "Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating..."
+      },
+      {
+        "part": "Sequence of Festival Events",
+        "partId": "Rangkaian Pengalaman Konser",
+        "descriptionEn": "Immense crowd arrival, food trucks and merchandise booths, local indie opening, and main headliner.",
+        "descriptionId": "Lautan penonton, food truck, panggung indie lokal, dan atraksi band utama dengan lampu laser.",
+        "excerpt": "When we arrived, met by an immense crowd... strolled food trucks... local indie band... headlining band..."
+      },
+      {
+        "part": "Reorientation & Lasting Sentiments",
+        "partId": "Reorientasi & Kesan Bahagia",
+        "descriptionEn": "Electric collective singing, fatigue accompanied by beaming joy, and lasting memories.",
+        "descriptionId": "Nyanyian massal, atmosfer konser bertenaga, rasa lelah yang terbayar oleh kenangan manis.",
+        "excerpt": "The electric atmosphere, communal singing... Exhausted but beaming with happiness..."
+      }
+    ],
+    "tkaStrategies": [
+      {
+        "topic": "Rangkaian Penampilan Musik (Performance Timeline)",
+        "strategyEn": "Follow the chronology of music acts: the local indie band performed first during afternoon/dusk, followed later by the main headlining band at night.",
+        "strategyId": "Pahami urutan band yang tampil: band indie lokal tampil terlebih dahulu sebagai pembuka, disusul oleh band utama (headliner) saat malam tiba.",
+        "cbtKeyInsight": "Soal CBT No. 26 dan 27 Paket 3 menguji urutan pengisi acara dan suasana penonton festival."
+      },
+      {
+        "topic": "Suasana Emosional Penonton (Atmosphere & Emotional Tone)",
+        "strategyEn": "Detect tone words: 'excited', 'fantastic', 'dazzling', 'electric atmosphere', and 'beaming with happiness'. The overall tone is euphoric, appreciative, and joyful.",
+        "strategyId": "Kenali kata-kata pengungkap suasana: 'excited', 'electric atmosphere', 'beaming with happiness'. Nada teks adalah riang gembira dan penuh apresiasi.",
+        "cbtKeyInsight": "Soal CBT No. 29 dan 30 Paket 3 menanyakan kesan dan perasaan yang dirasakan penulis seusai menonton festival musik."
+      }
+    ],
+    "wordCount": 174,
+    "estimatedReadTime": "1 min read"
+  }
+]

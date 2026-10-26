@@ -1,0 +1,1850 @@
+[
+  {
+    "soal": {
+      "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+      "tipe_soal_id": "1",
+      "nomor_soal": "1",
+      "induk_soal_id": "7026",
+      "soal": "<p>What position is the applicant applying for?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: D.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Kalimat “I am writing to express my interest in the Social Media Officer position at PT Citra Diraja.” menjelaskan bahwa posisi yang dilamar adalah Staf Media Sosial atau Social Media Officer.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7026",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following job application letter.</b></p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya<br>\r\nJl. Ontoseno No. 17<br>\r\nBantul, Yogyakarta 55711<br>\r\n+62 817342<br>\r\nramshi.putra17@mail.com</p>\r\n\r\n<p xss=removed><span xss=removed>July 1</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Hiring Manager</span></p>\r\n\r\n<p xss=removed><span xss=removed>PT Citra Diraja </span></p>\r\n\r\n<p xss=removed><span xss=removed>Jl. Pangeran Antasari No. 45</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jakarta, Indonesia</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Dear Hiring Manager,</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\r\n\r\n<p xss=removed><span xss=removed>I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\r\n\r\n<p xss=removed><span xss=removed>During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\r\n\r\n<p xss=removed>What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=removed>I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\r\n\r\n<p xss=removed><span xss=removed>I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\r\n\r\n<p xss=removed>Thank you for your time and consideration.</p>\r\n\r\n<p align=\"right\" xss=removed>Sincerely,</p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya</p>\r\n\r\n<p align=\"right\" xss=removed>(CP/100%/SST)</p>\r\n\r\n<p xss=removed><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "wdw8YlChgbHaSN6TD7NWz0GkuQ3AFdSnz_BNYcftgRc",
+        "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+        "sub_soal": "<p>Content Creator.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "mqIiMksrOb6HIfZ_wE9CBAeVCAZPresnAfiAj7axS8k",
+        "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+        "sub_soal": "<p>HR Manager.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "TRR7eHgUSor9_wMUDTn5Q_oaspZavuNfkFuVsPCX8lI",
+        "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+        "sub_soal": "<p>Social Media Analyst.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "m-FMqrnJFsgpIAg7JootQE4hLVzadLxJxsrInTabrVw",
+        "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+        "sub_soal": "<p>Social Media Officer.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "-kS6nkw_K2kUtFjZb1cACDOlnfWgO6VBh2q8B2Rtr2Y",
+        "soal_id": "WX6oNNqgYBwfnL2a9np-nVW8ao4DEZK7-UBpWhpaSfE",
+        "sub_soal": "<p>Visual Content Specialist.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "wdw8YlChgbHaSN6TD7NWz0GkuQ3AFdSnz_BNYcftgRc": {
+        "jawaban_id": "Ud6Z4sjlFvAGDYwFy21qcP2Ul90dJbTywQdowV8F3W7KVS0huQz0ddj4vRPeBCY4JOty8SpVS1hLDSVNd6SafQ",
+        "jawaban": "0"
+      },
+      "mqIiMksrOb6HIfZ_wE9CBAeVCAZPresnAfiAj7axS8k": {
+        "jawaban_id": "TczhzDLVcqU17ZKOaIhu-32ai20yWOOrwe_WEwJdrQzsoB5KjdEhJ0GgyaATPHEOd34Ln95VexxOtqusRPmhcA",
+        "jawaban": "0"
+      },
+      "TRR7eHgUSor9_wMUDTn5Q_oaspZavuNfkFuVsPCX8lI": {
+        "jawaban_id": "a1jw7G2dsXVxtFqLaL7Pgi53Ee386rHjSTRrYOE3gmyn-CqDL2UtkkTEDeJXM5qppzyvRYANBingYckVciBJrw",
+        "jawaban": "0"
+      },
+      "m-FMqrnJFsgpIAg7JootQE4hLVzadLxJxsrInTabrVw": {
+        "jawaban_id": "RBS2nPAeCSg0w6H8mUxbFe25KS7cwqOzyo_SG7671iNrJXRYR4e90w1owceD0GdEQjOKUyLt8-kQmWNkL3ZR1g",
+        "jawaban": "1"
+      },
+      "-kS6nkw_K2kUtFjZb1cACDOlnfWgO6VBh2q8B2Rtr2Y": {
+        "jawaban_id": "LEU-Xupc6UnCslUD1pS3Nh-vxiFZOwc-ZUYpYTd66BCFE64czd_Fp7Rz07a3sus7Ld3otFQ7BLVaWfsHIyFmLw",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+      "tipe_soal_id": "1",
+      "nomor_soal": "2",
+      "induk_soal_id": "7026",
+      "soal": "<p>What is the applicant’s main purpose in writing this letter?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: D.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Dalam isi surat lamaran, pelamar menyatakan bahwa dia memiliki kreatifitas yang tinggi, kemampuan beradaptasi, dan pemahaman budaya digital generasi muda yang dapat membawa ide-ide segar. Penjabaran keterampilan dan pengalaman yang dia punya selama dia bersekolah berfungsi sebagai penawaran terhadap lowongan pekerjaan dari perusahaan.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7026",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following job application letter.</b></p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya<br>\r\nJl. Ontoseno No. 17<br>\r\nBantul, Yogyakarta 55711<br>\r\n+62 817342<br>\r\nramshi.putra17@mail.com</p>\r\n\r\n<p xss=removed><span xss=removed>July 1</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Hiring Manager</span></p>\r\n\r\n<p xss=removed><span xss=removed>PT Citra Diraja </span></p>\r\n\r\n<p xss=removed><span xss=removed>Jl. Pangeran Antasari No. 45</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jakarta, Indonesia</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Dear Hiring Manager,</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\r\n\r\n<p xss=removed><span xss=removed>I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\r\n\r\n<p xss=removed><span xss=removed>During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\r\n\r\n<p xss=removed>What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=removed>I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\r\n\r\n<p xss=removed><span xss=removed>I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\r\n\r\n<p xss=removed>Thank you for your time and consideration.</p>\r\n\r\n<p align=\"right\" xss=removed>Sincerely,</p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya</p>\r\n\r\n<p align=\"right\" xss=removed>(CP/100%/SST)</p>\r\n\r\n<p xss=removed><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "wjtQU5mzxaXOQqAeZQQT1Ay1tOy4H9eq9J78Zf87Jnc",
+        "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+        "sub_soal": "<p>To ask for feedback on his previous digital content and design work.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "lHVRB1M8wGKXMuR3tcXHVGn5Rt8hyrSKXGdeWokV1bw",
+        "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+        "sub_soal": "<p>To express his pride in the community projects he managed at school.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "etID189su9x84mzB14g6qNMmvEV3i4kjRxYVNW_HxcM",
+        "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+        "sub_soal": "<p>To inquire about internship opportunities in PT Citra Diraja</p>\r\n"
+      },
+      {
+        "sub_soal_id": "nuZGxnw86eiP2Lk_uAhuF0VDpPhOJi0RE31SDiWlGQk",
+        "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+        "sub_soal": "<p>To offer his social media skills and apply for the available job position.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "98Os6cn29Iy1EkRS8Vwo3HnYm6luv0FyquaCw_hNsP4",
+        "soal_id": "KPhSQCrj7rii7S4vrD03t4ab3sGhJLi2R77DKfVnrZo",
+        "sub_soal": "<p>To show that he has mastered various professional design tools and software.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "wjtQU5mzxaXOQqAeZQQT1Ay1tOy4H9eq9J78Zf87Jnc": {
+        "jawaban_id": "_8GGupN4FOLgewYDPviX8poKP3-QTA_CUwPOKKBFnmmu2wx_VjoqPl7RlxxxpOCcx-GQsX2tYpqW4RdkfBrAqw",
+        "jawaban": "0"
+      },
+      "lHVRB1M8wGKXMuR3tcXHVGn5Rt8hyrSKXGdeWokV1bw": {
+        "jawaban_id": "Tw4xaoHal6aWQc1IWkbbHZIzQK4KWina93SIjePS0snwLR_8JmSb7313ulnTCJ_ZKvFO0C7OD0QpEZQm6GliMQ",
+        "jawaban": "0"
+      },
+      "etID189su9x84mzB14g6qNMmvEV3i4kjRxYVNW_HxcM": {
+        "jawaban_id": "GqSX7MYvdppchEKEvROYeL2NoXWlq8uJisKCtUVVAzlbDcGKX0g_lr96NcKqoGa061do6dDXqAbGVTTHaTQVuw",
+        "jawaban": "1"
+      },
+      "nuZGxnw86eiP2Lk_uAhuF0VDpPhOJi0RE31SDiWlGQk": {
+        "jawaban_id": "cKJGK9DrZtpRQGy42-r13vJg4urgJhRhOAk_QV1IKnMMeyVArf7F3Mq2pe_645WPtFBLpvDk3KzhktaY7Olfqg",
+        "jawaban": "0"
+      },
+      "98Os6cn29Iy1EkRS8Vwo3HnYm6luv0FyquaCw_hNsP4": {
+        "jawaban_id": "k26PsvK8DqZSKO9nwEV0rQJjhXUd-WVtOoCnmPtLdEytxKitBoha3NzAjEfRL67DpkE5w7YC1pWd4-Ll1_5bLw",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+      "tipe_soal_id": "2",
+      "nomor_soal": "3",
+      "induk_soal_id": "7026",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Multiple-choice multiple-answer question. Choose more than one answer.</b></span></p>\r\n\r\n<p>“<i>I have attached my CV and samples of my social media content for your consideration</i>.” The purposes for this action in the sentence are . . .</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: C dan D.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Kalimat “I have attached my CV and samples of my social media content for your consideration.” artinya Putra Ramshiditya telah melampirkan keterangan lebih jelas dan mendetail mengenai dirinya sebagai bahan pertimbangan. Jawaban yang paling tepat adalah C dan D karena bertujuan sama, yaitu memberikan detail pendidikan dan pengalaman kerja serta menunjukkan contoh praktis kemampuan pelamar agar PT Citra Diraja mengetahui kecocokan Putra Ramshiditya terhadap lowongan kerja yang tersedia. </span></p>\r\n\r\n<p>Sementara itu, opsi A, B, dan E kurang tepat karena CV dan sampel tersebut tidak berfungsi sebagai materi hiburan, desakan urgensi, atau pun sekadar menunjukkan antusiasme.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7026",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following job application letter.</b></p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya<br>\r\nJl. Ontoseno No. 17<br>\r\nBantul, Yogyakarta 55711<br>\r\n+62 817342<br>\r\nramshi.putra17@mail.com</p>\r\n\r\n<p xss=removed><span xss=removed>July 1</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Hiring Manager</span></p>\r\n\r\n<p xss=removed><span xss=removed>PT Citra Diraja </span></p>\r\n\r\n<p xss=removed><span xss=removed>Jl. Pangeran Antasari No. 45</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jakarta, Indonesia</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Dear Hiring Manager,</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\r\n\r\n<p xss=removed><span xss=removed>I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\r\n\r\n<p xss=removed><span xss=removed>During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\r\n\r\n<p xss=removed>What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=removed>I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\r\n\r\n<p xss=removed><span xss=removed>I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\r\n\r\n<p xss=removed>Thank you for your time and consideration.</p>\r\n\r\n<p align=\"right\" xss=removed>Sincerely,</p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya</p>\r\n\r\n<p align=\"right\" xss=removed>(CP/100%/SST)</p>\r\n\r\n<p xss=removed><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "BGUIqBGL0hzoIqkakJh1iJv1JI18K3aPQXLa_mZvCf8",
+        "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+        "sub_soal": "<p>To attach the applicant’s related and attractive social media contents for entertainment.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "GnLISi3E6AKsaJiOrI9WJf3fq856umiTxiCC-iKnNJo",
+        "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+        "sub_soal": "<p>To emphasize the urgency for a fresh perspective in creative mind-set, adaptability, and understanding of youth digital culture.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "1QtWJt6sslCEU-ymJ8z2OjADP1clRZHSv2jpFK8LFuE",
+        "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+        "sub_soal": "<p>To give relevant details about the applicant’s background educations and previous work experiences.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "X0c9JdwscM5xj7mRMLYzdA5BdpnAzzcfyFGP_jOEuHU",
+        "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+        "sub_soal": "<p>To present examples of the applicant’s personal social media contents in relation to the job position.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "E9uMsth224a3EvUeg0nYX9pUv7_iqjglAlrDs3iFE6A",
+        "soal_id": "wgCSTtDy9Zs-wjKwazpz554K9aEXmFkvSOw8YCwXW5c",
+        "sub_soal": "<p>To show the applicant’s enthusiasm for the job prospect.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "BGUIqBGL0hzoIqkakJh1iJv1JI18K3aPQXLa_mZvCf8": {
+        "jawaban_id": "35gtybJCESUTpIungCfbh0vED5AA5Yqx_BKqHz4G8fou-g82W-q6MgMyONMYIladp3CAT9M4D2yfpOwWaEDHuw",
+        "jawaban": "0"
+      },
+      "GnLISi3E6AKsaJiOrI9WJf3fq856umiTxiCC-iKnNJo": {
+        "jawaban_id": "lR1ILGikiRc1JbMZ6_CGEuaodqAG0F7_pvPFa39fGCeX9SZ11jnpEof0UgGrZ0yu5gSCagSkT3s4OKBgH_IKYQ",
+        "jawaban": "0"
+      },
+      "1QtWJt6sslCEU-ymJ8z2OjADP1clRZHSv2jpFK8LFuE": {
+        "jawaban_id": "Z0M02I-j_4djKZ4vXtJ42qbVeCreDEE3VlDo4eY1q7D5uJLZcEYFim0DiMZzjB0h5xKvZzI_KYwMlfKZ9yjhDw",
+        "jawaban": "1"
+      },
+      "X0c9JdwscM5xj7mRMLYzdA5BdpnAzzcfyFGP_jOEuHU": {
+        "jawaban_id": "AJo6bDTE0DKnANuwBFDjbHRmbQGRqxNkeq-ZBhAGPX3FGCeqhE7RaO7Iu7ly9Z-16eEeR5hO9YxQX8MMZ2bg9w",
+        "jawaban": "1"
+      },
+      "E9uMsth224a3EvUeg0nYX9pUv7_iqjglAlrDs3iFE6A": {
+        "jawaban_id": "DF9o_64RHm929ezsxgSbfzYU4mDBCjG71bm_vOYdYSwZFCabZ4kvcyc311IGE-2g-vexauPURYZ7sK-32lYBDw",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "qztaDnjeZ15ZJkN9fSrU8sH0ZvjuO9kXPdmEoKyaSUI",
+      "tipe_soal_id": "5",
+      "nomor_soal": "4",
+      "induk_soal_id": "7026",
+      "soal": "<p><b>Multiple-categorization questions (No. 4 and 5). Categorize each other statement by ticking (v) the correct column.</b></p>\r\n\r\n<p>Which of these sentences are <b>True</b> or <b>False</b>?</p>\r\n\r\n<p> </p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A. True. B. True. C. False.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan A benar dan didukung dengan kalimat “I gained hands-on experience in managing social media accounts for school events and local community projects.”</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan B benar dan didukung dengan kalimat “I am also skilled in analyzing engagement metrics to improve audience reach.”</span></p>\r\n\r\n<p>Pernyataan C salah karena pelamar belum pernah bekerja secara profesional sebelumnya dan merupakan lulusan baru.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7026",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following job application letter.</b></p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya<br>\r\nJl. Ontoseno No. 17<br>\r\nBantul, Yogyakarta 55711<br>\r\n+62 817342<br>\r\nramshi.putra17@mail.com</p>\r\n\r\n<p xss=removed><span xss=removed>July 1</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Hiring Manager</span></p>\r\n\r\n<p xss=removed><span xss=removed>PT Citra Diraja </span></p>\r\n\r\n<p xss=removed><span xss=removed>Jl. Pangeran Antasari No. 45</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jakarta, Indonesia</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Dear Hiring Manager,</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\r\n\r\n<p xss=removed><span xss=removed>I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\r\n\r\n<p xss=removed><span xss=removed>During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\r\n\r\n<p xss=removed>What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=removed>I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\r\n\r\n<p xss=removed><span xss=removed>I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\r\n\r\n<p xss=removed>Thank you for your time and consideration.</p>\r\n\r\n<p align=\"right\" xss=removed>Sincerely,</p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya</p>\r\n\r\n<p align=\"right\" xss=removed>(CP/100%/SST)</p>\r\n\r\n<p xss=removed><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "VsBCJWY1VQ56xWrYu1Nl_50jPSvr2XDjXuqtdL8t-J4",
+        "soal_id": "qztaDnjeZ15ZJkN9fSrU8sH0ZvjuO9kXPdmEoKyaSUI",
+        "sub_soal": "<p>The applicant managed social media accounts for school events and local community projects.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "4R_BtbpNuV-SkwGgNYT4W3MV0j4qFXkxcpdmbFq9CuI",
+        "soal_id": "qztaDnjeZ15ZJkN9fSrU8sH0ZvjuO9kXPdmEoKyaSUI",
+        "sub_soal": "<p>The applicant was experienced in analyzing engagement analytics to increase audience reach.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "267DRd6UGyN2wx0w1ivdJXgNFaTcLXQ5RAmxeA6g5DM",
+        "soal_id": "qztaDnjeZ15ZJkN9fSrU8sH0ZvjuO9kXPdmEoKyaSUI",
+        "sub_soal": "<p>The applicant has worked as a Social Media Officer in a major company for two years.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "VsBCJWY1VQ56xWrYu1Nl_50jPSvr2XDjXuqtdL8t-J4": {
+        "jawaban_id": "x3rE4lrPHP37DvPJTLpSqEUsOucMTr1dcwQh9B8uwZ9QJXV-VQLhJ3eMubvIPo-AiQfl9Bbx54kvUttF169KnQ",
+        "jawaban": "1"
+      },
+      "4R_BtbpNuV-SkwGgNYT4W3MV0j4qFXkxcpdmbFq9CuI": {
+        "jawaban_id": "VuHN4kvNMJGvojQPy73caOF07aWOc2dSseYY-JX1jUZCkAnD8GiLrETVkzXJISqIrTnXVHgHcFYO33zjsMnh5Q",
+        "jawaban": "0"
+      },
+      "267DRd6UGyN2wx0w1ivdJXgNFaTcLXQ5RAmxeA6g5DM": {
+        "jawaban_id": "mlQJggaVSMREVjeXrad4kYvdrpMMgHZ9nv__tgBYz9YS_tm5sWuR_OwpQeJiWZ2KLOwyQSsbiRx__xYOUXi-PA",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "AmSux2z7btwPJEB4lMABcwIf865qzM3TOtv5kME-o7Y",
+      "tipe_soal_id": "5",
+      "nomor_soal": "5",
+      "induk_soal_id": "7026",
+      "soal": "<p>nswer the questions by choosing <b>Yes</b> or <b>No</b>.</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A. Yes. B. No. C. Yes.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Jawaban pertanyaan A adalah Yes karena memang benar bahwa pelamar belum pernah bekerja di perusahaan mana pun, dan merupakan seorang lulusan baru dari SMK Nusaraya Bantul, jurusan Multimedia.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Jawaban pertanyaan B adalah No karena bukan manajer HR PT Citra Diraja yang melampirkan contoh konten media sosialnya pada surat tersebut, melainkan pelamar/penulis surat lamaran.</span></p>\r\n\r\n<p>Jawaban pertanyaan C adalah Yes karena Putra Ramshiditya memang benar terkesan dengan PT Citra Diraja. Hal ini ditunjukkan kalimat pada paragraf 3, “What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns.”</p>\r\n",
+      "header_pgk": "",
+      "title_1": "Yes",
+      "title_2": "No"
+    },
+    "induk_soal": {
+      "induk_id": "7026",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following job application letter.</b></p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya<br>\r\nJl. Ontoseno No. 17<br>\r\nBantul, Yogyakarta 55711<br>\r\n+62 817342<br>\r\nramshi.putra17@mail.com</p>\r\n\r\n<p xss=removed><span xss=removed>July 1</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Hiring Manager</span></p>\r\n\r\n<p xss=removed><span xss=removed>PT Citra Diraja </span></p>\r\n\r\n<p xss=removed><span xss=removed>Jl. Pangeran Antasari No. 45</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jakarta, Indonesia</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>Dear Hiring Manager,</span></p>\r\n\r\n<p xss=removed> </p>\r\n\r\n<p xss=removed><span xss=removed>I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\r\n\r\n<p xss=removed><span xss=removed>I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\r\n\r\n<p xss=removed><span xss=removed>During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\r\n\r\n<p xss=removed>What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=removed>I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\r\n\r\n<p xss=removed><span xss=removed>I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\r\n\r\n<p xss=removed>Thank you for your time and consideration.</p>\r\n\r\n<p align=\"right\" xss=removed>Sincerely,</p>\r\n\r\n<p align=\"right\" xss=removed>Putra Ramshiditya</p>\r\n\r\n<p align=\"right\" xss=removed>(CP/100%/SST)</p>\r\n\r\n<p xss=removed><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "ZQgzgTyPkRZGZqcJRG-GnLclbFQOWB-fjVzPNwXk3E0",
+        "soal_id": "AmSux2z7btwPJEB4lMABcwIf865qzM3TOtv5kME-o7Y",
+        "sub_soal": "<p>Has the applicant never worked in any company?</p>\r\n"
+      },
+      {
+        "sub_soal_id": "LpHjvnStkxTIpHEM6tojNUerWA-TKM2ugxO7XlPxpRA",
+        "soal_id": "AmSux2z7btwPJEB4lMABcwIf865qzM3TOtv5kME-o7Y",
+        "sub_soal": "<p>Did the HR Manager attach the samples of his social media content on the letter?</p>\r\n"
+      },
+      {
+        "sub_soal_id": "O8FEap74LfNLVFnBO2aZNsQxnBFS3Z9bJITVHhEMgSo",
+        "soal_id": "AmSux2z7btwPJEB4lMABcwIf865qzM3TOtv5kME-o7Y",
+        "sub_soal": "<p>Is the applicant impressed by how the company builds online communities and creates valuable massages for digital audience?</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "ZQgzgTyPkRZGZqcJRG-GnLclbFQOWB-fjVzPNwXk3E0": {
+        "jawaban_id": "EvLkDMuto4kpiUTA2kqYRyqyi86osqrB_QMtcgfL_cQ4fnFEIah-Cuk0hfeRyH4QFJPfF-eCEA9Md2kCwWs7bQ",
+        "jawaban": "0"
+      },
+      "LpHjvnStkxTIpHEM6tojNUerWA-TKM2ugxO7XlPxpRA": {
+        "jawaban_id": "VOCcu68esX9ebOuOvsch8CzH_3Zg-dr14YdU8yZgBHFTfxbzSSdPUjOVvj-OlTChAzE_3lQv-N3GVk6nQDpr7g",
+        "jawaban": "1"
+      },
+      "O8FEap74LfNLVFnBO2aZNsQxnBFS3Z9bJITVHhEMgSo": {
+        "jawaban_id": "q4LVJjTdN9dtQI5N54AQ12SP64qRoWHhLsFwkxtGAjcFlwamO-kDO82tRCaax1Uwq3wyvcGNm48z7GFarxAjdQ",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+      "tipe_soal_id": "1",
+      "nomor_soal": "6",
+      "induk_soal_id": "7032",
+      "soal": "<p>Which one of these employee behaviors that does not align with the instructions in the memo?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: B. </b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Dalam memo dijelaskan perilaku karyawan berikut yang tidak sesuai dengan instruksi dalam memo adalah pilihan B, yaitu menyimpan perlengkapan tulis yang tidak terpakai di mana saja asalkan berada di dalam ruangan kantor karena seharusnya mengembalikannya.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7032",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=removed><b>Memorandum</b></p>\r\n\r\n<p>To                : All Employees<br>\r\nFrom            : Office Management Division<br>\r\nDate             : July 2<br>\r\nSubject         : Let&#39;s Use Our Office Supplies Wisely</p>\r\n\r\n<p>Hi everyone,</p>\r\n\r\n<p xss=removed><span xss=removed>just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\r\n\r\n<p xss=removed>Here are a few simple ways to help out:</p>\r\n\r\n<ul>\r\n <li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\r\n <li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\r\n <li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\r\n <li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\r\n</ul>\r\n\r\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"right\" xss=removed>Thank you for your help,<br>\r\nOffice Management Division<br>\r\nPT Vitasena Indonesia</p>\r\n\r\n<p align=\"right\" xss=removed>(DC/100%/SST)</p>\r\n\r\n<p align=\"right\" xss=removed> </p>\r\n\r\n<p align=\"right\" xss=removed><b>Multiple-choice question. Choose the correct answer</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "j_kKB6BaIp4FZZ1sYg4ksCICe84zNdNLCHKw-N_31XQ",
+        "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+        "sub_soal": "<p>Avoiding stockpiling by requesting only the amount needed for the week.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "B0RTGHuOwoAcCRLR9-y52zjwRpzRJIAzQlyMNUUAVEo",
+        "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+        "sub_soal": "<p>Keeping unused writing supplies wherever as long as it is within office rooms.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ho17EWRp1eIFpoqA_xILgvcMPi9FShVNPnb-mfpCCr8",
+        "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+        "sub_soal": "<p>Limiting printing to necessary tasks and using double-sided printing options.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ZoHCDhis0NHydiM6l_Yo1z_YwxuaTiUTj1ZCggLvVs8",
+        "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+        "sub_soal": "<p>Returning surplus markers to the administration instead of leaving them unused.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ecPW8dhPCA70nz0WDec8-4KfSsT0KcTW65L6o98Tb5s",
+        "soal_id": "yqjbG4DK-DeTg2IT5YskHMPtfREnVPszv2-aIQcWLqM",
+        "sub_soal": "<p>Taking five pens for personal use and replacing them only if lost.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "j_kKB6BaIp4FZZ1sYg4ksCICe84zNdNLCHKw-N_31XQ": {
+        "jawaban_id": "PWBlsVI3-UqSQu8YEOKAuY3us21b1JzAf-X03jKw9qLnDNtmCiqjI075XPsX1w0XBy4YoA2T6PpNWkd4-EA9BQ",
+        "jawaban": "0"
+      },
+      "B0RTGHuOwoAcCRLR9-y52zjwRpzRJIAzQlyMNUUAVEo": {
+        "jawaban_id": "cdJeoAACIhFxF90xygXttyzqhUOKoSARkKAT2ez9Krukacdr0aoKe5x9HCDy3B1MdFO_t9sQVnbsuvngUON74g",
+        "jawaban": "0"
+      },
+      "ho17EWRp1eIFpoqA_xILgvcMPi9FShVNPnb-mfpCCr8": {
+        "jawaban_id": "1vNS9Sexe1K8O8KY3rIDV0z6-k86wrsSni0YjUis1wF11va-Q_e8NP5dNGtAs_WwiA0Zx1QwzUx9RxVtA71rMw",
+        "jawaban": "1"
+      },
+      "ZoHCDhis0NHydiM6l_Yo1z_YwxuaTiUTj1ZCggLvVs8": {
+        "jawaban_id": "IIPyzNFGfZIYM056FNKZs_UqBoctG_L_v6PpRdk7Pfvhiw2Q_nqD-2mjqBkezVOlRVfOr1yCB0O2zJ8p1mx_jg",
+        "jawaban": "0"
+      },
+      "ecPW8dhPCA70nz0WDec8-4KfSsT0KcTW65L6o98Tb5s": {
+        "jawaban_id": "Ctb_mZzcU6RsIwVzb5poFFnvHyoY6A-nj6YKWYUai2VQfdWp9AXgW2Wt7pFfiGsFaKwEFfD8Smu8COqsualVOA",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+      "tipe_soal_id": "2",
+      "nomor_soal": "7",
+      "induk_soal_id": "7032",
+      "soal": "<p>Which of the following statements about the memo are false?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: B, C, dan D. </b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Pernyataan yang salah adalah pilihan B, C, dan D karena tidak dijelaskan dalam teks. Sedangkan, A dan E benar. A ditunjukkan pada kalimat “<i>...just a quick note following the recent supply delivery (PO-2025-1189).</i>” dan pilihan E, barang harus dikembalikan jika tidak dipakai.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7032",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=removed><b>Memorandum</b></p>\r\n\r\n<p>To                : All Employees<br>\r\nFrom            : Office Management Division<br>\r\nDate             : July 2<br>\r\nSubject         : Let&#39;s Use Our Office Supplies Wisely</p>\r\n\r\n<p>Hi everyone,</p>\r\n\r\n<p xss=removed><span xss=removed>just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\r\n\r\n<p xss=removed>Here are a few simple ways to help out:</p>\r\n\r\n<ul>\r\n <li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\r\n <li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\r\n <li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\r\n <li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\r\n</ul>\r\n\r\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"right\" xss=removed>Thank you for your help,<br>\r\nOffice Management Division<br>\r\nPT Vitasena Indonesia</p>\r\n\r\n<p align=\"right\" xss=removed>(DC/100%/SST)</p>\r\n\r\n<p align=\"right\" xss=removed> </p>\r\n\r\n<p align=\"right\" xss=removed><b>Multiple-choice question. Choose the correct answer</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "Xuz63WxfHT-BeGrHZJfnjrV6Dokf-vg_IZ4-Y9z68_E",
+        "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+        "sub_soal": "<p>The memo is related to recent supply shipping.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "YiF5Jwh9KbjQmhPHXjwaxYlunuUsJsm0al87fbYdH04",
+        "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+        "sub_soal": "<p>The office supplies include desks and printing materials.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "22IukLzT_3REnpZE70YZqHEqlIfiWXofPW5cPSqgrsc",
+        "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+        "sub_soal": "<p>The purchase was authorized by the Procurement Office Division.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2HlNo-yEFMjqQi41S0aH4pWSIUtvaMPhApUccau-RfA",
+        "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+        "sub_soal": "<p>The supplies purchase is regularly made by the Logistic Division.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "yjeJuvTdFYwaMBw1wswfRHPC0w7YktBvAi6W5j4MSvQ",
+        "soal_id": "kmj7yhWNRVuuXslE911cYIacRK9aFsSSbldSVZT6dlU",
+        "sub_soal": "<p>Unused office item shall be returned to the administration team.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "Xuz63WxfHT-BeGrHZJfnjrV6Dokf-vg_IZ4-Y9z68_E": {
+        "jawaban_id": "01QejuqnBAp1LBbiWay-dHzbvZkK-oemBoPdM9zinGmDWUQjvLNME3Rf1q3C0p5QK1HYaabDCt6q6K6rWJphYA",
+        "jawaban": "1"
+      },
+      "YiF5Jwh9KbjQmhPHXjwaxYlunuUsJsm0al87fbYdH04": {
+        "jawaban_id": "ndUwVPY3CzZqhMPWpZ2xaXmvYzudEFHICyezxFx09wl_05XrLbO4RcfUyYFgEoZucQ8i96qhmv5U6h7dgGg5pg",
+        "jawaban": "0"
+      },
+      "22IukLzT_3REnpZE70YZqHEqlIfiWXofPW5cPSqgrsc": {
+        "jawaban_id": "lc0J3zyqwcOfvIvN7CpcIg2qXessrYz42rc57irLMPj-69kX8SyeZJgFge6tLEqUvvg2eG2bnjPtUv7ODotFiA",
+        "jawaban": "1"
+      },
+      "2HlNo-yEFMjqQi41S0aH4pWSIUtvaMPhApUccau-RfA": {
+        "jawaban_id": "ZTj_Upn0mdbCOhviXpJZm12-pJndwE5S_u7wwM1w91ZFn6vANJ6NcEOEhvtFuBR9SnFrsHGGg1BIfBK1wrZlOg",
+        "jawaban": "1"
+      },
+      "yjeJuvTdFYwaMBw1wswfRHPC0w7YktBvAi6W5j4MSvQ": {
+        "jawaban_id": "K-r1s06rECdZwofhs0JKECLRRNZxLCn6h-P2xBhgqv4wFwUcSp-VLY6oc_2dafZrOooaE2qxM0dBBzSnJwu3Yw",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+      "tipe_soal_id": "2",
+      "nomor_soal": "8",
+      "induk_soal_id": "7032",
+      "soal": "<p>Based on both texts, which reasons best explain why the memo was sent to employees?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: B, C, dan E.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Alasan yang paling baik dan menjelaskan mengapa memo dikirimkan kepada karyawan adalah B, C, dan E karena sesuai menjawab pertanyaan. Pilihan A salah karena tidak ada disebut keterlambatan, hanya disebut <em>recent supply delivery</em>. Pilihan E juga salah karena tidak ada rencana mengurangi <i>order</i>, hanya himbauan untuk tidak menimbun barang yang tidak terpakai persediaan harus diisi ulang secara teratur.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7032",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=removed><b>Memorandum</b></p>\r\n\r\n<p>To                : All Employees<br>\r\nFrom            : Office Management Division<br>\r\nDate             : July 2<br>\r\nSubject         : Let&#39;s Use Our Office Supplies Wisely</p>\r\n\r\n<p>Hi everyone,</p>\r\n\r\n<p xss=removed><span xss=removed>just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\r\n\r\n<p xss=removed>Here are a few simple ways to help out:</p>\r\n\r\n<ul>\r\n <li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\r\n <li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\r\n <li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\r\n <li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\r\n</ul>\r\n\r\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"right\" xss=removed>Thank you for your help,<br>\r\nOffice Management Division<br>\r\nPT Vitasena Indonesia</p>\r\n\r\n<p align=\"right\" xss=removed>(DC/100%/SST)</p>\r\n\r\n<p align=\"right\" xss=removed> </p>\r\n\r\n<p align=\"right\" xss=removed><b>Multiple-choice question. Choose the correct answer</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "_BWrg3x1RXzJmuEjtqVM77ztXerJ-3SEZw2WVlDNd4o",
+        "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+        "sub_soal": "<p>To announce that the procurement team will reduce future supply orders.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "XWrbqMYEmDKOBJzrhb71oVYC4PG3spBObA9W9XERydk",
+        "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+        "sub_soal": "<p>To encourage departments to manage and store supplies more responsibly.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "E3Ch7JGjOk9jTAmsV6V5NfJDKcMnqC5apjgxWWMKVgQ",
+        "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+        "sub_soal": "<p>To ensure that office materials are used in a cost-effective and efficient manner.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "tPikgy0iEsveJ-0AzwhU4onAwBQx2V9f9umx-Y-mbYs",
+        "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+        "sub_soal": "<p>To inform staff that the supplies arrived late and caused a delay in operations.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "4tCRAtxpW-XBAv690GGNSRDDkm9ruy3BXL84o0icL-U",
+        "soal_id": "KHsv1mJj516ZuIU2YHI030gO3FN8GzkCcrbuu7wv7kY",
+        "sub_soal": "<p>To remind employees to avoid waste and unnecessary use of newly delivered items.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "_BWrg3x1RXzJmuEjtqVM77ztXerJ-3SEZw2WVlDNd4o": {
+        "jawaban_id": "qApTS1xGl20IZpN6MYfEhdh7XAdNiI6Ddjt0UC0Smdhunu0v4y4mFUfJB2L0tVUxvuGOplhYAwnJ8a-2yOasgA",
+        "jawaban": "0"
+      },
+      "XWrbqMYEmDKOBJzrhb71oVYC4PG3spBObA9W9XERydk": {
+        "jawaban_id": "YWNlmBwZuHk1Ltmcsi9nEarzRisxnpKe7xiCfEdJeNUM7VWZNa4c9Jm3JY1T9hpQ2aRumcIuMz0wq_hxowAOLw",
+        "jawaban": "1"
+      },
+      "E3Ch7JGjOk9jTAmsV6V5NfJDKcMnqC5apjgxWWMKVgQ": {
+        "jawaban_id": "5YM38JZEKmpbw5PxltlHyve2-CzJ7OAM7bA3iIJnYWYmKH2l7Re0t99QeDeYlRP1x4KwXHhEFiIyI1St8eAv8g",
+        "jawaban": "0"
+      },
+      "tPikgy0iEsveJ-0AzwhU4onAwBQx2V9f9umx-Y-mbYs": {
+        "jawaban_id": "sZigG8ZK7KBwAuwpZz8RhVlBT1wGUXbUNUP6Qsam-2_rvY6LYpvLGOEBKaCh0oQDEnyIxi3o6P-gGHzHv89MpQ",
+        "jawaban": "1"
+      },
+      "4tCRAtxpW-XBAv690GGNSRDDkm9ruy3BXL84o0icL-U": {
+        "jawaban_id": "BS928zxvfCQIwO4USO5skcR2ptxG0xB2LuTt8oTb_XbQ2qw-6hV13UT2kfyb_1ovvlTqrXMEVHVZjxR4siu7sw",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "trZAgq3TfkkVy0eBiK6nz9eRMq6KQ6Qaw2TME1MB96A",
+      "tipe_soal_id": "5",
+      "nomor_soal": "9",
+      "induk_soal_id": "7032",
+      "soal": "<p><b>Multiple-categorization questions (No. 9 and 10). Categorize each other statement by ticking (P) the correct column.</b></p>\r\n\r\n<p>Which of these sentences are <b>Fact</b> or <b>Opinion</b>?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. Opinion. B. Fact. C. Fact.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan A adalah opini karena ada “I think” di awal kalimat yang merupakan pendapat pribadi atau penilaian yang belum tentu dapat dibuktikan kebenarannya. </span></p>\r\n\r\n<p>Pernyataan B dan C adalah fakta karena bisa dibuktikan benar berdasarkan isi teks.</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "Fact",
+      "title_2": "Opinion"
+    },
+    "induk_soal": {
+      "induk_id": "7032",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=removed><b>Memorandum</b></p>\r\n\r\n<p>To                : All Employees<br>\r\nFrom            : Office Management Division<br>\r\nDate             : July 2<br>\r\nSubject         : Let&#39;s Use Our Office Supplies Wisely</p>\r\n\r\n<p>Hi everyone,</p>\r\n\r\n<p xss=removed><span xss=removed>just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\r\n\r\n<p xss=removed>Here are a few simple ways to help out:</p>\r\n\r\n<ul>\r\n <li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\r\n <li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\r\n <li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\r\n <li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\r\n</ul>\r\n\r\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"right\" xss=removed>Thank you for your help,<br>\r\nOffice Management Division<br>\r\nPT Vitasena Indonesia</p>\r\n\r\n<p align=\"right\" xss=removed>(DC/100%/SST)</p>\r\n\r\n<p align=\"right\" xss=removed> </p>\r\n\r\n<p align=\"right\" xss=removed><b>Multiple-choice question. Choose the correct answer</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "2fLKyBpZTWI65kKBPCQfWc32xncVcaH0wcs3iCWLC-Y",
+        "soal_id": "trZAgq3TfkkVy0eBiK6nz9eRMq6KQ6Qaw2TME1MB96A",
+        "sub_soal": "<p>I think employees should take writing supplies from the Administration team and stock them on their own desks.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "LLNodo14o9HadPHX9R8fFM87665tPV_d-8HNU4XRFt8",
+        "soal_id": "trZAgq3TfkkVy0eBiK6nz9eRMq6KQ6Qaw2TME1MB96A",
+        "sub_soal": "<p>The office is discouraging stockpiling to ensure that office supplies are available to every employee.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "xifk6YUtP0ynPgjPLLy1LtVs8rO7K_gFHskFIXtV2Q4",
+        "soal_id": "trZAgq3TfkkVy0eBiK6nz9eRMq6KQ6Qaw2TME1MB96A",
+        "sub_soal": "<p>Paper, which is an essential office supply, can be reserved by using double-sided printing options and going digital.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "2fLKyBpZTWI65kKBPCQfWc32xncVcaH0wcs3iCWLC-Y": {
+        "jawaban_id": "O-yuvqcUq5GTE_Ca8Tgf_VXLhZKRssWati2qQrUC3bnt7uvldwsRdk88roDs6Y-NWixTCAbPEYyS2Mt2dTLK1A",
+        "jawaban": "0"
+      },
+      "LLNodo14o9HadPHX9R8fFM87665tPV_d-8HNU4XRFt8": {
+        "jawaban_id": "nMxkORQJnwa5AatkivCQUzfbiWhOGjnKjrfC24Oj9i-0tHuL9KOn0dFwV_6GoLJV9u_F3LOmkwditoVOEvhiiw",
+        "jawaban": "0"
+      },
+      "xifk6YUtP0ynPgjPLLy1LtVs8rO7K_gFHskFIXtV2Q4": {
+        "jawaban_id": "gTYq_mFKOmEQLWxvESpX3tqcy6WHN_VxCKMRzH4q11l4gnJ88vQfy2d7rfRFKgR7Bw-LFyOj6X5spXBmDHX-rw",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "llkQO_f5CQhz8ySth8QHZns1ZICF4CZovW9duQ_Vyw4",
+      "tipe_soal_id": "5",
+      "nomor_soal": "10",
+      "induk_soal_id": "7032",
+      "soal": "<p>Which of these sentences are<b> True</b> or <b>False</b>?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. True. B. True. C. False.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan A benar karena didukung di dalam teks yang menyebut, “Office resources are shared across departments and must be used efficiently.” </span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan B benar karena didukung di dalam teks yang menyebut, “Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.”</span></p>\r\n\r\n<p>Pernyataan C salah karena memo menjelaskan “…give or send it back to the administration team so it can be reused.” Artinya untuk dipakai ulang, bukan untuk penggunaan pribadi tim Administrasi.</p>\r\n",
+      "header_pgk": "Statement ",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7032",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=removed><b>Memorandum</b></p>\r\n\r\n<p>To                : All Employees<br>\r\nFrom            : Office Management Division<br>\r\nDate             : July 2<br>\r\nSubject         : Let&#39;s Use Our Office Supplies Wisely</p>\r\n\r\n<p>Hi everyone,</p>\r\n\r\n<p xss=removed><span xss=removed>just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\r\n\r\n<p xss=removed>Here are a few simple ways to help out:</p>\r\n\r\n<ul>\r\n <li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\r\n <li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\r\n <li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\r\n <li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\r\n</ul>\r\n\r\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"right\" xss=removed>Thank you for your help,<br>\r\nOffice Management Division<br>\r\nPT Vitasena Indonesia</p>\r\n\r\n<p align=\"right\" xss=removed>(DC/100%/SST)</p>\r\n\r\n<p align=\"right\" xss=removed> </p>\r\n\r\n<p align=\"right\" xss=removed><b>Multiple-choice question. Choose the correct answer</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "mCZNgyXBcKhNI7KSy4U6URRGzvUD79I_V5XgQBhu7Ys",
+        "soal_id": "llkQO_f5CQhz8ySth8QHZns1ZICF4CZovW9duQ_Vyw4",
+        "sub_soal": "<p>Office resources are shared across departments and must be used efficiently.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "wiz50BExj7ny4Hj1R4LruxsbguD08FKJkKhMlbOfDbM",
+        "soal_id": "llkQO_f5CQhz8ySth8QHZns1ZICF4CZovW9duQ_Vyw4",
+        "sub_soal": "<p>Office supplies are considered a limited resource and should not be misplaced or damaged.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "oH85UK2VaOFNu1NufYtJnM4TH-_i4Gp9wbaAlvE4-2c",
+        "soal_id": "llkQO_f5CQhz8ySth8QHZns1ZICF4CZovW9duQ_Vyw4",
+        "sub_soal": "<p>Returned unused items will be given to the administration team for their personal use.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "mCZNgyXBcKhNI7KSy4U6URRGzvUD79I_V5XgQBhu7Ys": {
+        "jawaban_id": "8ZapSw-13oNFzepPxKv3gMgFIvZwEasFQy93Iz8rLX08CJKzvn43o8V9jUPPHqJh2isSdJXLkfMDd6BvZs1aZA",
+        "jawaban": "1"
+      },
+      "wiz50BExj7ny4Hj1R4LruxsbguD08FKJkKhMlbOfDbM": {
+        "jawaban_id": "yK4C6--DZAxg5RK22f2B18Yt6D_8GYO-B-BeaNA1a-BzNf4R8d-BCCZoUVBwWNfTDE_2fR--fUwS4Vsr6v491w",
+        "jawaban": "1"
+      },
+      "oH85UK2VaOFNu1NufYtJnM4TH-_i4Gp9wbaAlvE4-2c": {
+        "jawaban_id": "rgpgnD_q9cSUlviJXLQKngnsKEIzICX30EJHbUEZXTl7dLmK-YZDSZNlt193GWsabmG3FoBl0bWjq83w3si48Q",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+      "tipe_soal_id": "1",
+      "nomor_soal": "11",
+      "induk_soal_id": "7038",
+      "soal": "<p><b>Multiple-choice questions (No. 11 and 12). Choose the correct answer.</b></p>\r\n\r\n<p>Which of the following statements is true about saturated fat?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><span xss=removed><b>Jawaban: B.</b></span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed><b>Pembahasan:</b></span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Pernyataan B adalah yang paling tepat. Berdasarkan teks, anak di bawah 2 tahun dianjurkan mengonsumsi produk susu berlemak penuh (<i>full-fat</i>) seperti keju dan yogurt. </span></span></p>\r\n\r\n<p>Pernyataan A salah karena laki-laki dan perempuan dewasa harus membatasi konsumsi makanan yang mengandung lemak penuh, bukan memakannya lebih banyak. C juga salah karena seharusnya kurang dari 20 grams, 28 grams terlalu banyak. D salah karena teks merekomendasikan full-fat dairy, bukan hanya unsaturated. Terakhir, E salah larena laki-laki dewasa dianjurkan untuk mengonsumsi makanan yang mengandung saturated fat maksimal 30 grams, bukan 20 grams.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7038",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Questions numbers 11 to 15 refer to the following table and text.</b></span></p>\r\n\r\n<p><b>Table</b></p>\r\n\r\n<p><img height=\"399\" src=\"/erlangga_cbt_qr/adm/img/files/image(7398).png\" width=\"619\"></p>\r\n\r\n<p><b>Text</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\r\n\r\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "KZT-QcOHiVyNEiAU6Ce9gC0PAVhCmF0aDtgxS-Lcp_c",
+        "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+        "sub_soal": "<p>Adult men and women need to consume more food containing saturated fat.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6GhrRvda9_PAc5vVRLqiltICVlZh2cyS1NEtTQMv2rw",
+        "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+        "sub_soal": "<p>Children under 2 years old are recommended to consume diet with food with full fat.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "NgvhoSc3fmq7F1qeghXw3CwWaPFiKKD3vAowmEcYKMI",
+        "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+        "sub_soal": "<p>For most women, they can still consume 28 grams of saturated fat in their daily meals.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "EFnBwyfdLPxxUZCbp1RlJ5DMddpRALLXxf8e1MlF6SA",
+        "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+        "sub_soal": "<p>It is advisable that children under 2 years consume only unsaturated fat for their growth.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6I9WTrWS6goaAsrNEYHysqz21abn_69wKyx7AR6YBUI",
+        "soal_id": "OHJKZXCDodrUG2AmwQjN6lDnTe7WTnOAGTED22ZrqCI",
+        "sub_soal": "<p>The average adult man can have no more than 20 grams of saturated fat a day.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "KZT-QcOHiVyNEiAU6Ce9gC0PAVhCmF0aDtgxS-Lcp_c": {
+        "jawaban_id": "3NRPyyum8kdzvLRgXvk0awO9I3Wt7gnOyqDRvgQxql2L3k4eF7lQOSLwVOp-Ilb3Mx6Ex8AvFZWuBvyvVw0Ccg",
+        "jawaban": "0"
+      },
+      "6GhrRvda9_PAc5vVRLqiltICVlZh2cyS1NEtTQMv2rw": {
+        "jawaban_id": "xjanDVYaEsGU8JQEvOizCYCEUkLxb-gCquBsZmkdznEzMh8E-PV-XoOibnbsHO3uUeq4Mb5WrpqQRJ_zGjppNA",
+        "jawaban": "1"
+      },
+      "NgvhoSc3fmq7F1qeghXw3CwWaPFiKKD3vAowmEcYKMI": {
+        "jawaban_id": "r-ht-AS4yti5QPimPNF5jPquBYGEZBp8Hzgnh69cjgZG9VT8qRcRjOV5R1Q0t-iHw_tb0u_1xHYBt3jzbIqtvg",
+        "jawaban": "0"
+      },
+      "EFnBwyfdLPxxUZCbp1RlJ5DMddpRALLXxf8e1MlF6SA": {
+        "jawaban_id": "VdOVkVmbGiqsfeEhnRhwS83btuO6rzNQW1CXMJkjFucl0qMsza__W7FOdHcO52SmGlxfg4yeaY5TRo05BrOPpg",
+        "jawaban": "0"
+      },
+      "6I9WTrWS6goaAsrNEYHysqz21abn_69wKyx7AR6YBUI": {
+        "jawaban_id": "7L3S0mps8mL_ZM5Y6EZNSvtIkdmmlnwZsbWapkjcrucWpId2hMnl3s3nF35JFdj6Qd_J6SErgBSFm2k2kqgRRg",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+      "tipe_soal_id": "1",
+      "nomor_soal": "12",
+      "induk_soal_id": "7038",
+      "soal": "<p>Judging from the ingredients, we can say that the product is . . . .</p>\r\n",
+      "pembahasan": "<p><span xss=removed><b>Jawaban: A.</b></span></p>\r\n\r\n<p><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p><span xss=removed>Jawaban yang paling tepat adalah A karena laki-laki dewasa harus mengonsumsi <i>saturated</i> <i>fat</i> sebanyak maksimal 30 gram, maka jika dihitung (5.7 ÷ 30) × 100% = 19%.</span></p>\r\n\r\n<p>Sementara itu, opsi B salah karena jika dihitung berdasarkan jumlah <i>saturated fat</i> yang disarankan untuk perempuan dewasa sebanyak maksimal 20 gram, maka jika dihitung (5.7 ÷ 20) × 100% = 28.5%. Opsi C, D, dan E salah karena tidak sesuai dengan isi teks.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7038",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Questions numbers 11 to 15 refer to the following table and text.</b></span></p>\r\n\r\n<p><b>Table</b></p>\r\n\r\n<p><img height=\"399\" src=\"/erlangga_cbt_qr/adm/img/files/image(7398).png\" width=\"619\"></p>\r\n\r\n<p><b>Text</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\r\n\r\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "sDt4SJ-MCqWPdrHhwQ0Hm19KBug2yIkrYi6uk18Z4E4",
+        "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+        "sub_soal": "<p>containing less than 20% saturated fat than it is suggested for adult men per day</p>\r\n"
+      },
+      {
+        "sub_soal_id": "7AL-7UkMurM0vasaasqFUtIXbcgbGDQP8fqYpBL0bgQ",
+        "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+        "sub_soal": "<p>containing less than 20% saturated fat than it is suggested for adult women per day</p>\r\n"
+      },
+      {
+        "sub_soal_id": "cxuoLhSyD8_nUY4CfuWps9QCXlNyDXGBtUOazPi3PHU",
+        "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+        "sub_soal": "<p>containing saturated fat from banana</p>\r\n"
+      },
+      {
+        "sub_soal_id": "BfdkVXjrJzbUuPdZXuFKxH2kOV8vOVaTY-VVRC3csVo",
+        "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+        "sub_soal": "<p>free from saturated fat content</p>\r\n"
+      },
+      {
+        "sub_soal_id": "yQRBH5VNda_UsLFnrBoYKl-VeXBK2oPHie7VCr7wRdY",
+        "soal_id": "ReHps1FaXh99wVPLY7bRmrL4g-ZUI9D2A3nW5Sh7ZLI",
+        "sub_soal": "<p>only using fruits in its ingredients</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "sDt4SJ-MCqWPdrHhwQ0Hm19KBug2yIkrYi6uk18Z4E4": {
+        "jawaban_id": "Krh8Ynn5pdqXpvzo8E_5xF5Qu2MLHAnORB6-2fT46MHYrb_OYkSZs1SXPELzw6s4rHaLnZNsjMtgTEl-HQmnrA",
+        "jawaban": "0"
+      },
+      "7AL-7UkMurM0vasaasqFUtIXbcgbGDQP8fqYpBL0bgQ": {
+        "jawaban_id": "ytsu8uQKvZ2mnqgMyCJiBpExU0KC1M1Fq3oJwzHextJWkh4q0K6afiRubD983mcbMnv_3eGQsIVYpEjJDqmdfw",
+        "jawaban": "0"
+      },
+      "cxuoLhSyD8_nUY4CfuWps9QCXlNyDXGBtUOazPi3PHU": {
+        "jawaban_id": "TQbws01po472ADzJd8Jf3tYLZc7smY1pIJvSibGSLCbxNkQh_EU92PMkKMzDdI9H2K1akxuqAPPZNiFOw9CtXw",
+        "jawaban": "0"
+      },
+      "BfdkVXjrJzbUuPdZXuFKxH2kOV8vOVaTY-VVRC3csVo": {
+        "jawaban_id": "AnTUo77aBqvHMB4MB1GOwxitmU2sibWxdnePT9dHGWwvkAiVi_tk1Bajwl7wxRZuOtJ0nBOlbIiTBXU0lo3f6A",
+        "jawaban": "0"
+      },
+      "yQRBH5VNda_UsLFnrBoYKl-VeXBK2oPHie7VCr7wRdY": {
+        "jawaban_id": "Gw01zr6LPfjXp6_V7RMmL2Z9NiCg1bzb8wgwDmqKVcn_1FkWUD3wpvmpQjtln8Hq6bitHFzRm1EDIii8iGcBXg",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+      "tipe_soal_id": "2",
+      "nomor_soal": "13",
+      "induk_soal_id": "7038",
+      "soal": "<p><b>Multiple-choice multiple-answer questions (No. 13 and 14). Choose more than one answer.</b></p>\r\n\r\n<p>Which of the following are recommended ways to reduce saturated fat in the diet?</p>\r\n",
+      "pembahasan": "<p><b>Jawaban: B, C, dan D.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p>“<i>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados … For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat</i> …” Berdasarkan kalimat tersebut yang ada di paragraf 3, pilihan B, C, dan D adalah yang paling tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7038",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Questions numbers 11 to 15 refer to the following table and text.</b></span></p>\r\n\r\n<p><b>Table</b></p>\r\n\r\n<p><img height=\"399\" src=\"/erlangga_cbt_qr/adm/img/files/image(7398).png\" width=\"619\"></p>\r\n\r\n<p><b>Text</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\r\n\r\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "IqK9ShWNRg9-DTFbAosm6H84LIEpg_9s_CMhS_cbatE",
+        "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+        "sub_soal": "<p>Add butter and cream to the vegetables for flavor.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "w8NNS77nLkMAIeG9m52BYIKmg4dtBlKNNXTuddnJ84I",
+        "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+        "sub_soal": "<p>Choose lean cuts of meat and remove visible fat.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "SHnAr5J1LNjKSCS8VXOWOZpXRfO872WCWI7C6DKqoX8",
+        "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+        "sub_soal": "<p>Eat avocados and oily fish more often.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "X3BOWNkvUxXmLDhU6anCQYSRj5gTW-pwcdBlMryuqE0",
+        "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+        "sub_soal": "<p>Use a reduced-fat spread instead of butter and palm oil.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "_qombQHwsOJ0MpTrCQxmnjDxuWPavq3337sHYHvrXLk",
+        "soal_id": "Be2lVFiZ79B6Ezzfb-GdCrSltDUffRH0BT4CqFttZ5I",
+        "sub_soal": "<p>Use butter instead of oil when cooking.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "IqK9ShWNRg9-DTFbAosm6H84LIEpg_9s_CMhS_cbatE": {
+        "jawaban_id": "F-j_Gb49ddJsxzC11mEgvc_cIpjtN2pUUALfU0v6UR9dzFXUygVcF-suPYZPIrK6h9hsIy-YbecujhuTLII18g",
+        "jawaban": "1"
+      },
+      "w8NNS77nLkMAIeG9m52BYIKmg4dtBlKNNXTuddnJ84I": {
+        "jawaban_id": "CY7qGPy2ZKuThHNDdIwE0n2mVRVWgk6QvEft5zJnOUkR4jwwTEYeJZV47BzEF7lVz46l8H_hG25tC4my_gb6sA",
+        "jawaban": "0"
+      },
+      "SHnAr5J1LNjKSCS8VXOWOZpXRfO872WCWI7C6DKqoX8": {
+        "jawaban_id": "FPz4RXTp8jEGX3or1xhbuVIvGkkosuovCyzCWvYWQWFEJiR6MA-uMuL25WKQ6g_kE4Ff69RBd2TBoHveNBeiAA",
+        "jawaban": "1"
+      },
+      "X3BOWNkvUxXmLDhU6anCQYSRj5gTW-pwcdBlMryuqE0": {
+        "jawaban_id": "bK0hGguN5QLP1SB2_PxCfeC8USCSmtDtIhHoftEI3l4HPfsRI-1g6pfMU85XMEMWk9A2XgodIukKQjKuTWJ3jQ",
+        "jawaban": "0"
+      },
+      "_qombQHwsOJ0MpTrCQxmnjDxuWPavq3337sHYHvrXLk": {
+        "jawaban_id": "1sCpmmmIj495LmSCEv7GXzGNsw3CG22NjWqxw2OX9MjuRpUrLlxlBKtSh8xB9A24cBSn32sn30Q4aEXE8V_g9Q",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+      "tipe_soal_id": "2",
+      "nomor_soal": "14",
+      "induk_soal_id": "7038",
+      "soal": "<p>Which statements about fat intake for different age groups are true?</p>\r\n",
+      "pembahasan": "<p><b>Jawaban: A, C, dan D.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p xss=removed>Pernyataan A benar karena anak di bawah 5 tahun harus menghindari pola makan dengan kandungan <i>low-fat</i>. Pernyataan C juga benar dan didukung oleh kalimat, “<i>For kids under two, full-fat dairy products like cheese and yogurt are recommended</i>.” Pernyataan D benar dan didukung oleh kalimat, “<i>Men need to consume a maximum of 30 grams of saturated fat per day on average ...</i>”</p>\r\n\r\n<p>Pernyataan E salah karena 25 grams melebihi batas konsumsi <i>saturated fat</i> bagi wanita dewasa. Pernyataan B juga salah karena anak di bawah 11 tahun harus mengonsumsi lebih sedikit daripada orang dewasa.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7038",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Questions numbers 11 to 15 refer to the following table and text.</b></span></p>\r\n\r\n<p><b>Table</b></p>\r\n\r\n<p><img height=\"399\" src=\"/erlangga_cbt_qr/adm/img/files/image(7398).png\" width=\"619\"></p>\r\n\r\n<p><b>Text</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\r\n\r\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "2haV9QvDNNKAmbBL73aKLTI_Y6_5y0yEcZl7kNJbR_4",
+        "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+        "sub_soal": "<p>A low-fat diet is not suitable for children under 5.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "oEK-F-YPgKcWJhuhPgojHYBIM6WOF9fEjRmqdxynroU",
+        "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+        "sub_soal": "<p>Children under 11 can eat the same amount as adults.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "JC5d1x-oLy3Jd4qHCP7M8pkqrY1LVUN_86hIwHPkB4s",
+        "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+        "sub_soal": "<p>Dairy food rich in fat is advised for children under 2.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "bZff-70ijQUVSvwlyaFzzsTtkNzfShNxkU5R93JixSM",
+        "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+        "sub_soal": "<p>Men should eat no more than 30g of saturated fat daily.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "EgXomcBDhLIyOYIEtcUkTU0_AP1oSk4CltVTfvYx8IA",
+        "soal_id": "azp4DejJNqNAq2VnE6lmddQ5Dyy7COih5gBOYSpEFkc",
+        "sub_soal": "<p>Women are allowed up to 25g of saturated fat per day.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "2haV9QvDNNKAmbBL73aKLTI_Y6_5y0yEcZl7kNJbR_4": {
+        "jawaban_id": "tZ819VJxGSoieeW0iJyV-URvJpPebmOQFSbeoeyKZWUzyk9YCrqVWzSgAJDMbvqDSuKvxzozr6g9onPR2QgFwA",
+        "jawaban": "1"
+      },
+      "oEK-F-YPgKcWJhuhPgojHYBIM6WOF9fEjRmqdxynroU": {
+        "jawaban_id": "4_PddRKAlIgWL30N-o4PV4t69j52jw-gBpe_KTszaeQe46myiWG5a4P9IaNgAyJB-hElFaTEp8wTyyw772ywXA",
+        "jawaban": "0"
+      },
+      "JC5d1x-oLy3Jd4qHCP7M8pkqrY1LVUN_86hIwHPkB4s": {
+        "jawaban_id": "SQ5YEoAk9P-cy2OBxFPOqf8QytE3EqHjXMMDjsqtN3rUTwbINs0i4yBHADGvdWcjvsFNj9xdO1B8oJjenY7_pQ",
+        "jawaban": "1"
+      },
+      "bZff-70ijQUVSvwlyaFzzsTtkNzfShNxkU5R93JixSM": {
+        "jawaban_id": "Ai2eJoKxqlMnN9joTYQ2HQHFiqVBSoZSvkRSy2KMwpVYZ3pMYecQ5GWC4n1aLNUNwBrshYkJlKp3mF8S9gw1oQ",
+        "jawaban": "1"
+      },
+      "EgXomcBDhLIyOYIEtcUkTU0_AP1oSk4CltVTfvYx8IA": {
+        "jawaban_id": "poVNQffSqbp_MSXQoBXjhEwsqsq0XNZ3f9sOU-NjunGE3cZwwJglbt1q7e3l-8TfENXMRHfG0xZoYtNbNcXLSQ",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "nGtF3Moa5TsaGQ-qBdPxokuFEe4ORnX7HvURaiwxIwA",
+      "tipe_soal_id": "5",
+      "nomor_soal": "15",
+      "induk_soal_id": "7038",
+      "soal": "<p><b>Multiple-categorization question. Categorize each statement by ticking (ü) the correct column.</b></p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. True. B. False. C. True.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan A benar dan didukung oleh kalimat, “<i>Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</i>” mendukung pernyataan tersebut. </span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan B salah karena berbanding terbalik dengan fakta yang dijelaskan dalam teks bahwa konsumsi tinggi <i>saturated fat</i> dapat <b>menaikkan</b> kolesterol.</span></p>\r\n\r\n<p>Pernyataan C benar dan didukung oleh kalimat, “<i>Due to their high energy content, all types of fat should only be consumed in controlled amounts.</i>”</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True ",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7038",
+      "soal": "<p xss=\"removed\"><span xss=\"removed\"><b>Questions numbers 11 to 15 refer to the following table and text.</b></span></p>\r\n\r\n<p><b>Table</b></p>\r\n\r\n<p><img height=\"399\" src=\"/erlangga_cbt_qr/adm/img/files/image(7398).png\" width=\"619\"></p>\r\n\r\n<p><b>Text</b></p>\r\n\r\n<p> </p>\r\n\r\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\r\n\r\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "P6uFdYCGWFj-vpSQuMUEc2LArbdcK-Ak24Zmp3WGz_w",
+        "soal_id": "nGtF3Moa5TsaGQ-qBdPxokuFEe4ORnX7HvURaiwxIwA",
+        "sub_soal": "<p>Saturated fat is found in high amount in cakes, pies, and sausages.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "gcBxchpVymUSnksf4ePAUqHtF9KisD6fsTog1hisN9k",
+        "soal_id": "nGtF3Moa5TsaGQ-qBdPxokuFEe4ORnX7HvURaiwxIwA",
+        "sub_soal": "<p>Eating more saturated fat lowers your cholesterol level.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "uH6fvhSZHObrBEg1n1BIJJcwk6nJqG_bio5oNb0T0Ag",
+        "soal_id": "nGtF3Moa5TsaGQ-qBdPxokuFEe4ORnX7HvURaiwxIwA",
+        "sub_soal": "<p>All fats provide high amounts of energy.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "P6uFdYCGWFj-vpSQuMUEc2LArbdcK-Ak24Zmp3WGz_w": {
+        "jawaban_id": "WNSyp6Vc75_3UskCESrnIOb5Pg3LaCktD38GVauIh4ZqAvXWVLzMTLrvRiU8e4110Y6xJQSNIrdAZ1n5CXu6vA",
+        "jawaban": "1"
+      },
+      "gcBxchpVymUSnksf4ePAUqHtF9KisD6fsTog1hisN9k": {
+        "jawaban_id": "OMcXv-RfKWH4RUSind58lF9AB2JNa79I55RkYzExSHwAgMafpJIgfXyQha28arQA33t8DvnkLqryWxWXKfklqw",
+        "jawaban": "0"
+      },
+      "uH6fvhSZHObrBEg1n1BIJJcwk6nJqG_bio5oNb0T0Ag": {
+        "jawaban_id": "9U9slsyaLYHG2psz4nXPzIcFQl8C4bZxhOs9feMLr_Syqw1Or2fhMy7W1BB2zAJGthtVzsR4mNlDQcp_wqOGow",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+      "tipe_soal_id": "2",
+      "nomor_soal": "16",
+      "induk_soal_id": "7044",
+      "soal": "<p>Which of the following statements are false about Sinta&#39;s internship experience?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: D dan E.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>Pernyataan yang salah tentang pengalaman magang Sinta ada pada pilihan D dan E. Sinta magang di rumah sakit Sehati bersama 5 temannya selama 3 bulan bukan 4 bulan, dari tanggal 20 Februari sampai tanggal 20 Mei. Dia juga tidak pernah ditempatkan bertugas di klinik gigi.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7044",
+      "soal": "<p><b>Questions numbers 16 to 20 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>My Internship Experience as a Nurse Assistant</b></p>\r\n\r\n<p xss=removed><span xss=removed>Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\r\n\r\n<p xss=removed><span xss=removed>At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=removed> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "BBvLN_kfqcdPp_QEa_gsyqO4dnpUkvVZjkL3kUM_rnU",
+        "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+        "sub_soal": "<p>She completed her internship at Sehati Hospital in Semarang.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "1cLbOvJ5pzyG8HK4-44PSp8Ypn8sXsVxKoDeEBE16-s",
+        "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+        "sub_soal": "<p>She started her internship in the nursery for more than two weeks.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "SPDto0YD1iLE0PaawF_nbe-t6bLmgtM4dmCUH0n0Bys",
+        "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+        "sub_soal": "<p>She worked alongside other interns during the three-months internship.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "5M_EU7LhJh5yWv01uB7irNbCdPLpVLw3XrZAta8KSSQ",
+        "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+        "sub_soal": "<p>She worked in the emergency room, dental clinic, and inpatient ward.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "q3sC9fWfCjrhDfa_9UleZQGfZntKbqETCNEv97G5xao",
+        "soal_id": "ZVmSLzHDvPpuL15wB6xrV7K21ddRV-G1ma6U7G1226o",
+        "sub_soal": "<p>The internship lasted for four months.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "BBvLN_kfqcdPp_QEa_gsyqO4dnpUkvVZjkL3kUM_rnU": {
+        "jawaban_id": "G_6H-_ZLrACjIZUVhSC7SfNgudeUC4CtS2sVTUrIl38K-122ieL4XqDJP8-XWBWGJGnegxCfWtd5tCroAYzDNg",
+        "jawaban": "0"
+      },
+      "1cLbOvJ5pzyG8HK4-44PSp8Ypn8sXsVxKoDeEBE16-s": {
+        "jawaban_id": "nYgWwjQQj1oLOmatc1Hrc9-T1If38myWIEabQsD4Lqs8hkVpp02hN8EJA8cY_lr9GC6gpBcRKQAukmtz68LYWA",
+        "jawaban": "0"
+      },
+      "SPDto0YD1iLE0PaawF_nbe-t6bLmgtM4dmCUH0n0Bys": {
+        "jawaban_id": "7Mo-jvAgWCFuCBPgGCP3XpY5HDyx1PIWRZ9UE4GYhgQbFMRzr0El_9jn17_XhiQRHeQpmQMcnhtO2g-wRK4UCg",
+        "jawaban": "1"
+      },
+      "5M_EU7LhJh5yWv01uB7irNbCdPLpVLw3XrZAta8KSSQ": {
+        "jawaban_id": "DnBCj4qKIons52ctSfofC2XNc73An9WfRO9J8aKktO7YeEM5ON6BjK6AViTXXOgcNxJ2Mn8JOTHMLxLcZK24Jg",
+        "jawaban": "0"
+      },
+      "q3sC9fWfCjrhDfa_9UleZQGfZntKbqETCNEv97G5xao": {
+        "jawaban_id": "-m3-gHUzSCycvK6WrNq-v3lJV7a-fVLGwtoKOFsT4EScHxQoPUDKqt5FZ_XQB-OXQdroDb5dM0rHhy0Nen9Q4w",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+      "tipe_soal_id": "2",
+      "nomor_soal": "17",
+      "induk_soal_id": "7044",
+      "soal": "<p>What were Sinta&#39;s responsibilities in the outpatient ward?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: A, B, C, dan D.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>“… <i>when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office</i>.” Potongan kalimat pada paragraf 2 menunjukkan bahwa pilihan A, B, C, dan D adalah yang paling benar.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7044",
+      "soal": "<p><b>Questions numbers 16 to 20 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>My Internship Experience as a Nurse Assistant</b></p>\r\n\r\n<p xss=removed><span xss=removed>Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\r\n\r\n<p xss=removed><span xss=removed>At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=removed> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "zKDOdHm1ISobkhNcn867D91wFoI5noIPgzyW1MK4nY0",
+        "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+        "sub_soal": "<p>Collecting data from the laboratory.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "uvpnxF3CEJXJB-SsqhMofl0MsX3T7a-UlAnCxspL9Qc",
+        "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+        "sub_soal": "<p>Assisting with medical record-keeping.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "9ZImvxWVbGMSTVZxJZAw0hh9pfQyz8aauHxzEoByR3I",
+        "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+        "sub_soal": "<p>Preparing the doctor’s office.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "Drxmq5y-Zg69F3dwKeU0sTB675L6DEbow1XI7VSgdiI",
+        "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+        "sub_soal": "<p>Taking vital signs such as blood pressure and pulse.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "CS4FA15KpWXbjYfOqEnAPrmwEZcWeO_ht-77uSdadEw",
+        "soal_id": "2zRLvPazSz6wEyxy3ExuPMCyqbw2x0kpqivycnNb45E",
+        "sub_soal": "<p>Washing feeding bottles and changing diapers.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "zKDOdHm1ISobkhNcn867D91wFoI5noIPgzyW1MK4nY0": {
+        "jawaban_id": "35soxpYuq1L4gzbbTOsGIcC7tKXHIsO2MJKwX3njrg5oStoXsbviyw56w12qvN3qelgKZMnbHdVrErxnoHSeww",
+        "jawaban": "1"
+      },
+      "uvpnxF3CEJXJB-SsqhMofl0MsX3T7a-UlAnCxspL9Qc": {
+        "jawaban_id": "NjfjCnVyJNDYnbMCrw8kMt3q0zjIX1PSTc2o0L7KV2zlgmBnGwfQbQVxFSpNPaVpPIAas_iVHYlGKath42WkuA",
+        "jawaban": "0"
+      },
+      "9ZImvxWVbGMSTVZxJZAw0hh9pfQyz8aauHxzEoByR3I": {
+        "jawaban_id": "SDmAy6kVmcRU2aqwF-9uHrzGwrLL1Jx8OWjVPzS2VCip2J0rSYLaB1lzZI2WuQwHn4lpzJYxK6WwOrNc5ygCxw",
+        "jawaban": "1"
+      },
+      "Drxmq5y-Zg69F3dwKeU0sTB675L6DEbow1XI7VSgdiI": {
+        "jawaban_id": "zu-hA96nDV24Th7CGQUU5PE2Ypkz9y8Gv16ruxdQIALRkWXNpzanmdYKNSKm7MbXWQIGkzidMexJtaLLw970jg",
+        "jawaban": "1"
+      },
+      "CS4FA15KpWXbjYfOqEnAPrmwEZcWeO_ht-77uSdadEw": {
+        "jawaban_id": "jVcLR5RJ_rOqhDU19rVl8FyCHGO2_z9VVnZfl6s0d9txAdbkOsMl-6BF406o8IYhPqMFRagEUI-XEQbvWQLoRA",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "sRE_rtoFVEqm87jb2WnZFhNIi1URUdHJpjYOuObaBo0",
+      "tipe_soal_id": "5",
+      "nomor_soal": "18",
+      "induk_soal_id": "7044",
+      "soal": "<p><b>Multiple-categorization questions (18 and 19). Categorize each statement by ticking (</b>v)<b> the correct column.</b></p>\r\n\r\n<p>Which of the following statements are <b>True</b> or <b>False</b> about Sinta’s experiences in the inpatient ward?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. True, B. False, dan C. True.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>“… <i>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shift</i>.” Penjelasan tentang apa yang dikerjakan dan pengalaman Sinta di bagian rawat inap dijelaskan pada paragraf 3. Maka dapat disampulkan bahwa pernyataan A benar, B salah, dan C benar.</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7044",
+      "soal": "<p><b>Questions numbers 16 to 20 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>My Internship Experience as a Nurse Assistant</b></p>\r\n\r\n<p xss=removed><span xss=removed>Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\r\n\r\n<p xss=removed><span xss=removed>At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=removed> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "QMg36orx2Q1Srq0K0AAkxn6I4oTpeqv0WviG_e225vs",
+        "soal_id": "sRE_rtoFVEqm87jb2WnZFhNIi1URUdHJpjYOuObaBo0",
+        "sub_soal": "<p>She had night shifts which felt calming despite being long.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "H9mOeK1EOoiWMjaO4ZNM8UT33q-Kz1bL9XsBW5akq_A",
+        "soal_id": "sRE_rtoFVEqm87jb2WnZFhNIi1URUdHJpjYOuObaBo0",
+        "sub_soal": "<p>She spent most of the time in the laboratory.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "D2qv121I4TdEPQ48b-0Yi1qyZwJUyPZv13doQCnQ50k",
+        "soal_id": "sRE_rtoFVEqm87jb2WnZFhNIi1URUdHJpjYOuObaBo0",
+        "sub_soal": "<p>She learned about taking vital signs such as blood pressure and breathing rate.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "QMg36orx2Q1Srq0K0AAkxn6I4oTpeqv0WviG_e225vs": {
+        "jawaban_id": "GzWpAvJtHfaLCuThaQGRmv1qibJU_A1o-CJAl714Pv6Pl4ZfJ-W1VhzuUorCWFOQauAWU0MTrwrIX7qR3IzgMg",
+        "jawaban": "0"
+      },
+      "H9mOeK1EOoiWMjaO4ZNM8UT33q-Kz1bL9XsBW5akq_A": {
+        "jawaban_id": "ggCKAKGWAc95KHc8LDksIUoabC6_5aNMLZGHhiydPjbxtKrhTNY1Xgo_lXb_CW_8RA2PJqd0BU3MAVOYLhPP1Q",
+        "jawaban": "0"
+      },
+      "D2qv121I4TdEPQ48b-0Yi1qyZwJUyPZv13doQCnQ50k": {
+        "jawaban_id": "BA0e-3wkdpJfyGmKR5zW6YwmCCkaieLoXymgq1KPRovyFX1S9yGvxb_1zvtCGvYKUJK4khUjmy4UvekrLX6ggA",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "qxwvBYuvxpoIRpKFqsiZPGfTx-jRGjHmLCjA9OGZWHY",
+      "tipe_soal_id": "5",
+      "nomor_soal": "19",
+      "induk_soal_id": "7044",
+      "soal": "<p>Answer these questions by choosing <b>Yes</b> or <b>No.</b></p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. No, B. No, dan C. Yes.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Jawaban pertanyaan A adalah <i>No</i>. <i>“I loved it when patients showed their appreciation to me </i><b><i>and my fellow interns</i></b><i>…” </i>Pada kalimat tersebut menjelaskan bahwa Sinta senang ketika beberapa pasien memberikan penghargaan atau pujian kepada dia dan rekan-rekannya.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Jawaban pertanyaan B adalah <i>No. “Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time.”</i> Kalimat tersebut menjelaskan bahwa Sinta sudah memperkirakan bahwa pengalaman magangnya tersebut akan menarik tetapi menantang dan melelahkan pada saat yang sama.</span></p>\r\n\r\n<p>Jawaban pertanyaan C adalah <i>Yes.</i> Sinta menyebutkan di dalam teks, “<i>That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</i>” untuk menyampaikan rencananya untuk mendedikasikan diri sebagai tenaga medis profesional.</p>\r\n",
+      "header_pgk": "Question",
+      "title_1": "Yes",
+      "title_2": "No"
+    },
+    "induk_soal": {
+      "induk_id": "7044",
+      "soal": "<p><b>Questions numbers 16 to 20 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>My Internship Experience as a Nurse Assistant</b></p>\r\n\r\n<p xss=removed><span xss=removed>Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\r\n\r\n<p xss=removed><span xss=removed>At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=removed> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "ZWhZ2fRzmyEhukdj-LCX2f44hN_dVW5h7ka5nwU5m7k",
+        "soal_id": "qxwvBYuvxpoIRpKFqsiZPGfTx-jRGjHmLCjA9OGZWHY",
+        "sub_soal": "<p>Did she feel happy when patients showed their appreciation only to her?</p>\r\n"
+      },
+      {
+        "sub_soal_id": "coDjUYGVG_-ebXvLFf0EPsxbothezOnVbSVd3Z3WJvA",
+        "soal_id": "qxwvBYuvxpoIRpKFqsiZPGfTx-jRGjHmLCjA9OGZWHY",
+        "sub_soal": "<p>Did she feel the internship would be easy and fun at first?</p>\r\n"
+      },
+      {
+        "sub_soal_id": "G1jy3-RfyVhcHBPg23PKYfbh0k6FnDjE-y16nDqiqww",
+        "soal_id": "qxwvBYuvxpoIRpKFqsiZPGfTx-jRGjHmLCjA9OGZWHY",
+        "sub_soal": "<p>Did she plan to dedicate herself to providing better healthcare as a medical professional in the future?</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "ZWhZ2fRzmyEhukdj-LCX2f44hN_dVW5h7ka5nwU5m7k": {
+        "jawaban_id": "Bxs7aEXLW_qhW60yuEDKa3Ooq8xRwciZaNvryn1TZ8_0ftkoceuvfzab3KCzP_kYt2ou7hPNHoxl1HiFTjCerQ",
+        "jawaban": ""
+      },
+      "coDjUYGVG_-ebXvLFf0EPsxbothezOnVbSVd3Z3WJvA": {
+        "jawaban_id": "8PQ0iVlvTIpCCxF0O66OE_DB9iAangt_s-rXlDvNvnYQEtL9im38nfNXhQiSQ3n187NBVM59CIIYCcH7YOLKfg",
+        "jawaban": ""
+      },
+      "G1jy3-RfyVhcHBPg23PKYfbh0k6FnDjE-y16nDqiqww": {
+        "jawaban_id": "nIZVsNlNy3NjpvL-SaYr11ahNZBD6SOx5MQE4gk7rytz5JlE-y_1-50HuQuKFqdh5nopmt5dYGIfkeCiRfo6RQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+      "tipe_soal_id": "1",
+      "nomor_soal": "20",
+      "induk_soal_id": "7044",
+      "soal": "<p><b>Multiple-choice question. Choose the correct answer.</b></p>\r\n\r\n<p>How long did Sinta do the internship at Sehati Hospital?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: D.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>Sinta melakukan magang di Rumah Sakit Sehati Semarang dari tanggal 20 Februari sampai 20 Mei, yaitu sekitar 3 bulan.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7044",
+      "soal": "<p><b>Questions numbers 16 to 20 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>My Internship Experience as a Nurse Assistant</b></p>\r\n\r\n<p xss=removed><span xss=removed>Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\r\n\r\n<p xss=removed><span xss=removed>At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor&#39;s office.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=removed> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "j6Noc65ujvMHdjpONNZ5TXP3Ivo-bK1LfyySxVKNa2I",
+        "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+        "sub_soal": "<p>About 1 month.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "Rk9_pAz3K2JobIehjqzME43KPcFkeEoQNqGiZWuiBsI",
+        "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+        "sub_soal": "<p>About 2 months.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "tPo9qHhqTHpxu4tccN5_oYfsM9IWttq1Le_TmPOjgsE",
+        "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+        "sub_soal": "<p>About 2,5 weeks.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "NdjmE5KTZTwqnO6iRcUy2BI1ACsrag8sXbtbak89_t8",
+        "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+        "sub_soal": "<p>About 3 months.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "NLp5bXsLi6i5jDHlLMGqSP-3Am1_VR0wG5b1GO4Feq4",
+        "soal_id": "6WOCzFXplnUwJEsSGd-kOE86DobzoYqRJ7Eyz-GBK58",
+        "sub_soal": "<p>About 3 weeks.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "j6Noc65ujvMHdjpONNZ5TXP3Ivo-bK1LfyySxVKNa2I": {
+        "jawaban_id": "AGnaxLRFPpE_JLdEMaYxkNnmPqD_dKySAoD6-3US0ArbG89eX1DqjqMPsIDvt5HuXo9DDZfClGf6IUzD7KGlfg",
+        "jawaban": "0"
+      },
+      "Rk9_pAz3K2JobIehjqzME43KPcFkeEoQNqGiZWuiBsI": {
+        "jawaban_id": "Kf3QjLwMCBWbSZW6uIY63Q5J8oEubZ8lxOt-0d52TR_PbFs5RnEUxdSo5ASoSC_2Rt9uuAFAT8gMDNgTGXeBzw",
+        "jawaban": "0"
+      },
+      "tPo9qHhqTHpxu4tccN5_oYfsM9IWttq1Le_TmPOjgsE": {
+        "jawaban_id": "-Yf_nf_xnGCg4YJ-k8_xbx1yuOyNftkjqAt2DKS_pdQjcbX2_qZTjO2mAhf1h_ueZJRDZuGz98t0jZr6fNsBoA",
+        "jawaban": "0"
+      },
+      "NdjmE5KTZTwqnO6iRcUy2BI1ACsrag8sXbtbak89_t8": {
+        "jawaban_id": "UbxkS1a11FnlZosNnqJLgBF6l1ymttN4KiPNR12QYBQ3B4uJ1zj-4zX354TJX8xBVCWsmeh0Ez3ZknfevFdxNA",
+        "jawaban": "1"
+      },
+      "NLp5bXsLi6i5jDHlLMGqSP-3Am1_VR0wG5b1GO4Feq4": {
+        "jawaban_id": "jXCLscexLtJa8dPJUNV_roeDI6R8OtDwEVvcD6-BQEwzGeWmBj3R78mgtabKvyI6VLZYAnxdN3Oe59dZ_y2DjA",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+      "tipe_soal_id": "2",
+      "nomor_soal": "21",
+      "induk_soal_id": "7050",
+      "soal": "<p>Which parts of the text best support the description of Bougainvillea as a tropical plant?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: A, B, dan D.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>Penjelasan tentang Bougenvil sebagai tanaman tropis terdapat pada paragraf 3, yaitu di kalimat “<em>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia </em><strong><i>because it has high adaptability, is drought-tolerant, and requires optimal sunlight.</i></strong><i> <em>It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.” Jadi, jawaban yang tepat adalah A, B, dan D.</em></i></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7050",
+      "soal": "<p><span xss=removed><b>Questions numbers 21 to 25 refer to the following text.</b></span></p>\r\n\r\n<p align=\"center\" xss=removed><span xss=removed><b>The Beauty of Bougainvillea</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=removed><span xss=removed>Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=removed><span xss=removed> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\r\n\r\n<p align=\"right\" xss=removed> (PC/100%/SST)</p>\r\n\r\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "P74OlZG0UbT2ysRr8u-lLSZEfbnp9wFEq6EbAzroWEk",
+        "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+        "sub_soal": "<p>Because it can bloom in almost every season.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "G1FGCSRkfmEPwxcIyIQc-Z-BwJqWZxIeGFPGN14nhEk",
+        "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+        "sub_soal": "<p>Because it has high adaptability.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "mXRTIRVyKnFAFTtt6nhx6gpD-0lKmFXgaa2WhNuoL-I",
+        "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+        "sub_soal": "<p>Because it has no thorns and can be shaped easily.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "l8V40y0_mI3Zze2mEEKDwat2I8dN3irLx-lJj7qpB5Y",
+        "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+        "sub_soal": "<p>Because it is drought-tolerant and requires optimal sunlight.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ZJ6GMvysNz_t7yJv4RisFuBSwYMyfNap_tl7fgWCMYI",
+        "soal_id": "VcsmbpKwgwS9VD5aHisZ4pAfHBQySzg9cGW-WPM_QFU",
+        "sub_soal": "<p>Because its leaves are bigger than those of most tropical plants.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "P74OlZG0UbT2ysRr8u-lLSZEfbnp9wFEq6EbAzroWEk": {
+        "jawaban_id": "qiIFcsKrLVpWS3VCgwZ3svX_ipxNDHwQ4YNJHRaisHMFVtSKPjt0Yywav3Ag6B_D8Qzc-TDB2OPhqx6nKMs81A",
+        "jawaban": "0"
+      },
+      "G1FGCSRkfmEPwxcIyIQc-Z-BwJqWZxIeGFPGN14nhEk": {
+        "jawaban_id": "E4v8GRjhi0-y2Z2CKWgJszJBoM70lrSG6aEZWarKZdpV5vstjI_Jm7JA-iF2lRyYj3lbuc1y2szO2_Kxbw4OHw",
+        "jawaban": "1"
+      },
+      "mXRTIRVyKnFAFTtt6nhx6gpD-0lKmFXgaa2WhNuoL-I": {
+        "jawaban_id": "kNhxSBARDAJWMMdY59Rx6l-nRgen4RXUEQGAdwXr88AJzaJAe5DyvBbist6dv0PbrQqHkiUeItTvrvxXzGEXsA",
+        "jawaban": "0"
+      },
+      "l8V40y0_mI3Zze2mEEKDwat2I8dN3irLx-lJj7qpB5Y": {
+        "jawaban_id": "uoMysUFR2CvQJBPHhGuWZLRGUF18Y3tDoMipB0XC9IjFpoeBvTJRTUSRYBqTHYHdjIhAtFU7TZR4byExVB1bbQ",
+        "jawaban": "1"
+      },
+      "ZJ6GMvysNz_t7yJv4RisFuBSwYMyfNap_tl7fgWCMYI": {
+        "jawaban_id": "iz_dxURIssEucf3lwlP9-Pyvd4Gya5AMjaqhljAzOc73YCuvOX6tp7mx5cHxGEGEuHGn2LT0BOlImAikTXjBpA",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+      "tipe_soal_id": "2",
+      "nomor_soal": "22",
+      "induk_soal_id": "7050",
+      "soal": "<p>Which statements can describe Bougainvillea as an ornamental plant?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: A, B, D dan E.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p xss=removed>Opsi A juga benar. Bunga Bougenvil dapat ditanam dengan mudah, yaitu dengan salah satu metodenya adalah dengan stek batang.</p>\r\n\r\n<p xss=removed>“<i>The beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.</i>” Kalimat tersebut mendukung opsi B.</p>\r\n\r\n<p xss=removed>Opsi C salah karena justru batang dan dahannya dikelilingi oleh duri.</p>\r\n\r\n<p xss=removed>Opsi D benar dan didukung oleh kalimat <em>“It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.”</em></p>\r\n\r\n<p> “<i>This plant is also called Paper Flower because its flowers are as smooth and thin as paper</i>.” Kalimat pertama pada paragraf dua menunjukkan bahwa opsi E benar.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7050",
+      "soal": "<p><span xss=removed><b>Questions numbers 21 to 25 refer to the following text.</b></span></p>\r\n\r\n<p align=\"center\" xss=removed><span xss=removed><b>The Beauty of Bougainvillea</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=removed><span xss=removed>Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=removed><span xss=removed> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\r\n\r\n<p align=\"right\" xss=removed> (PC/100%/SST)</p>\r\n\r\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "O0pjFaoFmz380c8ljS6Ard5EYufx7RZmCydfXe4IZYk",
+        "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+        "sub_soal": "<p>Bougainvillea can be planted easily using stem cutting method.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "tBHrrAPUw89ns-zAHfgjXqBPgplsqcMM3HbadFCGnJk",
+        "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+        "sub_soal": "<p>It has beautiful and colored petals that are very eye-catching.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "vwTGpbMrTJ-zvWHM6v_9E_f39u-3Fx4PoxUOdf_0giM",
+        "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+        "sub_soal": "<p>It has no thorns and can be shaped easily.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "d97ws91H2sQoISyJYUUaKWyGFLNOcXtshXM2lY7lPh4",
+        "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+        "sub_soal": "<p>Its beauty can be enjoyed throughout the year.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "HPhwSgrHgr2DpguggC8ZgBWmpK7KXnZ_vmj1GUk7l9Q",
+        "soal_id": "LNloaY0idp24b0HwQShyfvmyAt67NPAKPR6wLX9-r8k",
+        "sub_soal": "<p>Its texture is almost the same as smooth and thin as paper.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "O0pjFaoFmz380c8ljS6Ard5EYufx7RZmCydfXe4IZYk": {
+        "jawaban_id": "X-2DRXHPZ_rVhN6p_Ul_OaKzmjzY5zQSyICx7GO4PmWeX1fiUxBhG-yaomocpyNzhcRZMrgtxy3o4-_ypXlplg",
+        "jawaban": "1"
+      },
+      "tBHrrAPUw89ns-zAHfgjXqBPgplsqcMM3HbadFCGnJk": {
+        "jawaban_id": "a3QHxXSG7D0GrVXDCHE0CVLdzCGNjVN9nPaKHpYzVylu_MNTOynLRXSAIoFnkgyFiZL7g_yxbUAjjCisRUzMFg",
+        "jawaban": "1"
+      },
+      "vwTGpbMrTJ-zvWHM6v_9E_f39u-3Fx4PoxUOdf_0giM": {
+        "jawaban_id": "lQRUymIHKps3sdK2IGMa7VNsja4hRYwpK17H5DrxlQAltCWO-TLeiancOnEGPTWimtht-URd-GQQRPWn2VfYHA",
+        "jawaban": "0"
+      },
+      "d97ws91H2sQoISyJYUUaKWyGFLNOcXtshXM2lY7lPh4": {
+        "jawaban_id": "0vyMHtDZlMfk8haAI9qr0dglg2rxJdptktfPNcik88o1LgYT-JGCGcwW6o34g1YyhBcEyZSZW7Ohxkq1PlpoAQ",
+        "jawaban": "1"
+      },
+      "HPhwSgrHgr2DpguggC8ZgBWmpK7KXnZ_vmj1GUk7l9Q": {
+        "jawaban_id": "_f4C8pcxSPEocbfoCEMlHAJyqANtT9UnCaRLQl2b5kOWlssO637-UoRmc-nl3hNFOj6yw8r85ad90A3x3Omr7g",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+      "tipe_soal_id": "1",
+      "nomor_soal": "23",
+      "induk_soal_id": "7050",
+      "soal": "<p>What is the shape of Bougainvillea leaves?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><b>Jawaban: D.</b></p>\r\n\r\n<p xss=\"removed\"><b>Pembahasan:</b></p>\r\n\r\n<p>Berdasarkan penjelasan pada teks, daun Bunga Bougenvil berwarna hijau gelap, berbentuk oval, dan ujungnya tidak runcing. Maka, D jawaban yang benar.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7050",
+      "soal": "<p><span xss=removed><b>Questions numbers 21 to 25 refer to the following text.</b></span></p>\r\n\r\n<p align=\"center\" xss=removed><span xss=removed><b>The Beauty of Bougainvillea</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=removed><span xss=removed>Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=removed><span xss=removed> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\r\n\r\n<p align=\"right\" xss=removed> (PC/100%/SST)</p>\r\n\r\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "nOLQrgHBevbLoceBcFZXQnKIRbSEpY9e1zWmshwA7v4",
+        "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+        "sub_soal": "<p>Dark green and oval-shaped.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "L3_7rYjXwUcW2IW-zT0eCkdGRF8iTqRk9Nyhlh3G4d4",
+        "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+        "sub_soal": "<p>Long and small-shaped.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "8ORNVfW9kxQLelrOkrV0mZqp0EIMFTeKqrjiuGmjjco",
+        "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+        "sub_soal": "<p>Not sharply pointed at the tip and dark green.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "fRfpPIdXgANTcFK5U0EXQ-5vOJUyBNyg9nC7ZsKx-bo",
+        "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+        "sub_soal": "<p>Oval-shaped and not sharply pointed at the tip.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "9iqXG-_y9FeyHpHx9nThJ90ZnHFv6jDVxsyhYFfyql8",
+        "soal_id": "rmCij-33XV5RLGz2hy808m-4fNombRUYOClF4LXBaac",
+        "sub_soal": "<p>Triangular and very sharp at the tip.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "nOLQrgHBevbLoceBcFZXQnKIRbSEpY9e1zWmshwA7v4": {
+        "jawaban_id": "fGltletIFuuue_GPYiev85IPEXZW2itKTX2PJPUblv6S6buWFlI8Ah7IS-gm6pX7fIPdxqMLpEaO8A6vnIPrkg",
+        "jawaban": "0"
+      },
+      "L3_7rYjXwUcW2IW-zT0eCkdGRF8iTqRk9Nyhlh3G4d4": {
+        "jawaban_id": "tGf9AN1BtD5kVzo5p_sy2REqehbanBxjMvv-rS274z6DqRJlFgAveNenWsVp3_DSqwWbIHBVjHfxOY6I62QCvg",
+        "jawaban": "0"
+      },
+      "8ORNVfW9kxQLelrOkrV0mZqp0EIMFTeKqrjiuGmjjco": {
+        "jawaban_id": "xn7yTUYk2YMUYk37rOFRDdHfm_zUREBhTC4ZiNCzl4pYVdzIij8xI3Ebdckle4YTzJ2neBgdG7OpaK2qShcgnw",
+        "jawaban": "0"
+      },
+      "fRfpPIdXgANTcFK5U0EXQ-5vOJUyBNyg9nC7ZsKx-bo": {
+        "jawaban_id": "fHIVGQNToGvfMZdR2IkzoeTMdG6U-OyC8hWXud1Iz6b0FD_rTLJehEz6KR8w4fXeVFk-f16mWJuUAFEMA8f5wA",
+        "jawaban": "1"
+      },
+      "9iqXG-_y9FeyHpHx9nThJ90ZnHFv6jDVxsyhYFfyql8": {
+        "jawaban_id": "UBVczUsReijSrXSXA-MumOdkupxiV8MijbOlZLNogqGIA5LikqsqEmlDA7M1-lpLIRkN8aX3_yRHgT36tSWnaw",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+      "tipe_soal_id": "1",
+      "nomor_soal": "24",
+      "induk_soal_id": "7050",
+      "soal": "<p>What part of Bougainvillea is often mistaken as the flower?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: C.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>“<i>However, people often consider the brightly colored petals as the flower itself because they are more eye-catching.</i>” Artinya, beberapa orang sering menganggap kelopak yang berwarna cerah sebagai bunga itu sendiri karena lebih mencolok. C adalah opsi yang tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7050",
+      "soal": "<p><span xss=removed><b>Questions numbers 21 to 25 refer to the following text.</b></span></p>\r\n\r\n<p align=\"center\" xss=removed><span xss=removed><b>The Beauty of Bougainvillea</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=removed><span xss=removed>Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=removed><span xss=removed> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\r\n\r\n<p align=\"right\" xss=removed> (PC/100%/SST)</p>\r\n\r\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "XEz2UqOFM02_0tUk11TpJWHlwcfMfp5RzQvhJ-7ubeY",
+        "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+        "sub_soal": "<p>The branches.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "S6vqUxD7JAFKamVOh9SQUlicdlp9j10m0iHWIB7BHVA",
+        "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+        "sub_soal": "<p>The leaves.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "VavcKwipJZjfTOlw7RDTbDPFD1rpzJX4ss486TQicyc",
+        "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+        "sub_soal": "<p>The petals.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "JJT7dhVnYw_Y1Yf3hULcoQyufttXZ7uz9FS5JBMy8kk",
+        "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+        "sub_soal": "<p>The thorns.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "EWYCkHoP066mUrR8CNGcNTKMmpbaquZ0wRumRVsVe1Q",
+        "soal_id": "qET_CzSnLdJxT4fCF0dKQp772SyB1KjLPHYvFMDKGB8",
+        "sub_soal": "<p>The trunk.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "XEz2UqOFM02_0tUk11TpJWHlwcfMfp5RzQvhJ-7ubeY": {
+        "jawaban_id": "PLKp21DIIVOXUwzW4mvkGfz8mUsLcY3w5cSoEAa32-9ZrIAKz68glBbr8zPCW_826xexBtHg3ovh2XRK_HutFw",
+        "jawaban": "0"
+      },
+      "S6vqUxD7JAFKamVOh9SQUlicdlp9j10m0iHWIB7BHVA": {
+        "jawaban_id": "HH-8x4kXAMPGXdIc-DWvnupF8UYkLdMvkroP02LCrobbpFOhX2bxwMHPGAG0WsZsgaF-KVOEszkb8cdVsH5Bbg",
+        "jawaban": "1"
+      },
+      "VavcKwipJZjfTOlw7RDTbDPFD1rpzJX4ss486TQicyc": {
+        "jawaban_id": "cAMqDIVp3v92VwlhaqMVT6Sf4m2Y2Cy-iHAdOFoJpZeurjM_y-F8gzJDsfe5s6-_PJl7U8OJWtP20sedL5-AMg",
+        "jawaban": "0"
+      },
+      "JJT7dhVnYw_Y1Yf3hULcoQyufttXZ7uz9FS5JBMy8kk": {
+        "jawaban_id": "DHJq46zXst6NnLdFZD8Zg8xi_SsNh9OQ5AClpfbn7UuX0J5wcuBxzQQxKPAlMhvgM73GB3_cLDnSacDnnxBTsw",
+        "jawaban": "0"
+      },
+      "EWYCkHoP066mUrR8CNGcNTKMmpbaquZ0wRumRVsVe1Q": {
+        "jawaban_id": "U3nAU28EKe2DRYB4IpxcQGNGBUMKbY5tQUo4NePrQKa4ec8w2jdnMxa3XIIJNuU92D9FJOpG9mGWDKVJqzVEGQ",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "Z69C2GLibI4Mlb8qfsBIWrxT7tDmXz_5AN3KEcwJfM4",
+      "tipe_soal_id": "5",
+      "nomor_soal": "25",
+      "induk_soal_id": "7050",
+      "soal": "<p><b>Multiple-categorization question. Categorize each statement by ticking (ü) the correct column.</b></p>\r\n\r\n<p>Which of the following statements are True or False according to the text?</p>\r\n",
+      "pembahasan": "<p><b>Jawaban: A. False. B. False. C. True.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p>Pernyataan A salah karena bunga aslinya kecil dan terletak tepat di tengah-tengah kelopaknya yang berwarna cerah.</p>\r\n\r\n<p>Penyataan B juga salah karena bentuk daunnya oval, dan ujungnya tidak runcing bukan segitiga dan runcing di ujung.</p>\r\n\r\n<p>Pernyataan C benar dan didukung oleh kalimat “<i>The trunk and branches are surrounded by thorns</i>.” pada paragraf 2.</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7050",
+      "soal": "<p><span xss=removed><b>Questions numbers 21 to 25 refer to the following text.</b></span></p>\r\n\r\n<p align=\"center\" xss=removed><span xss=removed><b>The Beauty of Bougainvillea</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=removed><span xss=removed>Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=removed><span xss=removed> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\r\n\r\n<p xss=removed><span xss=removed><span xss=removed>Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\r\n\r\n<p align=\"right\" xss=removed> (PC/100%/SST)</p>\r\n\r\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "nI8Am3cGHJVbwvRklbtfz0YccchVF7kq7cruLVF8kDs",
+        "soal_id": "Z69C2GLibI4Mlb8qfsBIWrxT7tDmXz_5AN3KEcwJfM4",
+        "sub_soal": "<p>The flowers of Bougainvillea are large and brightly colored.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "gUn0-Feu09hTOzMOdaQaeRh19hvlGkjSKkwuNpFePks",
+        "soal_id": "Z69C2GLibI4Mlb8qfsBIWrxT7tDmXz_5AN3KEcwJfM4",
+        "sub_soal": "<p>The leaves of Bougainvillea are triangular and very sharp at the tips.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "eq5LqQpjsSO4gBBM7iAQ7LBov-zKMfTTIcGIiPyDQc4",
+        "soal_id": "Z69C2GLibI4Mlb8qfsBIWrxT7tDmXz_5AN3KEcwJfM4",
+        "sub_soal": "<p>Bougainvillea has thorns on its trunk and branches.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "nI8Am3cGHJVbwvRklbtfz0YccchVF7kq7cruLVF8kDs": {
+        "jawaban_id": "OzM94LWsrISvr6jxAB2S04imbl2PMjzwW9i_mM61H2DzTgmfXVOk1bpjUu7WO6mYycB43kZGR3YGzYe7hetdNg",
+        "jawaban": "1"
+      },
+      "gUn0-Feu09hTOzMOdaQaeRh19hvlGkjSKkwuNpFePks": {
+        "jawaban_id": "zVEksEPmc5KOYJlfW4LNoF8lvVlQa6uhUd7RqU5Tl1Eey5QuFV2vNVz39NY5dqH8iumRzX_HS53-c_pSzqtw0w",
+        "jawaban": "0"
+      },
+      "eq5LqQpjsSO4gBBM7iAQ7LBov-zKMfTTIcGIiPyDQc4": {
+        "jawaban_id": "Ffwc_3xevZk0pYRh4yeE49OyWxbRjIf7YJAXXbFrys0UcCSsCrDuDhqaOAtggS832_leYBs1k29OlZL4da-s5w",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+      "tipe_soal_id": "2",
+      "nomor_soal": "26",
+      "induk_soal_id": "7056",
+      "soal": "<p><b>Multiple-choice multiple-answer questions (No. 26 and 27). Choose more than one answer.</b></p>\r\n\r\n<p>Which facilities at BTP are matched correctly with their functions?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: C, D, dan E.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p xss=removed>Pernyataan A salah. <i>Additive Manufacturing Center</i> dilengkapi dengan printer 3D berukuran besar yang mampu memproduksi bagian-bagian dari bahan plastik dan logam, bukan vaksin atau obat.</p>\r\n\r\n<p xss=removed>Pernyataan B salah. <i>Data Analytics Center</i> memiliki komputer yang sangat cepat yang membantu para peneliti di bidang seperti studi iklim dan kecerdasan buatan, bukan nanomaterials.</p>\r\n\r\n<p>Pernyataan C, D, dan E benar karena sesuai dengan apa yang dijelaskan dalam teks.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7056",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Bandung Techno Park</b></p>\r\n\r\n<p xss=removed><span xss=removed>Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\r\n\r\n<p xss=removed><span xss=removed>One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\r\n\r\n<p xss=removed><span xss=removed>  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\r\n\r\n<p xss=removed><span xss=removed>One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=removed>ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "DUIW8EEFMLE71cJqJm3q_8Qo4AiD2BgBBkkc-FvalXE",
+        "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+        "sub_soal": "<p>Additive Manufacturing Center where researchers produce and administer vaccines and medicines.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6qRFOPDyPdH1m-LJQrKjjwHFS45FVb-BoliNayTyW5g",
+        "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+        "sub_soal": "<p>Data Analytics Center where researchers design nanomaterials for electronics.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "wF2w8r2cJil7DOBVdOJV4TjTB2lan8i6MR16keG_G0U",
+        "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+        "sub_soal": "<p>Integration Testing Center where researchers combine different technologies for joint testing.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "IS9abCvQD15a175vnAAcPd3i1SwXGKyPltdvq1dswJ4",
+        "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+        "sub_soal": "<p>Life Sciences Research Wing where researchers work on new medicines and disease studies.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2d6PzlP-m_oAR0SjA9KVMqwCY3MLW4J1OJONZGE54ko",
+        "soal_id": "1MBlnsfOSg6-DzBZB7ljRehFOfBdkQ1imPqhZOET9Lg",
+        "sub_soal": "<p>Renewable Energy Testing Facility where researchers test solar panels and wind energy systems.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "DUIW8EEFMLE71cJqJm3q_8Qo4AiD2BgBBkkc-FvalXE": {
+        "jawaban_id": "SHn1k2_4xft3cZFw26tpO0ke6N1VugEHWhgPuiqPG3yetWLWCF3xm2SOYSTGUNmXE-HlTuffX1JMYjJb18QrIQ",
+        "jawaban": "0"
+      },
+      "6qRFOPDyPdH1m-LJQrKjjwHFS45FVb-BoliNayTyW5g": {
+        "jawaban_id": "15uAJqm_mvvdG16ebyrHdc2JsDu_GReVTYXfUNVJs-MmgbeOXHZW1i4SlWKnZWvIma_-d-Jv3Luh_jjqtAfaxw",
+        "jawaban": "0"
+      },
+      "wF2w8r2cJil7DOBVdOJV4TjTB2lan8i6MR16keG_G0U": {
+        "jawaban_id": "7aHKz2k1xwZwRtOQ8lbeMzzSQZlz7MxA2i6w0tEwxkrgbDPFJHcmj65jULY2py3Tu-KeTZkr24GWcXGgxvzlPA",
+        "jawaban": "1"
+      },
+      "IS9abCvQD15a175vnAAcPd3i1SwXGKyPltdvq1dswJ4": {
+        "jawaban_id": "lS75MN7mUwsrBH2rjGm_U0NmavPhgwNa1KnsonkecbiK_8aFYc0bfPELsBlg3fPfMAZuCbZeGEFKVylg7mYkNQ",
+        "jawaban": "1"
+      },
+      "2d6PzlP-m_oAR0SjA9KVMqwCY3MLW4J1OJONZGE54ko": {
+        "jawaban_id": "5X2tMYdVnyATKRv1gUG35eHx1nGKzZap8hoMNvXtkexdYjD9ru-OVo-tsH-Lc3sFRd4gmgvMfZAIG4z9G5VRSQ",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+      "tipe_soal_id": "2",
+      "nomor_soal": "27",
+      "induk_soal_id": "7056",
+      "soal": "<p>Based on the text, what are some strengths of Bandung Techno Park?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><b>Jawaban: A, C, dan E.</b></p>\r\n\r\n<p xss=\"removed\"><b>Pembahasan:</b></p>\r\n\r\n<ul>\r\n <li xss=\"removed\"><em><span xss=\"removed\">“</span></em><em>The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</em><em><span xss=\"removed\">”</span></em><i> </i></li>\r\n <li xss=\"removed\"><em><span xss=\"removed\">“</span></em><em>All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide.</em><em><span xss=\"removed\">”</span></em><i> </i></li>\r\n <li xss=\"removed\"><em><span xss=\"removed\">“</span></em><em>One of BTP’s strengths is that it is open for collaboration with universities to private companies…</em><em><span xss=\"removed\">”</span></em><i> </i></li>\r\n</ul>\r\n\r\n<p>Kalimat-kalimat di atas dijelaskan pada paragraf 3 dan 5 menunjukkan bahwa pilihan A, C, dan E adalah benar. Sedangkan, pilihan B dan D tidak sesuai dengan teks.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7056",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Bandung Techno Park</b></p>\r\n\r\n<p xss=removed><span xss=removed>Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\r\n\r\n<p xss=removed><span xss=removed>One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\r\n\r\n<p xss=removed><span xss=removed>  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\r\n\r\n<p xss=removed><span xss=removed>One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=removed>ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "dJc8kc2dhvtkzmtDl3v6IZZ02jA6U3jQtTfOwa3wdFc",
+        "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+        "sub_soal": "<p>It allows different technologies to be tested together.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "sJdIwBqvvITzSg-zedt5V4m-K0Yhp7FLGuVN7LLoofg",
+        "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+        "sub_soal": "<p>It focuses only on health-related projects.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "-BFFB85Qb0OCBT8cqOBKAIir_qlLMwiJyFccChuOHm0",
+        "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+        "sub_soal": "<p>It follows international quality standards.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "_PmIkKcpHn2FkKlmor8gg1fV7oI_bXxTPAPqIZ2yQao",
+        "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+        "sub_soal": "<p>It offers fast data processing for commercial purposes.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2McAWep73PZwGo5sZTBBZ0GumOYPj_28uyz5zDe6TVM",
+        "soal_id": "DdXLac2DuzerzO0GJM36SEGViQFhIpfJ-cPj7QnyFWw",
+        "sub_soal": "<p>It works with partners from universities and private companies.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "dJc8kc2dhvtkzmtDl3v6IZZ02jA6U3jQtTfOwa3wdFc": {
+        "jawaban_id": "YOmv8mC7sIUzYRQW9SdzzOP6G8ie0GfPEKWpiElaAImu4h5kB4fYdB-0xCrVwW2muijzDg-RectoauoV7cff_g",
+        "jawaban": "1"
+      },
+      "sJdIwBqvvITzSg-zedt5V4m-K0Yhp7FLGuVN7LLoofg": {
+        "jawaban_id": "kEoAoYvhyTsQ0fG86c-LjGW3Y8egF5atKBUrrtLNOnRAkNHzeV1syiScsR00NcxriE6ncvmg78fVBLBZGolTVg",
+        "jawaban": "0"
+      },
+      "-BFFB85Qb0OCBT8cqOBKAIir_qlLMwiJyFccChuOHm0": {
+        "jawaban_id": "1FXeD4vT2Q8vamUxnbZYqogdFowE_SyDaZAVFamisjQVbZt9odHzB7KpZr2oEbfp4Ma-yuZDCGunR1NdI1-AAg",
+        "jawaban": "1"
+      },
+      "_PmIkKcpHn2FkKlmor8gg1fV7oI_bXxTPAPqIZ2yQao": {
+        "jawaban_id": "EcftvmgbXUbWE7yp27W8Ss-yeOwq2Ai8Tep6yBVfrIAp3aW-ofj7cYmRnGTdYoDgNRIp-eZPqMaVT4IXtbQNDw",
+        "jawaban": "0"
+      },
+      "2McAWep73PZwGo5sZTBBZ0GumOYPj_28uyz5zDe6TVM": {
+        "jawaban_id": "pIgePxCWSUZBmtJWui4uZc6sfdubE2qQKK786wxFX6GW15jmeEmdp-_ck3U5cAFfh4stiYbquZKyI6tZVHNh_w",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "lfleXsPBi7fqgryeWjdk0QUtj75WdLRGHxL7EL4oRUw",
+      "tipe_soal_id": "5",
+      "nomor_soal": "28",
+      "induk_soal_id": "7056",
+      "soal": "<p><b>Multiple-categorization question. Categorize each statement by ticking (ü) the correct column.</b></p>\r\n\r\n<p>Which of the following statements are True or False about Bandung Techno Park?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: A. True. B. False. C. True.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p xss=removed>Pernyataan A benar dan dijelaskan pada paragraf pertama di kalimat, “<i>It contains around 20 structures designed to support research and development …</i>”</p>\r\n\r\n<p xss=removed>Peernyataan B salah karena salah satu bidang penting adalah laboratorium bahan canggih, yang menyimpan dan menyediakan alat-alat khusus untuk mempelajari bahan-bahan secara mendetail bukan untuk obat baru atau meneliti penyakit terinfeksi (yang terdapat di <i>Life Sciences Research wing</i>).</p>\r\n\r\n<p>Pernyataan C benar dan penjelasannya terdapat pada paragraf keempat di kalimat, “<i>BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions.</i>”</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7056",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Bandung Techno Park</b></p>\r\n\r\n<p xss=removed><span xss=removed>Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\r\n\r\n<p xss=removed><span xss=removed>One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\r\n\r\n<p xss=removed><span xss=removed>  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\r\n\r\n<p xss=removed><span xss=removed>One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=removed>ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "k2PfhwcS4ez3sOwhdOgRsAvveKuBgyf7lKwLg2_r0Xw",
+        "soal_id": "lfleXsPBi7fqgryeWjdk0QUtj75WdLRGHxL7EL4oRUw",
+        "sub_soal": "<p>There are around 20 structures designed to support research and development.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "_Vy70eQEAmCqAoldB2U-g7lIvA5H2OMp3pfaRIK0C5g",
+        "soal_id": "lfleXsPBi7fqgryeWjdk0QUtj75WdLRGHxL7EL4oRUw",
+        "sub_soal": "<p>The advanced materials laboratory is an important area where scientists work on new medicines and study infectious diseases.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ilQvugHI4KyiiWU0IDT7Wj3mswYL7KbK-sNnvl-I314",
+        "soal_id": "lfleXsPBi7fqgryeWjdk0QUtj75WdLRGHxL7EL4oRUw",
+        "sub_soal": "<p>All companies under BTP can test solar panels, wind energy systems, and batteries’ conditions in the renewable energy testing facility.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "k2PfhwcS4ez3sOwhdOgRsAvveKuBgyf7lKwLg2_r0Xw": {
+        "jawaban_id": "zeioi7fKt19IA32f1mpxYhVVt0Bodzlfwh0ANVUr8CsPAE0DkBNEXPo8aQuGspsX5hXE-Afrk7dyyEuadmcW9A",
+        "jawaban": "1"
+      },
+      "_Vy70eQEAmCqAoldB2U-g7lIvA5H2OMp3pfaRIK0C5g": {
+        "jawaban_id": "NdTvzva92UBbSb3FtGZAlgDtiJoZggm_QWkDqgo5OaEM24vo4SqicRN1FPH0fp9LfC7ZNR976goNCyN6rRfWcA",
+        "jawaban": "0"
+      },
+      "ilQvugHI4KyiiWU0IDT7Wj3mswYL7KbK-sNnvl-I314": {
+        "jawaban_id": "PX_AOHx0si1m6SmsBViTpeBuw4RD60oD39MJM16DAcLGuTIj1mctNpeHMfNg0HfJg1BJOPVqsaXYncG0FlqRzw",
+        "jawaban": "1"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+      "tipe_soal_id": "1",
+      "nomor_soal": "29",
+      "induk_soal_id": "7056",
+      "soal": "<p><b>Multiple-choice questions (No. 29 and 30). Choose the correct answer.</b></p>\r\n\r\n<p>What is the main purpose of Bandung Techno Park (BTP)?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: D.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>Pada awal teks, paragraf pertama di kalimat: <i>“Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development…” menjelaskan bahwa</i> tujuan utama BTP adalah penelitian dan pengembangan.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7056",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Bandung Techno Park</b></p>\r\n\r\n<p xss=removed><span xss=removed>Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\r\n\r\n<p xss=removed><span xss=removed>One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\r\n\r\n<p xss=removed><span xss=removed>  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\r\n\r\n<p xss=removed><span xss=removed>One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=removed>ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "qRyz69LX1oSYuecYy-j23khSbi3_V7aEXhUnOzk40mk",
+        "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+        "sub_soal": "<p>To advertise computers and electronics.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "EIX_CJZk2DuMPTplbbTKBCZY08Bzv_ZnAsU_JKOnPAo",
+        "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+        "sub_soal": "<p>To promote cultural tourism in Bandung.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "MV74IwAlFJrrY4-G0Jeut-rkTBaryXO-xZ-pJz3aN7Y",
+        "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+        "sub_soal": "<p>To provide housing for science researchers.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "RznPz5IJmT9OhcYNSuiqTI9b3liZbxww0jYU82mUBLw",
+        "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+        "sub_soal": "<p>To support research and development.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "O56eKXyskl5RSWg2UaAtgma9pxDjjMsIST2Na0oxFVE",
+        "soal_id": "XIj_qPTLXuHugnDvwcAKe_JlXfm-VEBqclvEbNGElcI",
+        "sub_soal": "<p>To teach programming to school students.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "qRyz69LX1oSYuecYy-j23khSbi3_V7aEXhUnOzk40mk": {
+        "jawaban_id": "l5yMQqqodPWabk_wnLWxhJBDYnoDM3jPKxO34Kv-k6fy1iUiK1WqSGIjY9goiJ6FEFGmti3AM4Uz52Cc8iOvlA",
+        "jawaban": "0"
+      },
+      "EIX_CJZk2DuMPTplbbTKBCZY08Bzv_ZnAsU_JKOnPAo": {
+        "jawaban_id": "5JqWRggjIVT4Bz2uHNdAr-iLV2e5uNl_Vh-F38dhsXCw80VXgyxpOSyWbWvkRljalTLZGqdR2LoWRuD3jiqC1A",
+        "jawaban": "0"
+      },
+      "MV74IwAlFJrrY4-G0Jeut-rkTBaryXO-xZ-pJz3aN7Y": {
+        "jawaban_id": "uSqx6zjJWTHSE83r0Lo0gyPWMbHGF_hx1UM7xyapqGmt8qJpQDsjhuoKUDNqa4hQFVyHDv2xwk007yif4b47DQ",
+        "jawaban": "0"
+      },
+      "RznPz5IJmT9OhcYNSuiqTI9b3liZbxww0jYU82mUBLw": {
+        "jawaban_id": "25VhpUaJQJFVgxV8x9z45IbUrlaGMefdwkYhhowI-Tx-Lqa1LSAVsenRiYhxK_O3wLkRg4xI4oww1fUqr0MDOw",
+        "jawaban": "1"
+      },
+      "O56eKXyskl5RSWg2UaAtgma9pxDjjMsIST2Na0oxFVE": {
+        "jawaban_id": "7hj8tact9dQIKFoXhx3d_lxf1mS3VGHVpH6Ijyi98G0YWs3GjWhQcTUzJWTvgd9uSNsfkt63WFZGu45S0IbAhQ",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  },
+  {
+    "soal": {
+      "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+      "tipe_soal_id": "1",
+      "nomor_soal": "30",
+      "induk_soal_id": "7056",
+      "soal": "<p>What is studied in the advanced materials laboratory?</p>\r\n",
+      "pembahasan": "<p xss=removed><b>Jawaban: C.</b></p>\r\n\r\n<p xss=removed><b>Pembahasan:</b></p>\r\n\r\n<p>“<i>One important area is the advanced materials laboratory, which stores and provides special tools for studying <strong>materials in great detail</strong>.</i>” Kalimat pada paragraf dua menjelaskan bahwa pilihan C adalah yang paling tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7056",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Bandung Techno Park</b></p>\r\n\r\n<p xss=removed><span xss=removed>Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\r\n\r\n<p xss=removed><span xss=removed>One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\r\n\r\n<p xss=removed><span xss=removed>  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\r\n\r\n<p xss=removed><span xss=removed>One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=removed>ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "dcKcKY7jpQ1kvmAJWxYgEIEmhbyzdCpdD2t0sExhS4E",
+        "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+        "sub_soal": "<p>Different kinds of metals and plastics.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "adUtC8KfZBZv6c3IlZghPaHBmDlH7aIlVFO3pUOC41s",
+        "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+        "sub_soal": "<p>Climate and weather patterns.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "QSMS9g91X_3Or4p2wmPNWNjFk5k0dOe43BN3E5mWK68",
+        "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+        "sub_soal": "<p>Materials in very fine detail.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "X3lAKJ5MuOoILss-315utnXo2nFEPcRHtiw7H9e1O0k",
+        "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+        "sub_soal": "<p>Renewable energy systems.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "e0bYauQiyl48l5VY7vSthKeKct2fZvoyH6UTSiC3mUc",
+        "soal_id": "uvDK6PwONWYkzaoPgbjT5wcLoehqWC3itdCt5VM1Vj8",
+        "sub_soal": "<p>Infectious diseases.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "dcKcKY7jpQ1kvmAJWxYgEIEmhbyzdCpdD2t0sExhS4E": {
+        "jawaban_id": "VsRnXKdG5oaFApWls-riqmxCBMcUfF18p9V9u4-Jlz89Ut4j0SjLVzxnySynzcqeqx2Etbx4XKacY99DEDczgw",
+        "jawaban": "0"
+      },
+      "adUtC8KfZBZv6c3IlZghPaHBmDlH7aIlVFO3pUOC41s": {
+        "jawaban_id": "m6jzb8JYO1DyGqeiupNTiQw9wpBG1PjS_Jcoo9JT2Mrk-5bjI1fQrmM1mlvB_CGsK18szip7MgXOrH6U2g8laQ",
+        "jawaban": "0"
+      },
+      "QSMS9g91X_3Or4p2wmPNWNjFk5k0dOe43BN3E5mWK68": {
+        "jawaban_id": "yTJPgygc2ijswMirzV_WPfdhshZ-kDqI_k97Vjj3S7peANQXyJhiPKSvrH6nw9j9vcvaCbC_hGGdgvhMr3gwSg",
+        "jawaban": "0"
+      },
+      "X3lAKJ5MuOoILss-315utnXo2nFEPcRHtiw7H9e1O0k": {
+        "jawaban_id": "WvUloGPxVcTnXHJ65oFTcFwCFDin_N8WA_-FpIDjh_YT5GMU2_j8UwALZMQrSMF6jcWtqHAZgMVt9ZmwNVeWkg",
+        "jawaban": "1"
+      },
+      "e0bYauQiyl48l5VY7vSthKeKct2fZvoyH6UTSiC3mUc": {
+        "jawaban_id": "Um5XBx8FuQ2U-rK2e0CgYGKGuy4R1Ts4dOm8tjLeAONeNzP0ppG0racAFERWar-reiirxZOj2rorwsZar2trrg",
+        "jawaban": "0"
+      }
+    },
+    "status_jawaban": "3"
+  }
+]

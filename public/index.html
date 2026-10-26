@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TKA English Master - Portal Pembelajaran & Bacaan Akademik TKA Bahasa Inggris</title>
+  <meta name="description" content="Portal materi pembelajaran dan bacaan akademik TKA Bahasa Inggris bilingual (English & Bahasa Indonesia) bersumber resmi dari simulasi CBT Erlangga Online.">
+  <meta name="keywords" content="TKA Bahasa Inggris, Erlangga CBT, Materi Bahasa Inggris, Reading Comprehension, Bilingual English Indonesian">
+  
+  <!-- Google Fonts: Outfit for Display & Plus Jakarta Sans for Body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+
+  <!-- Top Sticky Header -->
+  <header class="app-header" id="appHeader">
+    <div class="header-container">
+      <div class="brand-area" onclick="app.showView('modules')">
+        <div class="logo-icon">
+          <span>📖</span>
+        </div>
+        <div class="brand-text">
+          <div class="brand-title">TKA <span class="gradient-text">ENGLISH</span> MASTER</div>
+          <div class="brand-tagline">Bilingual Reading & Study Portal • CBT Erlangga</div>
+        </div>
+      </div>
+
+      <nav class="main-nav" id="mainNav">
+        <button class="nav-btn active" data-view="modules" onclick="app.showView('modules')">
+          <span class="icon">📚</span>
+          <span>Daftar Modul</span>
+        </button>
+        <button class="nav-btn" data-view="vocabulary" onclick="app.showView('vocabulary')">
+          <span class="icon">🗂️</span>
+          <span>Kamus Kosakata</span>
+        </button>
+        <button class="nav-btn" data-view="guide" onclick="app.showView('guide')">
+          <span class="icon">💡</span>
+          <span>Panduan TKA</span>
+        </button>
+        <button class="nav-btn" data-view="bookmarks" onclick="app.showView('bookmarks')">
+          <span class="icon">⭐</span>
+          <span>Tersimpan</span>
+          <span class="badge" id="bookmarkCount">0</span>
+        </button>
+      </nav>
+
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggleBtn" onclick="app.toggleTheme()" title="Ganti Tema (Gelap/Terang)">
+          <span class="theme-icon" id="themeIcon">☀️</span>
+        </button>
+        <button class="mobile-menu-btn" id="mobileMenuBtn" onclick="app.toggleMobileMenu()">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="app-main" id="mainApp">
+
+    <!-- VIEW 1: MODULES LIST & HERO EXPLORER -->
+    <section class="view-section active" id="viewModules">
+      <!-- Hero Banner -->
+      <div class="hero-banner">
+        <div class="hero-glow hero-glow-1"></div>
+        <div class="hero-glow hero-glow-2"></div>
+        
+        <div class="hero-content">
+          <div class="hero-badge">
+            <span class="pulse-dot"></span>
+            <span>Sumber Resmi Soal CBT Erlangga Online (0054200490.0094)</span>
+          </div>
+          
+          <h1 class="hero-title">
+            Kuasai Bacaan Akademik <span class="gradient-text">TKA Bahasa Inggris</span>
+          </h1>
+          
+          <p class="hero-subtitle">
+            Portal bahan bacaan mandiri lengkap dengan <strong>terjemahan bilingual Inggris-Indonesia</strong>, bedah tata bahasa (grammar), kamus kosakata interaktif, dan panduan strategi pemahaman bacaan. <em>Didesain khusus untuk membaca dan mendalami teks tanpa distraksi kuis.</em>
+          </p>
+
+          <!-- Metric Badges -->
+          <div class="stats-row" id="statsRow">
+            <div class="stat-card">
+              <div class="stat-number" id="statModulesCount">18</div>
+              <div class="stat-label">Modul Bacaan</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number" id="statPackagesCount">3</div>
+              <div class="stat-label">Paket Simulasi CBT</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number" id="statVocabCount">89+</div>
+              <div class="stat-label">Kosakata Esensial</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number">100%</div>
+              <div class="stat-label">Bilingual EN & ID</div>
+            </div>
+          </div>
+
+          <!-- Search & Filter Controls -->
+          <div class="search-filter-box">
+            <div class="search-bar">
+              <span class="search-icon">🔍</span>
+              <input type="text" id="globalSearchInput" placeholder="Cari topik, judul teks, kosakata, atau kata kunci (EN / ID)..." oninput="app.handleSearch(this.value)">
+              <button class="clear-search-btn" id="clearSearchBtn" onclick="app.clearSearch()" style="display:none;">✕</button>
+            </div>
+
+            <!-- Package Selection Tabs -->
+            <div class="package-tabs" id="packageTabs">
+              <button class="pkg-tab active" data-pkg="all" onclick="app.filterByPackage('all')">Semua Paket (18)</button>
+              <button class="pkg-tab" data-pkg="1" onclick="app.filterByPackage('1')">Paket 1 (Soal 1-30)</button>
+              <button class="pkg-tab" data-pkg="2" onclick="app.filterByPackage('2')">Paket 2 (Soal 1-30)</button>
+              <button class="pkg-tab" data-pkg="3" onclick="app.filterByPackage('3')">Paket 3 (Soal 1-30)</button>
+            </div>
+
+            <!-- Genre Quick Filters -->
+            <div class="genre-scroll-wrapper">
+              <div class="genre-pills" id="genrePills">
+                <button class="genre-pill active" data-genre="all" onclick="app.filterByGenre('all')">Semua Genre</button>
+                <button class="genre-pill" data-genre="letter" onclick="app.filterByGenre('letter')">✉️ Surat Lamaran</button>
+                <button class="genre-pill" data-genre="memo" onclick="app.filterByGenre('memo')">📝 Memo Kantor</button>
+                <button class="genre-pill" data-genre="health" onclick="app.filterByGenre('health')">🥗 Nutrisi & Sains</button>
+                <button class="genre-pill" data-genre="recount" onclick="app.filterByGenre('recount')">🏥 Recount Magang</button>
+                <button class="genre-pill" data-genre="report" onclick="app.filterByGenre('report')">🌺 Laporan Biologi</button>
+                <button class="genre-pill" data-genre="technology" onclick="app.filterByGenre('technology')">🚀 Inovasi Teknologi</button>
+                <button class="genre-pill" data-genre="travel" onclick="app.filterByGenre('travel')">🏖️ Pariwisata Pantai</button>
+                <button class="genre-pill" data-genre="folklore" onclick="app.filterByGenre('folklore')">📜 Cerita Rakyat</button>
+                <button class="genre-pill" data-genre="procedure" onclick="app.filterByGenre('procedure')">🍳 Resep / Prosedur</button>
+                <button class="genre-pill" data-genre="career" onclick="app.filterByGenre('career')">💼 Tren Karier 2030</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modules Grid Section -->
+      <div class="content-container">
+        <div class="section-header">
+          <div>
+            <h2 class="section-title" id="modulesListHeading">Daftar Materi Bacaan TKA</h2>
+            <p class="section-sub" id="modulesListSub">Menampilkan 18 materi bacaan lengkap</p>
+          </div>
+          <div class="sort-controls">
+            <label for="sortSelect">Urutkan:</label>
+            <select id="sortSelect" onchange="app.handleSort(this.value)">
+              <option value="default">Sesuai Nomor CBT</option>
+              <option value="time-asc">Waktu Baca Tercepat</option>
+              <option value="words-desc">Teks Terpanjang</option>
+              <option value="title-asc">Abjad Judul (A-Z)</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Modules Grid -->
+        <div class="modules-grid" id="modulesGrid">
+          <!-- Dynamically populated by app.js -->
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="emptyState" style="display: none;">
+          <div class="empty-icon">🔎</div>
+          <h3>Tidak ada modul yang cocok</h3>
+          <p>Coba gunakan kata kunci pencarian yang lain atau reset filter Anda.</p>
+          <button class="btn btn-primary" onclick="app.resetFilters()">Reset Filter</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 2: FULL READER VIEW (READING WORKSPACE) -->
+    <section class="view-section" id="viewReader" style="display: none;">
+      <!-- Reader Sticky Navigation Toolbar -->
+      <div class="reader-toolbar" id="readerToolbar">
+        <div class="toolbar-left">
+          <button class="btn btn-ghost" onclick="app.closeReader()">
+            <span class="icon">←</span>
+            <span>Kembali ke Daftar</span>
+          </button>
+          <div class="reader-meta-chips">
+            <span class="chip-badge chip-pkg" id="readerPkgBadge">Paket 1</span>
+            <span class="chip-badge chip-q" id="readerQBadge">Soal 1 - 5</span>
+            <span class="chip-badge chip-genre" id="readerGenreBadge">Formal Letter</span>
+          </div>
+        </div>
+
+        <div class="toolbar-center">
+          <!-- Reading Mode Switcher -->
+          <div class="mode-switcher" id="modeSwitcher">
+            <button class="mode-btn active" data-mode="dual" onclick="app.setReadingMode('dual')" title="Tampilan Berdampingan (Dual Column)">
+              <span>Bilingual (Dua Kolom)</span>
+            </button>
+            <button class="mode-btn" data-mode="interleaved" onclick="app.setReadingMode('interleaved')" title="Tampilan Paragraf Bergantian (Mobile Friendly)">
+              <span>Baris Bergantian</span>
+            </button>
+            <button class="mode-btn" data-mode="en" onclick="app.setReadingMode('en')" title="Hanya Teks Bahasa Inggris">
+              <span>English Only</span>
+            </button>
+            <button class="mode-btn" data-mode="id" onclick="app.setReadingMode('id')" title="Hanya Terjemahan Bahasa Indonesia">
+              <span>Indonesia Only</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="toolbar-right">
+          <!-- Text-to-Speech Player Controls -->
+          <div class="tts-controller" id="ttsController">
+            <button class="btn btn-sm btn-tts" id="ttsPlayBtn" onclick="app.toggleTTS()" title="Dengarkan Pelafalan Bahasa Inggris (Audio Native)">
+              <span class="tts-icon" id="ttsIcon">🔊</span>
+              <span id="ttsBtnText">Dengarkan Audio</span>
+            </button>
+            <select class="tts-speed-select" id="ttsSpeedSelect" onchange="app.setTTSSpeed(this.value)">
+              <option value="0.85">0.85x</option>
+              <option value="1.0" selected>1.0x</option>
+              <option value="1.15">1.15x</option>
+            </select>
+          </div>
+
+          <!-- Font Size Scaler -->
+          <div class="font-scaler">
+            <button class="font-btn" onclick="app.adjustFontSize(-1)" title="Perkecil Font">A-</button>
+            <button class="font-btn" onclick="app.adjustFontSize(1)" title="Perbesar Font">A+</button>
+          </div>
+
+          <!-- Bookmark Toggle -->
+          <button class="btn btn-icon bookmark-btn" id="readerBookmarkBtn" onclick="app.toggleCurrentBookmark()" title="Simpan ke Bookmark">
+            <span class="bm-icon" id="readerBookmarkIcon">☆</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Reading Progress Bar -->
+      <div class="reading-progress-track">
+        <div class="reading-progress-bar" id="readingProgressBar"></div>
+      </div>
+
+      <!-- Reader Body Container -->
+      <div class="reader-container">
+        <!-- Article Header -->
+        <div class="reader-header">
+          <h1 class="reader-title-en" id="readerTitleEn">Module Title English</h1>
+          <h2 class="reader-title-id" id="readerTitleId">Judul Terjemahan Bahasa Indonesia</h2>
+          
+          <div class="reader-info-bar">
+            <span>⏱️ <strong id="readerReadTime">3 min read</strong></span>
+            <span>📝 <strong id="readerWordCount">320</strong> kata</span>
+            <span>📊 Tingkat CEFR: <strong id="readerLevel">B1</strong></span>
+          </div>
+
+          <div class="reader-summary-box">
+            <div class="summary-col">
+              <div class="summary-label">English Summary:</div>
+              <p id="readerSummaryEn">Summary in English</p>
+            </div>
+            <div class="summary-col">
+              <div class="summary-label">Ringkasan Bahasa Indonesia:</div>
+              <p id="readerSummaryId">Ringkasan dalam Bahasa Indonesia</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Optional Image Display (Module 3 & 16) -->
+        <div class="reader-diagram-card" id="readerDiagramContainer" style="display:none;">
+          <div class="diagram-img-wrap">
+            <img id="readerDiagramImg" src="" alt="Passage Visual Diagram" onclick="app.openImageModal(this.src)">
+          </div>
+          <div class="diagram-captions">
+            <div class="cap-en" id="readerDiagramCapEn"></div>
+            <div class="cap-id" id="readerDiagramCapId"></div>
+          </div>
+        </div>
+
+        <!-- Interactive Reading Content Workspace -->
+        <div class="reader-content-layout" id="readerContentLayout">
+          <!-- Populated dynamically by app.js depending on reading mode (dual, interleaved, en, id) -->
+        </div>
+
+        <!-- Deep-Dive Study Tabs Section (NO questions! Pure comprehension!) -->
+        <div class="study-deepdive">
+          <div class="deepdive-tabs">
+            <button class="deepdive-tab active" data-tab="vocab" onclick="app.setDeepdiveTab('vocab')">
+              📚 Bank Kosakata (<span id="deepdiveVocabCount">0</span>)
+            </button>
+            <button class="deepdive-tab" data-tab="grammar" onclick="app.setDeepdiveTab('grammar')">
+              📐 Bedah Tata Bahasa (Grammar)
+            </button>
+            <button class="deepdive-tab" data-tab="structure" onclick="app.setDeepdiveTab('structure')">
+              🏛️ Struktur Teks (Generic Structure)
+            </button>
+            <button class="deepdive-tab" data-tab="insights" onclick="app.setDeepdiveTab('insights')">
+              💡 Strategi Soal TKA (CBT Erlangga)
+            </button>
+          </div>
+
+          <div class="deepdive-panel active" id="tabVocabPanel">
+            <div class="vocab-cards-grid" id="readerVocabGrid">
+              <!-- Populated by app.js -->
+            </div>
+          </div>
+
+          <div class="deepdive-panel" id="tabGrammarPanel" style="display:none;">
+            <div class="grammar-points-list" id="readerGrammarList">
+              <!-- Populated by app.js -->
+            </div>
+          </div>
+
+          <div class="deepdive-panel" id="tabStructurePanel" style="display:none;">
+            <div class="structure-timeline" id="readerStructureList">
+              <!-- Populated by app.js -->
+            </div>
+          </div>
+
+          <div class="deepdive-panel" id="tabInsightsPanel" style="display:none;">
+            <div class="insights-box" id="readerInsightsList">
+              <!-- Populated by app.js -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Next / Previous Module Navigation Footer -->
+        <div class="reader-footer-nav" id="readerFooterNav">
+          <button class="btn btn-outline" id="prevModuleBtn" onclick="app.navigateModule('prev')">
+            ← Modul Sebelumnya
+          </button>
+          <div class="nav-indicator" id="navIndicator">Modul 1 dari 18</div>
+          <button class="btn btn-primary" id="nextModuleBtn" onclick="app.navigateModule('next')">
+            Modul Selanjutnya →
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 3: MASTER VOCABULARY DICTIONARY -->
+    <section class="view-section" id="viewVocabulary" style="display: none;">
+      <div class="content-container">
+        <div class="page-title-banner">
+          <div class="title-badge">Kamus Lengkap TKA</div>
+          <h1>Kamus Kosakata Akademik (89+ Kata Esensial)</h1>
+          <p>Kumpulan kosakata ilmiah, bisnis, narasi, dan istilah kunci yang diekstrak langsung dari 18 teks simulasi CBT Erlangga lengkap dengan pelafalan audio, definisi bahasa Inggris, dan terjemahan bahasa Indonesia.</p>
+        </div>
+
+        <!-- Vocab Controls -->
+        <div class="vocab-search-bar">
+          <input type="text" id="vocabSearchInput" placeholder="Cari kata, arti, atau contoh kalimat..." oninput="app.handleVocabSearch(this.value)">
+          <div class="vocab-package-filter" id="vocabPackageFilter">
+            <button class="filter-chip active" data-vpkg="all" onclick="app.filterVocabPackage('all')">Semua Paket</button>
+            <button class="filter-chip" data-vpkg="1" onclick="app.filterVocabPackage('1')">Paket 1</button>
+            <button class="filter-chip" data-vpkg="2" onclick="app.filterVocabPackage('2')">Paket 2</button>
+            <button class="filter-chip" data-vpkg="3" onclick="app.filterVocabPackage('3')">Paket 3</button>
+          </div>
+        </div>
+
+        <!-- Alphabet Quick Filter -->
+        <div class="alpha-filter-bar" id="alphaFilterBar">
+          <!-- Generated A-Z buttons -->
+        </div>
+
+        <!-- Vocab Grid -->
+        <div class="master-vocab-grid" id="masterVocabGrid">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 4: TKA READING STRATEGY GUIDE -->
+    <section class="view-section" id="viewGuide" style="display: none;">
+      <div class="content-container">
+        <div class="page-title-banner">
+          <div class="title-badge">Panduan Sukses TKA</div>
+          <h1 id="guideMainTitle">Panduan Komprehensif Menguasai Soal Bacaan TKA Bahasa Inggris</h1>
+          <p id="guideMainSubtitle">Strategi Jitu, Bedah Pola Soal, dan Trik Pemahaman Bacaan Akademik Tanpa Terjebak</p>
+        </div>
+
+        <!-- Guide Chapter Accordion / Grid -->
+        <div class="guide-chapters-container" id="guideChaptersContainer">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 5: BOOKMARKS -->
+    <section class="view-section" id="viewBookmarks" style="display: none;">
+      <div class="content-container">
+        <div class="page-title-banner">
+          <div class="title-badge">Koleksi Pribadi</div>
+          <h1>Modul & Kosakata Tersimpan</h1>
+          <p>Daftar modul bacaan yang telah Anda tandai sebagai favorit untuk dipelajari kembali.</p>
+        </div>
+
+        <div class="bookmarks-content" id="bookmarksContent">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Interactive Floating Vocabulary Tooltip (for in-text clicks) -->
+  <div class="vocab-tooltip-card" id="vocabTooltipCard" style="display: none;">
+    <div class="tooltip-header">
+      <div>
+        <h4 class="tooltip-word" id="tooltipWord">Word</h4>
+        <span class="tooltip-phonetic" id="tooltipPhonetic">/phonetic/</span>
+        <span class="tooltip-pos" id="tooltipPos">noun</span>
+      </div>
+      <button class="tooltip-speak-btn" id="tooltipSpeakBtn" title="Dengarkan Pelafalan">🔊</button>
+      <button class="tooltip-close-btn" onclick="app.hideVocabTooltip()">✕</button>
+    </div>
+    <div class="tooltip-body">
+      <div class="tooltip-def-id" id="tooltipDefId">Arti Bahasa Indonesia</div>
+      <div class="tooltip-def-en" id="tooltipDefEn">English Definition</div>
+      <div class="tooltip-example" id="tooltipExample">Example sentence in context</div>
+    </div>
+  </div>
+
+  <!-- Image Viewer Modal -->
+  <div class="modal-overlay" id="imageModal" onclick="app.closeImageModal()" style="display:none;">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <button class="modal-close-btn" onclick="app.closeImageModal()">✕</button>
+      <img id="modalImg" src="" alt="Enlarged Diagram">
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <div class="footer-col">
+        <div class="footer-brand">TKA <span class="gradient-text">ENGLISH</span> MASTER</div>
+        <p>Portal materi bacaan akademik TKA Bahasa Inggris bilingual, dirancang khusus untuk memfasilitasi belajar membaca intensif dan menguasai teks Bahasa Inggris tanpa jebakan soal.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Sumber Materi</h4>
+        <p>Soal Simulasi Resmi CBT Erlangga Online</p>
+        <p>ID Buku: <code>0054200490.0094</code> (Paket 1, Paket 2, Paket 3)</p>
+        <p>18 Modul Bacaan Lengkap • 89+ Kosakata Esensial</p>
+      </div>
+      <div class="footer-col">
+        <h4>Fitur Pembelajaran</h4>
+        <ul>
+          <li>✓ Tampilan Bilingual Berdampingan (Dual Column)</li>
+          <li>✓ Audio Text-to-Speech (Pronunciation Native)</li>
+          <li>✓ Bedah Rumus Grammar & Struktur Teks</li>
+          <li>✓ Penjelasan Strategi Bedah Soal TKA</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 TKA English Master • Dibuat khusus untuk persiapan ujian akademik Bahasa Inggris yang komprehensif dan responsif.</p>
+    </div>
+  </footer>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

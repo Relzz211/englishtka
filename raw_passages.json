@@ -1,0 +1,828 @@
+[
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 1 - 5",
+    "html": "\n<p align=\"right\" xss=\"removed\">Putra Ramshiditya<br/>\r\nJl. Ontoseno No. 17<br/>\r\nBantul, Yogyakarta 55711<br/>\r\n+62 817342<br/>\r\nramshi.putra17@mail.com</p>\n<p xss=\"removed\"><span xss=\"removed\">July 1</span></p>\n<p xss=\"removed\"> </p>\n<p xss=\"removed\"><span xss=\"removed\">Hiring Manager</span></p>\n<p xss=\"removed\"><span xss=\"removed\">PT Citra Diraja </span></p>\n<p xss=\"removed\"><span xss=\"removed\">Jl. Pangeran Antasari No. 45</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Jakarta, Indonesia</span></p>\n<p xss=\"removed\"> </p>\n<p xss=\"removed\"><span xss=\"removed\">Dear Hiring Manager,</span></p>\n<p xss=\"removed\"> </p>\n<p xss=\"removed\"><span xss=\"removed\">I am writing to express my interest in the Social Media Officer position at PT Citra Diraja. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.</span></p>\n<p xss=\"removed\">What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns. <span xss=\"removed\">I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.</span></p>\n<p xss=\"removed\">Thank you for your time and consideration.</p>\n<p align=\"right\" xss=\"removed\">Sincerely,</p>\n<p align=\"right\" xss=\"removed\">Putra Ramshiditya</p>\n<p align=\"right\" xss=\"removed\">(CP/100%/SST)</p>\n<p xss=\"removed\"><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>",
+    "lines": [
+      "Putra Ramshiditya",
+      "Jl. Ontoseno No. 17",
+      "Bantul, Yogyakarta 55711",
+      "+62 817342",
+      "ramshi.putra17@mail.com",
+      "July 1",
+      "Hiring Manager",
+      "PT Citra Diraja",
+      "Jl. Pangeran Antasari No. 45",
+      "Jakarta, Indonesia",
+      "Dear Hiring Manager,",
+      "I am writing to express my interest in the Social Media Officer position at PT Citra Diraja.",
+      "I am a recent graduate of SMK Nusaraya Bantul, majoring in Multimedia, with a strong passion for creating digital content and social media engagement.",
+      "During my time at school, I gained hands-on experience in managing social media accounts for school events and local community projects. I am very familiar with and have trained on content scheduling tools such as Meta Business Suite and Canva. I am also skilled in analyzing engagement metrics to improve audience reach. I enjoy writing creative captions, designing visual content, and keeping up with digital trends.",
+      "What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns.",
+      "I believe my creative mindset, adaptability, and understanding of youth digital culture can bring fresh ideas to your team.",
+      "I have attached my CV and samples of my social media content for your consideration. I would welcome the opportunity to contribute to your digital team and grow together with your company.",
+      "Thank you for your time and consideration.",
+      "Sincerely,",
+      "Putra Ramshiditya",
+      "(CP/100%/SST)",
+      "Multiple-choice questions (No. 1 and 2). Choose the correct answer."
+    ],
+    "questions": [
+      {
+        "no": 1,
+        "question": "What position is the applicant applying for?",
+        "pembahasan": "Jawaban: D. Pembahasan: Kalimat “I am writing to express my interest in the Social Media Officer position at PT Citra Diraja.” menjelaskan bahwa posisi yang dilamar adalah Staf Media Sosial atau Social Media Officer."
+      },
+      {
+        "no": 2,
+        "question": "What is the applicant’s main purpose in writing this letter?",
+        "pembahasan": "Jawaban: D. Pembahasan: Dalam isi surat lamaran, pelamar menyatakan bahwa dia memiliki kreatifitas yang tinggi, kemampuan beradaptasi, dan pemahaman budaya digital generasi muda yang dapat membawa ide-ide segar. Penjabaran keterampilan dan pengalaman yang dia punya selama dia bersekolah berfungsi sebagai penawaran terhadap lowongan pekerjaan dari perusahaan."
+      },
+      {
+        "no": 3,
+        "question": "Multiple-choice multiple-answer question. Choose more than one answer. “ I have attached my CV and samples of my social media content for your consideration .” The purposes for this action in the sentence are . . .",
+        "pembahasan": "Jawaban: C dan D. Pembahasan: Kalimat “I have attached my CV and samples of my social media content for your consideration.” artinya Putra Ramshiditya telah melampirkan keterangan lebih jelas dan mendetail mengenai dirinya sebagai bahan pertimbangan. Jawaban yang paling tepat adalah C dan D karena bertujuan sama, yaitu memberikan detail pendidikan dan pengalaman kerja serta menunjukkan contoh praktis kemampuan pelamar agar PT Citra Diraja mengetahui kecocokan Putra Ramshiditya terhadap lowongan kerja yang tersedia. Sementara itu, opsi A, B, dan E kurang tepat karena CV dan sampel tersebut tidak berfungsi sebagai materi hiburan, desakan urgensi, atau pun sekadar menunjukkan antusiasme."
+      },
+      {
+        "no": 4,
+        "question": "Multiple-categorization questions (No. 4 and 5). Categorize each other statement by ticking (v) the correct column. Which of these sentences are True or False ?",
+        "pembahasan": "Jawaban: A. True. B. True. C. False. Pembahasan: Pernyataan A benar dan didukung dengan kalimat “I gained hands-on experience in managing social media accounts for school events and local community projects.” Pernyataan B benar dan didukung dengan kalimat “I am also skilled in analyzing engagement metrics to improve audience reach.” Pernyataan C salah karena pelamar belum pernah bekerja secara profesional sebelumnya dan merupakan lulusan baru."
+      },
+      {
+        "no": 5,
+        "question": "nswer the questions by choosing Yes or No .",
+        "pembahasan": "Jawaban: A. Yes. B. No. C. Yes. Pembahasan: Jawaban pertanyaan A adalah Yes karena memang benar bahwa pelamar belum pernah bekerja di perusahaan mana pun, dan merupakan seorang lulusan baru dari SMK Nusaraya Bantul, jurusan Multimedia. Jawaban pertanyaan B adalah No karena bukan manajer HR PT Citra Diraja yang melampirkan contoh konten media sosialnya pada surat tersebut, melainkan pelamar/penulis surat lamaran. Jawaban pertanyaan C adalah Yes karena Putra Ramshiditya memang benar terkesan dengan PT Citra Diraja. Hal ini ditunjukkan kalimat pada paragraf 3, “What excites me about this opportunity is that your company has a long-standing reputation for building strong online communities and delivering meaningful campaigns.”"
+      }
+    ]
+  },
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 6 - 10",
+    "html": "\n<p> </p>\n<p align=\"center\" xss=\"removed\"><b>Memorandum</b></p>\n<p>To                : All Employees<br/>\r\nFrom            : Office Management Division<br/>\r\nDate             : July 2<br/>\r\nSubject         : Let's Use Our Office Supplies Wisely</p>\n<p>Hi everyone,</p>\n<p xss=\"removed\"><span xss=\"removed\">just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.</span></p>\n<p xss=\"removed\">Here are a few simple ways to help out:</p>\n<ul>\n<li>Think before you print. Use double-sided printing format. Go digital when possible.</li>\n<li>Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.</li>\n<li>Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.</li>\n<li>Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.</li>\n</ul>\n<p>Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.</p>\n<p> </p>\n<p align=\"right\" xss=\"removed\">Thank you for your help,<br/>\r\nOffice Management Division<br/>\r\nPT Vitasena Indonesia</p>\n<p align=\"right\" xss=\"removed\">(DC/100%/SST)</p>\n<p align=\"right\" xss=\"removed\"> </p>\n<p align=\"right\" xss=\"removed\"><b>Multiple-choice question. Choose the correct answer</b></p>",
+    "lines": [
+      "Memorandum",
+      "To                : All Employees",
+      "From            : Office Management Division",
+      "Date             : July 2",
+      "Subject         : Let's Use Our Office Supplies Wisely",
+      "Hi everyone,",
+      "just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful of how we use everyday office items such as like paper, pens, and whiteboard markers. While these are essentials, overuse or carelessness can lead to extra costs and waste.",
+      "Just a quick note following the recent supply delivery (PO-2025-1189). We would like to gently remind everyone to be mindful when using everyday office supplies such as paper, pens, and whiteboard markers. These items are essential, but excessive or careless use can lead to unnecessary costs and waste.",
+      "Here are a few simple ways to help out:",
+      "Think before you print. Use double-sided printing format. Go digital when possible.",
+      "Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.",
+      "Request only what you need. No need to hoard. Supplies are restocked regularly and available as needed.",
+      "Return unused items. If something is neither used nor needed, give or send it back to the administration team so it can be reused.",
+      "Let’s all do our part in keeping the workplace efficient and eco-friendly. If you have questions or need something specific, just contact us at extension 221.",
+      "Thank you for your help,",
+      "Office Management Division",
+      "PT Vitasena Indonesia",
+      "(DC/100%/SST)",
+      "Multiple-choice question. Choose the correct answer"
+    ],
+    "questions": [
+      {
+        "no": 6,
+        "question": "Which one of these employee behaviors that does not align with the instructions in the memo?",
+        "pembahasan": "Jawaban: B. Pembahasan: Dalam memo dijelaskan perilaku karyawan berikut yang tidak sesuai dengan instruksi dalam memo adalah pilihan B, yaitu menyimpan perlengkapan tulis yang tidak terpakai di mana saja asalkan berada di dalam ruangan kantor karena seharusnya mengembalikannya."
+      },
+      {
+        "no": 7,
+        "question": "Which of the following statements about the memo are false?",
+        "pembahasan": "Jawaban: B, C, dan D. Pembahasan: Pernyataan yang salah adalah pilihan B, C, dan D karena tidak dijelaskan dalam teks. Sedangkan, A dan E benar. A ditunjukkan pada kalimat “ ...just a quick note following the recent supply delivery (PO-2025-1189). ” dan pilihan E, barang harus dikembalikan jika tidak dipakai."
+      },
+      {
+        "no": 8,
+        "question": "Based on both texts, which reasons best explain why the memo was sent to employees?",
+        "pembahasan": "Jawaban: B, C, dan E. Pembahasan: Alasan yang paling baik dan menjelaskan mengapa memo dikirimkan kepada karyawan adalah B, C, dan E karena sesuai menjawab pertanyaan. Pilihan A salah karena tidak ada disebut keterlambatan, hanya disebut recent supply delivery . Pilihan E juga salah karena tidak ada rencana mengurangi order , hanya himbauan untuk tidak menimbun barang yang tidak terpakai persediaan harus diisi ulang secara teratur."
+      },
+      {
+        "no": 9,
+        "question": "Multiple-categorization questions (No. 9 and 10). Categorize each other statement by ticking (P) the correct column. Which of these sentences are Fact or Opinion ?",
+        "pembahasan": "Jawaban: A. Opinion. B. Fact. C. Fact. Pembahasan: Pernyataan A adalah opini karena ada “I think” di awal kalimat yang merupakan pendapat pribadi atau penilaian yang belum tentu dapat dibuktikan kebenarannya. Pernyataan B dan C adalah fakta karena bisa dibuktikan benar berdasarkan isi teks."
+      },
+      {
+        "no": 10,
+        "question": "Which of these sentences are True or False ?",
+        "pembahasan": "Jawaban: A. True. B. True. C. False. Pembahasan: Pernyataan A benar karena didukung di dalam teks yang menyebut, “Office resources are shared across departments and must be used efficiently.” Pernyataan B benar karena didukung di dalam teks yang menyebut, “Keep supplies tidy. Store pens, markers, and calendars properly so they do not get misplaced or damaged.” Pernyataan C salah karena memo menjelaskan “…give or send it back to the administration team so it can be reused.” Artinya untuk dipakai ulang, bukan untuk penggunaan pribadi tim Administrasi."
+      }
+    ]
+  },
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 11 - 15",
+    "html": "\n<p><b>Table</b></p>\n<p>&lt;!-- IMAGE: image(7398).png --&gt;</p>\n<p><b>Text</b></p>\n<p> </p>\n<p align=\"center\" xss=\"removed\"><b>Fat in Balanced Diet</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Men </span>need to consume a maximum of 30 grams of saturated fat per day on average,<span xss=\"removed\"> and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For </span>kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.</p>\n<p>Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.</p>\n<p align=\"right\" xss=\"removed\">(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)</p>\n<p>(DC/100%/SST)</p>",
+    "lines": [
+      "Table",
+      "<!-- IMAGE: image(7398).png -->",
+      "Text",
+      "Fat in Balanced Diet",
+      "Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume. Saturated and unsaturated fats are the two main kinds of fat. The risk of heart disease will get higher when blood cholesterol levels increase due to an extreme consumption of saturated fat.",
+      "Men",
+      "need to consume a maximum of 30 grams of saturated fat per day on average,",
+      "and women need less than 20 grams of saturated fat per day on average. Those under the age of 11 must have less saturated fat than adults, while kids under the age of 5 have to avoid a low-fat diet. For",
+      "kids under two, full-fat dairy products like cheese and yogurt are recommended. Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts.",
+      "Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados, and spreads such as mayonnaise. For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat while eating it. Due to their high energy content, all types of fat should only be consumed in controlled amounts.",
+      "(Adapted from www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/)",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 11,
+        "question": "Multiple-choice questions (No. 11 and 12). Choose the correct answer. Which of the following statements is true about saturated fat?",
+        "pembahasan": "Jawaban: B. Pembahasan: Pernyataan B adalah yang paling tepat. Berdasarkan teks, anak di bawah 2 tahun dianjurkan mengonsumsi produk susu berlemak penuh ( full-fat ) seperti keju dan yogurt. Pernyataan A salah karena laki-laki dan perempuan dewasa harus membatasi konsumsi makanan yang mengandung lemak penuh, bukan memakannya lebih banyak. C juga salah karena seharusnya kurang dari 20 grams, 28 grams terlalu banyak. D salah karena teks merekomendasikan full-fat dairy, bukan hanya unsaturated. Terakhir, E salah larena laki-laki dewasa dianjurkan untuk mengonsumsi makanan yang mengandung saturated fat maksimal 30 grams, bukan 20 grams."
+      },
+      {
+        "no": 12,
+        "question": "Judging from the ingredients, we can say that the product is . . . .",
+        "pembahasan": "Jawaban: A. Pembahasan: Jawaban yang paling tepat adalah A karena laki-laki dewasa harus mengonsumsi saturated fat sebanyak maksimal 30 gram, maka jika dihitung (5.7 ÷ 30) × 100% = 19%. Sementara itu, opsi B salah karena jika dihitung berdasarkan jumlah saturated fat yang disarankan untuk perempuan dewasa sebanyak maksimal 20 gram, maka jika dihitung (5.7 ÷ 20) × 100% = 28.5%. Opsi C, D, dan E salah karena tidak sesuai dengan isi teks."
+      },
+      {
+        "no": 13,
+        "question": "Multiple-choice multiple-answer questions (No. 13 and 14). Choose more than one answer. Which of the following are recommended ways to reduce saturated fat in the diet?",
+        "pembahasan": "Jawaban: B, C, dan D. Pembahasan: “ Consume more foods high in unsaturated fat, such as oily fish, vegetable oils, avocados … For a healthier alternative to butter and palm oil, try just a little of vegetable or olive oil, or low-fat spread. Select lean cuts of meat and trim off any excess fat …” Berdasarkan kalimat tersebut yang ada di paragraf 3, pilihan B, C, dan D adalah yang paling tepat."
+      },
+      {
+        "no": 14,
+        "question": "Which statements about fat intake for different age groups are true?",
+        "pembahasan": "Jawaban: A, C, dan D. Pembahasan: Pernyataan A benar karena anak di bawah 5 tahun harus menghindari pola makan dengan kandungan low-fat . Pernyataan C juga benar dan didukung oleh kalimat, “ For kids under two, full-fat dairy products like cheese and yogurt are recommended .” Pernyataan D benar dan didukung oleh kalimat, “ Men need to consume a maximum of 30 grams of saturated fat per day on average ... ” Pernyataan E salah karena 25 grams melebihi batas konsumsi saturated fat bagi wanita dewasa. Pernyataan B juga salah karena anak di bawah 11 tahun harus mengonsumsi lebih sedikit daripada orang dewasa."
+      },
+      {
+        "no": 15,
+        "question": "Multiple-categorization question. Categorize each statement by ticking (ü) the correct column.",
+        "pembahasan": "Jawaban: A. True. B. False. C. True. Pembahasan: Pernyataan A benar dan didukung oleh kalimat, “ Saturated fat can be discovered in a variety of foods, such as sausages, butter, hard cheese, cream, cakes, biscuits, and fatty meat cuts. ” mendukung pernyataan tersebut. Pernyataan B salah karena berbanding terbalik dengan fakta yang dijelaskan dalam teks bahwa konsumsi tinggi saturated fat dapat menaikkan kolesterol. Pernyataan C benar dan didukung oleh kalimat, “ Due to their high energy content, all types of fat should only be consumed in controlled amounts. ”"
+      }
+    ]
+  },
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 16 - 20",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>My Internship Experience as a Nurse Assistant</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20<sup>th</sup> to May 20<sup>th</sup>. Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor's office.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">After around two and a half weeks in the outpatient ward. </span>I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.<span xss=\"removed\"> There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.</span></p>\n<p>(DC/100%/SST)</p>",
+    "lines": [
+      "My Internship Experience as a Nurse Assistant",
+      "Hello. My name is Sinta. I am majoring in Nursing Assistant at Semarang Health Vocational School. I would like to share my experience completing an internship at Sehati Hospital in Semarang from February 20",
+      "th",
+      "to May 20",
+      "th",
+      ". Five of my friends and I completed our internship there. Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time. At Sehati Hospital, we interned and learned in various places, including the nursery, the outpatient ward, the inpatient ward, the operating room, and the emergency room. After about two and a half weeks, we moved to a different room or division.",
+      "At first, I was assigned to the nursery, where I learned from senior nurses how to correctly and carefully bathe babies, prepare formula, wash bottles, change diapers, and educate new mothers on breastfeeding. Next, in the third week, when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor's office.",
+      "After around two and a half weeks in the outpatient ward.",
+      "I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shif.",
+      "There was also my experience when I got my turn in the operating and recovery rooms. In there, I observed newborn babies, cleaned medical equipment, and assisted with postpartum care for new mothers. Finally, for the last two and a half weeks of my internship, I had to assist with initial wound care in the emergency room. After that, I thoroughly finished my internship. My friend and I said goodbye and thanked the nurses, doctors, and hospital staff that had helped us so much during our internship period at Sehati Hospital.",
+      "The reality of my internship was as I predicted; that it would be stimulating while also being difficult and tiring. But it turned out that I was happy to do the work and activities. I loved it when patients showed their appreciation to me and my fellow interns, which really touched my heart. That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare.",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 16,
+        "question": "Which of the following statements are false about Sinta's internship experience?",
+        "pembahasan": "Jawaban: D dan E. Pembahasan: Pernyataan yang salah tentang pengalaman magang Sinta ada pada pilihan D dan E. Sinta magang di rumah sakit Sehati bersama 5 temannya selama 3 bulan bukan 4 bulan, dari tanggal 20 Februari sampai tanggal 20 Mei. Dia juga tidak pernah ditempatkan bertugas di klinik gigi."
+      },
+      {
+        "no": 17,
+        "question": "What were Sinta's responsibilities in the outpatient ward?",
+        "pembahasan": "Jawaban: A, B, C, dan D. Pembahasan: “… when I was in the outpatient ward, I communicated directly with many patients. My duties included checking vital signs, assisting with medical record-keeping, collecting laboratory results, and preparing the doctor's office .” Potongan kalimat pada paragraf 2 menunjukkan bahwa pilihan A, B, C, dan D adalah yang paling benar."
+      },
+      {
+        "no": 18,
+        "question": "Multiple-categorization questions (18 and 19). Categorize each statement by ticking ( v) the correct column. Which of the following statements are True or False about Sinta’s experiences in the inpatient ward?",
+        "pembahasan": "Jawaban: A. True, B. False, dan C. True. Pembahasan: “… I interned in the inpatient ward where I learned a lot, especially about how to take vital signs such as blood pressure, breathing rate, and pulse, among other things. I enjoyed helping to check the vital signs of small children the most. On the days when I got the night shift, I felt that the atmosphere was very calming even though it was also rather longer than the day shift .” Penjelasan tentang apa yang dikerjakan dan pengalaman Sinta di bagian rawat inap dijelaskan pada paragraf 3. Maka dapat disampulkan bahwa pernyataan A benar, B salah, dan C benar."
+      },
+      {
+        "no": 19,
+        "question": "Answer these questions by choosing Yes or No.",
+        "pembahasan": "Jawaban: A. No, B. No, dan C. Yes. Pembahasan: Jawaban pertanyaan A adalah No . “I loved it when patients showed their appreciation to me and my fellow interns …” Pada kalimat tersebut menjelaskan bahwa Sinta senang ketika beberapa pasien memberikan penghargaan atau pujian kepada dia dan rekan-rekannya. Jawaban pertanyaan B adalah No. “Before I even started my internship, I already predicted that the experience would be exciting but challenging and wearying at the same time.” Kalimat tersebut menjelaskan bahwa Sinta sudah memperkirakan bahwa pengalaman magangnya tersebut akan menarik tetapi menantang dan melelahkan pada saat yang sama. Jawaban pertanyaan C adalah Yes. Sinta menyebutkan di dalam teks, “ That was something I really looked forward to. Someday, when I earn my degree and become a licensed nurse, I will dedicate myself to contribute and to provide better healthcare. ” untuk menyampaikan rencananya untuk mendedikasikan diri sebagai tenaga medis profesional."
+      },
+      {
+        "no": 20,
+        "question": "Multiple-choice question. Choose the correct answer. How long did Sinta do the internship at Sehati Hospital?",
+        "pembahasan": "Jawaban: D. Pembahasan: Sinta melakukan magang di Rumah Sakit Sehati Semarang dari tanggal 20 Februari sampai 20 Mei, yaitu sekitar 3 bulan."
+      }
+    ]
+  },
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 21 - 25",
+    "html": "\n<p align=\"center\" xss=\"removed\"><span xss=\"removed\"><b>The Beauty of Bougainvillea</b></span></p>\n<p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\">Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.</span></span></p>\n<p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\">This </span></span>plant is also called Paper Flower because its flowers are as smooth and thin as paper. <span xss=\"removed\"><span xss=\"removed\">Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The </span></span>beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.<span xss=\"removed\"><span xss=\"removed\"> The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.</span></span></p>\n<p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\">Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.</span></span></p>\n<p align=\"right\" xss=\"removed\"> (PC/100%/SST)</p>\n<p><b>Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer.</b></p>",
+    "lines": [
+      "The Beauty of Bougainvillea",
+      "Bougainvillea is an ornamental plant that is well known in various regions of Indonesia. The actual flower of this plant is very small and right in the middle of the petals. However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. Planting this flower is relatively easy, one of the methods being stem cuttings.",
+      "This",
+      "plant is also called Paper Flower because its flowers are as smooth and thin as paper.",
+      "Bougainvillea generally grows upright and has a relatively small shape. Its leaves are dark green, oval-shaped, and not sharply pointed at the tip. The",
+      "beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type.",
+      "The trunk and branches are surrounded by thorns. Bougainvillea can grow more than 10 meters tall. The leaves are large, slightly pointed, and grow densely around the branches.",
+      "Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.",
+      "(PC/100%/SST)",
+      "Multiple-choice multiple-answer questions (No. 21 and 22). Choose more than one answer."
+    ],
+    "questions": [
+      {
+        "no": 21,
+        "question": "Which parts of the text best support the description of Bougainvillea as a tropical plant?",
+        "pembahasan": "Jawaban: A, B, dan D. Pembahasan: Penjelasan tentang Bougenvil sebagai tanaman tropis terdapat pada paragraf 3, yaitu di kalimat “ Bougainvillea originates from South America, but over time, it has spread widely to tropical regions such as Indonesia because it has high adaptability, is drought-tolerant, and requires optimal sunlight. It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.” Jadi, jawaban yang tepat adalah A, B, dan D."
+      },
+      {
+        "no": 22,
+        "question": "Which statements can describe Bougainvillea as an ornamental plant?",
+        "pembahasan": "Jawaban: A, B, D dan E. Pembahasan: Opsi A juga benar. Bunga Bougenvil dapat ditanam dengan mudah, yaitu dengan salah satu metodenya adalah dengan stek batang. “ The beauty of this plant lies in its brightly colored petals which have with several color variations depending on the type. ” Kalimat tersebut mendukung opsi B. Opsi C salah karena justru batang dan dahannya dikelilingi oleh duri. Opsi D benar dan didukung oleh kalimat “It can grow almost in every season, which makes it possible to enjoy its beauty throughout the year.” “ This plant is also called Paper Flower because its flowers are as smooth and thin as paper .” Kalimat pertama pada paragraf dua menunjukkan bahwa opsi E benar."
+      },
+      {
+        "no": 23,
+        "question": "What is the shape of Bougainvillea leaves?",
+        "pembahasan": "Jawaban: D. Pembahasan: Berdasarkan penjelasan pada teks, daun Bunga Bougenvil berwarna hijau gelap, berbentuk oval, dan ujungnya tidak runcing. Maka, D jawaban yang benar."
+      },
+      {
+        "no": 24,
+        "question": "What part of Bougainvillea is often mistaken as the flower?",
+        "pembahasan": "Jawaban: C. Pembahasan: “ However, people often consider the brightly colored petals as the flower itself because they are more eye-catching. ” Artinya, beberapa orang sering menganggap kelopak yang berwarna cerah sebagai bunga itu sendiri karena lebih mencolok. C adalah opsi yang tepat."
+      },
+      {
+        "no": 25,
+        "question": "Multiple-categorization question. Categorize each statement by ticking (ü) the correct column. Which of the following statements are True or False according to the text?",
+        "pembahasan": "Jawaban: A. False. B. False. C. True. Pembahasan: Pernyataan A salah karena bunga aslinya kecil dan terletak tepat di tengah-tengah kelopaknya yang berwarna cerah. Penyataan B juga salah karena bentuk daunnya oval, dan ujungnya tidak runcing bukan segitiga dan runcing di ujung. Pernyataan C benar dan didukung oleh kalimat “ The trunk and branches are surrounded by thorns .” pada paragraf 2."
+      }
+    ]
+  },
+  {
+    "package": "Paket 1",
+    "package_num": 1,
+    "q_range": "Soal 26 - 30",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>Bandung Techno Park</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">  BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. </span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from www.<a href=\"https://ekaputrawisata.com/bandung-techno-park-indonesia/\"><span xss=\"removed\">ekaputrawisata.com/bandung-techno-park-indonesia/</span></a>)</p>\n<p>(DC/100%/SST)</p>",
+    "lines": [
+      "Bandung Techno Park",
+      "Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development, and it occupies about 50 hectares of land. Many technology companies and new start-ups choose BTP as their base because of its modern facilities.",
+      "One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail. This lab has equipment like powerful microscopes that can see things almost at the atomic level. As a result, researchers have made significant progress in developing new semiconductors and nanomaterials.",
+      "Next to it is the additive manufacturing center, which has large 3D printers that can make parts from plastics and metals. This enables companies to create and test new designs more quickly. For example, the center has made special medical implants that fit a patient’s body exactly. The life sciences research wing has high-security laboratories where scientists work on new medicines and study infectious diseases. These labs contributed significantly to the development of vaccines during the COVID-19 epidemic. The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together.",
+      "BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. For data work, the data analytics center has very fast computers that help researchers in areas like climate studies and artificial intelligence.",
+      "One of BTP’s strengths is that it is open for collaboration with universities to private companies all through straightforward and manageable administration and agreements. All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide.",
+      "(Adapted from www.",
+      "ekaputrawisata.com/bandung-techno-park-indonesia/",
+      ")",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 26,
+        "question": "Multiple-choice multiple-answer questions (No. 26 and 27). Choose more than one answer. Which facilities at BTP are matched correctly with their functions?",
+        "pembahasan": "Jawaban: C, D, dan E. Pembahasan: Pernyataan A salah. Additive Manufacturing Center dilengkapi dengan printer 3D berukuran besar yang mampu memproduksi bagian-bagian dari bahan plastik dan logam, bukan vaksin atau obat. Pernyataan B salah. Data Analytics Center memiliki komputer yang sangat cepat yang membantu para peneliti di bidang seperti studi iklim dan kecerdasan buatan, bukan nanomaterials. Pernyataan C, D, dan E benar karena sesuai dengan apa yang dijelaskan dalam teks."
+      },
+      {
+        "no": 27,
+        "question": "Based on the text, what are some strengths of Bandung Techno Park?",
+        "pembahasan": "Jawaban: A, C, dan E. Pembahasan: “ The integration testing center allows different technologies such as smart city systems, renewable energy, and AI software to be tested together. ” “ All BTP facilities follow ISO 9001:2015 standards, which means their work is high quality and trusted worldwide. ” “ One of BTP’s strengths is that it is open for collaboration with universities to private companies… ” Kalimat-kalimat di atas dijelaskan pada paragraf 3 dan 5 menunjukkan bahwa pilihan A, C, dan E adalah benar. Sedangkan, pilihan B dan D tidak sesuai dengan teks."
+      },
+      {
+        "no": 28,
+        "question": "Multiple-categorization question. Categorize each statement by ticking (ü) the correct column. Which of the following statements are True or False about Bandung Techno Park?",
+        "pembahasan": "Jawaban: A. True. B. False. C. True. Pembahasan: Pernyataan A benar dan dijelaskan pada paragraf pertama di kalimat, “ It contains around 20 structures designed to support research and development … ” Peernyataan B salah karena salah satu bidang penting adalah laboratorium bahan canggih, yang menyimpan dan menyediakan alat-alat khusus untuk mempelajari bahan-bahan secara mendetail bukan untuk obat baru atau meneliti penyakit terinfeksi (yang terdapat di Life Sciences Research wing ). Pernyataan C benar dan penjelasannya terdapat pada paragraf keempat di kalimat, “ BTP also supports green technology through the renewable energy testing facility. Here, companies can test solar panels, wind energy systems, and batteries in different conditions. ”"
+      },
+      {
+        "no": 29,
+        "question": "Multiple-choice questions (No. 29 and 30). Choose the correct answer. What is the main purpose of Bandung Techno Park (BTP)?",
+        "pembahasan": "Jawaban: D. Pembahasan: Pada awal teks, paragraf pertama di kalimat: “Bandung Techno Park (BTP) is one of Indonesia’s most important places for new technology and innovation. It contains around 20 structures designed to support research and development…” menjelaskan bahwa tujuan utama BTP adalah penelitian dan pengembangan."
+      },
+      {
+        "no": 30,
+        "question": "What is studied in the advanced materials laboratory?",
+        "pembahasan": "Jawaban: C. Pembahasan: “ One important area is the advanced materials laboratory, which stores and provides special tools for studying materials in great detail . ” Kalimat pada paragraf dua menjelaskan bahwa pilihan C adalah yang paling tepat."
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 1 - 5",
+    "html": "\n<p align=\"center\" xss=\"removed\"><span xss=\"removed\"><b>Sanur Beach</b></span></p>\n<p xss=\"removed\"><span xss=\"removed\">Sanur is considered one of Bali's most family-friendly places. The tranquil seashore town on Bali's southeast coast was one of the island's initial tourist destinations, and it remains popular for its amazing hotels, shopping, breakfast, massages, and easy access to the Nusa islands. Calm sea waves and shallow water surrounded by a line of offshore reefs make it a perfect swimming spot for children. In addition, the summer months of May to August bring a refreshing breeze.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">There are also other enjoyable activities to do around there. The 7-kilometer-long shoreline with a paved footpath is ideal for a morning walk, jog, or even a bicycle ride. It's a beautiful scenic road surrounded by fishing boats, hotel gardens, and beach restaurants. The entire public beach area is free to enter, and loungers and bicycles may usually be rented for a low cost along the boardwalk.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Sanur Beach is one of Bali's most popular sites for swimming, snorkeling, and other varieties of water sports. The strong breeze makes it ideal for parasailing, kitesurfing, and windsurfing. You may also rent jet skis or banana boats. A variety of water sports are available at booths along the beach path. You can also try the Sea Walker for an interesting experience. It’s a safe and exciting underwater experience. You may not dive without a certification, but you can still get down to the sea floor up to 5-meter-deep to walk around exploring the underwater world and without getting your hair wet due to the innovative Sea Walker equipment.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from www.theworldtravelguy.com/sanur-travel-guide-best-things-to-do-in-sanur-bali-beach/)</p>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "Sanur Beach",
+      "Sanur is considered one of Bali's most family-friendly places. The tranquil seashore town on Bali's southeast coast was one of the island's initial tourist destinations, and it remains popular for its amazing hotels, shopping, breakfast, massages, and easy access to the Nusa islands. Calm sea waves and shallow water surrounded by a line of offshore reefs make it a perfect swimming spot for children. In addition, the summer months of May to August bring a refreshing breeze.",
+      "There are also other enjoyable activities to do around there. The 7-kilometer-long shoreline with a paved footpath is ideal for a morning walk, jog, or even a bicycle ride. It's a beautiful scenic road surrounded by fishing boats, hotel gardens, and beach restaurants. The entire public beach area is free to enter, and loungers and bicycles may usually be rented for a low cost along the boardwalk.",
+      "Sanur Beach is one of Bali's most popular sites for swimming, snorkeling, and other varieties of water sports. The strong breeze makes it ideal for parasailing, kitesurfing, and windsurfing. You may also rent jet skis or banana boats. A variety of water sports are available at booths along the beach path. You can also try the Sea Walker for an interesting experience. It’s a safe and exciting underwater experience. You may not dive without a certification, but you can still get down to the sea floor up to 5-meter-deep to walk around exploring the underwater world and without getting your hair wet due to the innovative Sea Walker equipment.",
+      "(Adapted from www.theworldtravelguy.com/sanur-travel-guide-best-things-to-do-in-sanur-bali-beach/)",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 1,
+        "question": "“The tranquil seashore town on Bali's southeast coast was one of the island's initial tourist destinations,” Which one of these words does NOT have the same meaning as the underlined word?",
+        "pembahasan": "Jawaban: E. Pembahasan: Kata yang digarisbawahi adalah tranquil yang memiliki arti “tenang” atau “damai”, opsi A sampai D memiliki makna yang sama dengan tranquil . Namun, opsi E tidak memiliki arti yang sama, yaitu rowdy yang berarti ramai atau gaduh."
+      },
+      {
+        "no": 2,
+        "question": "What protects the water at Sanur Beach that can calm and safe sea waves?",
+        "pembahasan": "Jawaban: B. Pembahasan: “ Calm sea waves and shallow water surrounded by a line of offshore reefs make it a perfect swimming spot for children .” Penjelasan tersebut terdapat pada paragraf pertama yang berarti, “Gelombang laut yang tenang dan air yang dangkal, dikelilingi oleh barisan terumbu karang di lepas pantai, menjadikannya tempat berenang yang sempurna untuk anak-anak.” Maka, jawaban yang paling tepat adalah B."
+      },
+      {
+        "no": 3,
+        "question": "How long is the beachfront path in Sanur?",
+        "pembahasan": "Jawaban: D. Pembahasan: Kalimat “ The 7-kilometer-long shoreline with a paved footpath is ideal for a morning walk, jog, or even a bicycle ride .” mendukung pilihan D adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 4,
+        "question": "Which activities can you do in Sanur Beach?",
+        "pembahasan": "Jawaban: B, C, D, dan E. Pembahasan: Aktivitas yang bisa dilakukan di Pantai Sanur, yaitu berenang, snorkeling , parasailing , kitesurfing , and windsurfing. Itu semua dijelaskan pada paragraf 3, sedangkan diving atau menyelam tidak disebutkan dalam teks sebagai kegiatan yang bisa langsung dilakukan oleh pengunjung."
+      },
+      {
+        "no": 5,
+        "question": "Which statements are True or False about Sanur Beach?",
+        "pembahasan": "Jawaban: A. False. B. True. C. False. Pembahasan: Pernyataan A salah karena di teks menjelaskan bahwa jalur pantai Sanur sudah beraspal ( paved footpath ), indah ( beautiful scenic road ), dan gratis untuk masuk ( The entire public beach area is free to enter ). Pernyataan B benar. Pada paragraf pertama teks menjelaskan bahwa Sanur adalah salah satu tempat paling ramah keluarga ( family-friendly ), dengan laut yang tenang dan dangkal sehingga aman untuk anak-anak. Pernyataan C jawabannya salah. Teks menyebutkan bahwa memang tidak bisa melakukan diving tanpa sertifikat, tetapi Sea Walker menawarkan wisatawan tetap bisa berjalan di dasar laut dengan peralatan khusus tanpa butuh sertifikat selam."
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 6 - 10",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>The Origins of Cenderawasih</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Once upon a time, in the Land of Papua, a couple named Bone and Baria were fishing on a river when they found a baby inside a floating basket. They took the baby as their son and named him Kweiya. A few years later, Baria gave birth to Niko and then Kiara. Kweiya, Niko, and Kiara were raised together in a house near a dense forest, Father Bone and Mother Baria treated their children equally. A good natured child, Keiya always diligently helped his parents by taking care of his two siblings, helping Father Bone with farming, and looking for fruits in the forest. Kweiya was remarkably spry in helping, such as when he nimbly climbed trees looking for fruits in the forest. Father Bone and Mother Baria complimented Kweiya on his diligence. Without their parents and Kweiya’s knowledge, this had made Niko and Kiara grow envious.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">One day, Mother Baria fell ill. Father Bone had to stay home to take care of her and to harvest their farm. He asked his children to find red fruits to cure Mother Baria on the edges of the forest. Kweiya, Niko, and Kiara went to the forest. However, Niko and Kiara were secretly planning something. They persuaded Kweiya to go further into the forest. Kweiya was doubtful about their safety in the unknown part of the forest, but Niko and Kiara convinced him by spinning a story that the deepest part of the forest had more red fruits than other places in the forest. At first, the three of them went in together. Kweiya looked around in amazement at the beautiful scenery that he had never seen before. But then, Niko and Kiara left him when Kweiya was too engrossed in picking the red fruits.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Later, Kweiya felt that he had gotten enough red fruits and was about to go home, but the night had fallen. He couldn’t see the way back out of the forest. He was lost. Meanwhile back at home, his two siblings had returned and told their parents that Kweiya insisted on going into the deepest part of the forest. Father Bone and Mother Baria searched for Kweiya until dusk, but they couldn't find him.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Days went by and Kweiya was still never found. Mother Baria's health had declined further because she was agonizing over the loss while Father kept trying to look for Kweiya with Niko and Kiara accompanying him. One morning, Mother heard the door being knocked. She opened the door, looked out, and found no one except a pile of red fruits. Days afterward, piles of red fruits always suddenly appeared in front of the house. The family never saw who had brought the fruits. When Mother’s health finally recovered, she heard a trill of birdsong. Outside, there was a handsome bird with colorful feathers. It dropped red fruits to the ground. It sang again to her one last time and then flew away, never to be seen again.</span></p>\n<p>(PC/100%/SST</p>\n<p> </p>",
+    "lines": [
+      "The Origins of Cenderawasih",
+      "Once upon a time, in the Land of Papua, a couple named Bone and Baria were fishing on a river when they found a baby inside a floating basket. They took the baby as their son and named him Kweiya. A few years later, Baria gave birth to Niko and then Kiara. Kweiya, Niko, and Kiara were raised together in a house near a dense forest, Father Bone and Mother Baria treated their children equally. A good natured child, Keiya always diligently helped his parents by taking care of his two siblings, helping Father Bone with farming, and looking for fruits in the forest. Kweiya was remarkably spry in helping, such as when he nimbly climbed trees looking for fruits in the forest. Father Bone and Mother Baria complimented Kweiya on his diligence. Without their parents and Kweiya’s knowledge, this had made Niko and Kiara grow envious.",
+      "One day, Mother Baria fell ill. Father Bone had to stay home to take care of her and to harvest their farm. He asked his children to find red fruits to cure Mother Baria on the edges of the forest. Kweiya, Niko, and Kiara went to the forest. However, Niko and Kiara were secretly planning something. They persuaded Kweiya to go further into the forest. Kweiya was doubtful about their safety in the unknown part of the forest, but Niko and Kiara convinced him by spinning a story that the deepest part of the forest had more red fruits than other places in the forest. At first, the three of them went in together. Kweiya looked around in amazement at the beautiful scenery that he had never seen before. But then, Niko and Kiara left him when Kweiya was too engrossed in picking the red fruits.",
+      "Later, Kweiya felt that he had gotten enough red fruits and was about to go home, but the night had fallen. He couldn’t see the way back out of the forest. He was lost. Meanwhile back at home, his two siblings had returned and told their parents that Kweiya insisted on going into the deepest part of the forest. Father Bone and Mother Baria searched for Kweiya until dusk, but they couldn't find him.",
+      "Days went by and Kweiya was still never found. Mother Baria's health had declined further because she was agonizing over the loss while Father kept trying to look for Kweiya with Niko and Kiara accompanying him. One morning, Mother heard the door being knocked. She opened the door, looked out, and found no one except a pile of red fruits. Days afterward, piles of red fruits always suddenly appeared in front of the house. The family never saw who had brought the fruits. When Mother’s health finally recovered, she heard a trill of birdsong. Outside, there was a handsome bird with colorful feathers. It dropped red fruits to the ground. It sang again to her one last time and then flew away, never to be seen again.",
+      "(PC/100%/SST"
+    ],
+    "questions": [
+      {
+        "no": 6,
+        "question": "Why did Kweiya’s two siblings have secret planning for him?",
+        "pembahasan": "Jawaban: C. Pembahasan: Dalam teks disebutkan: “ Father Bone and Mother Baria complimented Kweiya on his diligence. Without their parents and Kweiya’s knowledge, this had made Niko and Kiara grow envious. ” Jadi, alasan sebenarnya Niko dan Kiara membuat rencana diam-diam adalah karena rasa iri terhadap pujian yang diterima Kweiya dari orang tuanya. C jawaban yang benar."
+      },
+      {
+        "no": 7,
+        "question": "What made Kweiya doubtful about going into the deepest part of the forest?",
+        "pembahasan": "Jawaban: C. Pembahasan: “ Kweiya was doubtful about their safety in the unknown part of the forest, but Niko and Kiara convinced him .” Kalimat pada paragraf 2 tersebut menjelaskan bahwa Kweiya tidak yakin dengan keselamatan dirinya dan kedua adiknya. C jawaban yang benar."
+      },
+      {
+        "no": 8,
+        "question": "What did Kweiya find in the deepest part of the forest?",
+        "pembahasan": "Jawaban: B dan E. Pembahasan: “ At first, the three of them went in together. Kweiya looked around in amazement at the beautiful scenery that he had never seen before. But then, Niko and Kiara left him when Kweiya was too engrossed in picking the red fruits .” Artinya, yang Kweiya temukan ketika berada di bagian terdalam hutan adalah pemandangan yang indah dan pohon buah merah."
+      },
+      {
+        "no": 9,
+        "question": "What are the events that happened after Kweiya disappeared?",
+        "pembahasan": "Jawaban: A, C, dan E. Pembahasan: Penjelasan tentang apa yang terjadi setelah Kweiya menghilang ada di paragraf terakhir. Sakit Ibu Baria memburuk karena sedih kehilangan Kweiya, tumpukan buah-buahan merah mulai muncul di depan rumah secara misterius tanpa ada yang terlihat membawanya, dan Ibu Baria melihat seekor burung cantik berwarna-warni yang menjatuhkan buah merah, berkicau satu kali, lalu terbang pergi dan tidak pernah terlihat lagi. Maka, A, C, dan E adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 10,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (P) the correct column. Which of these statements are True or False ?",
+        "pembahasan": "Jawaban: A. True. B. True. C. False. Pembahasan: Pernyataan A benar dan didukung kalimat, “ Meanwhile back at home, his two siblings had returned and told their parents that Kweiya insisted on going into the deepest part of the forest .” Pernyataan tersebut terdapat di paragraf 3 yang menjelaskan bahwa kedua adik Kweiya berbohong. Pernyataan B benar karena teks menyebut, “ Father kept trying to look for Kweiya with Niko and Kiara accompanying him. ” Pernyataan C salah karena bertentangan dengan fakta yang ada di dalam teks. Di teks, Kweiya justru terlalu asyik fokus pada tugas memetik buah. Di pernyataan C menyatakan sebaliknya bahwa Kweiya tidak memperhatikan."
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 11 - 15",
+    "html": "\n<p xss=\"removed\"> </p>\n<p align=\"center\" xss=\"removed\"><b>How to Make Vegetable Scramble</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Serving:        1-2 people</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Ingredients:</span></p>\n<ul>\n<li xss=\"removed\"><span xss=\"removed\">2 eggs</span></li>\n<li xss=\"removed\"><span xss=\"removed\">2 teaspoons butter or olive oil</span></li>\n<li xss=\"removed\"><span xss=\"removed\">1 small potato, diced</span></li>\n<li xss=\"removed\"><span xss=\"removed\">2-3 tablespoons onion, finely crushed </span></li>\n<li xss=\"removed\"><span xss=\"removed\">3 cloves garlic, finely crushed</span></li>\n<li xss=\"removed\"><span xss=\"removed\">3-4 cherry tomatoes, roughly chopped</span></li>\n<li xss=\"removed\"><span xss=\"removed\">Salt and pepper, to taste</span></li>\n<li xss=\"removed\"><span xss=\"removed\">2 handfuls of baby spinach, wash and drain</span></li>\n</ul>\n<p xss=\"removed\"><span xss=\"removed\">Preparations and Cooking:</span></p>\n<ol>\n<li xss=\"removed\"><span xss=\"removed\">First, prepare all of your vegetables and spices. Prepare the egg too by cracking them into a bowl.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">Next, heat the oil or butter in a pan over medium-high heat until it’s sizzling.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">Then, put the potato in and increase the heat a little. Stir-fry the potato around three to five minutes. Check the tenderness; the potato is ready when you can easily stick it with a fork.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">After that, add the onion into the stir-fry. Stir again for another two minutes or until the onion becomes a bit brown. Add in the garlic and stir for a further minute. Then add the tomato and stir-fry about one more minute.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">When the stir-fry’s juice cooks off, finally take the stir-fry pan off the heat. Immediately add the eggs to the pan, then stir. As you mix, the remaining heat will quite cook the egg. Add salt and pepper to taste. If the egg is not fully cooked, put the pan back on very low heat, stir frequently, and slowly cook the scramble well done. This method keeps the egg tender and creamy.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">To finish, toss the spinach into the pan and stir until it wilts. You can also add it just before serving so that the spinach stays raw.</span></li>\n<li xss=\"removed\"><span xss=\"removed\">Serve the vegetable scramble on top of toast, on top of rice, or with a salad of your choice.</span></li>\n</ol>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "How to Make Vegetable Scramble",
+      "Serving:        1-2 people",
+      "Ingredients:",
+      "2 eggs",
+      "2 teaspoons butter or olive oil",
+      "1 small potato, diced",
+      "2-3 tablespoons onion, finely crushed",
+      "3 cloves garlic, finely crushed",
+      "3-4 cherry tomatoes, roughly chopped",
+      "Salt and pepper, to taste",
+      "2 handfuls of baby spinach, wash and drain",
+      "Preparations and Cooking:",
+      "First, prepare all of your vegetables and spices. Prepare the egg too by cracking them into a bowl.",
+      "Next, heat the oil or butter in a pan over medium-high heat until it’s sizzling.",
+      "Then, put the potato in and increase the heat a little. Stir-fry the potato around three to five minutes. Check the tenderness; the potato is ready when you can easily stick it with a fork.",
+      "After that, add the onion into the stir-fry. Stir again for another two minutes or until the onion becomes a bit brown. Add in the garlic and stir for a further minute. Then add the tomato and stir-fry about one more minute.",
+      "When the stir-fry’s juice cooks off, finally take the stir-fry pan off the heat. Immediately add the eggs to the pan, then stir. As you mix, the remaining heat will quite cook the egg. Add salt and pepper to taste. If the egg is not fully cooked, put the pan back on very low heat, stir frequently, and slowly cook the scramble well done. This method keeps the egg tender and creamy.",
+      "To finish, toss the spinach into the pan and stir until it wilts. You can also add it just before serving so that the spinach stays raw.",
+      "Serve the vegetable scramble on top of toast, on top of rice, or with a salad of your choice.",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 11,
+        "question": "Which of the following statements are True or False ?",
+        "pembahasan": "Jawaban: A. False. B. True. C. True. Pembahasan: Pernyataan A salah karena langkah yang benar adalah memanaskan minyak atau butter dulu baru memasukkan kentang. Pernyataan B benar di bagian awal resep terdapat keterangan, “ Serving: 1–2 people ” dan daftar bahan. Pernyataan C benar dan ada di langkah keempat, “Stir again for another two minutes or until the onion becomes a bit brown.”"
+      },
+      {
+        "no": 12,
+        "question": "Multiple-choice multiple-answer questions (No. 12 to 14). Choose more than one answer. Which of these sentences are the correct steps to cook the egg in the recipe?",
+        "pembahasan": "Jawaban: A, B, C, dan E. Pembahasan: Tahap yang benar untuk memasak telur di resep adalah opsi A, B, C, dan E. Itu dijelaskan pada langkah kelima dan keenam, yaitu telur dimasukkan ke dalam tumisan sayur dimasak dengan panas sisa wajan, diaduk sampai lembut, lalu setelah telur matang, baru bayam dimasukkan dan diaduk hingga layu. Opsi D tidak disebutkan dalam resep."
+      },
+      {
+        "no": 13,
+        "question": "Which cooking instructions are given for the eggs?",
+        "pembahasan": "Jawaban: A, D, dan E. Pembahasan: “ Immediately add the eggs to the pan, then stir. As you mix, the remaining heat will quite cook the egg. Add salt and pepper to taste. If the egg is not fully cooked, put the pan back on very low heat, stir frequently, and slowly cook the scramble well done. This method keeps the egg tender and creamy. ” Langkah kelima itu menyebutkan petunjuk memasak telur pada resep tersebut. Maka, A, D, E jawaban yang benar."
+      },
+      {
+        "no": 14,
+        "question": "Which of the following ingredients are required to make vegetable scramble?",
+        "pembahasan": "Jawaban: A dan E. Pembahasan: Resep pada soal mencantumkan daftar bahan-bahan yang digunakan. Maka dari itu, yang sesuai adalah pilihan A dan E."
+      },
+      {
+        "no": 15,
+        "question": "What is the purpose of increasing the heat when cooking the scramble egg?",
+        "pembahasan": "Jawaban: E. Pembahasan: Di langkah ketiga dijelaskan, “ Then, put the potato in and increase the heat a little. Stir-fry the potato around three to five minutes. Check the tenderness; the potato is ready when you can easily stick it with a fork. ” “ Check the tenderness ” artinya periksa kelembutannya, maka yang benar adalah opsi E yaitu untuk melembutkan kentang lebih cepat."
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 16 - 20",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>The Top Ten Increasing Jobs by 2030</b></p>\n<p xss=\"removed\"><span xss=\"removed\">The job sectors are likely to change significantly by 2030, with numerous areas experiencing rapid growth. According to predictions, agricultural laborers and farmers will remain important to many economies, ranked first on the list. This trend is being driven by sustainability measures aiming at lowering carbon emissions and dealing with climate change, which are expected to create nearly 30 million new jobs worldwide.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Due to the ongoing growth of e-commerce and customer demand for fast shipping, delivery service drivers and light-duty truck drivers are going to see substantial growth in the near future. As technological advancement speeds up every sector, there is also a significant demand for software and application developers. As building projects grow, more people will be interested in construction-related occupations, such as constructors, framers, and finishers. To complete the top five increasing jobs by 2030 is retail sales clerks which indicated the continued demand for retail services.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Additionally, it is projected that employment in the food and beverage service industry, as well as in associated industries, will increase significantly. These possibilities will be driven by a growing population and the hospitality industry. The next job that is predicted for a boost by 2023 is cars, vans, and motorcycles drivers. This may happen because of the increase in delivery and transportation services.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Population changes are expected to drive significant growth in the healthcare industry, especially in nursing. Finally, general managers and operations managers will remain essential in managing a variety of business operations. By 2030, these trends indicate that the workforce will be impacted by environmental projects, technological advancements, and demographic changes.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/)</p>\n<p>(DC/100%/SST)</p>",
+    "lines": [
+      "The Top Ten Increasing Jobs by 2030",
+      "The job sectors are likely to change significantly by 2030, with numerous areas experiencing rapid growth. According to predictions, agricultural laborers and farmers will remain important to many economies, ranked first on the list. This trend is being driven by sustainability measures aiming at lowering carbon emissions and dealing with climate change, which are expected to create nearly 30 million new jobs worldwide.",
+      "Due to the ongoing growth of e-commerce and customer demand for fast shipping, delivery service drivers and light-duty truck drivers are going to see substantial growth in the near future. As technological advancement speeds up every sector, there is also a significant demand for software and application developers. As building projects grow, more people will be interested in construction-related occupations, such as constructors, framers, and finishers. To complete the top five increasing jobs by 2030 is retail sales clerks which indicated the continued demand for retail services.",
+      "Additionally, it is projected that employment in the food and beverage service industry, as well as in associated industries, will increase significantly. These possibilities will be driven by a growing population and the hospitality industry. The next job that is predicted for a boost by 2023 is cars, vans, and motorcycles drivers. This may happen because of the increase in delivery and transportation services.",
+      "Population changes are expected to drive significant growth in the healthcare industry, especially in nursing. Finally, general managers and operations managers will remain essential in managing a variety of business operations. By 2030, these trends indicate that the workforce will be impacted by environmental projects, technological advancements, and demographic changes.",
+      "(Adapted from www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/)",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 16,
+        "question": "Multiple-choice questions (16 and 17). Choose the correct answer. Which job is predicted to remain the most important by 2030?",
+        "pembahasan": "Jawaban: A. Pembahasan: Penjelasan pada paragraf pertama: “ According to predictions, agricultural laborers and farmers will remain important to many economies, ranked first on the list . ” Jadi, pekerjaan yang diprediksi tetap paling penting di tahun 2030 adalah pekerja pertanian dan petani."
+      },
+      {
+        "no": 17,
+        "question": "What might be the probable cause of the increase in requirements for medical professionals?",
+        "pembahasan": "Jawaban: E. Pembahasan: “ Population changes are expected to drive significant growth in the healthcare industry, especially in nursing .” Kalimat tersebut ada pada paragraf terakhir, yang artinya perubahan populasi diperkirakan akan mendorong pertumbuhan signifikan di industri kesehatan, terutama di bidang keperawatan. Maka, E adalah jawaban yang tepat."
+      },
+      {
+        "no": 18,
+        "question": "Multiple-choice multiple-answer questions (No. 18 to 19). Choose more than one answer. Which three factors will influence future workforce transformations?",
+        "pembahasan": "Jawaban: C, D, dan E. Pembahasan: Faktor-faktor yang akan mempengaruhi transformasi tenaga kerja di masa depan dijelaskan pada kalimat terakhir di paragraf terakhir: “ By 2030, these trends indicate that the workforce will be impacted by environmental projects, technological advancements, and demographic changes .”. Maka, C, D, dan E adalah jawaban yang benar."
+      },
+      {
+        "no": 19,
+        "question": "Which sectors were predicted to grow primarily caused by customer demand?",
+        "pembahasan": "Jawaban: C dan E. Pembahasan: Sektor-sektor diprediksi akan tumbuh terutama disebabkan oleh permintaan pelanggan adalah layanan pengiriman dan tenaga penjualan ritel. Itu dijelaskan di paragraf 2, yaitu pada kalimat: “ Due to the ongoing growth of e-commerce and customer demand for fast shipping, delivery service drivers and light-duty truck drivers are going to see substantial growth in the near future .” dan “ To complete the top five increasing jobs by 2030 is retail sales clerks which indicated the continued demand for retail services .”"
+      },
+      {
+        "no": 20,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking ( v ) the correct column. Which of these statements are Fact or Opinion ?",
+        "pembahasan": "Jawaban: A. Fact. B. Opinion. C. Fact. Pembahasan: Pernyataan A adalah fakta karena berdasarkan data yang akurat dan dijelaskan pada paragraf pertama, yaitu “… agricultural laborers and farmers will remain important to many economies, ranked first on the list.” Artinya, Pekerja pertanian dan petani akan tetap menjadi elemen penting bagi banyak perekonomian, dan menempati peringkat pertama dalam daftar. Pernyataan B adalah opini karena di dalam kalimat terdapat frasa “ I suppose there should ” yang merupakan salah satu dari ciri-ciri opini atau pendapat pribadi. Pernyataan C fakta karena teks menyebut berdasarkan data yang sudah diteliti, “… there is also a significant demand for software and application developers. ”"
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 21 - 25",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>My Interning Experience in MageHub</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Hello, my name is Aidil. I am a student of the Visual Communication Design program at the state vocational high school’s Faculty of Fine Arts and Design. Last year, I interned at MageHub Indonesia. The internship lasted two months, taking place every weekday from 8:00 AM to 4:00 PM on the MageHub Indonesia online platform. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">I joined the internship with three other students from various programs and schools. My fellow interns and I had a training coordinator who served as a mentor during the internship. She assisted us with assignments and case study projects. She also connected us with trainers who would observe and assist the internship participants when we encountered obstacles or did not understand the material on the MageHub platform.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Interning students had to attend professional divisions according to their chosen programs, such as Game Designer, 2D Artist, 3D Artist, Animator, Audio Engineer, Game Tester, and many more. In this case, I chose the Art &amp; Illustration, a part in Game Designer program. I was given a task to assist in creating a design for a character wearing traditional Indonesian costumes. We had to join daily assignments for training class requirements. To track my progress, we had to submit reports twice a day at ten in the morning and three in the afternoon. We did all of these activities online.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">The training coordinator would assign a case study project to the students after completing the training class. The theme and level of difficulty of the project would be determined based on the participants' evaluation and work results in the training class. After completing the class and the project, students would write reports by filling out a feedback form and writing an article about their internship at MageHub Indonesia that aligned with their passions and was useful to readers.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Throughout the internship period, I learned about effective time management, tasks or projects on-time completion skills, and the importance of honesty along with responsibility that are required in the professional world. My internship experience at MageHub Indonesia was very memorable. Although the internship was conducted online, I still remember how I sometimes felt tired and dizzy because of the deadlines. I felt nervous and excited when our trainers commented on our tasks. The trainers’ comments greatly helped me develop the assigned case study project.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from <a href=\"https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/\"><span xss=\"removed\">www.gamelab.id/news/762-pengalaman-magang-online-art--illustration-mahasiswa-jurusan-dkv)</span></a></p>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "My Interning Experience in MageHub",
+      "Hello, my name is Aidil. I am a student of the Visual Communication Design program at the state vocational high school’s Faculty of Fine Arts and Design. Last year, I interned at MageHub Indonesia. The internship lasted two months, taking place every weekday from 8:00 AM to 4:00 PM on the MageHub Indonesia online platform.",
+      "I joined the internship with three other students from various programs and schools. My fellow interns and I had a training coordinator who served as a mentor during the internship. She assisted us with assignments and case study projects. She also connected us with trainers who would observe and assist the internship participants when we encountered obstacles or did not understand the material on the MageHub platform.",
+      "Interning students had to attend professional divisions according to their chosen programs, such as Game Designer, 2D Artist, 3D Artist, Animator, Audio Engineer, Game Tester, and many more. In this case, I chose the Art & Illustration, a part in Game Designer program. I was given a task to assist in creating a design for a character wearing traditional Indonesian costumes. We had to join daily assignments for training class requirements. To track my progress, we had to submit reports twice a day at ten in the morning and three in the afternoon. We did all of these activities online.",
+      "The training coordinator would assign a case study project to the students after completing the training class. The theme and level of difficulty of the project would be determined based on the participants' evaluation and work results in the training class. After completing the class and the project, students would write reports by filling out a feedback form and writing an article about their internship at MageHub Indonesia that aligned with their passions and was useful to readers.",
+      "Throughout the internship period, I learned about effective time management, tasks or projects on-time completion skills, and the importance of honesty along with responsibility that are required in the professional world. My internship experience at MageHub Indonesia was very memorable. Although the internship was conducted online, I still remember how I sometimes felt tired and dizzy because of the deadlines. I felt nervous and excited when our trainers commented on our tasks. The trainers’ comments greatly helped me develop the assigned case study project.",
+      "(Adapted from",
+      "www.gamelab.id/news/762-pengalaman-magang-online-art--illustration-mahasiswa-jurusan-dkv)",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 21,
+        "question": "What were the daily assignment submission times during the internship period?",
+        "pembahasan": "Jawaban: D. Pembahasan: Pengumpulan tugas harian atau laporan dilakukan sehari dua kali di jam 10:00 pagi dan 15:00 sore. Itu disebutkan di paragraf 3, “ To track my progress, we had to submit reports twice a day at ten in the morning and three in the afternoon. ” D adalah jawaban yang benar."
+      },
+      {
+        "no": 22,
+        "question": "What was the role of the trainer during the internship?",
+        "pembahasan": "Jawaban: E. Pembahasan: Pada paragraf dua dijelaskan bahwa koordinator menghubungkan para pelatih yang akan mengamati dan membantu peserta magang ketika mereka menemui kendala atau tidak memahami materi di platform SupportLab. E adalah jawaban yang benar."
+      },
+      {
+        "no": 23,
+        "question": "Multiple-choice multiple-answer questions (23 and 24). Choose more than one answer. What were the emotions felt by the intern during the internship?",
+        "pembahasan": "Jawaban: A, C, dan D. Pembahasan: “… I still remember how I sometimes felt tired and dizzy because of the deadlines. I felt nervous and excited when our trainers commented on our tasks .” Kalimat yang ada pada paragraf terakhir tersebut menunjukkan bahwa pilihan A, C, dan D adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 24,
+        "question": "Which values or skills did the intern gain from the internship?",
+        "pembahasan": "Jawaban: B, C, dan E. Pembahasan: Pembelajaran dan kemampuan yang didapat dari magang disebutkan dalam paragraf terakhir, yaitu selama magang, penulis belajar tentang manajemen waktu yang efektif, kemampuan menyelesaikan tugas atau proyek tepat waktu, serta pentingnya kejujuran dan tanggung jawab yang diperlukan di dunia profesional. Jawaban yang paling tepat adalah B, C, dan E."
+      },
+      {
+        "no": 25,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking ( v ) the correct column. Which of the following statements are True or False ?",
+        "pembahasan": "Jawaban: A. False. B. True. C. True. Pembahasan: Pernyataan A salah karena penulis melakukan magang secara online bukan offline. Itu dapat dilihat pada paragraf pertama: “ “The internship lasted two months, taking place every weekday from 8:00 AM to 4:00 PM on the SupportLab Indonesia online platform… ”. Kalimat tersebut justru mendukung benar pernyataan C. Penyataan B benar dan dijelaskan pada paragraf 4 bahwa setelah menyelesaikan kelas dan proyek, mahasiswa akan menulis laporan dengan mengisi formulir umpan balik dan menulis artikel tentang magang mereka di SupportLab Indonesia sesuai bidang yang diminati dan bermanfaat bagi pembaca."
+      }
+    ]
+  },
+  {
+    "package": "Paket 2",
+    "package_num": 2,
+    "q_range": "Soal 26 - 30",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>Elsa’s Online Bakery</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Elsa, a grade 11 culinary student from Yogyakarta, had always loved baking. Her cookies were popular among friends and family, but she never thought of selling them—until her teacher assigned a project on small business development.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Elsa decided to give it a try. She baked a batch of chocolate chip cookies and posted a few photos on her Instagram account with the caption, “Homemade and fresh! DM to order.” She didn’t expect much, but within a few hours, she had five orders.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">That weekend, she baked more cookies and started packaging them in simple boxes with hand-written thank-you notes. She called her brand Elsa’s Sweet Bites. Every evening after school, she baked and packed cookies, sometimes with help from her younger sister.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">The orders kept coming. Her friends shared her posts, and even some teachers placed orders. Elsa learned how to calculate prices, manage time, and talk to customers. Once, she ran out of chocolate chips and had to explain a delay to a customer. She was nervous, but the customer understood. That moment taught her the importance of honesty and effective communication in business.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">After three months, she had saved enough money to buy a new hand mixer. “It’s not just a project anymore,” she told her teacher. “It’s my business.”</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Her teacher smiled. “That’s what entrepreneurship is all about. Starting small and growing with heart.”</span></p>\n<p>(DC/100%/SST)</p>",
+    "lines": [
+      "Elsa’s Online Bakery",
+      "Elsa, a grade 11 culinary student from Yogyakarta, had always loved baking. Her cookies were popular among friends and family, but she never thought of selling them—until her teacher assigned a project on small business development.",
+      "Elsa decided to give it a try. She baked a batch of chocolate chip cookies and posted a few photos on her Instagram account with the caption, “Homemade and fresh! DM to order.” She didn’t expect much, but within a few hours, she had five orders.",
+      "That weekend, she baked more cookies and started packaging them in simple boxes with hand-written thank-you notes. She called her brand Elsa’s Sweet Bites. Every evening after school, she baked and packed cookies, sometimes with help from her younger sister.",
+      "The orders kept coming. Her friends shared her posts, and even some teachers placed orders. Elsa learned how to calculate prices, manage time, and talk to customers. Once, she ran out of chocolate chips and had to explain a delay to a customer. She was nervous, but the customer understood. That moment taught her the importance of honesty and effective communication in business.",
+      "After three months, she had saved enough money to buy a new hand mixer. “It’s not just a project anymore,” she told her teacher. “It’s my business.”",
+      "Her teacher smiled. “That’s what entrepreneurship is all about. Starting small and growing with heart.”",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 26,
+        "question": "What lessons did Elsa learn from running her online bakery?",
+        "pembahasan": "Jawaban: B, C, dan E. Pembahasan: Pada paragraf 4 di kalimat, “ Elsa learned how to calculate prices, manage time, and talk to customers. Once, she ran out of chocolate chips and had to explain a delay to a customer. She was nervous, but the customer understood. That moment taught her the importance of honesty and effective communication in business . ” menyebutkan beberapa hal yang Elsa pelajari dari menjalankan bisnisnya. Maka, jawaban yang sesuai adalah B, C, dan E"
+      },
+      {
+        "no": 27,
+        "question": "Which of the following helped Elsa's business grow?",
+        "pembahasan": "Jawaban: C, D, dan E. Pembahasan: Penjelasan tentang apa yang membantu Elsa dalam mengembangkan bisnisnya dijabarkan pada paragraf 2 sampai 3. Ia mengunggah beberapa foto di akun Instagram-nya dengan takarir, “ Homemade and fresh! DM to order. ” Artinya dia menerima pesanan melalui pesan pribadi. Teman-temannya juga membantu membagikan postingannya, dan bahkan beberapa guru juga memesan. Pilihan C, D, dan E adalah jawaban yang benar."
+      },
+      {
+        "no": 28,
+        "question": "Multiple-choice questions (No. 28 and 29). Choose the correct answer. Why did Elsa start sell her cookies?",
+        "pembahasan": "Jawaban: E. Pembahasan: Elsa mulai menjual kue karena gurunya menugaskan proyek tentang pengembangan usaha kecil. Itu ditulis pada paragraf pertama."
+      },
+      {
+        "no": 29,
+        "question": "What was the name of Elsa’s cookie business?",
+        "pembahasan": "Jawaban: C. Pembahasan: “ She called her brand Elsa’s Sweet Bites .” kalimat tersebut ada di paragraf ketiga, maka C jawaban yang paling tepat."
+      },
+      {
+        "no": 30,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (v) the correct column. Which of the following events are True or False ?",
+        "pembahasan": "Jawaban: A. False. B. True. C. False. Pembahasan: Pernyataan A salah karena Elsa justru merasa gugup, namun pelanggan mengerti masalah pesanannya dan memaklumi setelah Elsa menjelaskan. Pernyataan B benar dan sesuai dengan isi teks yang ada di paragraf 5, yaitu “ After three months, she had saved enough money to buy a new hand mixer .” Pernyataan C salah karena tidak disebutkan bahwa Elsa menjual kue-kuenya di acara penjualan kue sekolah, tetapi Elsa hanya berjualan lewat Instagram atau online"
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 1 - 5",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\n<p xss=\"removed\"><span xss=\"removed\">Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish's tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children's growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "Ayam Cincane: A Traditional Dish from Samarinda",
+      "Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish's tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.",
+      "In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children's growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.",
+      "Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.",
+      "(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Multiple-choice questions (No. 1 and 2). Choose the correct answer. What is the main idea of the text?",
+        "pembahasan": "Jawaban: C. Pembahasan: Jawabannya ada pada keseluruhan teks yang berisi penjelasan asal-usul, cara memasak, manfaat kesehatan, dan nilai tradisi Ayam Cincane sebagai makanan khas Samarinda. Jadi jawaban yang paling tepat adalah C, yaitu teks bertujuan untuk menginformasikan kepada pembaca tentang Ayam Cincane sebagai makanan tradisional yang sehat khas Samarinda."
+      },
+      {
+        "no": 2,
+        "question": "Where is Ayam Cincane currently available to consumers in Samarinda?",
+        "pembahasan": "Jawaban: E. Pembahasan: Kalimat pada paragraf 3, “Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors.” menjelaskan bahwa opsi E adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 3,
+        "question": "Multiple-choice multiple-answer questions (No. 3 and 4). Choose more than one answer. What nutritional benefits does Ayam Cincane provide according to the text?",
+        "pembahasan": "Jawaban: A, C, dan E. Pembahasan: Dijelaskan pada paragraf 3 bahwa Ayam Cincane kaya protein, kalsium, kalium, vitamin A, B 2 , dan zat besi. Kandungan ini bermanfaat untuk menjaga kesehatan dan kepadatan tulang, membentuk massa otot, mengurangi risiko cedera, mendukung pertumbuhan anak, serta baik bagi kesehatan ibu hamil dan menyusui. Dapat disimpulkan, piliha A, C, dan E adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 4,
+        "question": "Which statements describe Ayam Cincane?",
+        "pembahasan": "Jawaban: B, C, dan E. Pembahasan: Opsi B, C, dan E adalah yang paling sesuai dengan isi teks pada paragraf 1, yaitu Ayam Cincane memakai ayam kampung sebagai bahan utama dan memiliki rasa gurih dan pedas dengan tekstur lembut. Ayam Cincane juga biasanya disajikan di acara khusus seperti pernikahan, upacara keagamaan, dan penyambutan tamu."
+      },
+      {
+        "no": 5,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (v) the correct column. Which of the following statements are True or False?",
+        "pembahasan": "Jawaban: A. True. B. True. C. False. Pembahasan: Pernyataan A benar. Pada paragraf ketiga dijelaskan: “ Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty .” kalimat tersebut mendukung pernyataan A. Pernyataan B benar. Berdasarkan teks, Ayam Cincane adalah hidangan tradisional dari Samarinda, Kalimantan Timur. Ayam Cincane juga sering disajikan pada acara-acara khusus seperti pernikahan, upacara keagamaan, dan untuk menyambut tamu kehormatan. Saat ini, Ayam Cincane mudah ditemukan di restoran, warung makan, dan pedagang kaki lima. Pernyataan C salah karena paragraf 2 pada teks menyebutkan bahwa Ayam Cincane kaya akan nutrisi."
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 6 - 10",
+    "html": "\n<p align=\"center\" xss=\"removed\"><strong>How to Grow Mung Beans in Pots</strong></p>\n<p><b>Materials Needed:</b></p>\n<ul>\n<li><span xss=\"removed\">Small pots or containers</span></li>\n<li><span xss=\"removed\">Planting soil</span></li>\n<li><span xss=\"removed\">Green bean seeds</span></li>\n<li><span xss=\"removed\">Watering can or spray bottle</span></li>\n<li><span xss=\"removed\">Sunny windowsill or grow light</span></li>\n<li><span xss=\"removed\">Notebook or growth chart</span></li>\n</ul>\n<p><b>Steps:</b></p>\n<p xss=\"removed\"><span xss=\"removed\">To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "How to Grow Mung Beans in Pots",
+      "Materials Needed:",
+      "Small pots or containers",
+      "Planting soil",
+      "Green bean seeds",
+      "Watering can or spray bottle",
+      "Sunny windowsill or grow light",
+      "Notebook or growth chart",
+      "Steps:",
+      "To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 6,
+        "question": "Multiple-choice questions (No. 6 and 7). Choose the correct answer. What is the objective of the text?",
+        "pembahasan": "Jawaban: E. Pembahasan: Dapat dilihat dari judul teks, yaitu “How to Grow Mung Beans in Pots” dan isinya yang menjelaskan langkah-langkah mulai dari menyiapkan pot, menanam benih, menyiram, memberi cahaya, mencatat pertumbuhan, hingga memanen. Maka, E adalah jawaban yang benar, yaitu untuk memberi tahu cara menanam kacang hijau dalam pot secara bertahap."
+      },
+      {
+        "no": 7,
+        "question": "What should be done after watering the soil?",
+        "pembahasan": "Jawaban: C. Pembahasan: Hal yang harus dilakukan setelah menyiram tanah adalah letakkan pot di tempat yang terkena sinar matahari atau di bawah sorot lampu. Itu disebutkan pada langkah keempat."
+      },
+      {
+        "no": 8,
+        "question": "Multiple-choice multiple-answer questions (No. 8 and 9). Choose more than one answer. What should be done to ensure mung beans grow well?",
+        "pembahasan": "Jawaban: B, C, dan D. Pembahasan: Hal yang harus dilakukan agar kacang hijau tumbuh sempurna adalah tanaman harus mendapat minimal enam jam sinar matahari setiap hari atau menggunakan lampu bila tidak ada cahaya alami (langkah keempat). Selain itu, tanah perlu dijaga agar tetap lembap namun tidak berlebihan , dengan cara menyiram hanya saat bagian atas tanah terasa kering (langkah kelima). B, C, dan D adalah jawaban yang paling sesuai."
+      },
+      {
+        "no": 9,
+        "question": "Which statements about transplanting are true?",
+        "pembahasan": "Jawaban: A, B, dan E. Pembahasan: Transplantasi tanaman dilakukan ketika tanaman kacang hijau sudah tumbuh terlalu besar untuk potnya. Proses ini bisa dipindahkan ke pot yang lebih besar atau langsung ke tanah, tetapi harus menunggu kondisi cuaca yang sesuai. Penjelasan tentang penanaman kembali yang benar ada pada akhir teks. Opsi A, B, dan E sesuai dengan teks."
+      },
+      {
+        "no": 10,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (v) the correct column. Which of the following statements are True or False?",
+        "pembahasan": "Jawaban: A. True. B. False. C. True. Pembahasan: Pernyataan A benar dan dijelaskan pada langkah terakhir: “ Lastly, keep watering and providing sunlight until the plants produce flowers and beans .”. Artinya, tanaman kacang hijau akan menghasilkan bunga dan polong jika dirawat dengan benar. Pernyataan B salah karena berbanding terbalik dengan isi teks yang menyebut bahwa biji kacang tanah harus ditutup tipis dengan tanah. Pernyataan tersebut justru mendukung kebenaran pernyataan C."
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 11 - 15",
+    "html": "\n<p align=\"center\" xss=\"removed\"><strong>My Memorable Trip to Mount Bromo</strong></p>\n<p xss=\"removed\"><span xss=\"removed\">Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=\"removed\">My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=\"removed\">The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=\"removed\">and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano's crater. I immediately saw a big wave of sulphur rising from the crater's deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\n<p>(PC/100%/SST)</p>",
+    "lines": [
+      "My Memorable Trip to Mount Bromo",
+      "Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.",
+      "We left our hotel at midnight because the journey to the viewpoint took about two hours.",
+      "My family and I got into the van to take us up the mountain.",
+      "The road was dark and quiet, but I was too excited to sleep.",
+      "The driver",
+      "dropped us off midway, and I walked the rest of the way to the top.",
+      "When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb,",
+      "and it was a little bit hard to breathe",
+      ", but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.",
+      "After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano's crater. I immediately saw a big wave of sulphur rising from the crater's deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media.",
+      "My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.",
+      "(PC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 11,
+        "question": "Multiple-choice questions (No. 11 and 12). Choose the correct answer. What is the main idea of the text?",
+        "pembahasan": "Jawaban: E. Pembahasan: Ide utama dari teks adalah bisa disimpulkan dari paragraf terakhir yang menunjukkan bahwa teks menceritakan pengalaman penulis tentang liburan tidak terlupakan ke Bromo. Opsi E jawaban yang benar."
+      },
+      {
+        "no": 12,
+        "question": "“Mount Bromo looked majestic with smoke flowing from its crater.” (Paragraph 3) The word which is NOT the synonym of the underlined word is . . . .",
+        "pembahasan": "Jawaban: D. Pembahasan: Kata “ majestic ” berarti besar, megah, atau agung, maka dari kelima opsi jawaban, yang tidak memiliki makna yang sama adalah opsi D, yaitu lowly yang artinya rendah atau remeh. Sementara itu, opsi A. glorious (megah), B. grand (agung), C. impressive (mengesankan), dan E. magnificent (luar biasa) memiliki makna yang serupa dengan majestic ."
+      },
+      {
+        "no": 13,
+        "question": "Multiple-choice multiple-answer questions (No. 13 and 14). Choose more than one answer. What are the main highlights of the writer’s trip to Bromo?",
+        "pembahasan": "Jawaban: C, D, dan E. Pembahasan: Poin-poin utama dari perjalanan ini dijelaskan dalam paragraf 3 dan 4, yaitu menyaksikan matahari terbit dari viewpoint , mengunjungi lautan pasir , dan naik Jeep menuju kawah gunung berapi . Maka opsi C, D, dan E adalah jawaban yang paling sesuai."
+      },
+      {
+        "no": 14,
+        "question": "What can we infer about the text based on its purpose and structure?",
+        "pembahasan": "Jawaban: A, B, dan C. Pembahasan: Hal yang dapat disimpulkan tentang teks berdasarkan tujuannya dan strukturnya adalah bagian orientasi di paragraf pertama yang memperkenalkan liburan penulis, kemudian diikuti oleh urutan peristiwa di paragraf 2 sampai 4, mulai dari perjalanan ke gardu pandang ( viewpoint ), menonton matahari terbit, naik Jeep ke lautan pasir, hingga ke kawah gunung. Lalu, paragraf terakhir sebagai reorientasi , yang berisi perasaan pribadi penulis tentang pengalaman tidak terlupakan dan pelajaran yang didapat. Opsi A, B, dan C adalah jawaban yang tepat."
+      },
+      {
+        "no": 15,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (v) the correct column. Which of the following statements are True or False?",
+        "pembahasan": "Jawaban: A. True. B. False. C. True. Pembahasan: Pernyataan A benar dan disebutkan pada paragraf 2, “ I took many photos and even made a short video for my social media .” Pernyataan B salah karena pada paragraf 5 penulis hanya menyebutkan bahwa Gunung Bromo adalah salah satu perjalanan terbaik penulis, tidak membandingkan dengan perjalanan yang lainnya. Pernyataan C benar, penulis melihat matahari terbit setelah sampai di viewpoint . Hal itu disebutkan pada paragraf 3, “ When we arrived at the viewpoint, there were already many people waiting for the sunrise. ”"
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 16 - 19",
+    "html": "\n<p><b>Chart</b></p>\n<p>&lt;!-- IMAGE: image(7401).png --&gt;</p>\n<p xss=\"removed\"><b>Text</b></p>\n<p align=\"center\" xss=\"removed\"><b>The Essential Needs to Enhance Reading Comprehension in Indonesia</b></p>\n<p xss=\"removed\"><span xss=\"removed\">A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text's relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from various sources.)</p>\n<p>(DC/100%/SST)</p>\n<p> </p>",
+    "lines": [
+      "Chart",
+      "<!-- IMAGE: image(7401).png -->",
+      "Text",
+      "The Essential Needs to Enhance Reading Comprehension in Indonesia",
+      "A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text's relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.",
+      "Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.",
+      "In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.",
+      "(Adapted from various sources.)",
+      "(DC/100%/SST)"
+    ],
+    "questions": [
+      {
+        "no": 16,
+        "question": "Multiple-choice question. Choose the correct answer. What is the main topic of the text?",
+        "pembahasan": "Jawaban: B. Pembahasan: Topik utama teks tersebut dapat disimpulkan dari keseluruhan isi teks, yaitu paragraf pertama menyebutkan hasil survei PISA 2022 yang menunjukkan 25% siswa Indonesia hanya mencapai Level 2 kemampuan membaca, lebih rendah dari rata-rata OECD 74%. Sedangkan paragraf kedua dan ketiga menjelaskan faktor-faktor yang menyebabkan masalah literasi, seperti kesenjangan regional dan kelemahan sistem pendidikan. Maka, opsi B adalah jawaban yang benar; teks fokus pada isu literasi membaca di Indonesia berdasarkan hasil PISA 2022 ."
+      },
+      {
+        "no": 17,
+        "question": "Multiple-choice multiple-answer questions (No. 17 to 19). Choose more than one answer. Which of the following statements is implicit suggested about the chart?",
+        "pembahasan": "Jawaban: B, D, dan E. Pembahasan: Pernyataan yang secara implisit ditunjukkan oleh grafik adalah nilai membaca Indonesia secara konsisten meningkat dari tahun 2000 hingga 2009 sebelum mulai menurun, skor membaca terendah terungkap dalam ujian tahun terakhir, menunjukkan tren penurunan yang mengkhawatirkan, dan hasil pada tahun 2000 dan 2018 memiliki skor yang sama. Jawaban yang paling sesuai adalah opsi B, D, dan E."
+      },
+      {
+        "no": 18,
+        "question": "What information can we get in paragraph 2 of the text?",
+        "pembahasan": "Jawaban: C, D, dan E. Pembahasan: Paragraf 2 menjelaskan faktor-faktor penyebab rendahnya kemampuan membaca siswa Indonesia : “ Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities .” “ At the institutional level, Indonesian schools have fewer freedoms in decision-making… ” “ This problem is further exacerbated by the disparity in educational quality between regions. ” Maka, opsi C, D, dan E adalah yang paling sesuai."
+      },
+      {
+        "no": 19,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (P) the correct column. Which of the following statements are Fact or Opinion ?",
+        "pembahasan": "Jawaban: A. Fact. B. Opinion. C. Fact. Pembahasan: Pernyataan A adalah fakta karena berdasarkan data akurat dari PISA 2022 bahwa tren kemampuan membaca siswa Indonesia menunjukkan penurunan. Pernyataan B adalah opini karena “ it seems ” pada awal kalimat menunjukkan pendapat pribadi penulis mengenai perlunya reformasi sistematis, dan tidak bisa dibuktikan kebenarannya. Pernyataan C adalah fakta, “PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency” , kalimat tersebut dengan jelas menunjukkan sebuah data yang dapat dibuktikan kebenarannya"
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 20 - 25",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b>The Fairy Tale of Amat Mude</b></p>\n<p xss=\"removed\"><span xss=\"removed\">A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king's younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>",
+    "lines": [
+      "The Fairy Tale of Amat Mude",
+      "A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king's younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.",
+      "The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.",
+      "Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.",
+      "Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.",
+      "Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas."
+    ],
+    "questions": [
+      {
+        "no": 20,
+        "question": "Multiple-choice questions (20 to 21). Choose the correct answer. What is the main message from the text?",
+        "pembahasan": "Jawaban: D. Pembahasan: Pesan utama dari dongeng Amat Mude adalah bahwa seseorang dapat meraih kebahagiaan dan keberhasilan melalui ketekunan, keberanian, dan kesabaran . Amat Mude hidup dalam kesulitan sejak kecil, bahkan harus menghadapi ujian berat yang diperintahkan Raja Mude. Namun, ia selalu bersikap baik, berani, dan sabar. Karakter yang baik dan ketekunan akhirnya membawa Amat Mude pada kesuksesan, kebahagiaan, dan takhta yang pantas."
+      },
+      {
+        "no": 21,
+        "question": "“Raja Mude then repented for his actions and relinquished the throne back to Amat Mude.” What are the synonyms for the underlined words?",
+        "pembahasan": "Jawaban: C. Pembahasan: Kata “repented” artinya menyesal atau bertobat dan memiliki makna yang sama (sinonim) dengan “ regretted” (menyesal). Sedangkan, “relinquished” artinya melepaskan atau menyerahkan dan memiliki makna yang sama (sinonim) dengan “ released ” (melepaskan). Opsi A, B, D, dan E salah. A. Begged for mercy (memohon belas kasihan), hid (bersembunyi). B. Delighted in (bergembira), stole (mencuri). D. To be happy (merasa bahagia), gave away (menyerahkan). E. To be proud (merasa bangga), held onto (mempertahankan)."
+      },
+      {
+        "no": 22,
+        "question": "Multiple-choice multiple-answer questions (22 to 23). Choose more than one answer. What did the wealthy merchant couple do after finding golden eggs in the fish?",
+        "pembahasan": "Jawaban: B, C, dan E. Pembahasan: Pada paragraf kedua dijelaskan pada bagian, “ Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status .\" yang dapat disimpulkan bahwa setelah menemukan telur emas di dalam ikan, pasangan pedagang kaya itu membantu membangun rumah yang lebih baik untuk Amat Mude dan ibunya, mengembalikan sebagian harta mereka, serta mengangkat kembali status sosial mereka. Opsi B, C, dan E adalah jawaban yang paling tepat."
+      },
+      {
+        "no": 23,
+        "question": "Which of the following statements about the story of Amat Mude are true?",
+        "pembahasan": "Jawaban: A dan D. Pembahasan: Opsi A dan D benar karena sesuai dengan apa yang dijelaskan dalam teks. Opsi B salah karena di paragraf 3 dijelaskan bahwa yang menemukan telur emas adalah istri pedagang kaya saat memotong ikan pemberian ibu Amat Mude. Opsi C salah, justru Raja Mude ingin menyingkirkan Amat Mude. Opsi E juga salah dan didukung oleh pernyataan yang ada di paragraf 3, “Instead of attacking him, they helped him reach the island.”"
+      },
+      {
+        "no": 24,
+        "question": "Multiple-categorization questions (24 to 25). Categorize each other statement by ticking (P) the correct column. Which of the following statements are True or False ?",
+        "pembahasan": "Jawaban: A. True. B. False. C. True. Pembahasan: Pernyataan A benar karena cerita rakyat memang mengajarkan nilai moral, seperti kesabaran, kerendahan hati, kehormatan, dan keberanian melalui tokoh Amat Mude. Pernyataan B salah. Cerita The Fairy Tale of Prince Amat Mude bukanlah catatan sejarah atau kisah nyata tentang raja-raja yang pernah memimpin di Tanah Alas. Ini adalah dongeng rakyat ( folktale ) yang penuh dengan unsur magis, tokoh khayalan, dan pelajaran moral. Jadi, tujuannya bukan memberi informasi sejarah, melainkan menyampaikan nilai-nilai moral lewat cerita fiksi. Pernyataan C benar karena selain menyampaikan pesan moral, dongeng seperti ini juga memiliki tujuan utama, yaitu untuk menghibur pembaca."
+      },
+      {
+        "no": 25,
+        "question": "Which of the following statements are True or False ?",
+        "pembahasan": "Jawaban: A. False. B. False. C. True. Pembahasan: Pernyataan A salah karena berbanding terbalik pada isi teks yang ada di paragraf 3, yaitu “Instead of attacking him, they helped him reach the island.” , artinya, alih-alih menyerangnya, mereka (ikan emas, buaya besar, dan naga) membantunya mencapai pulau tersebut. Pernyataan B juga salah. Pada paragraf 4 tertulis: “Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree …” , kalimat tersebut menyimpulkan bahwa “ ravaging beasts ” justru menjadi rintangan, bukan penolong. Penyataan C benar dan dijelaskan dalam beberapa bagian dalam teks bahwa tindakan Amat Mude menunjukkan keberanian dan kesabaran menghadapi rintangan."
+      }
+    ]
+  },
+  {
+    "package": "Paket 3",
+    "package_num": 3,
+    "q_range": "Soal 26 - 30",
+    "html": "\n<p align=\"center\" xss=\"removed\"><b><span lang=\"EN-ID\" xss=\"removed\">A Day at Music Festival</span></b></p>\n<p xss=\"removed\"><span xss=\"removed\">Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\n<p xss=\"removed\"><span xss=\"removed\">As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">Our favorite band's performance was one of the festival's highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\n<p xss=\"removed\"><span xss=\"removed\">As the night progressed, the music festival began to wind down. We were exhausted but delighted. We'd spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\n<p align=\"right\" xss=\"removed\">(Adapted from<span xss=\"removed\"> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\n<p><span lang=\"EN-ID\" xss=\"removed\">(DC%/100/SST)</span></p>",
+    "lines": [
+      "A Day at Music Festival",
+      "Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live.",
+      "When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.",
+      "The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival.",
+      "As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.",
+      "Our favorite band's performance was one of the festival's highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.",
+      "As the night progressed, the music festival began to wind down. We were exhausted but delighted. We'd spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.",
+      "(Adapted from",
+      "www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)",
+      "(DC%/100/SST)"
+    ],
+    "questions": [
+      {
+        "no": 26,
+        "question": "Multiple-choice multiple-answer question. Choose more than one answer. Which of the following are TRUE according to the story?",
+        "pembahasan": "Jawaban: A, C, dan E. Pembahasan: Jawaban yang sesuai dengan isi teks ada pada opsi A, C, dan E. Opsi B salah karena penampilan pertama adalah lokal band, bukan artis terkenal dunia. Itu ditulis pada paragraf ketiga. Opsi D juga salah, “They performed all their good songs, and we sang along at the top of our lungs.” kalimat pada paragraf 5 tersebut menyimpulkan bahwa penulis bersenang-bersenang."
+      },
+      {
+        "no": 27,
+        "question": "Multiple-choice questions (27 to 29). Choose the correct answer. From the writer’s reaction at the end of the festival, what can be inferred about the importance of music in their life?",
+        "pembahasan": "Jawaban: E. Pembahasan: “We were exhausted but delighted. We'd spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.” k alimat pada paragraf terakhir itu menunjukkan bahwa musik bukan sekadar hiburan biasa, tetapi menjadi bagian penting dari pengalaman berharga. Jadi, musik berperan besar dalam membentuk kenangan bermakna bagi penulis."
+      },
+      {
+        "no": 28,
+        "question": "If the writer had not gone with friends, how might the experience have been different?",
+        "pembahasan": "Jawaban: B. Pembahasan: Dari teks, jelas terlihat bahwa kebersamaan penulis dengan teman-temannya sangat menambah keseruan festival. Maka dapat disimpulkan, tanpa teman, pengalaman itu kemungkinan besar akan kurang terasa asyik dan menyenangkan. Jadi, opsi B adalah jawaban yang tepat."
+      },
+      {
+        "no": 29,
+        "question": "What did writer do with her friends in paragraph 2?",
+        "pembahasan": "Jawaban: C. Pembahasan: “A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.” penjelasan pada paragraf dua tersebut menunjukkan bahwa penulis bersama teman-temannya berkeliling untuk melihat-lihat beberapa panggung sebelum memilih tempat di dekat panggung utama. Opsi C jawaban yang paling sesuai"
+      },
+      {
+        "no": 30,
+        "question": "Multiple-categorization question. Categorize each other statement by ticking (P) the correct column. Which of the following statements are True or False ?",
+        "pembahasan": "Jawaban: A. False. B. True. C. False. Pembahasan: Pernyataan A salah karena penulis paling menikmati band favoritnya, bukan musisi yang tidak dikenal. Itu ditunjukkan pada paragraf 5. “ We watched some incredible performances by famous musicians and even heard some new music that we enjoyed. ” penjelasan pada paragraf 4 tersebut menunjukkan bahwa pernyataan B benar. Pernyataan C salah karena penulis dan teman-temannya berkeliling dulu, tidak langsung diam di panggung pertama. Itu ditunjukkan pada paragraf kedua."
+      }
+    ]
+  }
+]

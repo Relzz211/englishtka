@@ -1,0 +1,1886 @@
+[
+  {
+    "soal": {
+      "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+      "tipe_soal_id": "1",
+      "nomor_soal": "1",
+      "induk_soal_id": "7098",
+      "soal": "<p><b>Multiple-choice questions (No. 1 and 2). Choose the correct answer.</b></p>\r\n\r\n<p>What is the main idea of the text?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: C.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Jawabannya ada pada keseluruhan teks yang berisi penjelasan asal-usul, cara memasak, manfaat kesehatan, dan nilai tradisi Ayam Cincane sebagai makanan khas Samarinda. Jadi jawaban yang paling tepat adalah C, yaitu teks bertujuan untuk menginformasikan kepada pembaca<b> </b>tentang Ayam Cincane sebagai makanan tradisional yang sehat khas Samarinda.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7098",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish&#39;s tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children&#39;s growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "lrk32EsGCa5KgFBGPaW9yXR5SgK8kCyGaV4EYEydDxg",
+        "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+        "sub_soal": "<p>To compare the nutritional value of free-range chicken with other protein sources.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PRhSjT0YLRdL8cRJvwekbv2PbSn710ytjNp-e62hf60",
+        "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+        "sub_soal": "<p>To explain the health benefits of consuming Ayam Cincane.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "xZ4yYkl1qQfyDLjECy838onEL1zrdDFkZWoRXUNTLsM",
+        "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+        "sub_soal": "<p>To inform readers about Ayam Cincane as a healthy traditional dish from Samarinda.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "vxdzkPMmwkU-ktcte6KJuczLZXGdjOhKzoCryIEYnX0",
+        "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+        "sub_soal": "<p>To promote culinary tourism and encourage visits to Samarinda.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2MZLfRDZA2AoSUzn6EfucPcpwvvug-ENIXNkjs-Bb6M",
+        "soal_id": "aMaBwtZk1-aqh9zMNlyIPMNauYTE-qjknkLXKMGecD8",
+        "sub_soal": "<p>To provide cooking instructions for preparing Ayam Cincane at home.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "lrk32EsGCa5KgFBGPaW9yXR5SgK8kCyGaV4EYEydDxg": {
+        "jawaban_id": "TG1lKxZWEzEk-iU-uLtJSzBRvV-5UAHqEXrwOR7N4hzh9GT8yM1yBhhXeZidcHYmY17_jq0a1mqptk0pF2TqAQ",
+        "jawaban": ""
+      },
+      "PRhSjT0YLRdL8cRJvwekbv2PbSn710ytjNp-e62hf60": {
+        "jawaban_id": "KQ0DbsUXAVrkSYUD-7E3fGqLHa-X8ZV0bgZ12ECSjcAl2LM8a9qOuHsfIAOTcn91P3anKVc0K370iBTEIIJPjg",
+        "jawaban": ""
+      },
+      "xZ4yYkl1qQfyDLjECy838onEL1zrdDFkZWoRXUNTLsM": {
+        "jawaban_id": "QQCwJQEn8TBYsiBiU7KHPUj34PVKU1OmcdGKFo177LjCyhRbcdU-4IfDFLvQfdnoLlFVbB1hoIDco9x7e_JTCA",
+        "jawaban": ""
+      },
+      "vxdzkPMmwkU-ktcte6KJuczLZXGdjOhKzoCryIEYnX0": {
+        "jawaban_id": "EOOBEQy9ql2m-YeCV1YjEkfr3HTBtcloDKEQhnaTdXXjPlP25fUxv1rgA86D1YM9MhkkhYe6hJmY741IXxWmZg",
+        "jawaban": ""
+      },
+      "2MZLfRDZA2AoSUzn6EfucPcpwvvug-ENIXNkjs-Bb6M": {
+        "jawaban_id": "I5ov_AzIqW03OyiA-RXvyHqW5RmTdefWupqw2jDz1bzM-Y-MDjLrxqi5FYTF8SFa3zVOaJbOufFXIOgOpHy3FQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+      "tipe_soal_id": "1",
+      "nomor_soal": "2",
+      "induk_soal_id": "7098",
+      "soal": "<p>Where is Ayam Cincane currently available to consumers in Samarinda?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Kalimat pada paragraf 3, <i>“Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors.”</i> menjelaskan bahwa opsi E adalah jawaban yang paling tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7098",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish&#39;s tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children&#39;s growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "fUAoa1iR80UTR07kjWRBmXZgBW5a0nM0rsY_35TMjzs",
+        "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+        "sub_soal": "<p>At Kutai Kartanegara palace and other prominent traditional tourist sites.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "K6PomyjmNiijFkYMzY6N2wd5ORwDOvMOqVp10MMzdYI",
+        "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+        "sub_soal": "<p>At licensed traditional Indonesian food outlets.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ZUJKyeXitSaWp2Gep6JuNUFhrJZJD7x6x0NlU0hoQUg",
+        "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+        "sub_soal": "<p>In high-end restaurants and luxury hotels.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "b8CA9rEPFLWhykpf-leJxbI6zI7Wld1sJ2Cb8rr2BxQ",
+        "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+        "sub_soal": "<p>In restaurants and food stalls in traditional markets during festivals.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "tCkk2fC0Ed1QsevDFBFNgzBMRSoQE3CXi7ZmD-CN0A8",
+        "soal_id": "ZE97OPqRoMGvkAd9VVUg-rarvSZNqGmiuXKiPlEga-4",
+        "sub_soal": "<p>In restaurants, food stalls, and street vendors.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "fUAoa1iR80UTR07kjWRBmXZgBW5a0nM0rsY_35TMjzs": {
+        "jawaban_id": "r5f9WAYfHPfE643y-nn-c4TU7soPkXRnuFQab51bJBJtzbedEHOuh5nDdtTIYroweXRTi1bkvtmsKVIahaPjNg",
+        "jawaban": ""
+      },
+      "K6PomyjmNiijFkYMzY6N2wd5ORwDOvMOqVp10MMzdYI": {
+        "jawaban_id": "lys6E2xpsLLQQcC7hWxa3voF0OZ99mri8MA56zuyrqc5kEcP5kCTrkmP6mDZXRPVKUl0VA0A0NUJ4VWH6z8aww",
+        "jawaban": ""
+      },
+      "ZUJKyeXitSaWp2Gep6JuNUFhrJZJD7x6x0NlU0hoQUg": {
+        "jawaban_id": "oXXeAlUZn9mTQbzL6iJ6cwNiybz6-VEj-TmolPJ0azG5lBgbITK1jxjrtqOUyiNfJmvX7QdmLbjQgqJbo228AA",
+        "jawaban": ""
+      },
+      "b8CA9rEPFLWhykpf-leJxbI6zI7Wld1sJ2Cb8rr2BxQ": {
+        "jawaban_id": "UrX7H5zBMPPq12iXd4sUTv8n9xY4KMS9619SJUdD_vti2mYV8f71t_i0NZQE7UztimRHcubpGS6ztvgSJFHF7A",
+        "jawaban": ""
+      },
+      "tCkk2fC0Ed1QsevDFBFNgzBMRSoQE3CXi7ZmD-CN0A8": {
+        "jawaban_id": "_7cK-S-IRFGU71YwhoQAH_TTIoK6oYkR7B8bOPtxjqLlB8I8oJHqpfp9Tuj2bwLgXs4Ju3imc237p_2OIfFuXg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+      "tipe_soal_id": "2",
+      "nomor_soal": "3",
+      "induk_soal_id": "7098",
+      "soal": "<p>Multiple-choice multiple-answer questions (No. 3 and 4). Choose more than one answer.</p>\r\n\r\n<p>What nutritional benefits does Ayam Cincane provide according to the text?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A, C, dan E.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Dijelaskan pada paragraf 3 bahwa Ayam Cincane kaya protein, kalsium, kalium, vitamin A, B<sub>2</sub>, dan zat besi. Kandungan ini bermanfaat untuk menjaga kesehatan dan kepadatan tulang, membentuk massa otot, mengurangi risiko cedera, mendukung pertumbuhan anak, serta baik bagi kesehatan ibu hamil dan menyusui. Dapat disimpulkan, piliha A, C, dan E adalah jawaban yang paling tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7098",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish&#39;s tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children&#39;s growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "mEgV-e1qBm0P8e3Dd423osGjmsX3h_wBDs6SVDh0ZoY",
+        "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+        "sub_soal": "<p>Helps maintain bone health and build muscle mass.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "WYby3F1Cy27RURYumTWs4JN6I8S-Nf_opOBEwucIhm4",
+        "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+        "sub_soal": "<p>Prevents all types of nutritional deficiencies.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2ywNlElEYxNRJyTMJo_f9LqKY10lnrBRHZv2aCGUefk",
+        "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+        "sub_soal": "<p>Promotes children&#39;s growth and supports pregnant women&#39;s health.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "akzS35FddZqPWazXuvNhK4Rl0AcC6f1uKVUmTyfkZfE",
+        "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+        "sub_soal": "<p>Provides complete daily vitamin requirements for adults.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "J-ppPqKooApnHOLT1LBSrgCjoxAKg5JGNh6awZgtjI8",
+        "soal_id": "edkfvUIMouSNX1FdamYjxQ9bg3o5cLvk8OFo0CjhxIk",
+        "sub_soal": "<p>Reduces the risk of injury and maintains bone mineral density.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "mEgV-e1qBm0P8e3Dd423osGjmsX3h_wBDs6SVDh0ZoY": {
+        "jawaban_id": "Zdu-YUkbH-rPGuLfMHpGXE9SVatbHFWKmuVo2hkf8TM-ILV2nOzpcuULCwoiY-EGA3XQjNgfNxskW4lvuRUq0A",
+        "jawaban": ""
+      },
+      "WYby3F1Cy27RURYumTWs4JN6I8S-Nf_opOBEwucIhm4": {
+        "jawaban_id": "gatHQFvO4rNTzqfiVhXptDTy18SZmQsH6tLP35WXbj76XszcmhzoukaoDlwA3M-y3-NTuRNZ5ov2AsQ-sdfDpA",
+        "jawaban": ""
+      },
+      "2ywNlElEYxNRJyTMJo_f9LqKY10lnrBRHZv2aCGUefk": {
+        "jawaban_id": "VrJeCcGUcqPzc2rwymZCB0MoK7bX2IdFB_scFfLU4c_4_ezbFxC0S1VEzzFq4MlfmmEwsD9Y0yARsWOqhDRseQ",
+        "jawaban": ""
+      },
+      "akzS35FddZqPWazXuvNhK4Rl0AcC6f1uKVUmTyfkZfE": {
+        "jawaban_id": "tkEg99iaI5g-NGwb4k_tNoDaLKhs0mJU5OkT8AapCNZArH2l7XwjS37dr_fCV9B8EibKfUN7NCJveMWvnyGFZg",
+        "jawaban": ""
+      },
+      "J-ppPqKooApnHOLT1LBSrgCjoxAKg5JGNh6awZgtjI8": {
+        "jawaban_id": "5pOb_ve19jZst-eqiPVF0uthe7l3JmBGyrLfZ7N1PFtnwGHHkftK5KvZzYsXpBXLJ4NHvlyBdE8H_0BAV-1IOA",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+      "tipe_soal_id": "2",
+      "nomor_soal": "4",
+      "induk_soal_id": "7098",
+      "soal": "<p>Which statements describe Ayam Cincane?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: B, C, dan E.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Opsi B, C, dan E adalah yang paling sesuai dengan isi teks pada paragraf 1, yaitu Ayam Cincane memakai ayam kampung sebagai bahan utama dan memiliki rasa gurih dan pedas dengan tekstur lembut. Ayam Cincane juga biasanya disajikan di acara khusus seperti pernikahan, upacara keagamaan, dan penyambutan tamu.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7098",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish&#39;s tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children&#39;s growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "k9C2miJ0lqteg4zzlezVt7PwNptaft-gdep4Ldz4_U4",
+        "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+        "sub_soal": "<p>It also contains international spices and herbs.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "b8oXvPYKbP19nfqHX9PoBG7jh9WazsoH4fx2sFMgMlI",
+        "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+        "sub_soal": "<p>It has a savory and spicy flavor with tender texture.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "foBtKZDLXk2U4n2_zDljeS1bQvsJze6ooP6yPqgg1L0",
+        "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+        "sub_soal": "<p>It is cooked with free-range chicken as the main ingredient.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "-6_Gk-lHHYkwN85Ya7kZ3N-AI0n1fVYd5rje-8eQoSo",
+        "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+        "sub_soal": "<p>It is prepared exclusively using modern cooking methods.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "B6F2sThiloppYwgwOTxfjxoshqZtq5voZ94UrdwJXGo",
+        "soal_id": "29C59tc-x6JZjQVkzuNCjPHZP9SXXxbvT0nXuXJjRJ4",
+        "sub_soal": "<p>It is served at special events and cultural ceremonies.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "k9C2miJ0lqteg4zzlezVt7PwNptaft-gdep4Ldz4_U4": {
+        "jawaban_id": "Xfs571hqDfBclEooUJEOeLpID7hWGccsATuP1_t4aWs73l7UtEkNLUF0Njiv1QJm1Tw4f8KSFC4xju3vj85osQ",
+        "jawaban": ""
+      },
+      "b8oXvPYKbP19nfqHX9PoBG7jh9WazsoH4fx2sFMgMlI": {
+        "jawaban_id": "-yDJ8Nubnm5ch5YB9M3J1mvleD0RiNDnBuPL7wI26KmlGa97Kt6LT3XH9u88rIbrbCKfXak6k9Bq_4nJsRXlJA",
+        "jawaban": ""
+      },
+      "foBtKZDLXk2U4n2_zDljeS1bQvsJze6ooP6yPqgg1L0": {
+        "jawaban_id": "zL-StXOBQyQkugYEOa9fnISL-RaEHocAxjl4nVnrSsZhjcX1n2TkytoO8Iw0mWdtPMbc5xBufgtLsEKghfyzqQ",
+        "jawaban": ""
+      },
+      "-6_Gk-lHHYkwN85Ya7kZ3N-AI0n1fVYd5rje-8eQoSo": {
+        "jawaban_id": "3smd1i0zg9B4-uj4BvFFkb9dn_nnyGzeHpMFX_7XQ4NhwFsBgmuzFWtCVqIIk85ujq3zO38vBgU3TpUanZWDkQ",
+        "jawaban": ""
+      },
+      "B6F2sThiloppYwgwOTxfjxoshqZtq5voZ94UrdwJXGo": {
+        "jawaban_id": "Y1sFtg_UErXotdENAoe4Yf67oNTzjM5OxRNJ3b3IyK2446QUfWXO8M1DRaOngd0ReHh975mp6-txj8gQAzAvNg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "jS6IrqpcfkPx7phNwMxHO7xpnR6Tb2Z3jI5QsNji1IQ",
+      "tipe_soal_id": "5",
+      "nomor_soal": "5",
+      "induk_soal_id": "7098",
+      "soal": "<p>Multiple-categorization question. Categorize each other statement by ticking (v) the correct column.</p>\r\n\r\n<p>Which of the following statements are True or False?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A. True. B. True. C. False.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan A benar. Pada paragraf ketiga dijelaskan: “<i>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty</i>.” kalimat tersebut mendukung pernyataan A.</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan B benar. Berdasarkan teks, Ayam Cincane adalah hidangan tradisional dari Samarinda, Kalimantan Timur. Ayam Cincane juga sering disajikan pada acara-acara khusus seperti pernikahan, upacara keagamaan, dan untuk menyambut tamu kehormatan. Saat ini, Ayam Cincane mudah ditemukan di restoran, warung makan, dan pedagang kaki lima.</span></p>\r\n\r\n<p>Pernyataan C salah karena paragraf 2 pada teks menyebutkan bahwa Ayam Cincane kaya akan nutrisi.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7098",
+      "soal": "<p><b>Questions numbers 1 to 5 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>Ayam Cincane: A Traditional Dish from Samarinda</b></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane is a traditional dish from Samarinda in East Kalimantan. The main ingredient is free-range chicken which has denser, chewier, and more fibrous meat. To cook Ayam Cincane, the chicken is cooked with an array of local spices, resulting in a savory and spicy flavor with a tender texture. The dish&#39;s tempting aroma is especially appealing when the chicken is later grilled over a charcoal or wood fire. Ayam Cincane is often served at special events such as weddings, religious ceremonies, and to welcome honored guests.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In addition to its delicious taste, Ayam Cincane is rich in nutrients. Free-range chicken—which is required in the recipe—is rich in protein, calcium, potassium, vitamins A and B?, and vital minerals like iron; all of which are very great for health. These nutrients help maintain bone health and bone mineral density, build muscle mass, reduce the risk of injury, and promote children&#39;s growth. All of those nutrients has benefits for pregnant and nursing women’s health. It is not an exaggeration to say that Ayam Cincane is medically beneficent as well as incredibly tasty.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Ayam Cincane also has an interesting history. People say this dish was first made in the Kutai Kartanegara Dynasty. It was first made by a chef named Cincane who worked at a palace. He mixed his own spices to make a new dish. The delicious and spicy flavors made the King of Kutai really like this dish. Because of this, Ayam Cincane became a favorite in the palace and has been enjoyed ever since. Today, Ayam Cincane is easy to find in restaurants, food stalls, and street vendors. It is also a highlight in festivals as a traditional delicacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from www.kompasiana.com/ekasucicahyanii2753/67c1c98f34777c2f4700a8f2)</p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "7IrWQWS0S6XvYINCHVM7PJ-mCVKErMFZ3La-Pax2McI",
+        "soal_id": "jS6IrqpcfkPx7phNwMxHO7xpnR6Tb2Z3jI5QsNji1IQ",
+        "sub_soal": "<p>Ayam Cincane is a significant contribution of The Kutai Kartanegara for East Kalimantan&#39;s culinary heritage.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "LPBDGC_5QECyvM9ZIwluRrnhiveqHXLlzXgwuHHjsDg",
+        "soal_id": "jS6IrqpcfkPx7phNwMxHO7xpnR6Tb2Z3jI5QsNji1IQ",
+        "sub_soal": "<p>Ayam Cincane is a traditional spicy chicken dish from Samarinda that has cultural significance and remains popular today.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "skN5md2RYwAEPYGlCV2GCvU0RU3RjeBJgKFQIIup7Jo",
+        "soal_id": "jS6IrqpcfkPx7phNwMxHO7xpnR6Tb2Z3jI5QsNji1IQ",
+        "sub_soal": "<p>Ayam Cincane lacks any important nutrients.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "7IrWQWS0S6XvYINCHVM7PJ-mCVKErMFZ3La-Pax2McI": {
+        "jawaban_id": "AAXbqBVTQ015eDN1Ec0njoFlo1guDWanMtOYtOqYTBOSWhW5OrTeZ6QXqBKOM3AWKAygJlSprGg6ja8xWwedUA",
+        "jawaban": ""
+      },
+      "LPBDGC_5QECyvM9ZIwluRrnhiveqHXLlzXgwuHHjsDg": {
+        "jawaban_id": "gb3DS93eMKH5jkJWLoicBIjcusnKqy-A8PXLjNqb-SEQSugN1A6jKzyNzVFufc-TqJBmE2wccYMxw3GcpGP39w",
+        "jawaban": ""
+      },
+      "skN5md2RYwAEPYGlCV2GCvU0RU3RjeBJgKFQIIup7Jo": {
+        "jawaban_id": "7vN4slTiYMjyQopk8D4MEHhHYnICo2mVtQxICZU-W80MBxMPqSA72nGpvgxewwdaisXknD5yzCOnLWYyMhfdjw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+      "tipe_soal_id": "1",
+      "nomor_soal": "6",
+      "induk_soal_id": "7104",
+      "soal": "<p><b>Multiple-choice questions (No. 6 and 7). Choose the correct answer.</b></p>\r\n\r\n<p>What is the objective of the text?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: E. </b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Dapat dilihat dari judul teks, yaitu <em>“How to Grow Mung Beans in Pots”</em> dan isinya yang menjelaskan <strong>langkah-langkah</strong><b> </b>mulai dari menyiapkan pot, menanam benih, menyiram, memberi cahaya, mencatat pertumbuhan, hingga memanen. Maka, E adalah jawaban yang benar, yaitu untuk memberi tahu cara menanam kacang hijau dalam pot secara bertahap.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7104",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>How to Grow Mung Beans in Pots</strong></p>\r\n\r\n<p><b>Materials Needed:</b></p>\r\n\r\n<ul>\r\n <li><span xss=removed>Small pots or containers</span></li>\r\n <li><span xss=removed>Planting soil</span></li>\r\n <li><span xss=removed>Green bean seeds</span></li>\r\n <li><span xss=removed>Watering can or spray bottle</span></li>\r\n <li><span xss=removed>Sunny windowsill or grow light</span></li>\r\n <li><span xss=removed>Notebook or growth chart</span></li>\r\n</ul>\r\n\r\n<p><b>Steps:</b></p>\r\n\r\n<p xss=removed><span xss=removed>To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "mb2l_BUDTXaqMqW9GZGJI2-86xNr7FuoUPYOQJdNnr4",
+        "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+        "sub_soal": "<p>To compare mung beans with other vegetables.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "MHfUAPm-9RAX9Wt9QdoU-mJCWZp2UdSiuCO66to5emY",
+        "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+        "sub_soal": "<p>To describe the parts of a green bean plant.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "KKACY6QYWSPWUDF4U7i8XoUVYj6VYAsmNKqbQ_sN1TQ",
+        "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+        "sub_soal": "<p>To explain the benefits of growing plants indoors.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "HsZtTKG2PqyVeVACdjxkQ_f7LuRovFli1tQWEZwFODI",
+        "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+        "sub_soal": "<p>To inform the readers the nutrients of mung beans.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "I-xmpPBEa-1MMqCA6ixe5xMfIq8iZu5yQPKysat3Q_g",
+        "soal_id": "qw9js2d4hcVKijVobf75E45TQr1nPPqGw3LlQYETIXU",
+        "sub_soal": "<p>To tell how to grow mung beans in pots step by step.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "mb2l_BUDTXaqMqW9GZGJI2-86xNr7FuoUPYOQJdNnr4": {
+        "jawaban_id": "NhIJ5FsVE2SKjRzPoIO6Us1G2ft0dBmpfsL-O5T82CU8lSmd57SGubrkyEVrsaVRXs6zYERnGqn29XUXEN-1hw",
+        "jawaban": ""
+      },
+      "MHfUAPm-9RAX9Wt9QdoU-mJCWZp2UdSiuCO66to5emY": {
+        "jawaban_id": "egRKVv08S_y8vGaF8kD77Ix11oaStDb3xSQdvRertCF4Akk_H4V6hLTmYNQ1EKRYOnVBH0G5l49g9GyJSfrhvA",
+        "jawaban": ""
+      },
+      "KKACY6QYWSPWUDF4U7i8XoUVYj6VYAsmNKqbQ_sN1TQ": {
+        "jawaban_id": "aCDbhC7AYNBmhXOJbWgPVuF7_U4Jn88yifjK1RmxQMttb-rtlEJt8h5MPdanW3LuAzO-v7ckBTW0ziQDQLpGbA",
+        "jawaban": ""
+      },
+      "HsZtTKG2PqyVeVACdjxkQ_f7LuRovFli1tQWEZwFODI": {
+        "jawaban_id": "aTQr0iXdfwNaMdZBshsJSgw9VcSIDrUCJmd43DqIkRVcoCVhRw8GKwQ_EGDKde0CSqMZxug0tJfrc5T8r_RGbw",
+        "jawaban": ""
+      },
+      "I-xmpPBEa-1MMqCA6ixe5xMfIq8iZu5yQPKysat3Q_g": {
+        "jawaban_id": "uPfs6NX3-zhD-yGuyuPkWzmRkmfY5ZzRcCO4TVkrFQcUzhGSPlen05MENFp4qBUCAuJ-KfBb04HsPC5BwYWCXg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+      "tipe_soal_id": "1",
+      "nomor_soal": "7",
+      "induk_soal_id": "7104",
+      "soal": "<p>What should be done after watering the soil?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: C. </b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Hal yang harus dilakukan setelah menyiram tanah adalah letakkan pot di tempat yang terkena sinar matahari atau di bawah sorot lampu. Itu disebutkan pada langkah keempat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7104",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>How to Grow Mung Beans in Pots</strong></p>\r\n\r\n<p><b>Materials Needed:</b></p>\r\n\r\n<ul>\r\n <li><span xss=removed>Small pots or containers</span></li>\r\n <li><span xss=removed>Planting soil</span></li>\r\n <li><span xss=removed>Green bean seeds</span></li>\r\n <li><span xss=removed>Watering can or spray bottle</span></li>\r\n <li><span xss=removed>Sunny windowsill or grow light</span></li>\r\n <li><span xss=removed>Notebook or growth chart</span></li>\r\n</ul>\r\n\r\n<p><b>Steps:</b></p>\r\n\r\n<p xss=removed><span xss=removed>To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "Uzjrq3xTT_51xrAMVS327UX94nZniz3IXHPaGim37fg",
+        "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+        "sub_soal": "<p>Cover the seeds with more soil after planting them.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "WbFxx0cL7q8ngrdLWekvCji9B0ms2TB4bHimKl7jyj8",
+        "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+        "sub_soal": "<p>Harvest the mung beans immediately.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PV2It4yR34cNzqkfsh5rUmGxhyDPAcRtAgRMtkeUqro",
+        "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+        "sub_soal": "<p>Place the pots in a sunny spot or under a grow light.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ftAx9Gg1j9I5w1amTpw8Cpk05bb1lEPuX9vLph6zHQQ",
+        "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+        "sub_soal": "<p>Record the plant’s growth in a notebook.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "q3973r3i0ZJKAbcX4VRxbKq9XatGVQT50NmRuZuz0EY",
+        "soal_id": "uA5XPIy3DsfBzJ-gfbTK66tZFzcG1AGML-piPRpS5_E",
+        "sub_soal": "<p>Transplant the plants to larger containers.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "Uzjrq3xTT_51xrAMVS327UX94nZniz3IXHPaGim37fg": {
+        "jawaban_id": "vjqNShwIJH4iNoUbSZLiPBvpmd_BUfyaWL1PcFzCRIntZLR8xqZIqgTumlaao_M1qAhkf0IpFPHF_AJ4aBxXRw",
+        "jawaban": ""
+      },
+      "WbFxx0cL7q8ngrdLWekvCji9B0ms2TB4bHimKl7jyj8": {
+        "jawaban_id": "YVAe1AF4kJKjMwYCLXPsDHx9X-ho2Q5sYpgvUnafEhVOX3LeWZmDEySritBqcwPxQO4UF912CZXkj0ALFka14w",
+        "jawaban": ""
+      },
+      "PV2It4yR34cNzqkfsh5rUmGxhyDPAcRtAgRMtkeUqro": {
+        "jawaban_id": "a7zef-IjEGtRHIq6LsoewQ8CupUkhzhKQopX2nCncU_BPo1JfjaDn_lJP_CJ-ZJaX4AZZOxGYhpXWHeA7EEr_A",
+        "jawaban": ""
+      },
+      "ftAx9Gg1j9I5w1amTpw8Cpk05bb1lEPuX9vLph6zHQQ": {
+        "jawaban_id": "N8-xXULP35DbIm-zqtvjkjTeWvXQXDxeJuIDkNIjL3CIFP8QxUiZrwBcl7kF8cQqcVuUt-JUrWzLpNaXERhe-A",
+        "jawaban": ""
+      },
+      "q3973r3i0ZJKAbcX4VRxbKq9XatGVQT50NmRuZuz0EY": {
+        "jawaban_id": "HtWRmq5wkoWmVhBNL3GS9XYgYrWtImueOdMzkyfx5l7kPaq82VyxVhLLU1uJ8IhegQKimylUj2BGppOLSnh5VQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+      "tipe_soal_id": "2",
+      "nomor_soal": "8",
+      "induk_soal_id": "7104",
+      "soal": "<p>Multiple-choice multiple-answer questions (No. 8 and 9). Choose more than one answer.</p>\r\n\r\n<p>What should be done to ensure mung beans grow well?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: B, C, dan D.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Hal yang harus dilakukan agar kacang hijau tumbuh sempurna adalah tanaman harus mendapat <strong>minimal enam jam sinar matahari setiap hari</strong> atau menggunakan <strong>lampu </strong>bila tidak ada cahaya alami (langkah keempat). Selain itu, tanah perlu dijaga agar <strong>tetap lembap namun tidak berlebihan</strong>, dengan cara menyiram hanya saat bagian atas tanah terasa kering (langkah kelima). B, C, dan D adalah jawaban yang paling sesuai.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7104",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>How to Grow Mung Beans in Pots</strong></p>\r\n\r\n<p><b>Materials Needed:</b></p>\r\n\r\n<ul>\r\n <li><span xss=removed>Small pots or containers</span></li>\r\n <li><span xss=removed>Planting soil</span></li>\r\n <li><span xss=removed>Green bean seeds</span></li>\r\n <li><span xss=removed>Watering can or spray bottle</span></li>\r\n <li><span xss=removed>Sunny windowsill or grow light</span></li>\r\n <li><span xss=removed>Notebook or growth chart</span></li>\r\n</ul>\r\n\r\n<p><b>Steps:</b></p>\r\n\r\n<p xss=removed><span xss=removed>To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "lhJKsrdUXfYLnPg36ZqPYJRkzvFAdAihL7OpLdQQEBg",
+        "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+        "sub_soal": "<p>Add chemical fertilizer every day.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "HGNpczoeKnT6CAwnYJp8rvrQiNDmFFYmDJdyrPxv6SE",
+        "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+        "sub_soal": "<p>Give a minimum of six hours of sunlight daily.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "wt8jINFwbVCxSqEHnH4pGkfzciRYexVqXYSnuVNq8Qo",
+        "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+        "sub_soal": "<p>Keep the soil consistently damp.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "B5xf19IGlZUkTf0J4WioL32TZCiO2xh2SYvclcMglwA",
+        "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+        "sub_soal": "<p>Use a grow light if there is no sunlight.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "1Obse3RyRMFL1s1071atgRhRAFF-mYxZOF5OKE2UuFU",
+        "soal_id": "RynQLJNy_bDoS7V7lo4huymij3Ub9TZHXrAH0WtQydQ",
+        "sub_soal": "<p>Water only once after planting.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "lhJKsrdUXfYLnPg36ZqPYJRkzvFAdAihL7OpLdQQEBg": {
+        "jawaban_id": "Zst0Vg20xlUO_u3Wxc54qZkRLdf4iCG3yVlcsQMDhsEletu79GMCzebyhNHVtv_RFW0IeRgNugl22GtJK8gDNQ",
+        "jawaban": ""
+      },
+      "HGNpczoeKnT6CAwnYJp8rvrQiNDmFFYmDJdyrPxv6SE": {
+        "jawaban_id": "4iWAwhgbv_xKbM11nqXLhPc9sQb2IkUlmC00p0yktwMIB89tEmXR23KlGnRg5jUh3J1rq4F8gLHfMury6oS96w",
+        "jawaban": ""
+      },
+      "wt8jINFwbVCxSqEHnH4pGkfzciRYexVqXYSnuVNq8Qo": {
+        "jawaban_id": "NNlWIsKhI2SJxwa3hORECu5go2onS-B-T3_EX36sjYLir9sFJvelh8k1lqv48WvT6-g1dPub4gkYhGteNt8kbQ",
+        "jawaban": ""
+      },
+      "B5xf19IGlZUkTf0J4WioL32TZCiO2xh2SYvclcMglwA": {
+        "jawaban_id": "Uq4NgvoEEUJTatkqzvxWS5px5_vbx7vlZNggfMqe1yz9RdvMp0mePqkswSRlutiB4XQ5XzMsRlsfDrOHvycb3w",
+        "jawaban": ""
+      },
+      "1Obse3RyRMFL1s1071atgRhRAFF-mYxZOF5OKE2UuFU": {
+        "jawaban_id": "_4O_hqdDy4uwwDuP0_7rRou-BbpLyrnZrclrmomcVO0BCJ1xsneZIUqhaymyi0QxElxzDAj9eM98UXrosTixXQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+      "tipe_soal_id": "2",
+      "nomor_soal": "9",
+      "induk_soal_id": "7104",
+      "soal": "<p>Which statements about transplanting are true?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A, B, dan E.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Transplantasi tanaman dilakukan ketika tanaman kacang hijau sudah tumbuh terlalu besar untuk potnya. Proses ini bisa dipindahkan ke pot yang lebih besar atau langsung ke tanah, tetapi harus menunggu kondisi cuaca yang sesuai. Penjelasan tentang penanaman kembali yang benar ada pada akhir teks. Opsi A, B, dan E sesuai dengan teks.</span></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7104",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>How to Grow Mung Beans in Pots</strong></p>\r\n\r\n<p><b>Materials Needed:</b></p>\r\n\r\n<ul>\r\n <li><span xss=removed>Small pots or containers</span></li>\r\n <li><span xss=removed>Planting soil</span></li>\r\n <li><span xss=removed>Green bean seeds</span></li>\r\n <li><span xss=removed>Watering can or spray bottle</span></li>\r\n <li><span xss=removed>Sunny windowsill or grow light</span></li>\r\n <li><span xss=removed>Notebook or growth chart</span></li>\r\n</ul>\r\n\r\n<p><b>Steps:</b></p>\r\n\r\n<p xss=removed><span xss=removed>To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "yCIwUnWnKy_CByr9Z_psAMJAs1iWpKXK3oKe7Z6wzI8",
+        "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+        "sub_soal": "<p>Transplanting can be done in larger pots or right in the ground.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "DeFNQyalXXwppdTxMMjCqwC-jG7OkmJnBJUKUOuRfF4",
+        "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+        "sub_soal": "<p>Transplanting depends on suitable weather conditions.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "bnfLF6AXL0mE-fCnbllcNvkSL2KWNvRvEgsB0cbuAjo",
+        "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+        "sub_soal": "<p>Transplanting is done right after watering the seeds.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "60Nb9jlwR_xZK0QLUbghS_tH_0n7a2nF5uAJUHoxu2w",
+        "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+        "sub_soal": "<p>Transplanting is the first step in growing mung beans.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "_yXZRUhCxHW1HCNcdgHE1pBf9k3ViIDZQ77GaQnzb8E",
+        "soal_id": "boEZJ2mAHwojwK109gjt-kCPtxBCeQUe55SuS95nSnI",
+        "sub_soal": "<p>Transplanting should be done when the plants become too big for their pots.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "yCIwUnWnKy_CByr9Z_psAMJAs1iWpKXK3oKe7Z6wzI8": {
+        "jawaban_id": "Kd81dcAjCySKqnYx4O9KmQcUXMbGEz6H9ON3TDi4RB2vIpewdHFj6fJoUM2SLFjtGdttJw11q5PuirePeWw6_A",
+        "jawaban": ""
+      },
+      "DeFNQyalXXwppdTxMMjCqwC-jG7OkmJnBJUKUOuRfF4": {
+        "jawaban_id": "mFUmG2GmcJzduBM8Ehr7qVvKHKZGbCHi7kCS847jSFMu-raxJVbQK1a42mMCzUEcVoI_RDfhv_xUU5qVv2-slg",
+        "jawaban": ""
+      },
+      "bnfLF6AXL0mE-fCnbllcNvkSL2KWNvRvEgsB0cbuAjo": {
+        "jawaban_id": "tsT3vE35tB6qbmZfB8AOzNn3te0Z2g7EGjqlxbExe3WTUIFFrlU1_GyosZEI04_RC3-dXdueSNUKPrC-reZOCw",
+        "jawaban": ""
+      },
+      "60Nb9jlwR_xZK0QLUbghS_tH_0n7a2nF5uAJUHoxu2w": {
+        "jawaban_id": "6ZRSMYsIXEqs5lmmtQS3tDx_9mQJs_VPaKaI00dXDmEPSOIlK0BBgx_cQui0cRPSoZBcMO9QwTeNOHjpO5IA4w",
+        "jawaban": ""
+      },
+      "_yXZRUhCxHW1HCNcdgHE1pBf9k3ViIDZQ77GaQnzb8E": {
+        "jawaban_id": "AVR4fGw0zvCH447h2fGBSlvbgC0x4-DKJyrZy5_g8gFMs3OfmH-Qq0p3TwTNC4QyRiSX29S4uZG_AUot1VMqvw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "cNN55U_427is91sAoIUvX2GWt7BGkZPhGgT7FBj77Qk",
+      "tipe_soal_id": "5",
+      "nomor_soal": "10",
+      "induk_soal_id": "7104",
+      "soal": "<p>Multiple-categorization question. Categorize each other statement by ticking (v) the correct column.</p>\r\n\r\n<p>Which of the following statements are True or False?</p>\r\n",
+      "pembahasan": "<p><span xss=\"removed\"><b>Jawaban: A. True. B. False. C. True.</b></span></p>\r\n\r\n<p><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p><span xss=\"removed\">Pernyataan A benar dan dijelaskan pada langkah terakhir: “<i>Lastly, keep watering and providing sunlight until the plants produce flowers and beans</i>.”. Artinya, tanaman kacang hijau akan menghasilkan bunga dan polong jika dirawat dengan benar.</span></p>\r\n\r\n<p>Pernyataan B salah karena berbanding terbalik dengan isi teks yang menyebut bahwa biji kacang tanah harus ditutup tipis dengan tanah. Pernyataan tersebut justru mendukung kebenaran pernyataan C.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7104",
+      "soal": "<p><b>Questions numbers 6 to 10 refer to the following memo.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>How to Grow Mung Beans in Pots</strong></p>\r\n\r\n<p><b>Materials Needed:</b></p>\r\n\r\n<ul>\r\n <li><span xss=removed>Small pots or containers</span></li>\r\n <li><span xss=removed>Planting soil</span></li>\r\n <li><span xss=removed>Green bean seeds</span></li>\r\n <li><span xss=removed>Watering can or spray bottle</span></li>\r\n <li><span xss=removed>Sunny windowsill or grow light</span></li>\r\n <li><span xss=removed>Notebook or growth chart</span></li>\r\n</ul>\r\n\r\n<p><b>Steps:</b></p>\r\n\r\n<p xss=removed><span xss=removed>To grow mung beans in pots, first start by filling small containers with planting soil, leaving 2 cm of space at the top. Second, plant one or two seeds about 2.5 cm deep and cover them with a thin layer of soil. Third, thoroughly water the soil until it is damp. Fourth, place the pots on a sunny place, such as windowsill or under a sufficient grow light because mung beans need at least six hours of sunlight daily. Do not overly water the mung beans, but keep the soil consistently moist by watering only when the top feels dry. After a few days, the seeds will start to grow and small sprouts will appear. Then, record their growth by noting important changes such as the appearance of leaves. If the plants outgrow their pots, transplant them into even larger containers or right in the ground when conditions are suitable. Lastly, keep watering and providing sunlight until the plants produce flowers and beans.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "XUK7Kb1ooiRMS9lDYlyg0VH9T6c43WwRWlXv6lUbhi4",
+        "soal_id": "cNN55U_427is91sAoIUvX2GWt7BGkZPhGgT7FBj77Qk",
+        "sub_soal": "<p>Proper care ensures that green bean plants will grow flowers and beans.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "Nui-1wjHLboZjkMeCkfBD9RkN9b80N8vUApts56iXlA",
+        "soal_id": "cNN55U_427is91sAoIUvX2GWt7BGkZPhGgT7FBj77Qk",
+        "sub_soal": "<p>When planting, green bean seeds should be left uncovered on the soil surface.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "7WVIOQ4nuYk78Mr8IuLBA67AHhbpeoqs3m6ZR2s_QCE",
+        "soal_id": "cNN55U_427is91sAoIUvX2GWt7BGkZPhGgT7FBj77Qk",
+        "sub_soal": "<p>A thin layer of soil should be used to cover the seeds after planting.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "XUK7Kb1ooiRMS9lDYlyg0VH9T6c43WwRWlXv6lUbhi4": {
+        "jawaban_id": "LWqSqmiepTy44sFte6t1jYT4XPE8tCX2lNtM4K3wRmTrHrex5VsucSOr3yNI5aHrYnrojJ_RGfpOSUVBbU4mtA",
+        "jawaban": ""
+      },
+      "Nui-1wjHLboZjkMeCkfBD9RkN9b80N8vUApts56iXlA": {
+        "jawaban_id": "eGLfma_KLAhMhx8AHkzDD5ZPINwKanbsI6AgtETNQIWaDm64PksuGYJljCHC-6NrNogorMuujpaxOhP6wJZeDw",
+        "jawaban": ""
+      },
+      "7WVIOQ4nuYk78Mr8IuLBA67AHhbpeoqs3m6ZR2s_QCE": {
+        "jawaban_id": "mal3KPXw_WcUhC3fcqOT3rMfv06mTpW7nYCARqX60wbdzYJ4EosNp2ShOV9uOa1-kkis0zYFhUOG0XqQ5HL5Bw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+      "tipe_soal_id": "1",
+      "nomor_soal": "11",
+      "induk_soal_id": "7110",
+      "soal": "<p><b>Multiple-choice questions (No. 11 and 12). Choose the correct answer.</b></p>\r\n\r\n<p>What is the main idea of the text?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Ide utama dari teks adalah bisa disimpulkan dari paragraf terakhir yang menunjukkan bahwa teks menceritakan pengalaman penulis tentang liburan tidak terlupakan ke Bromo. Opsi E jawaban yang benar.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7110",
+      "soal": "<p><b>Questions numbers 11 to 15 refer to the text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>My Memorable Trip to Mount Bromo</strong></p>\r\n\r\n<p xss=removed><span xss=removed>Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\r\n\r\n<p xss=removed><span xss=removed>We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=removed>My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=removed>The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\r\n\r\n<p xss=removed><span xss=removed>When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=removed>and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano&#39;s crater. I immediately saw a big wave of sulphur rising from the crater&#39;s deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\r\n\r\n<p xss=removed><span xss=removed>My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "__q7gcn--csYxJq1qMzf2zx3kY-2GDL9TKNl3ufC25M",
+        "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+        "sub_soal": "<p>Explanation of the history of Mount Bromo and its sunrise view.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "sHyYmVJBmVSFD9MqPBM8vFkNDIdp0iPWRtbU0tGcq84",
+        "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+        "sub_soal": "<p>Retelling of the challenges of climbing Mount Bromo’s crater.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "e6YFVn5BOEdSDFizXJz5CVr2mEVJBjnqY0T1--R_XkE",
+        "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+        "sub_soal": "<p>Retelling of the writer’s experience staying in East Java.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "FOMNGSEwT7hCG4siIwQD7GQIJ1cInHA9ZSrbnaxPlTc",
+        "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+        "sub_soal": "<p>Retelling of the writer’s first hiking experience at Mount Bromo.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "HYzhhDq6CTof5snrjknTiBmvVgpC84i5FVheEuhXfsc",
+        "soal_id": "DYaWPbvvK0JiSoCJyprq2a97Ffi6qXstfsJfW-DudoE",
+        "sub_soal": "<p>Retelling of the writer’s unforgettable holiday trip to Mount Bromo.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "__q7gcn--csYxJq1qMzf2zx3kY-2GDL9TKNl3ufC25M": {
+        "jawaban_id": "_qtDKJ5ziUjDosEzt6fVhAMDwm3DkGltzuyJ8oUXnV2AogONj-a9614bnbbQvf--QUHmLgPxIH9M9Xe-Fa9TTQ",
+        "jawaban": ""
+      },
+      "sHyYmVJBmVSFD9MqPBM8vFkNDIdp0iPWRtbU0tGcq84": {
+        "jawaban_id": "EDrn4cx4fp5aqeDUOET4Kv439EiEYc00QUoJIPdZup-iFQsmT2x7LItwaWXGnvHoI_yrN_GrktVbu-gOmnlcOA",
+        "jawaban": ""
+      },
+      "e6YFVn5BOEdSDFizXJz5CVr2mEVJBjnqY0T1--R_XkE": {
+        "jawaban_id": "PWYUmPmyz1o0BPloffjwIGk9PGRIfNoZxnXnKqaz1hBzN85RETYPlUKewPuRYp8jSq6xYqIVxpoPHyzhMtwizA",
+        "jawaban": ""
+      },
+      "FOMNGSEwT7hCG4siIwQD7GQIJ1cInHA9ZSrbnaxPlTc": {
+        "jawaban_id": "EwMfJvfvho8ET3BLBGyECueu3lROZFPuTbnidDs9qKdLrAjHhP0IZcWnNsUT-PFnD2-UKZvIys-84wJBiIf-lA",
+        "jawaban": ""
+      },
+      "HYzhhDq6CTof5snrjknTiBmvVgpC84i5FVheEuhXfsc": {
+        "jawaban_id": "i3jSw3hSNl5ZxWz0TkKEakwVMsOw8romzm5X4s2LXNEn6wvQ1y0AwMZX3YQ0lppT5nlaLLZNWFegfJ1DTtE-bQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+      "tipe_soal_id": "1",
+      "nomor_soal": "12",
+      "induk_soal_id": "7110",
+      "soal": "<p>“Mount Bromo looked <u>majestic</u> with smoke flowing from its crater.” (Paragraph 3)</p>\r\n\r\n<p>The word which is NOT the synonym of the underlined word is . . . .</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: D.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Kata “<i>majestic</i>” berarti besar, megah, atau agung, maka dari kelima opsi jawaban, yang tidak memiliki makna yang sama adalah opsi D, yaitu <i>lowly </i>yang artinya rendah atau remeh. Sementara itu, opsi A. <i>glorious</i> (megah), B. <i>grand</i> (agung), C. <i>impressive</i> (mengesankan), dan E. <i>magnificent </i>(luar biasa) memiliki makna yang serupa dengan <i>majestic</i>.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7110",
+      "soal": "<p><b>Questions numbers 11 to 15 refer to the text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>My Memorable Trip to Mount Bromo</strong></p>\r\n\r\n<p xss=removed><span xss=removed>Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\r\n\r\n<p xss=removed><span xss=removed>We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=removed>My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=removed>The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\r\n\r\n<p xss=removed><span xss=removed>When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=removed>and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano&#39;s crater. I immediately saw a big wave of sulphur rising from the crater&#39;s deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\r\n\r\n<p xss=removed><span xss=removed>My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "5lVnAMZNN7pk5wAmyiZQfCIDpkz0qUD0J2b-liHG9kU",
+        "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+        "sub_soal": "<p>glorious</p>\r\n"
+      },
+      {
+        "sub_soal_id": "AE30YAazhyRZJEOHvqP1QwCsdCAI0o7h_0dnCRhAeGc",
+        "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+        "sub_soal": "<p>grand</p>\r\n"
+      },
+      {
+        "sub_soal_id": "SC9QJWK1BqZCNHwLRioUd0YqXBHRAvdm8BfG97M3zcU",
+        "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+        "sub_soal": "<p>impressive</p>\r\n"
+      },
+      {
+        "sub_soal_id": "KklBqObwUja7xyTcZRFNsRgBQpEofGPkOaku6CjqfQ8",
+        "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+        "sub_soal": "<p>lowly</p>\r\n"
+      },
+      {
+        "sub_soal_id": "EmImtPUPWff0WZbaCuLNJGEW65NtswzUUBdAFYM5zfY",
+        "soal_id": "ygxS1xlq6zPKg-XjoEueeNcx39kPm4s7SMAtRxAKTSU",
+        "sub_soal": "<p>magnificent</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "5lVnAMZNN7pk5wAmyiZQfCIDpkz0qUD0J2b-liHG9kU": {
+        "jawaban_id": "aZAnKk39rgT2VSCiJ6mvyrb-kYrRtXdDHwRgkCbTpZHGmr_2extVgQS20PcW0leAu1v72TDfywilV-8uv3GUWg",
+        "jawaban": ""
+      },
+      "AE30YAazhyRZJEOHvqP1QwCsdCAI0o7h_0dnCRhAeGc": {
+        "jawaban_id": "GrO1KTiWu_5bOPD_FHmWa01mvHoUBcOUPz5B4iK-NRy8HOk3qF9h7a_zZKnDwnrbX-ZRxrq__GeaWQhWIDvloQ",
+        "jawaban": ""
+      },
+      "SC9QJWK1BqZCNHwLRioUd0YqXBHRAvdm8BfG97M3zcU": {
+        "jawaban_id": "JopjyLyJg0lQ8HFtFUkzlT1fZZpilZfx8CAxQcAcOSaZEvhWXBs7Z8VXU4hWvttl-ZBmBU4z7UzZ5TRrC6KBCQ",
+        "jawaban": ""
+      },
+      "KklBqObwUja7xyTcZRFNsRgBQpEofGPkOaku6CjqfQ8": {
+        "jawaban_id": "cDMWCn3TwzhmdlxQUPhlPBR72-QrrW6K49hBiLWQ035r9c8FjbiAuBDl7TVPvLZKkKARfgFM43q72w4u6Q50HA",
+        "jawaban": ""
+      },
+      "EmImtPUPWff0WZbaCuLNJGEW65NtswzUUBdAFYM5zfY": {
+        "jawaban_id": "C6QBodPH9FCEJUs9LW-UtHL2o9SweYwHfKZa0_T0iDRvtWfU1hBWTRj5Q4nGHEj_EKiOZu4mIRGv8Xa-C9TLRA",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+      "tipe_soal_id": "2",
+      "nomor_soal": "13",
+      "induk_soal_id": "7110",
+      "soal": "<p><b>Multiple-choice multiple-answer questions (No. 13 and 14). Choose more than one answer.</b></p>\r\n\r\n<p>What are the main highlights of the writer’s trip to Bromo?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: C, D, dan E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Poin-poin utama dari perjalanan ini dijelaskan dalam paragraf 3 dan 4, yaitu <strong>menyaksikan matahari terbit dari viewpoint</strong><b>, <strong>mengunjungi lautan pasir</strong>, </b>dan<b> <strong>naik Jeep menuju kawah gunung berapi</strong>. </b>Maka opsi C, D, dan E adalah jawaban yang paling sesuai.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7110",
+      "soal": "<p><b>Questions numbers 11 to 15 refer to the text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>My Memorable Trip to Mount Bromo</strong></p>\r\n\r\n<p xss=removed><span xss=removed>Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\r\n\r\n<p xss=removed><span xss=removed>We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=removed>My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=removed>The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\r\n\r\n<p xss=removed><span xss=removed>When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=removed>and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano&#39;s crater. I immediately saw a big wave of sulphur rising from the crater&#39;s deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\r\n\r\n<p xss=removed><span xss=removed>My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "seyA8CowLL0ajg70303VJUep_CaZrfeZBbM1PxB1BTs",
+        "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+        "sub_soal": "<p>Buying souvenirs at a local shop.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "brl4_W-h3ggeft9jrCqINSayfMNtxURd8uVV41JZD6Q",
+        "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+        "sub_soal": "<p>Camping overnight at the mountain.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "q9ZuRkLrh3Buum2R7H2eh35jt56rm7Pjr_a9_wmypxU",
+        "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+        "sub_soal": "<p>Riding a jeep to the crater.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "bFCMd8i2jhhzMzNy_MqGUsgdwuehhAtOUrCVu_1MwQA",
+        "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+        "sub_soal": "<p>Visiting the sea of sand.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "0mglYTbQwNs_AKux-6tPcpUZJOENBkKgwKusQo296JA",
+        "soal_id": "XqaRXt8nVKs1pJ6sGpTxyb_5samnVf9H158rs90hQJg",
+        "sub_soal": "<p>Watching the sunrise from the viewpoint.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "seyA8CowLL0ajg70303VJUep_CaZrfeZBbM1PxB1BTs": {
+        "jawaban_id": "FwVUDC-_8T3PXq0DRvpzAFRaTS3OmiWz79jRdqTQnUpyEQDAf82z-VNVRomUJn76GEXPu4oeKb9iiShmWZOmPg",
+        "jawaban": ""
+      },
+      "brl4_W-h3ggeft9jrCqINSayfMNtxURd8uVV41JZD6Q": {
+        "jawaban_id": "vWjpQKNYoUOqR4sWHNFP44I8vms9BxAeC76WovLiJvl01ZXkAeBdwbzV6SAJ57fQ02KrJi1EHWeUJ9XO7Z9jeA",
+        "jawaban": ""
+      },
+      "q9ZuRkLrh3Buum2R7H2eh35jt56rm7Pjr_a9_wmypxU": {
+        "jawaban_id": "ffp_CIy1ZubWMdJn1d4R-ma7vaFe1NhS-2u2pyNheQGTFRL-jX0ulLCu-neMlvN6ly091oRyE6xhAS3zlB492Q",
+        "jawaban": ""
+      },
+      "bFCMd8i2jhhzMzNy_MqGUsgdwuehhAtOUrCVu_1MwQA": {
+        "jawaban_id": "QYl2bKzxjC18Hr2lpeITNG0i5ur2gyrWVZCLM2gDagE4KjgF2d2g9ngXrTPYLUfNK30tuD8eaMDpeJr5uSW-HQ",
+        "jawaban": ""
+      },
+      "0mglYTbQwNs_AKux-6tPcpUZJOENBkKgwKusQo296JA": {
+        "jawaban_id": "Ne6Wrk8SCH9___mGWVpYJrwa9iMllnXR69liFE0Zd595PJMBgNsoaSb3bgh5H7EeHQ21MPiBP2GKSCjH8Qk4vg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+      "tipe_soal_id": "2",
+      "nomor_soal": "14",
+      "induk_soal_id": "7110",
+      "soal": "<p>What can we infer about the text based on its purpose and structure?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A, B, dan C.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Hal yang dapat disimpulkan tentang teks berdasarkan tujuannya dan strukturnya adalah bagian orientasi di paragraf pertama yang memperkenalkan liburan penulis, kemudian diikuti oleh <strong>urutan peristiwa</strong> di paragraf 2 sampai 4, mulai dari perjalanan ke gardu pandang (<i>viewpoint</i>), menonton matahari terbit, naik Jeep ke lautan pasir, hingga ke kawah gunung. Lalu, paragraf terakhir sebagai <strong>reorientasi</strong>, yang berisi perasaan pribadi penulis tentang pengalaman tidak terlupakan dan pelajaran yang didapat. Opsi A, B, dan C adalah jawaban yang tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7110",
+      "soal": "<p><b>Questions numbers 11 to 15 refer to the text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>My Memorable Trip to Mount Bromo</strong></p>\r\n\r\n<p xss=removed><span xss=removed>Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\r\n\r\n<p xss=removed><span xss=removed>We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=removed>My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=removed>The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\r\n\r\n<p xss=removed><span xss=removed>When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=removed>and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano&#39;s crater. I immediately saw a big wave of sulphur rising from the crater&#39;s deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\r\n\r\n<p xss=removed><span xss=removed>My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "8PmKVLqmfqrNqZW_QVhU-Htrgm_GvPaQfSv_iLqaw5U",
+        "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+        "sub_soal": "<p>It contains orientation, events, and a reorientation.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "2xQTWBttpkBY-CIaKgKIEq4XN8T9mhTcnpKRITbV3Z8",
+        "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+        "sub_soal": "<p>It includes events in chronological order.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "BUBOK-25nLoWRWmBV0SVmZhqi3CEXI2nH8D_-kobR2A",
+        "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+        "sub_soal": "<p>It is written to share a personal experience.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "Gq0Q1jm-xQKaHV_B4vtP2D0nYrETja-0H6MFG8HKbDw",
+        "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+        "sub_soal": "<p>It provides instructions on visiting Mount Bromo.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "Bf3bsCA6DkIpf0Z6wYTpHgnkIL56pTtjCg1NUKTq4kA",
+        "soal_id": "OR_qOo56OD5wK5EkejDdkpoA4yGt4yRoehF7tYKX1cQ",
+        "sub_soal": "<p>It uses many arguments to convince the reader.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "8PmKVLqmfqrNqZW_QVhU-Htrgm_GvPaQfSv_iLqaw5U": {
+        "jawaban_id": "078lcbF7FFL_in4JbjbdbEQz4hajhQU857SztF8vHSpus465EIdoyspaPz_fIXWlbULNk9kqnETi_6Y_ASe-UA",
+        "jawaban": ""
+      },
+      "2xQTWBttpkBY-CIaKgKIEq4XN8T9mhTcnpKRITbV3Z8": {
+        "jawaban_id": "NoZEWF1gbPZeKUNvGbYdmwd1p6tZv5tzNaL8IwPJvuJBPPa-44c73EYegXO0wZ75hAospP1SVGrmbM1JWFNkvw",
+        "jawaban": ""
+      },
+      "BUBOK-25nLoWRWmBV0SVmZhqi3CEXI2nH8D_-kobR2A": {
+        "jawaban_id": "IYfyLxnrysKVGXgYXPTTOy37AxjJY2rLh01t8s6LXxAjPv9XKWhmJUD6tNiO1pL7GAkOyF0WHJIk9DuYwfO2bg",
+        "jawaban": ""
+      },
+      "Gq0Q1jm-xQKaHV_B4vtP2D0nYrETja-0H6MFG8HKbDw": {
+        "jawaban_id": "8VD2KIuPXFg3mRb-durA6ElBbBoDMhqnvPa4QiwVLuI15IE9P7eXfB0GllIsOhrCaCzWCLOitmiGuj6jTGiOaA",
+        "jawaban": ""
+      },
+      "Bf3bsCA6DkIpf0Z6wYTpHgnkIL56pTtjCg1NUKTq4kA": {
+        "jawaban_id": "rcHu4ndrt4szm_sFjm_Ki3ykSO7bsxI_ebNb3m6X-H5aykTTze7p7Y7ZBxkPWSt2Am8VdjuzWv2JYgDvBUVlZg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "shbNDVua5wwMPo6s91CEP3JpwDlt5J0_ahtVcBuwIPU",
+      "tipe_soal_id": "5",
+      "nomor_soal": "15",
+      "induk_soal_id": "7110",
+      "soal": "<p>Multiple-categorization question. Categorize each other statement by ticking (v) the correct column.</p>\r\n\r\n<p>Which of the following statements are True or False?</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: A. True. B. False. C. True.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan A benar dan disebutkan pada paragraf 2,<b> </b>“<i>I took many photos and even made a short video for my social media</i>.”</span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\">Pernyataan B salah karena pada paragraf 5 penulis hanya menyebutkan bahwa Gunung Bromo adalah salah satu perjalanan terbaik penulis, tidak membandingkan dengan perjalanan yang lainnya.</span></p>\r\n\r\n<p>Pernyataan C benar, penulis melihat matahari terbit setelah sampai di <i>viewpoint</i>. Hal itu disebutkan pada paragraf 3, “<i>When we arrived at the viewpoint, there were already many people waiting for the sunrise.</i>”</p>\r\n",
+      "header_pgk": "",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7110",
+      "soal": "<p><b>Questions numbers 11 to 15 refer to the text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><strong>My Memorable Trip to Mount Bromo</strong></p>\r\n\r\n<p xss=removed><span xss=removed>Last holiday, I had an unforgettable trip to Mount Bromo with my family. It was my first time visiting East Java, and I couldn’t wait to see the famous sunrise at Mount Bromo. We prepared everything a week before, such as jackets, gloves, and scarves, because we knew it would be very cold there.</span></p>\r\n\r\n<p xss=removed><span xss=removed>We left our hotel at midnight because the journey to the viewpoint took about two hours. <span xss=removed>My family and I got into the van to take us up the mountain. </span>The road was dark and quiet, but I was too excited to sleep. <span xss=removed>The driver</span> dropped us off midway, and I walked the rest of the way to the top.</span></p>\r\n\r\n<p xss=removed><span xss=removed>When we arrived at the viewpoint, there were already many people waiting for the sunrise. The temperature was freezing, and my hands felt numb, <span xss=removed>and it was a little bit hard to breathe</span>, but the view was worth it. When the sun started to rise, the sky turned orange and pink, creating the most beautiful scenery I had ever seen. Mount Bromo looked majestic with smoke flowing from its crater.</span></p>\r\n\r\n<p xss=removed><span xss=removed>After watching the sunrise, we took a Jeep down to the sea of sand, then went up the stairs to the volcano&#39;s crater. I immediately saw a big wave of sulphur rising from the crater&#39;s deep inside. It was tiring, but reaching the top felt amazing. I took many photos and even made a short video for my social media. </span></p>\r\n\r\n<p xss=removed><span xss=removed>My trip to Bromo was one of the most memorable moments in my life. I learned to appreciate nature’s beauty, and I hope I can go there again someday.</span></p>\r\n\r\n<p>(PC/100%/SST)</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "jLo2MBNXbF04nmx9MMaMeAcLplM0MneaRRxtnHgu23Y",
+        "soal_id": "shbNDVua5wwMPo6s91CEP3JpwDlt5J0_ahtVcBuwIPU",
+        "sub_soal": "<p>The writer took pictures and a short video during the trip.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "AeIkB4My0P7PcfZdXt0vuoqFjSuA9qEccfefjg-_7hw",
+        "soal_id": "shbNDVua5wwMPo6s91CEP3JpwDlt5J0_ahtVcBuwIPU",
+        "sub_soal": "<p>Bromo Mountain was the best writer’s trip compared to other trips</p>\r\n"
+      },
+      {
+        "sub_soal_id": "xip_9RNasM3S0DzIRIX31JWV-3NWeXHgCJz1BhcZxeo",
+        "soal_id": "shbNDVua5wwMPo6s91CEP3JpwDlt5J0_ahtVcBuwIPU",
+        "sub_soal": "<p>The writer saw the sunrise after reaching the viewpoint.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "jLo2MBNXbF04nmx9MMaMeAcLplM0MneaRRxtnHgu23Y": {
+        "jawaban_id": "R2_EPrwBoZbYNacHz02r4p5GEs4KH2qFxUkCbBJJ8gqDchcyJzKYbwY6iU6gx3RV6Qjn4JCecSQMC1cqF1RNAw",
+        "jawaban": ""
+      },
+      "AeIkB4My0P7PcfZdXt0vuoqFjSuA9qEccfefjg-_7hw": {
+        "jawaban_id": "KErwW84znb2a3Uxi4Qo41DiGz2sZl7jPuuDbaIhnivy4x8kn86-hFJ1FNU0fw74dTXmm90L79KHiQaY5rOfmbw",
+        "jawaban": ""
+      },
+      "xip_9RNasM3S0DzIRIX31JWV-3NWeXHgCJz1BhcZxeo": {
+        "jawaban_id": "FWaR5Z7dfIUMdlJVUIS7JRHHbEl1hxOr2YjOBw5iHd-i1cZHMNHbV_o-1nMEkw709ugIzelILA4n0esRRyrVmw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+      "tipe_soal_id": "1",
+      "nomor_soal": "16",
+      "induk_soal_id": "7116",
+      "soal": "<p><b>Multiple-choice question. Choose the correct answer.</b></p>\r\n\r\n<p>What is the main topic of the text?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: B.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Topik utama teks tersebut dapat disimpulkan dari keseluruhan isi teks, yaitu paragraf pertama menyebutkan hasil survei PISA 2022 yang menunjukkan 25% siswa Indonesia hanya mencapai Level 2 kemampuan membaca, lebih rendah dari rata-rata OECD 74%. Sedangkan paragraf kedua dan ketiga menjelaskan faktor-faktor yang menyebabkan masalah literasi, seperti kesenjangan regional dan kelemahan sistem pendidikan. Maka, opsi B adalah jawaban yang benar; teks <strong>fokus pada isu literasi membaca di Indonesia berdasarkan hasil PISA 2022</strong><b>.</b></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7116",
+      "soal": "<p><b>Questions numbers 16 to 19 refer to the following chart and text.</b></p>\r\n\r\n<p><b>Chart</b></p>\r\n\r\n<p><img height=\"275\" src=\"/erlangga_cbt_qr/adm/img/files/image(7401).png\" width=\"389\"></p>\r\n\r\n<p xss=removed><b>Text</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Essential Needs to Enhance Reading Comprehension in Indonesia</b></p>\r\n\r\n<p xss=removed><span xss=removed>A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text&#39;s relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from various sources.)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n\r\n<p> </p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "JNEheFc19pLjsLXMSHEJZq1x6IYQ-gYtr9cyjqZX9Q8",
+        "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+        "sub_soal": "<p>Indonesia’s literacy issue is mainly in weak reading comprehension.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "yHDq1rnSWs1P96XQatjJJOoz8oAdV19c02W2afL2Lps",
+        "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+        "sub_soal": "<p>Indonesia’s reading literacy issues based on PISA 2022 results.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "AV2xqoGMhPnKI6e3UpDk-35esPDaAjrgS41DSg6VHw4",
+        "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+        "sub_soal": "<p>Most Indonesian children know how to read proficiently with barely difficulty.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "0gseCO7eO0JlgR_Y-fAwotSS-MhLPl267JfyUwWmCsg",
+        "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+        "sub_soal": "<p>PISA only measures students’ ability to decode words.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "lTBUJh2SL4Lj5P-RI2Qm63M9Ath98NCjGFwAp4g3o30",
+        "soal_id": "5MKIy7Y620xzftiEtkFoiCntKnqTUCoxU0oCI75vtb8",
+        "sub_soal": "<p>The OECD average of reading proficiency is lower than Indonesia’s results.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "JNEheFc19pLjsLXMSHEJZq1x6IYQ-gYtr9cyjqZX9Q8": {
+        "jawaban_id": "Ty5jYA0eeapn9H4YizNFhh6Q7AwAgKeMZ4k7BBPuylAoJk2MIQAtdONbAJqDiBh5KkkRjFr5vrrNcGSBjGo_pw",
+        "jawaban": ""
+      },
+      "yHDq1rnSWs1P96XQatjJJOoz8oAdV19c02W2afL2Lps": {
+        "jawaban_id": "5PzGcJOOGnPoiDyokKNsonDlpIg9FE2tCvnmtDx7LxUwdswbcX8r7WxBc163ZMhMdgoxIV9aSnWqQaY8TehCHg",
+        "jawaban": ""
+      },
+      "AV2xqoGMhPnKI6e3UpDk-35esPDaAjrgS41DSg6VHw4": {
+        "jawaban_id": "1exI98_Zi-wKR6vAofgKDnnarKr1retqkPX_2e1XTtQesnd2yTdbKzVa1ldbYT0vnO_D4RMmrDBj177utRKFtA",
+        "jawaban": ""
+      },
+      "0gseCO7eO0JlgR_Y-fAwotSS-MhLPl267JfyUwWmCsg": {
+        "jawaban_id": "MKMW5izP1bkSHcCnsMfkfH4-xw9AuEbdnMJQM64uemSSNqtkYKrOJVXLPF5JJTDlEoUeUK_QbYLIMZFdUNxOCg",
+        "jawaban": ""
+      },
+      "lTBUJh2SL4Lj5P-RI2Qm63M9Ath98NCjGFwAp4g3o30": {
+        "jawaban_id": "AyJ5kw0jmhj6UtJ0TGbm5Ahja4l0ABXLfH0KRGUH2wXSSNnhwQb9cb37W76jo-SV5Mfid6ZCumNRhQlkho9sMA",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+      "tipe_soal_id": "2",
+      "nomor_soal": "17",
+      "induk_soal_id": "7116",
+      "soal": "<p><b>Multiple-choice multiple-answer questions (No. 17 to 19). Choose more than one answer.</b></p>\r\n\r\n<p>Which of the following statements is implicit suggested about the chart?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: B, D, dan E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Pernyataan yang secara implisit ditunjukkan oleh grafik adalah nilai membaca Indonesia secara konsisten meningkat dari tahun 2000 hingga 2009 sebelum mulai menurun, skor membaca terendah terungkap dalam ujian tahun terakhir, menunjukkan tren penurunan yang mengkhawatirkan, dan hasil pada tahun 2000 dan 2018 memiliki skor yang sama. Jawaban yang paling sesuai adalah opsi B, D, dan E.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7116",
+      "soal": "<p><b>Questions numbers 16 to 19 refer to the following chart and text.</b></p>\r\n\r\n<p><b>Chart</b></p>\r\n\r\n<p><img height=\"275\" src=\"/erlangga_cbt_qr/adm/img/files/image(7401).png\" width=\"389\"></p>\r\n\r\n<p xss=removed><b>Text</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Essential Needs to Enhance Reading Comprehension in Indonesia</b></p>\r\n\r\n<p xss=removed><span xss=removed>A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text&#39;s relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from various sources.)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n\r\n<p> </p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "jIm2we514T3fQuGDcgwjq8rbCL12V6Kk9EauAX6hcJg",
+        "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+        "sub_soal": "<p>Indonesia’s reading performance has always been higher than the OECD average.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "rcJCuL1jYqj1HvY2CrWp4bfQ_PaF5OTramyfJTmO_0g",
+        "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+        "sub_soal": "<p>Indonesia&#39;s reading performance consistently improved from 2000 to 2009 before it started to decline.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PCeKT7TlraF5S2c7cVw80KZpnvJcqGtk2LjVcpyStSw",
+        "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+        "sub_soal": "<p>The graph suggests that Indonesia has totally addressed its literacy issues.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "BiXjvlv-zxPAYRb0hPh9TbC-ZsN4obEd05AmUynApk0",
+        "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+        "sub_soal": "<p>The lowest reading score revealed in the last year test, showing a concerning downward trend.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "rDfrlJIXZlg_Wb3O5FIXKWbseLs8MuK4iV4q2d8gdhA",
+        "soal_id": "fZLbprSF0Ng7If3nCpYG01d6uZoldV2kqj_ijTDQwsc",
+        "sub_soal": "<p>The results in 2000 and 2018 have the same score points.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "jIm2we514T3fQuGDcgwjq8rbCL12V6Kk9EauAX6hcJg": {
+        "jawaban_id": "AOXY0_70j-2wDrC97ZH3noquwerKgiRWCY9xnpewmAiQwlofeYJyAcPP9uYy8W3La3J83fK-3sZRT1HG9uuGAw",
+        "jawaban": ""
+      },
+      "rcJCuL1jYqj1HvY2CrWp4bfQ_PaF5OTramyfJTmO_0g": {
+        "jawaban_id": "xo4BuVxdGkkeTbFkpfTLR6yIoDFR3VvIagE_bWIDloMmBjSSkbUeMtoSbOtmHhOjONDtkaleeUUPMOnoDfGEuw",
+        "jawaban": ""
+      },
+      "PCeKT7TlraF5S2c7cVw80KZpnvJcqGtk2LjVcpyStSw": {
+        "jawaban_id": "ZaIp7gDKia2yDMSwGfXr_4mFpuZ_k4hCffeLkwUAbfqoafbqZewwyU_0riRmFw51aKBN-DLR4SIHEuvhdWpIpg",
+        "jawaban": ""
+      },
+      "BiXjvlv-zxPAYRb0hPh9TbC-ZsN4obEd05AmUynApk0": {
+        "jawaban_id": "P7FCe9LotAG63oUoijLuPGTHxSLqQqMfDFJZkb7CFyHwZUZjOhcpjpZn9SFWC12SWA_evJjHJ7Tq9XuGK_2LYg",
+        "jawaban": ""
+      },
+      "rDfrlJIXZlg_Wb3O5FIXKWbseLs8MuK4iV4q2d8gdhA": {
+        "jawaban_id": "Ncf1F2qVof3r-39slM6BKyplgMuP9MuiHGzv-K7EJbamwiUTtH4VQYJHhWCeCB6h2taUGSmAph5FMKrn9W4MZg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+      "tipe_soal_id": "2",
+      "nomor_soal": "18",
+      "induk_soal_id": "7116",
+      "soal": "<p>What information can we get in paragraph 2 of the text?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: C, D, dan E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Paragraf 2 menjelaskan faktor-faktor penyebab rendahnya kemampuan membaca siswa Indonesia<b>:</b></span></p>\r\n\r\n<ul>\r\n <li xss=removed><span xss=removed>“<i>Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities</i>.”</span></li>\r\n <li xss=removed><span xss=removed>“<i>At the institutional level, Indonesian schools have fewer freedoms in decision-making…</i>”</span></li>\r\n <li xss=removed><span xss=removed>“<i>This problem is further exacerbated by the disparity in educational quality between regions.</i>”</span></li>\r\n</ul>\r\n\r\n<p xss=removed><span xss=removed>Maka, opsi C, D, dan E adalah yang paling sesuai.</span></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7116",
+      "soal": "<p><b>Questions numbers 16 to 19 refer to the following chart and text.</b></p>\r\n\r\n<p><b>Chart</b></p>\r\n\r\n<p><img height=\"275\" src=\"/erlangga_cbt_qr/adm/img/files/image(7401).png\" width=\"389\"></p>\r\n\r\n<p xss=removed><b>Text</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Essential Needs to Enhance Reading Comprehension in Indonesia</b></p>\r\n\r\n<p xss=removed><span xss=removed>A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text&#39;s relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from various sources.)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n\r\n<p> </p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "sNFvgfe-3lmKX2bZgV4064EoE18WLj1BxXeOnuEwC-w",
+        "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+        "sub_soal": "<p>75% of Indonesian children have a lack of reading comprehension.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PcKNVpPEUGaCCYEGJSO21r94PwiyE6UQ-WENjxxxDk4",
+        "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+        "sub_soal": "<p>In terms of reading proficiency, Indonesian students fall short of the OECD average of 74%.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "7cxHjPC79DfnewTjYcJtz0QSrqyWURUqOWeSfajn_RA",
+        "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+        "sub_soal": "<p>Indonesian schools have less autonomy in making decisions than the average for the OECD.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "rG7mGIQXnDr6UbBevARTkdlYQZ8JwtzlCU-hxVfMalM",
+        "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+        "sub_soal": "<p>Qualified teachers, educational resources, and facilities is limited for students in developing areas.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6NEqrdMIP2hD8O0DrQDaMTm0YIx6_1Lx5eHnmtayrlM",
+        "soal_id": "eA0hgalohpAi_bbt3HRjS_R1A-E1YnQJ5d8th4XATA8",
+        "sub_soal": "<p>The difference in educational standard among the regions is one of the big issues for reading skills.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "sNFvgfe-3lmKX2bZgV4064EoE18WLj1BxXeOnuEwC-w": {
+        "jawaban_id": "KWYBpsoRDoeGMfk2CdBPxjxOVBaxvTAfAhUPPXlaoDR3YCOcgcZ8Hc9jSXOxBhiUGWp8VQsuysvBNQFYgNmoxQ",
+        "jawaban": ""
+      },
+      "PcKNVpPEUGaCCYEGJSO21r94PwiyE6UQ-WENjxxxDk4": {
+        "jawaban_id": "EZKUp1E3MXJSC_ksxpE98rCP9rhcq4fBLmPOaaf2orMKFPUP6ELq5BJVE8VMXdl5gIGTlTrH-0KN2HtaRqtN5Q",
+        "jawaban": ""
+      },
+      "7cxHjPC79DfnewTjYcJtz0QSrqyWURUqOWeSfajn_RA": {
+        "jawaban_id": "OjbyX2sY1heWQgwMSrffIzuYu-f0day6aGA8pCAu0pwUMAt_UXHCOV9a4h7-A0eY26Q67AjDK8h_c5ZTfzuSIQ",
+        "jawaban": ""
+      },
+      "rG7mGIQXnDr6UbBevARTkdlYQZ8JwtzlCU-hxVfMalM": {
+        "jawaban_id": "hLJKIYk8YkS5Q9sqSiHWGFxf48dAP5eMtoW5dGcajIpzY-vmgDCHx3nbuaTBnzC11t8ypu1OyNXSIza_R0Qphw",
+        "jawaban": ""
+      },
+      "6NEqrdMIP2hD8O0DrQDaMTm0YIx6_1Lx5eHnmtayrlM": {
+        "jawaban_id": "Pn3gf28SxFIGgfR8NsFVYMu5_eOadUA4mVuFWhLuA7-8FRXMD706N9YicZ9tz9vzSVa-63yYfrjmju_uRZ6Xug",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "8Bj7fjwVWeBVHDWyqNryFWycgPZmZzHTz31WPvwihu0",
+      "tipe_soal_id": "5",
+      "nomor_soal": "19",
+      "induk_soal_id": "7116",
+      "soal": "<p><b>Multiple-categorization question. Categorize each other statement by ticking (P) the correct column.</b></p>\r\n\r\n<p>Which of the following statements are <b>Fact</b> or <b>Opinion</b>?</p>\r\n",
+      "pembahasan": "<p><b>Jawaban: A. Fact. B. Opinion. C. Fact.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p>Pernyataan A adalah fakta karena berdasarkan data akurat dari PISA 2022 bahwa tren kemampuan membaca siswa Indonesia menunjukkan penurunan.</p>\r\n\r\n<p>Pernyataan B adalah opini karena “<i>it seems</i>” pada awal kalimat menunjukkan pendapat pribadi penulis mengenai perlunya reformasi sistematis, dan tidak bisa dibuktikan kebenarannya.</p>\r\n\r\n<p>Pernyataan C adalah fakta, <i>“PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency”</i>, kalimat tersebut dengan jelas menunjukkan sebuah data yang dapat dibuktikan kebenarannya</p>\r\n",
+      "header_pgk": "",
+      "title_1": "Fact",
+      "title_2": "Opinion"
+    },
+    "induk_soal": {
+      "induk_id": "7116",
+      "soal": "<p><b>Questions numbers 16 to 19 refer to the following chart and text.</b></p>\r\n\r\n<p><b>Chart</b></p>\r\n\r\n<p><img height=\"275\" src=\"/erlangga_cbt_qr/adm/img/files/image(7401).png\" width=\"389\"></p>\r\n\r\n<p xss=removed><b>Text</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Essential Needs to Enhance Reading Comprehension in Indonesia</b></p>\r\n\r\n<p xss=removed><span xss=removed>A survey by the Program for International Student Assessment, or PISA, in 2022 stated that even though about 75% of Indonesian children can read, most of them have trouble comprehending the text&#39;s relevance. PISA 2022 data states that 25% of students in Indonesia only reached Level 2 reading proficiency, lower than OECD’s (the Organisation for Economic Co-operation and Development) average, which is 74%. At a minimum, these students can identify the main idea in a text of moderate length, find information based on explicit and complex criteria, and reflect on the purpose as well as the form of texts when clearly instructed to do so. However, the survey, which was conducted every three years, revealed that Indonesian students’ reading skills have a serious literacy issue where the majority of students are incapable of using higher-order cognitive abilities, such as interpretation and analysis.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Indonesia’s literacy problem is not simply about teaching children to read but ensuring they can comprehend and critically apply the knowledge that they get from reading. Indonesia needs systematic reform as a necessity to boost students’ ability to understand what they read and how it relates to their lives and is relevant to their practical skills. This problem is further exacerbated by the disparity in educational quality between regions. Students in underdeveloped provinces have little access to trained educators, learning materials, and educational facilities. At the institutional level, Indonesian schools have fewer freedoms in decision-making, in which fewer principals have responsibility for teacher hiring and fewer educators have the authority to decide on educational resources. These systemic weaknesses contribute to reduced literacy performances.</span></p>\r\n\r\n<p xss=removed><span xss=removed>In conclusion, the PISA 2022 results confirm that weak reading comprehension, regional inequality, and systemic shortcomings remain major obstacles. Therefore, Indonesia must strengthen teacher training, improve school autonomy, and ensure equal access to quality resources to create meaningful improvements in literacy.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from various sources.)</p>\r\n\r\n<p>(DC/100%/SST)</p>\r\n\r\n<p> </p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "pnSe-saOypvPfFu46gCHVeCusPhiS5PKvz4xkbqEN5c",
+        "soal_id": "8Bj7fjwVWeBVHDWyqNryFWycgPZmZzHTz31WPvwihu0",
+        "sub_soal": "<p>The chart shows that Indonesian students’ progress in reading skills has been declining from 2015 to 2022.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "zqsciCrRoafFQR4kN4HLrF-ESLzi8njK3dOeGcqXXdE",
+        "soal_id": "8Bj7fjwVWeBVHDWyqNryFWycgPZmZzHTz31WPvwihu0",
+        "sub_soal": "<p>It seems that systematic improvement is necessary to overcome the discrepancy of reading comprehension and to boost education structural improvement.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "m-A-R79D-kWoCYZNNFlSAAMNfRDS6eZLiXfn_KhAVFI",
+        "soal_id": "8Bj7fjwVWeBVHDWyqNryFWycgPZmZzHTz31WPvwihu0",
+        "sub_soal": "<p>According to PISA 2022, 25% of Indonesian students have achieved Level 2 in reading competence.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "pnSe-saOypvPfFu46gCHVeCusPhiS5PKvz4xkbqEN5c": {
+        "jawaban_id": "mCu15phyMb7368TJqog9_T-xh8FDZj07CeShcii38QCMCYjOH_MYLVbkfllIFktXQsbi2NYlgoEGeDFuGV-NOw",
+        "jawaban": ""
+      },
+      "zqsciCrRoafFQR4kN4HLrF-ESLzi8njK3dOeGcqXXdE": {
+        "jawaban_id": "__vNdmGldC85e1aJ-zFOt0XgEDMeiAywwP5leISpZ_QuIVtzGon3WJrbq6PZhDG8s5X6PaQtmpASFVxyVCmAiA",
+        "jawaban": ""
+      },
+      "m-A-R79D-kWoCYZNNFlSAAMNfRDS6eZLiXfn_KhAVFI": {
+        "jawaban_id": "wI8g2QDpo0nRqJjLHENi4Tj4P-XgZpAFjJEt2OsTFZ56E1X96gthuh18n9xYMEGBjQ1iTiURwFjVwnO5fy-Ptg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+      "tipe_soal_id": "1",
+      "nomor_soal": "20",
+      "induk_soal_id": "7121",
+      "soal": "<p><b>Multiple-choice questions (20 to 21). Choose the correct answer.</b></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>What is the main message from the text?</span></p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: D.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Pesan utama dari dongeng <em>Amat Mude</em> adalah bahwa seseorang dapat meraih kebahagiaan dan keberhasilan melalui <strong>ketekunan, keberanian, dan kesabaran</strong>. Amat Mude hidup dalam kesulitan sejak kecil, bahkan harus menghadapi ujian berat yang diperintahkan Raja Mude. Namun, ia selalu bersikap baik, berani, dan sabar. Karakter yang baik dan ketekunan akhirnya membawa Amat Mude pada kesuksesan, kebahagiaan, dan takhta yang pantas.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "QoW7JJpWJqkUXanioKyNchNaClKS02s3gUihnvrOfiM",
+        "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+        "sub_soal": "<p>Authority and power can only be gained through trickery and cruelty.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "m6qBoQdutAQh1c7PTdT-b5PU3IumFX89Xc7UzZchMbs",
+        "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+        "sub_soal": "<p>Having riches is the only path to regain dignity and honor.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PxtIHZfjyBluOpN5urselcc5r331LXJZjKQSDw-3uFc",
+        "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+        "sub_soal": "<p>Leaders must depend on supernatural beings to overcome challenges.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "cbbuAbEZGJrICeZpJPUBzXxWDO5izS_Mv79zQampSAQ",
+        "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+        "sub_soal": "<p>People can achieve success and joy with perseverance, courage, and patience.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6QBIWyB95f6WDjtSHyUS7NoNJYbrejOQ47d2CtrT0_I",
+        "soal_id": "A3CoOuC7M7rKaswgWAbd5O3vezLu5C1tFRNYZ8FlTzA",
+        "sub_soal": "<p>To act based on jealousy and selfishness will always bring someone victory.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "QoW7JJpWJqkUXanioKyNchNaClKS02s3gUihnvrOfiM": {
+        "jawaban_id": "QQeKwPMUAXhWQQ8prkgPNY_ie7pNI_TpKoASEEVZGQqNXVBpcDxmVKurtSpIYjiPM2OWdHcLwlI4g8-TQfCVXg",
+        "jawaban": ""
+      },
+      "m6qBoQdutAQh1c7PTdT-b5PU3IumFX89Xc7UzZchMbs": {
+        "jawaban_id": "1ffn9adnTUhvswd60U1dlt98dNgOs8esk0oW9H1dF_4nfltRpA8C0bAd4Z_tXW_bOLDVTlUTFnRnlJucuXggpw",
+        "jawaban": ""
+      },
+      "PxtIHZfjyBluOpN5urselcc5r331LXJZjKQSDw-3uFc": {
+        "jawaban_id": "4xOUrb_Jl1paEclQOi6OIdMdVNHPbfHB_9lWpQUDo9028Qww-IUXVS5z915Hq5urcNGV8C9cedLZDASMCzz_bw",
+        "jawaban": ""
+      },
+      "cbbuAbEZGJrICeZpJPUBzXxWDO5izS_Mv79zQampSAQ": {
+        "jawaban_id": "kA0pZg0M8OryLbyKRIoyDDzjJB742eKj3l5cn_JpL1hzdTaKF6D17bWR3SjJdjAp2WKWZhcQmV-GZ3DRp1_7Gg",
+        "jawaban": ""
+      },
+      "6QBIWyB95f6WDjtSHyUS7NoNJYbrejOQ47d2CtrT0_I": {
+        "jawaban_id": "tkSS-NBwuNufOMlWsnrN39_Fo_i77ewwPJ74EyZRYnpSG00bnin1YCzOJ9VZ8GaUipNv6FkFZlTiFO3xDsk08w",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+      "tipe_soal_id": "1",
+      "nomor_soal": "21",
+      "induk_soal_id": "7121",
+      "soal": "<p>“Raja Mude then <u>repented</u> for his actions and <u>relinquished</u> the throne back to Amat Mude.” What are the synonyms for the underlined words?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: C.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Kata <i>“repented”</i> artinya menyesal atau bertobat dan memiliki makna yang sama (sinonim) dengan “<i>regretted”</i> (menyesal). Sedangkan, <i>“relinquished”</i> artinya melepaskan atau menyerahkan dan memiliki makna yang sama (sinonim) dengan “<i>released</i>” (melepaskan).<b> </b><em>Opsi A, B, D, dan E salah. </em></span></p>\r\n\r\n<p xss=removed><span xss=removed><em>A. Begged for mercy (memohon belas kasihan), hid (bersembunyi). </em></span></p>\r\n\r\n<p xss=removed><span xss=removed><em>B. Delighted in (bergembira), stole (mencuri). </em></span></p>\r\n\r\n<p xss=removed><span xss=removed><em>D. To be happy (merasa bahagia), gave away (menyerahkan). </em></span></p>\r\n\r\n<p><em>E. To be proud (merasa bangga), held onto (mempertahankan).</em></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "yAthPwuJx8iTCD4Ot-xh_WXNjvoc2ZAgKDSLBThcKB4",
+        "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+        "sub_soal": "<p>Begged for mercy, hid.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "1GLuEd3POiPAFZiJ9ydBDB0FkkkOAHa-iewTLkXYq3Y",
+        "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+        "sub_soal": "<p>Delighted in, stole.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "8PHdUlFxOC1Ij-GZE-fDcTjjrgIv8pr-YyjlD8F8yBI",
+        "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+        "sub_soal": "<p>Regreted, released.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "mKKJhgwkkC8FIsEsFKm2MXuPLeJcXB5O-sE-pM43xk8",
+        "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+        "sub_soal": "<p>To be happy, gave away.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "geU9Io1b8QxPTFpt9nyL9EJKDUV1fLc48cMdrbkC5QY",
+        "soal_id": "WNZTIyURlm-Ux3avoRziiTLKLZnf3H6BqNgsW2sKWFo",
+        "sub_soal": "<p>To be proud, held onto.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "yAthPwuJx8iTCD4Ot-xh_WXNjvoc2ZAgKDSLBThcKB4": {
+        "jawaban_id": "bSF_N_OraveV3A0Xg79G6IfS5Ib3juAmDtwfekilC6wtsLjQ5W8bRQAsl1FhxR1UxXP4do7QgDockzAO0NIFoA",
+        "jawaban": ""
+      },
+      "1GLuEd3POiPAFZiJ9ydBDB0FkkkOAHa-iewTLkXYq3Y": {
+        "jawaban_id": "aZTMQptIJ4QFOb9FgOsX5Fgf8mlIbF1S9jp0HqwabKNcPHU_2mX-sWIHCLzzNe94Lg6kGhcLvEOfn_2SJ9PIgw",
+        "jawaban": ""
+      },
+      "8PHdUlFxOC1Ij-GZE-fDcTjjrgIv8pr-YyjlD8F8yBI": {
+        "jawaban_id": "ru39aWGbn1cSDNrN6LX0J43lFS4vbRYt81moLkep1h407yrzr0GyuAM6XE8OgIwI4yM2M2oEn5owNPEVYRMDUw",
+        "jawaban": ""
+      },
+      "mKKJhgwkkC8FIsEsFKm2MXuPLeJcXB5O-sE-pM43xk8": {
+        "jawaban_id": "IJK9pLaoDjZjJUgZy7ZfnDdSrskAwHkPogiNi-qkKei_iELNJb3pNMjl-EdsLrRi_9pTdt8OsIxNjuP5v27ZFg",
+        "jawaban": ""
+      },
+      "geU9Io1b8QxPTFpt9nyL9EJKDUV1fLc48cMdrbkC5QY": {
+        "jawaban_id": "uWftyOlDTm-dR7dPhTzzIzo5ULlFPfom-08rJVxvtLm8tQ1ilfuxxoBe5pwUwzgCvd528UQEjxrS5Zo1J4y1cQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+      "tipe_soal_id": "2",
+      "nomor_soal": "22",
+      "induk_soal_id": "7121",
+      "soal": "<p><b>Multiple-choice multiple-answer questions (22 to 23). Choose more than one answer.</b></p>\r\n\r\n<p>What did the wealthy merchant couple do after finding golden eggs in the fish?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: B, C, dan E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Pada paragraf kedua dijelaskan pada bagian, “<i>Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status</i>.\" yang dapat disimpulkan bahwa setelah menemukan telur emas di dalam ikan, pasangan pedagang kaya itu membantu membangun rumah yang lebih baik untuk Amat Mude dan ibunya, mengembalikan sebagian harta mereka, serta mengangkat kembali status sosial mereka. Opsi B, C, dan E adalah jawaban yang paling tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "YSn9A3kRmPr2hDVyGs9AugfKilvbCQehAxpdHfgJcB8",
+        "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+        "sub_soal": "<p>Brought Amat Mude’s mother as his wife’s servant.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "t6hztHcGAXNBvL6nRUNy8zO24KIsmdSyt1Aw6ac78Y8",
+        "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+        "sub_soal": "<p>Built a better house for Amat Mude and the former queen.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "OhQnuTm6p-8azUQR1UNVQUGDZDxskDzKSPAIYWw_ves",
+        "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+        "sub_soal": "<p>Elevated Amat Mude and the former queen’s status.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "PQjd-7foQry8aOmZcAV6IVVt5EGNpAOX8U_PcO2PINE",
+        "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+        "sub_soal": "<p>Helped Amat Mude to inherit the throne.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "hL5-pJTfgZBb5tJkPhArBuWZjf_Y9M_-iGr-XkrlBiE",
+        "soal_id": "47kyIrMWywv5Mv-H0OG4CutLRE_WipeIKlZ7JYutS6w",
+        "sub_soal": "<p>Restored some of Amat Mude and the former queen’s wealth.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "YSn9A3kRmPr2hDVyGs9AugfKilvbCQehAxpdHfgJcB8": {
+        "jawaban_id": "nwVgj9qybpkfpqzymLb2472nRcY-RcblB8Jiu7uuR8wwb0H_QksnALtoJzZ9KqDA6uMNkQV9cLmax6ScAOVQRA",
+        "jawaban": ""
+      },
+      "t6hztHcGAXNBvL6nRUNy8zO24KIsmdSyt1Aw6ac78Y8": {
+        "jawaban_id": "2K_yGg-L_Dg_WSWJxymKKvcEVQwfbHvXlnJdoupNcKcYfHBvSb1C0TOA7hXceWFA1Ks-M56AXK6zAtrSV5ARVw",
+        "jawaban": ""
+      },
+      "OhQnuTm6p-8azUQR1UNVQUGDZDxskDzKSPAIYWw_ves": {
+        "jawaban_id": "a4OdnlHuRM9wf6AxHrro-qisZh2h5jWDyK32XgcsaeevcHCsc-SOVKuEAzOagD8jRZvwUQNWWb85YlifWvTnrQ",
+        "jawaban": ""
+      },
+      "PQjd-7foQry8aOmZcAV6IVVt5EGNpAOX8U_PcO2PINE": {
+        "jawaban_id": "iGBFUrk8PNyw8kOZmkgeFyQ5XLK9BQmcepF01BRdnPPgSTLXN6MMHJ-x_ynEqZpQMR7xka-kBZfE8UNNtqnlmA",
+        "jawaban": ""
+      },
+      "hL5-pJTfgZBb5tJkPhArBuWZjf_Y9M_-iGr-XkrlBiE": {
+        "jawaban_id": "lAxO82iglSHJG_TUcxaYM0Wr37EeyRnVT-NFzjF3GhcY5elNhCFPS_XbTXZ-zkbK0owC3nf8DZtYMCp-tMcx9g",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+      "tipe_soal_id": "2",
+      "nomor_soal": "23",
+      "induk_soal_id": "7121",
+      "soal": "<p>Which of the following statements about the story of Amat Mude are true?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A dan D.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Opsi A dan D benar karena sesuai dengan apa yang dijelaskan dalam teks. Opsi B salah karena di <strong>paragraf 3</strong><b> </b>dijelaskan bahwa yang menemukan telur emas adalah <strong>istri pedagang kaya</strong><b> </b>saat memotong ikan pemberian ibu Amat Mude. Opsi C salah, justru Raja Mude ingin menyingkirkan Amat Mude. Opsi E juga salah dan didukung oleh pernyataan yang ada di paragraf 3, <em>“Instead of attacking him, they helped him reach the island.”</em></p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "f4SWTnFDPMjKl2HUnBhkADXvSfhxRUBBRJq82u-E3bo",
+        "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+        "sub_soal": "<p>Amat Mude promised to help Putri Niwer Gading after she told him her woeful story.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "oXFbOHb2vrph_a4oUHs6BXJ4OW7L7_J9uHVMIWhAW4w",
+        "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+        "sub_soal": "<p>People discovered golden eggs inside one of Amat Mude’s fish.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "05H98wjyu1CSFjyxgYTRXlayso3f_4gQzwS0Yf1gccQ",
+        "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+        "sub_soal": "<p>Raja Mude encouraged Amat Mude to inherit the throne.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "sxBnxxc84LQWorlsyHrW4ZKdQkglmHTFzYg0IFd4Rs4",
+        "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+        "sub_soal": "<p>The former queen nurtured Amat Mude with care and good morals, even after ended up in poverty.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "J9BoyjfUpe3xsZEyK6O0wjIbCxAsEtQ3pCvDVSr2Lus",
+        "soal_id": "ufg_Ak9zxwajcloxTsq81Wb21A-EzFYE52Y_bNEvT6M",
+        "sub_soal": "<p>The golden fish, the gigantic crocodile, and the dragon tried to attack Amat Mude on the island.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "f4SWTnFDPMjKl2HUnBhkADXvSfhxRUBBRJq82u-E3bo": {
+        "jawaban_id": "ApLR7WhYkOVtUwSiTl_EbIRdLaxFGakqeP6dDSlgpbmk6y1tqf99uJ1Lt_VykhDWftV4K7WrcCWJ8qhO0IMd4Q",
+        "jawaban": ""
+      },
+      "oXFbOHb2vrph_a4oUHs6BXJ4OW7L7_J9uHVMIWhAW4w": {
+        "jawaban_id": "FZpDMyfRkGGDcKvTUw-V6o1z728DX0Zva4lHZ7bFEwJCYkzZ5dCgz3MXavpzVm5CQs7cpThh1W7p_7HfTDjLoA",
+        "jawaban": ""
+      },
+      "05H98wjyu1CSFjyxgYTRXlayso3f_4gQzwS0Yf1gccQ": {
+        "jawaban_id": "zhDWL0Jt8EymFKEk1y1io7NENbUHNBcRuxw4f4BsqLlBme9zBHYad68HpWbpO0L73hlGx-L6LDFQYZrpiKInfw",
+        "jawaban": ""
+      },
+      "sxBnxxc84LQWorlsyHrW4ZKdQkglmHTFzYg0IFd4Rs4": {
+        "jawaban_id": "VpxnWZcOO_lDCeYvi9U8PGZtsZwnONk86hEH_6ZaMzABtRZK_aAz3XIl3uic1kR_t9Ao0vgFh6dtXLOwYgqo7w",
+        "jawaban": ""
+      },
+      "J9BoyjfUpe3xsZEyK6O0wjIbCxAsEtQ3pCvDVSr2Lus": {
+        "jawaban_id": "J7ZTNtDmZLPw1Isdsn-1teddM_1CMpqC7Tz0ImynoUSp7sB7PstwMGqDv6A3Q6h4m87nm3HY9999SNkurW8v0Q",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "zFiWWRwihs7IovCxUMUR_AdvnWkNwW6fxW1WdlLn-zU",
+      "tipe_soal_id": "5",
+      "nomor_soal": "24",
+      "induk_soal_id": "7121",
+      "soal": "<p><b>Multiple-categorization questions (24 to 25). Categorize each other statement by ticking (P) the correct column.</b></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>Which of the following statements are <b>True</b> or <b>False</b>?</span></p>\r\n",
+      "pembahasan": "<p><b>Jawaban: A. True. B. False. C. True.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p>Pernyataan A benar karena cerita rakyat memang mengajarkan nilai moral, seperti kesabaran, kerendahan hati, kehormatan, dan keberanian melalui tokoh Amat Mude.</p>\r\n\r\n<p>Pernyataan B salah. Cerita <i>The Fairy Tale of Prince Amat Mude</i> bukanlah catatan sejarah atau kisah nyata tentang raja-raja yang pernah memimpin di Tanah Alas. Ini adalah dongeng rakyat (<i>folktale</i>) yang penuh dengan unsur magis, tokoh khayalan, dan pelajaran moral. Jadi, tujuannya bukan memberi informasi sejarah, melainkan menyampaikan nilai-nilai moral lewat cerita fiksi.</p>\r\n\r\n<p>Pernyataan C benar karena selain menyampaikan pesan moral, dongeng seperti ini juga memiliki tujuan utama, yaitu untuk menghibur pembaca.</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "wrkaWqjV5EOO8tWgFaKsUGWr_wZg4hIbEiNBjEBJq9k",
+        "soal_id": "zFiWWRwihs7IovCxUMUR_AdvnWkNwW6fxW1WdlLn-zU",
+        "sub_soal": "<p>The purpose of the text is to give moral lessons about patience, modesty, honor, and bravery through a fictional story.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "mQLPbq7ONxWTzjji3crWerbA1AW7gNFl-Oe3UXlCJjc",
+        "soal_id": "zFiWWRwihs7IovCxUMUR_AdvnWkNwW6fxW1WdlLn-zU",
+        "sub_soal": "<p>The purpose of the text is to retell readers with the history of the Land of Alas’ past rulers.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "iD84kENsyLQu4JqDKCMMSSqEA7OyrAdcndYEWWXBrwE",
+        "soal_id": "zFiWWRwihs7IovCxUMUR_AdvnWkNwW6fxW1WdlLn-zU",
+        "sub_soal": "<p>The purpose of the text is to entertain readers with a traditional folktale</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "wrkaWqjV5EOO8tWgFaKsUGWr_wZg4hIbEiNBjEBJq9k": {
+        "jawaban_id": "5mXgE5WGeIeiK7-OP9piYkbhO5uKY60SoRftyPoiH7qhsG_NVHgZYSBWV-WG9RpgKezEElCSwqMPWl40WoXDOg",
+        "jawaban": ""
+      },
+      "mQLPbq7ONxWTzjji3crWerbA1AW7gNFl-Oe3UXlCJjc": {
+        "jawaban_id": "EkE5UUgCSFBtgbKVEIAV6eZ0E2-M2yZyaiC9fPsOrNg9fviy-tbnxJ3ZLE-bm5pTQOVuVn5hCmLeoOH-LCSBSQ",
+        "jawaban": ""
+      },
+      "iD84kENsyLQu4JqDKCMMSSqEA7OyrAdcndYEWWXBrwE": {
+        "jawaban_id": "WokSmSQHpjDV0B6cmtngv3Bb0MkkuBQQbNeOXqCXfBp_ArE1w7zcaVVd44eSMehPPHjRMCpe5-pinQU2qDCHog",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "WlilXm5Ran5OWz5I6PfeiLXasrZgum86exfawVKrnqI",
+      "tipe_soal_id": "5",
+      "nomor_soal": "25",
+      "induk_soal_id": "7121",
+      "soal": "<p>Which of the following statements are <b>True</b> or <b>False</b>?</p>\r\n",
+      "pembahasan": "<p><b>Jawaban: A. False. B. False. C. True.</b></p>\r\n\r\n<p><b>Pembahasan:</b></p>\r\n\r\n<p>Pernyataan A salah karena berbanding terbalik pada isi teks yang ada di paragraf 3, yaitu <i>“Instead of attacking him, they helped him reach the island.”</i>, artinya, alih-alih menyerangnya, mereka (ikan emas, buaya besar, dan naga) membantunya mencapai pulau tersebut.</p>\r\n\r\n<p>Pernyataan B juga salah. Pada paragraf 4 tertulis: <i>“Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree …”</i>, kalimat tersebut menyimpulkan bahwa “<i>ravaging beasts</i>” justru menjadi rintangan, bukan penolong.</p>\r\n\r\n<p>Penyataan C benar dan dijelaskan dalam beberapa bagian dalam teks bahwa tindakan Amat Mude menunjukkan keberanian dan kesabaran menghadapi rintangan.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7121",
+      "soal": "<p><b>Questions numbers 20 to 25 refer to the following table and text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b>The Fairy Tale of Amat Mude</b></p>\r\n\r\n<p xss=removed><span xss=removed>A long time ago in the Land of Alas, there lived a wise and fair king and queen who were admired by their people. One day, the royal couple was joyful that the queen had given birth to a son named Amat Mude. Sadly, the king died while Amat Mude was still a baby. Raja Mude, the king&#39;s younger brother, was chosen as a temporary ruler. However, he was harsh, envious, and greedy. In order to obtain complete authority over the Land of Alas, he exiled the queen and Amat Mude to a faraway forest. There they lived in a hut.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The former queen raised Amat Mude with love and moral principles despite the difficulties. Amat Mude grew into a kind, bright, and attractive young man, not to mention he was also a proficient fisherman. Amat Mude’s mother never lacked fish to sell in the market near the forest where they lived. One day in the market, Amat Mude’s mother was recognized by a wealthy merchant who was an old friend of the previous king. Amat Mude’s mother gave the biggest fish she had to the merchant and told him to give it to his wife as a token for their families’ friendship. When the merchant’s wife cut the fish to cook it, she discovered golden eggs inside. Realizing that this fortune was not their family’s alone but also Amat Mude’s and his mother’s, the merchant couple helped build a better house for Amat Mude and the former queen. The merchant couple also restored some of their wealth and elevated their status. Amat Mude’s new status made him even more loved and respected by the people from all over the kingdom.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Meanwhile, the news of Amat Mude’s virtues reached Raja Mude. This made him disturbed by the people’s regard of their success and worried because he thought Amat Mude could reclaim his legitimate reign. Hoping to get rid of him, Raja Mude ordered Amat Mude to get some ivory coconuts from a dangerous island inhabited by wild creatures. Amat Mude bravely sailed through storms to reach the island. He encountered mystical beings: a magical golden fish, a gigantic crocodile, and a dragon. Instead of attacking him, they helped him reach the island. On the shore, Amat Mude met a lovely young woman named Putri Niwer Gading. The woman said that she was cursed to stay forever on the shore and could only be released by drinking the ivory coconut water. Amat Mude vowed to help her.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Through thorny forests and ravaging beasts, Amat Mude successfully reached the ivory coconut tree, which had many magical fruit. A modest man, Amat Mude only plucked off enough fruit to be given to Putri Niwer Gading, his mother, and Raja Mude. Back on the shore, he gave Putri Niwer Gading her share of ivory coconut. In gratitude, she declared that she would marry him. They then sailed to go back home. Safely returned, Amat Mude made his way back to his mother and presented her share of ivory coconut. His mother opened the fruit, and out came gold coins bursting from the fruit. Amat Mude’s mother used a small portion of the gold to celebrate his son’s wedding. She invited people from far and wide to a feast to share her joy.</span></p>\r\n\r\n<p>Finally, it’s time for Amat Mude to face Raja Mude. He came to the palace with his mother, his new bride, and Raja Mude’s share of the ivory coconut. Initially angered seeing the fruit and ready to fight, Raja Mude was taken aback when he realized that he could not harm Amat Mude. Raja Mude then repented for his actions and relinquished the throne back to Amat Mude. The restored queen and Amat Mude then forgave him. Soon after, Amat Mude became the rightful king of Alas.</p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "7CnAHpl0yomiQr8omKtg79Q2Kc3AsqiXkTm_DVwD0X4",
+        "soal_id": "WlilXm5Ran5OWz5I6PfeiLXasrZgum86exfawVKrnqI",
+        "sub_soal": "<p>Amat Mude successfully reached the ivory coconut tree after fighting a golden fish, a giant crocodile, and a dragon.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "twpil-A_bn6F_pyTu9fbL9pYPAcAcAd6EyR9_mH_o1g",
+        "soal_id": "WlilXm5Ran5OWz5I6PfeiLXasrZgum86exfawVKrnqI",
+        "sub_soal": "<p>The ravaging beasts on the island supported Amat Mude instead of attacking him.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "rB2gcL9a4hPrLedpP7pWi0l5-3RVdfpeNcD1LnRO66o",
+        "soal_id": "WlilXm5Ran5OWz5I6PfeiLXasrZgum86exfawVKrnqI",
+        "sub_soal": "<p>Amat Mude demonstrated courage and patience while facing challenges.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "7CnAHpl0yomiQr8omKtg79Q2Kc3AsqiXkTm_DVwD0X4": {
+        "jawaban_id": "mmPWxAy6D6IepeLGK8TYyCMUSjMpwVT88ul5fWYWeG7ZmThb9ZsRkXgj0jt7I5i0O6SAdgmuVaM8ufOCPDpRtQ",
+        "jawaban": ""
+      },
+      "twpil-A_bn6F_pyTu9fbL9pYPAcAcAd6EyR9_mH_o1g": {
+        "jawaban_id": "wg4MdhbE2QkVVpNmpWEdCDnr8VO15wYyXMsz30FlAGR4iQ2XZsSMZhk7p1AvglXPWBmFAzlmBciT33jLBbtKCQ",
+        "jawaban": ""
+      },
+      "rB2gcL9a4hPrLedpP7pWi0l5-3RVdfpeNcD1LnRO66o": {
+        "jawaban_id": "9QHAfvNvsnwEyStiXYlDZvuZKmZcxXygAc2quNXLTLJBxIo7gg-IOSdDoTGMA1y7M3EPLvxko_fKjQa5JUAgyQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+      "tipe_soal_id": "2",
+      "nomor_soal": "26",
+      "induk_soal_id": "7128",
+      "soal": "<p><b>Multiple-choice multiple-answer question. Choose more than one answer.</b></p>\r\n\r\n<p>Which of the following are TRUE according to the story?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A, C, dan E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>Jawaban yang sesuai dengan isi teks ada pada opsi A, C, dan E. Opsi B salah karena penampilan pertama adalah lokal band, bukan artis terkenal dunia. Itu ditulis pada paragraf ketiga. Opsi D juga salah, <em>“They performed all their good songs, and we sang along at the top of our lungs.”</em> kalimat pada paragraf 5 tersebut menyimpulkan bahwa penulis bersenang-bersenang.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7128",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b><span lang=\"EN-ID\" xss=removed>A Day at Music Festival</span></b></p>\r\n\r\n<p xss=removed><span xss=removed>Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\r\n\r\n<p xss=removed><span xss=removed>When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\r\n\r\n<p xss=removed><span xss=removed>As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Our favorite band&#39;s performance was one of the festival&#39;s highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\r\n\r\n<p xss=removed><span xss=removed>As the night progressed, the music festival began to wind down. We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from<span xss=removed> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>(DC%/100/SST)</span></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "BQ1xTI0EYnvJRJ8uZem_ud7rAirButFh55p3nPLXysM",
+        "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+        "sub_soal": "<p>As the crowd grew larger, the festival’s vibe became even more energetic.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "9IkT8vYmLMt0PilJpV_CHRFtRmMibn9HWG9bEwun1k4",
+        "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+        "sub_soal": "<p>The very first act they saw came from a world-renowned artist.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "hCA5yV08VR9_3yHOFgCF-odIaXpDSBSCC36d8Y0n9WE",
+        "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+        "sub_soal": "<p>The writer and companions had been looking forward to the festival for quite some time.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "UIZhzxcqULNIOMwkGWyBPn5wOm_xln8ZB87LVpTbCMA",
+        "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+        "sub_soal": "<p>The writer was unhappy because the favorite group performed too few songs.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "5sJvw4TAxG_yCSTH8RNLorsIVdk6Eyd1uegISuRs66I",
+        "soal_id": "6lAnkSMQaQlMtSw2pGAXwxVtgtsBwWzGXaSb88GgZw4",
+        "sub_soal": "<p>They bought meals from a mobile vendor during the event.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "BQ1xTI0EYnvJRJ8uZem_ud7rAirButFh55p3nPLXysM": {
+        "jawaban_id": "BW2uAN_OiaNMuZx5ORb02xWxnAlRs8KVkK6lE2BDNwtN-4pTsBGFKAiUnOXVc1F4PXG3oiStxiDIEo-z-bTjpA",
+        "jawaban": ""
+      },
+      "9IkT8vYmLMt0PilJpV_CHRFtRmMibn9HWG9bEwun1k4": {
+        "jawaban_id": "Y-5slUGrNC8LuhiDSuiI0rVosoBDzLrmx3iefUP5e-2JMNmoAm_uwKmjuGRoKzL5vsc6gZ9zFvwr-d0X6W6EcA",
+        "jawaban": ""
+      },
+      "hCA5yV08VR9_3yHOFgCF-odIaXpDSBSCC36d8Y0n9WE": {
+        "jawaban_id": "PSSMmQe9kYqD32ZXxmnQEiW4bJfEoxGCrj8OxYGP-lzPRxB_r0fXXfj-NQJJH9pt88XCnem1IjxVxtCkeB3mGw",
+        "jawaban": ""
+      },
+      "UIZhzxcqULNIOMwkGWyBPn5wOm_xln8ZB87LVpTbCMA": {
+        "jawaban_id": "vu7nM6IW8KKzQmXZGOGNHtuRQEXqdyU1TWZ7iTYPTIMUZ-Js0ZIxxTgQxgZUfGgxXcn0jJ0vks-KLRiYt4qgnQ",
+        "jawaban": ""
+      },
+      "5sJvw4TAxG_yCSTH8RNLorsIVdk6Eyd1uegISuRs66I": {
+        "jawaban_id": "zVmn1B7ZlRJ8S5vFMuF3IF8cfjGJKlpkfDwOgeKntpihrQzLHXRr88F_6BNWYKev-yqBoJQvBrSq37Z1dai2tg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+      "tipe_soal_id": "1",
+      "nomor_soal": "27",
+      "induk_soal_id": "7128",
+      "soal": "<p><b>Multiple-choice questions (27 to 29). Choose the correct answer.</b></p>\r\n\r\n<p>From the writer’s reaction at the end of the festival, what can be inferred about the importance of music in their life?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: E.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p><em>“We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.” k</em>alimat pada paragraf terakhir itu menunjukkan bahwa musik bukan sekadar hiburan biasa, tetapi menjadi bagian penting dari pengalaman berharga. Jadi, musik berperan besar dalam membentuk kenangan bermakna bagi penulis.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7128",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b><span lang=\"EN-ID\" xss=removed>A Day at Music Festival</span></b></p>\r\n\r\n<p xss=removed><span xss=removed>Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\r\n\r\n<p xss=removed><span xss=removed>When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\r\n\r\n<p xss=removed><span xss=removed>As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Our favorite band&#39;s performance was one of the festival&#39;s highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\r\n\r\n<p xss=removed><span xss=removed>As the night progressed, the music festival began to wind down. We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from<span xss=removed> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>(DC%/100/SST)</span></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "HssP-1xw4V0nOL3tads_JxX79Wo1hy-DS0chuIfJW9U",
+        "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+        "sub_soal": "<p>Music is only a casual hobby for the writer.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "wQ3COzEHKCRzlaIscdT2aHnChnQZsiUNzoDwFii0hd0",
+        "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+        "sub_soal": "<p>Music is less important than food and socializing.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "6H_S2t4ozLnu7Dd8lDTpnwP3KvpVBFAvb3JccdEIKr0",
+        "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+        "sub_soal": "<p>Music is only enjoyable when famous bands are performing.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "163pUKadzWGEOZyIVdUYvizxfilkhNbJIM3gTfC9KJs",
+        "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+        "sub_soal": "<p>Music festivals are valued mainly for their crowded atmosphere.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "msWVs2INROPs-L2YBbRpAE2rfWscHZr6B2oFh0MvLqM",
+        "soal_id": "C9uqKiHmPcOLBJ8t7q81O1iVadvm9jERWpRqXel5KcQ",
+        "sub_soal": "<p>Music plays a big role in creating meaningful memories.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "HssP-1xw4V0nOL3tads_JxX79Wo1hy-DS0chuIfJW9U": {
+        "jawaban_id": "jkb46A5t0yjLMsGY2Inz7ubXrNCOdO2gRkWg_Mjj5kcUF4PsHTqJ-K32xJbLyJJM_Qcc60vDiH1cFcWOfhFInA",
+        "jawaban": ""
+      },
+      "wQ3COzEHKCRzlaIscdT2aHnChnQZsiUNzoDwFii0hd0": {
+        "jawaban_id": "eMh2LbpCjKKNPZrQS5VYjsCEDSYwAqcFYLLHOII_DFAXcfrf96wmrVTFT2LWfQ8nxMn-srmG18jX1PziS8lWHA",
+        "jawaban": ""
+      },
+      "6H_S2t4ozLnu7Dd8lDTpnwP3KvpVBFAvb3JccdEIKr0": {
+        "jawaban_id": "IgcHqJFaWTmmLe-HitF_o6wuUbE7brf9K2t2gPf-OUIurisc86jtajeKn1-fiJw9jLMZCDE_24XMWgOcFv3f3Q",
+        "jawaban": ""
+      },
+      "163pUKadzWGEOZyIVdUYvizxfilkhNbJIM3gTfC9KJs": {
+        "jawaban_id": "nhDt7Ww9sjUzIFN-7AxOYdptMS5EWZzXesuhPVPeK8X9xWTHMWW8ZK395yaxCmvUeNTR-VFQz4o38BrEv7EUJg",
+        "jawaban": ""
+      },
+      "msWVs2INROPs-L2YBbRpAE2rfWscHZr6B2oFh0MvLqM": {
+        "jawaban_id": "4jw8TBC1ydwpWGOsv1PDEQBtiysi4DumXyRlS0ZnUmJT-plf19Bu6ibV6-TJCmGhWZ2AsKarH2nISJCjobxVdQ",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+      "tipe_soal_id": "1",
+      "nomor_soal": "28",
+      "induk_soal_id": "7128",
+      "soal": "<p>If the writer had not gone with friends, how might the experience have been different?</p>\r\n",
+      "pembahasan": "<p xss=\"removed\"><span xss=\"removed\"><b>Jawaban: B.</b></span></p>\r\n\r\n<p xss=\"removed\"><span xss=\"removed\"><b>Pembahasan:</b></span></p>\r\n\r\n<p>Dari teks, jelas terlihat bahwa kebersamaan penulis dengan teman-temannya sangat menambah keseruan festival. Maka dapat disimpulkan, tanpa teman, pengalaman itu kemungkinan besar akan kurang terasa asyik dan menyenangkan. Jadi, opsi B adalah jawaban yang tepat.</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7128",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b><span lang=\"EN-ID\" xss=removed>A Day at Music Festival</span></b></p>\r\n\r\n<p xss=removed><span xss=removed>Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\r\n\r\n<p xss=removed><span xss=removed>When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\r\n\r\n<p xss=removed><span xss=removed>As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Our favorite band&#39;s performance was one of the festival&#39;s highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\r\n\r\n<p xss=removed><span xss=removed>As the night progressed, the music festival began to wind down. We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from<span xss=removed> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>(DC%/100/SST)</span></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "ebb7kwzevHWAzgsf2O8pLeTDTphyw0v30ZpsKz063yc",
+        "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+        "sub_soal": "<p>The festival would still feel as lively and enjoyable.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "8lDXz0S9rVsoaHABgKQykxtmwnSpNmA5-ZRcfISx2jg",
+        "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+        "sub_soal": "<p>The writer might not have enjoyed the performances as much.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "NFsZJ_FWr6bEK_LakxWOZHLKTt-CzTv1pGcrPbEaqUs",
+        "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+        "sub_soal": "<p>The writer would have focused only on eating food from the trucks.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "gCYquRUmG2uv1Y06dAtDCe84lhRtmH_if2anaaphwNM",
+        "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+        "sub_soal": "<p>The writer would have left the festival much earlier.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "BYTix5CMd-gwyxSjG7KH7rhGPyt1NFEd-qz61je7GX8",
+        "soal_id": "dwFADoj_QQ4DtjejJa7kvnf-XOoRCnnd-55-Zjcq2r8",
+        "sub_soal": "<p>The writer would have met new people to replace the company of friends.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "ebb7kwzevHWAzgsf2O8pLeTDTphyw0v30ZpsKz063yc": {
+        "jawaban_id": "NDz1vw3FzoAbm4KzuHQMDZ1gzrguJjJB3N3pvyhH_-B3_1PiXgXSI30FdItiTd4NWi4GiDSoV5JFveoe-DERpg",
+        "jawaban": ""
+      },
+      "8lDXz0S9rVsoaHABgKQykxtmwnSpNmA5-ZRcfISx2jg": {
+        "jawaban_id": "Z7eMY8eHNXYA8x1TKfNvWpl8qQf7xZj94BTJGJAMUo1l8RYNiHEam9fGlgJXUWIUr9ZdnlTENbIvPt5OuZPE1A",
+        "jawaban": ""
+      },
+      "NFsZJ_FWr6bEK_LakxWOZHLKTt-CzTv1pGcrPbEaqUs": {
+        "jawaban_id": "1LJxLWvWnU_fG3k0pPLeAOJBtrpmvXMKfp-AWIEWScgiNeH9C3t2vkzyFw2i_f__x1glD0w3ZHfW4PsddLFhxA",
+        "jawaban": ""
+      },
+      "gCYquRUmG2uv1Y06dAtDCe84lhRtmH_if2anaaphwNM": {
+        "jawaban_id": "66c88fay4x_DPEgxsWUFg7Uc3Jqrjtutqg6cDgfgmvpfyjJcBKwqm2bECL14lwNOCDfnaX0P8ZjNDsXdXicrTA",
+        "jawaban": ""
+      },
+      "BYTix5CMd-gwyxSjG7KH7rhGPyt1NFEd-qz61je7GX8": {
+        "jawaban_id": "wguh-XdfNPtsoKKTR83Xfht6EMURJQKSVOdiD0U6j1nUXXCfRNteIwtHqXuiOlCQ_oN8B9e63CwV3oULSgQSFw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+      "tipe_soal_id": "1",
+      "nomor_soal": "29",
+      "induk_soal_id": "7128",
+      "soal": "<p>What did writer do with her friends in paragraph 2?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: C.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p>“A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.” penjelasan pada paragraf dua tersebut menunjukkan bahwa penulis bersama teman-temannya <strong>berkeliling untuk melihat-lihat beberapa panggung</strong> sebelum memilih tempat di dekat panggung utama. Opsi C jawaban yang paling sesuai</p>\r\n",
+      "header_pgk": "",
+      "title_1": "",
+      "title_2": ""
+    },
+    "induk_soal": {
+      "induk_id": "7128",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b><span lang=\"EN-ID\" xss=removed>A Day at Music Festival</span></b></p>\r\n\r\n<p xss=removed><span xss=removed>Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\r\n\r\n<p xss=removed><span xss=removed>When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\r\n\r\n<p xss=removed><span xss=removed>As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Our favorite band&#39;s performance was one of the festival&#39;s highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\r\n\r\n<p xss=removed><span xss=removed>As the night progressed, the music festival began to wind down. We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from<span xss=removed> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>(DC%/100/SST)</span></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "Ng6zsdAm7L-EqDbcJVN5E-UJCZCg-1uUqtxp8aFQSXk",
+        "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+        "sub_soal": "<p>They first bought meals at a food truck and ate together.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "nai9vSxjHTAQWeqmd4uPpTYy2yHkpKFvUP4MLkvrMPg",
+        "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+        "sub_soal": "<p>They joined the performers on stage to sing a song.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "hxB60EsN698lv1Y7ptw-ZD0-XIulmLtR1LXrH57MNwk",
+        "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+        "sub_soal": "<p>They wandered around to explore several stages.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "ttBE0ttu5Iy5IU3I_GISmJmchp1-00iQ8XzYbaRYFqU",
+        "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+        "sub_soal": "<p>They went straight to the main stage without looking around.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "SyGN8qOu1Yy675MHfsRvQDkJe0_2_hA6fcac4juC5wY",
+        "soal_id": "goWaHyAFmcrIW5ZK_iTJA_Pg3BcHoN6UD4VfMuN_ijw",
+        "sub_soal": "<p>They were surprised because the festival was not crowded.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "Ng6zsdAm7L-EqDbcJVN5E-UJCZCg-1uUqtxp8aFQSXk": {
+        "jawaban_id": "nRXuTu5ODIrdbvBfN3HEvJXem1gCphzG7XaWA1SUNHcOrW9vKutjyzQ2irVugcl0Gi5CIH0YgOT7l19QYz3eFQ",
+        "jawaban": ""
+      },
+      "nai9vSxjHTAQWeqmd4uPpTYy2yHkpKFvUP4MLkvrMPg": {
+        "jawaban_id": "CyDh9WE-k7qlOUAcEwCWpDHg3xSQKEaPRDDgB2YZHWMj8Ela0GNsqW5dpnEERkHm2AwK8-BLgoz4XuLVaWcLoQ",
+        "jawaban": ""
+      },
+      "hxB60EsN698lv1Y7ptw-ZD0-XIulmLtR1LXrH57MNwk": {
+        "jawaban_id": "MTJWl0gWH8wKzjM6Z4agttuZA7WaILe3_O_aT2J_nXoRMr0TDI6Tn4dkxwzf-AZHs1dBAsOpxTBUw6q_spjf7w",
+        "jawaban": ""
+      },
+      "ttBE0ttu5Iy5IU3I_GISmJmchp1-00iQ8XzYbaRYFqU": {
+        "jawaban_id": "jEMM7LE13EgYICev8qrBXLiHKqDKdJCs7dl3P7k903-AitomoQOiYKSh0FzEPRCTaAl9ojTaTpIGe4n8Ros7Hw",
+        "jawaban": ""
+      },
+      "SyGN8qOu1Yy675MHfsRvQDkJe0_2_hA6fcac4juC5wY": {
+        "jawaban_id": "mXRnSIaegbUWFqkiOpPbEg_GpIxpyKsfD9oqNQdVG3RIn9GYBEE-xDDJkSzQ1gSGSDSk-F2_5iBRILXdGHohPw",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  },
+  {
+    "soal": {
+      "soal_id": "3mGi9Pg7zXBVRMfq2Me9iw1myTESERstHlHeklAx7u0",
+      "tipe_soal_id": "5",
+      "nomor_soal": "30",
+      "induk_soal_id": "7128",
+      "soal": "<p><b>Multiple-categorization question. Categorize each other statement by ticking (P) the correct column.</b></p>\r\n\r\n<p>Which of the following statements are <b>True</b> or <b>False</b>?</p>\r\n",
+      "pembahasan": "<p xss=removed><span xss=removed><b>Jawaban: A. False. B. True. C. False.</b></span></p>\r\n\r\n<p xss=removed><span xss=removed><b>Pembahasan:</b></span></p>\r\n\r\n<p xss=removed><span xss=removed>Pernyataan A salah karena penulis paling menikmati band favoritnya, bukan musisi yang tidak dikenal. Itu ditunjukkan pada paragraf 5.</span></p>\r\n\r\n<p xss=removed><span xss=removed>“<i>We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</i>” penjelasan pada paragraf 4 tersebut menunjukkan bahwa pernyataan B benar.</span></p>\r\n\r\n<p>Pernyataan C salah karena penulis dan teman-temannya berkeliling dulu, tidak langsung diam di panggung pertama. Itu ditunjukkan pada paragraf kedua.</p>\r\n",
+      "header_pgk": "Statement",
+      "title_1": "True",
+      "title_2": "False"
+    },
+    "induk_soal": {
+      "induk_id": "7128",
+      "soal": "<p><b>Questions numbers 26 to 30 refer to the following text.</b></p>\r\n\r\n<p align=\"center\" xss=removed><b><span lang=\"EN-ID\" xss=removed>A Day at Music Festival</span></b></p>\r\n\r\n<p xss=removed><span xss=removed>Two weeks ago, I enjoyed a music festival with some of my friends. We had been anticipating the event for months, and we were really excited to watch our favorite singers perform live. </span></p>\r\n\r\n<p xss=removed><span xss=removed>When we got at the festival, we were met by an immense crowd of people. A lot of stages put up, with each featuring a different performer. We strolled around, checking out the various stages before settling on a location near the main stage.</span></p>\r\n\r\n<p xss=removed><span xss=removed>The first performance was a local band, and they were fantastic. We danced and sang along with their song. After their performance, we grabbed some dinner from a food truck and continued to enjoy the festival. </span></p>\r\n\r\n<p xss=removed><span xss=removed>As the day progressed, more people arrived, and the atmosphere became even more lively. We watched some incredible performances by famous musicians and even heard some new music that we enjoyed.</span></p>\r\n\r\n<p xss=removed><span xss=removed>Our favorite band&#39;s performance was one of the festival&#39;s highlights. We had waited months for this moment, and it was worth the wait. They performed all their good songs, and we sang along at the top of our lungs.</span></p>\r\n\r\n<p xss=removed><span xss=removed>As the night progressed, the music festival began to wind down. We were exhausted but delighted. We&#39;d spent the day listening to excellent music, eating delicious food, and hanging out with our friends. It was an incredible experience that we will always remember.</span></p>\r\n\r\n<p align=\"right\" xss=removed>(Adapted from<span xss=removed> www.detik.com/edu/detikpedia/d-6684414/7-contoh-recount-text-singkat-bahasa-inggris-dengan-terjemahannya)</span></p>\r\n\r\n<p><span lang=\"EN-ID\" xss=removed>(DC%/100/SST)</span></p>\r\n"
+    },
+    "sub_soal": [
+      {
+        "sub_soal_id": "SucUTXpXnpevbOi6dpO3ea4rMhZ3yW7yMYJV6Y82Bs4",
+        "soal_id": "3mGi9Pg7zXBVRMfq2Me9iw1myTESERstHlHeklAx7u0",
+        "sub_soal": "<p>The writer preferred the unknown musicians more than their favorite band.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "4P5EicPvBl5lGSl9I7efMUaibOfLDGaonbAmPsSmBm0",
+        "soal_id": "3mGi9Pg7zXBVRMfq2Me9iw1myTESERstHlHeklAx7u0",
+        "sub_soal": "<p>The writer discovered and enjoyed some new songs during the event.</p>\r\n"
+      },
+      {
+        "sub_soal_id": "tzsqZMrQqT0HOYu8x_YCXDcNsQvD_6OGG9WLCy00qBs",
+        "soal_id": "3mGi9Pg7zXBVRMfq2Me9iw1myTESERstHlHeklAx7u0",
+        "sub_soal": "<p>The writer and friends immediately stayed at the first stage they saw without moving around.</p>\r\n"
+      }
+    ],
+    "jawaban": {
+      "SucUTXpXnpevbOi6dpO3ea4rMhZ3yW7yMYJV6Y82Bs4": {
+        "jawaban_id": "kiNo_2DMu7fMrIIELbN3XrBMJlK_KaUPdOUOl53NEJK2DoIcn_TovJ2JbpOqKufEuTZiMigv5D_HzPGQg0QAxg",
+        "jawaban": ""
+      },
+      "4P5EicPvBl5lGSl9I7efMUaibOfLDGaonbAmPsSmBm0": {
+        "jawaban_id": "xzEpNFMz93L4vd3elc2QMC1tWovaycuVOC-GrypW1jFnkySl4S-XUOkaMiedNETk6oOnDyrYtzdjb05pEeK1Fg",
+        "jawaban": ""
+      },
+      "tzsqZMrQqT0HOYu8x_YCXDcNsQvD_6OGG9WLCy00qBs": {
+        "jawaban_id": "T9oFY4L7Oum5lVpG6qPnreyhHFTlgC9tx20zNj4FUuVZrnilfzD4lfimCcc69O2iAzbhVFvc5-zMexaZu_7JPg",
+        "jawaban": ""
+      }
+    },
+    "status_jawaban": "0"
+  }
+]

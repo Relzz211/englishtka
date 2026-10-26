@@ -1,0 +1,24 @@
+{
+  "totalModules": 18,
+  "totalPackages": 3,
+  "totalWords": 4014,
+  "totalVocabulary": 89,
+  "genresCount": 18,
+  "packages": [
+    {
+      "package": "Paket 1",
+      "moduleCount": 6,
+      "qRange": "Soal 1 - 30"
+    },
+    {
+      "package": "Paket 2",
+      "moduleCount": 6,
+      "qRange": "Soal 1 - 30"
+    },
+    {
+      "package": "Paket 3",
+      "moduleCount": 6,
+      "qRange": "Soal 1 - 30"
+    }
+  ]
+}

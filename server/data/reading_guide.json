@@ -1,0 +1,60 @@
+{
+  "title": "Panduan Komprehensif Menguasai Soal Bacaan TKA Bahasa Inggris",
+  "subtitle": "Strategi Jitu, Bedah Pola Soal, dan Trik Pemahaman Bacaan Akademik Tanpa Terjebak",
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "titleEn": "Skimming & Scanning Mastery for TKA Passages",
+      "titleId": "Keahlian Skimming & Scanning untuk Membaca Cepat Teks TKA",
+      "icon": "⚡",
+      "summary": "Teknik membaca cepat untuk menemukan ide pokok dalam 30 detik (Skimming) dan melacak data spesifik seperti angka, tahun, atau nama orang (Scanning) tanpa harus membaca kata per kata.",
+      "content": "\n### 1. Apa Perbedaan Skimming dan Scanning?\n* **Skimming (Membaca Cepat untuk Ide Utama):**\n  Tujuan skimming adalah mendapatkan *gambaran umum* (gist) dari teks dalam waktu singkat.\n  - Baca judul dan subjudul teks.\n  - Baca kalimat pertama dan kalimat terakhir pada setiap paragraf (karena 80% ide pokok berada di sana).\n  - Abaikan detail kecil, contoh, atau angka saat skimming pertama.\n  - Waktu ideal: 30–45 detik per teks.\n\n* **Scanning (Melacak Informasi Spesifik):**\n  Tujuan scanning adalah menemukan *jawaban atas pertanyaan spesifik*, seperti angka tahun, nama lembaga, persentase, atau kata kunci tertentu.\n  - Tandai kata kunci pada soal (misalnya: *30 grams*, *PISA 2022*, *Bandung Techno Park*).\n  - Gerakkan pandangan mata secara vertikal/zig-zag melintasi teks untuk menemukan kata kunci tersebut.\n  - Ketika kata kunci ditemukan, baca 1 kalimat sebelum dan 1 kalimat sesudahnya secara cermat.\n\n> [!TIP]\n> **Trik TKA:** Jangan pernah membaca teks secara lambat dari awal sampai akhir sebelum membaca pertanyaan! Baca soal terlebih dahulu untuk menentukan apakah butuh skimming atau scanning.\n            "
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "titleEn": "Identifying Main Ideas & Topic Sentences",
+      "titleId": "Menemukan Ide Pokok & Kalimat Topik Setiap Paragraf",
+      "icon": "🎯",
+      "summary": "Cara jitu mengidentifikasi gagasan utama teks, membedakan topik dengan ide penjelas, serta mengenali letak topic sentence (deduktif di awal vs induktif di akhir).",
+      "content": "\n### 1. Letak Topic Sentence dalam Teks TKA\nSebagian besar teks ujian TKA (akademik/ilmiah) mengikuti struktur deduktif:\n* **Paragraf Pembuka (Deduktif):** Ide utama terletak di kalimat ke-1 atau ke-2.\n  *Contoh pada Modul 3:* *\"Your diet must contain some fat, but you must be careful about the kind and quantity of fat you consume.\"* -> Kalimat ini adalah ide pokok paragraf.\n* **Paragraf Penutup (Induktif/Kesimpulan):** Ide utama berada di akhir paragraf yang diawali kata transisi seperti *Therefore, Thus, In conclusion, As a result*.\n\n### 2. Jebakan Pilihan Jawaban pada Soal 'Main Idea':\n1. **Terlalu Sempit (Too Specific):** Hanya memuat detail kecil dari satu kalimat, bukan keseluruhan teks.\n2. **Terlalu Luas (Too General):** Terlalu abstrak dan melampaui cakupan teks yang diberikan.\n3. **Salah Informasi (Inaccurate/Contradictory):** Memutarbalikkan fakta teks.\n4. **Ide Pokok Sejati (Correct Main Idea):** Memayungi seluruh paragraf dan relevan dengan tujuan penulisan teks.\n            "
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "titleEn": "Decoding Unknown Words using Context Clues",
+      "titleId": "Menafsirkan Arti Kata Asing Menggunakan Petunjuk Konteks (Context Clues)",
+      "icon": "🔍",
+      "summary": "Strategi memecahkan arti kosakata sulit dalam teks bahasa Inggris tanpa kamus dengan menganalisis definisi langsung, sinonim, antonim, dan contoh di sekitarnya.",
+      "content": "\n### 4 Jenis Petunjuk Konteks (Context Clues) di TKA:\n1. **Definisi atau Penjelasan Langsung (Definition / Restatement Clue):**\n   Penulis langsung mendefinisikan istilah tersebut menggunakan tanda koma, tanda pisah (—), atau kata *which means*.\n   *Contoh:* *\"Free-range chicken—which is required in the recipe—is chicken allowed to roam freely...\"*\n2. **Petunjuk Sinonim (Synonym / Comparison Clue):**\n   Kata sulit dipasangkan dengan kata yang lebih umum menggunakan kata hubung *and, or, also called*.\n   *Contoh pada Modul 5:* *\"This plant is also called Paper Flower because its flowers are as smooth and thin as paper.\"*\n3. **Petunjuk Lawan Kata / Kontras (Antonym / Contrast Clue):**\n   Arti kata dapat ditebak melalui kebalikan maknanya dengan kata sinyal: *however, although, whereas, unlike, but*.\n   *Contoh pada Modul 7:* *\"The tranquil seashore... unlike rowdy and noisy tourist spots.\"* -> *Tranquil* berarti tenang/damai.\n4. **Petunjuk Contoh (Example Clue):**\n   Penulis memberikan contoh konkret melalui kata *such as, for example, including*.\n   *Contoh pada Modul 3:* *\"...unsaturated fat, such as oily fish, avocados, and olive oil.\"*\n            "
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "titleEn": "Distinguishing Fact vs. Opinion in TKA Questions",
+      "titleId": "Membedakan Pernyataan Fakta dan Opini dalam Soal TKA",
+      "icon": "⚖️",
+      "summary": "Panduan menjawab soal tipe kategorisasi (Categorization Questions) yang menguji kemampuan siswa membedakan fakta objektif terbukti dengan opini subjektif.",
+      "content": "\n### Ciri Khas Fakta (Fact) vs Opini (Opinion):\n* **Fakta (Fact):**\n  - Dapat dibuktikan kebenarannya secara objektif melalui data riil, dokumen, atau peristiwa sejarah.\n  - Memuat tanggal, angka terukur, nama tempat, nomor surat dinas, hasil riset, atau observasi konkret.\n  - Menggunakan kata kerja netral: *occurred, established, delivered (PO-2025-1189), measured, contains 50 hectares*.\n  *Contoh TKA:* *\"Bandung Techno Park occupies about 50 hectares of land.\"* (Fakta terverifikasi).\n\n* **Opini (Opinion):**\n  - Mengungkapkan perasaan, keyakinan moral, prediksi masa depan, atau penilaian subjektif seseorang/manajemen.\n  - Memuat kata sinyal opini: *I think, we believe, it seems, should, might, arguably, best, essential*.\n  *Contoh TKA:* *\"We believe that small, conscious actions create a substantial collective impact.\"* (Opini karena diawali 'We believe').\n            "
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "titleEn": "Interpreting Tables, Charts & Visual Data",
+      "titleId": "Membaca dan Menginterpretasikan Tabel & Diagram dalam Soal TKA",
+      "icon": "📊",
+      "summary": "Metode praktis membaca soal gabungan teks + infografis: menganalisis judul tabel/grafik, sumbu X dan Y, persentase dominan, serta korelasi data visual dengan isi paragraf.",
+      "content": "\n### Langkah Sistematis Membaca Infografis & Tabel:\n1. **Baca Judul dan Satuan Data Terlebih Dahulu:**\n   Pastikan memahami apakah angka berupa gram (Modul 3), persentase (%) (Modul 16), atau jumlah orang.\n2. **Cari Angka Tertinggi (Peak) dan Terendah (Lowest):**\n   Soal TKA hampir selalu menanyakan proporsi terbesar (*the largest proportion*) atau nilai batas aman maksimal (*maximum limit*).\n3. **Perhatikan Perbandingan Antarkelompok (Demographic Comparison):**\n   Contoh: Bandingkan batasan lemak pria dewasa (30g) vs wanita dewasa (20g) vs anak di bawah 5 tahun (tidak boleh diet rendah lemak).\n4. **Cocokkan Bukti Visual dengan Opsi Pilihan:**\n   Jangan berasumsi tanpa mencocokkan garis batang atau baris tabel secara teliti.\n            "
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "titleEn": "Analyzing Tone, Attitude & Author's Purpose",
+      "titleId": "Menganalisis Nada Teks (Tone), Sikap (Attitude), dan Tujuan Penulis",
+      "icon": "🧠",
+      "summary": "Teknik menentukan maksud komunikatif teks (to inform, to persuade, to instruct, to recount) dan mengidentifikasi nada emosional penulis (objective, encouraging, critical, appreciative).",
+      "content": "\n### Kata Kunci Menentukan 'Author's Purpose':\n* **To Inform / To Describe:** Menjelaskan fenomena ilmiah atau tempat wisata secara objektif (Contoh: *Bougainvillea report, Sanur Beach*).\n* **To Persuade / To Convince:** Mengajak pembaca bertindak atau meyakinkan perekrut (Contoh: *Surat Lamaran Kerja, Memo Hemat Kertas*).\n* **To Instruct / To Guide:** Memberikan petunjuk bertahap (Contoh: *Resep Orak-Arik Telur, Panduan Menanam Kacang Hijau*).\n* **To Entertain / To Impart Moral Values:** Menghibur dan menyampaikan pesan moral (Contoh: *Legenda Cenderawasih, Kisah Amat Mude*).\n* **To Share Personal Reflection:** Menceritakan pengalaman masa lalu dan dampaknya pada diri penulis (Contoh: *Magang Rumah Sakit, Liburan Gunung Bromo*).\n            "
+    }
+  ]
+}
